@@ -1,7 +1,7 @@
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Documentation status: stub
 Data source: manual
-Data available since: UD v2.1
+Data available since: UD v2.2
 License: CC BY-SA 3.0
 Genre: news wiki
 Contributors: Uszkoreit, Hans; Macketanz, Vivien; Burchardt, Aljoscha; Harris, Kim; Marheinecke, Katrin; Petrov, Slav; Kayadelen, Tolga; Attia, Mohammed; Elkahky, Ali; Yu, Zhuoran; Pitler, Emily; Lertpradit, Saran; Nitisaroj, Rattima; Sawanakunanon, Yanin; Popel, Martin; Zeman, Daniel
