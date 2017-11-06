@@ -98,7 +98,7 @@ Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
 
 
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.1
+Data available since: UD v2.2
 License: CC BY-SA 3.0
 Includes text: yes
 Genre: news wiki
@@ -108,6 +108,6 @@ XPOS: not available
 Features: converted from manual
 Relations: converted from manual
 Contributors: Uszkoreit, Hans; Macketanz, Vivien; Burchardt, Aljoscha; Harris, Kim; Marheinecke, Katrin; Petrov, Slav; Kayadelen, Tolga; Attia, Mohammed; Elkahky, Ali; Yu, Zhuoran; Pitler, Emily; Lertpradit, Saran; Nitisaroj, Rattima; Sawanakunanon, Yanin; Popel, Martin; Zeman, Daniel
-Contributing: here
+Contributing: to be adopted
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
