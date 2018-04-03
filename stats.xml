@@ -11,13 +11,12 @@
   <forms unique="3721" /><!-- ที่, ใน, การ, ของ, และ, เป็น, ได้, มี, ว่า, จะ, ความ, จาก, กับ, ไม่, เขา -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="16">
+  <tags unique="15">
     <tag name="ADJ">969</tag><!-- _ -->
     <tag name="ADP">3134</tag><!-- _ -->
     <tag name="ADV">951</tag><!-- _ -->
     <tag name="AFFIX">954</tag><!-- _ -->
-    <tag name="CCONJ">588</tag><!-- _ -->
-    <tag name="CONJ">4</tag><!-- _ -->
+    <tag name="CCONJ">592</tag><!-- _ -->
     <tag name="DET">1040</tag><!-- _ -->
     <tag name="NOUN">5522</tag><!-- _ -->
     <tag name="NUM">581</tag><!-- _ -->

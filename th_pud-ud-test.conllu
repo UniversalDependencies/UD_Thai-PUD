@@ -2760,7 +2760,7 @@
 15	แรก	_	ADJ	JJ	_	14	amod	_	th/proper=false
 16	นับ	_	VERB	VV	_	6	vmod	_	th/proper=false
 17	ตั้ง	_	VERB	VV	_	16	prep	_	th/proper=false
-18	แต่	_	CONJ	CC	_	17	mwe	_	th/proper=false
+18	แต่	_	CCONJ	CC	_	17	mwe	_	th/proper=false
 19	ครั้ง	_	NOUN	NNB	_	17	pobj	_	th/proper=false
 20	การ	_	AFFIX	PFN	_	21	pref	_	th/proper=false
 21	ประชุม	_	VERB	VV	_	19	nn	_	th/proper=false
@@ -5650,7 +5650,7 @@
 10	ๆ	_	X	SYM	_	9	p	_	th/proper=false
 11	แล้ว	_	ADV	RB	_	9	advmod	_	th/proper=false
 12	แม้	_	ADP	IN	_	19	prep	_	th/proper=false
-13	แต่	_	CONJ	CC	_	12	mwe	_	th/proper=false
+13	แต่	_	CCONJ	CC	_	12	mwe	_	th/proper=false
 14	เมฆ	_	NOUN	NN	_	12	pobj	_	th/proper=false
 15	ฝน	_	NOUN	NN	_	14	nn	_	th/proper=false
 16	กรด	_	NOUN	NN	_	14	nn	_	th/proper=false
@@ -7455,7 +7455,7 @@
 19	ปี	_	NOUN	NN	_	17	pobj	_	th/proper=false
 20	2050	_	NUM	CD	_	19	appos	_	th/proper=false
 21	เว้น	_	VERB	VV	_	27	mark	_	th/proper=false
-22	แต่	_	CONJ	CC	_	21	mwe	_	th/proper=false
+22	แต่	_	CCONJ	CC	_	21	mwe	_	th/proper=false
 23	ว่า	_	ADP	IN	_	21	mwe	_	th/proper=false
 24	สังคม	_	NOUN	NN	_	27	nsubj	_	th/proper=false
 25	โลก	_	NOUN	NN	_	24	nn	_	th/proper=false
@@ -14083,7 +14083,7 @@
 8	ป้องกัน	_	VERB	VV	_	6	dobj	_	th/proper=false
 9	ระหว่าง	_	ADP	IN	_	8	prep	_	th/proper=false
 10	อียิปต์	_	PROPN	NNP	_	9	pobj	_	th/proper=true
-11	กับ	_	CONJ	CC	_	10	conj	_	th/proper=false
+11	กับ	_	CCONJ	CC	_	10	conj	_	th/proper=false
 12	เอเชีย	_	PROPN	NNP	_	10	cc	_	th/proper=true
 13	โดย	_	ADP	IN	_	14	mark	_	th/proper=false
 14	สร้าง	_	VERB	VV	_	6	advcl	_	th/proper=false
