@@ -97,6 +97,7 @@ Fernando Pereira, Hans Uszkoreit, Aljoscha Burchardt, Vivien Macketanz,
 Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
 
 
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.2
 License: CC BY-SA 3.0
@@ -111,3 +112,4 @@ Contributors: Uszkoreit, Hans; Macketanz, Vivien; Burchardt, Aljoscha; Harris, K
 Contributing: to be adopted
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
+</pre>
