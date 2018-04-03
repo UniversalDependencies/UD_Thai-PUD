@@ -5,7 +5,7 @@
 2	แม้	_	ADP	IN	_	10	mark	_	SpaceAfter=No|th/proper=false
 3	ว่า	_	ADP	IN	_	2	fixed	_	SpaceAfter=No|th/proper=false
 4	การเปลี่ยน	_	VERB	VV	_	10	csubj	_	SpaceAfter=No|th/proper=false
-5	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	ใช้	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No|th/proper=false
 7	ระบบ	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|th/proper=false
 8	ดิจิตัล	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No|th/proper=false
@@ -60,7 +60,7 @@
 11	นี้	_	DET	DT	_	10	det	_	SpaceAfter=No|th/proper=false
 12	จะ	_	VERB	MD	_	13	aux	_	SpaceAfter=No|th/proper=false
 13	แตกต่าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-14	ไป	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
+14	ไป	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
 15	เล็กน้อย	_	ADV	RB	_	13	advmod	_	th/proper=false
 
 # sent_id = n01002017
@@ -77,7 +77,7 @@
 9	กับ	_	ADP	IN	_	8	fixed	_	SpaceAfter=No|th/proper=false
 10	การลด	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No|th/proper=false
 11	การอพยพ	_	VERB	VV	_	10	obj	_	SpaceAfter=No|th/proper=false
-12	เข้า	_	PART	RP	_	11	dep:prt	_	th/proper=false
+12	เข้า	_	PART	RP	_	11	compound:prt	_	th/proper=false
 13	ตัว	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|th/proper=false
 14	แทน	_	VERB	VV	_	13	acl	_	SpaceAfter=No|th/proper=false
 15	จีโอพี	_	PROPN	NNP	_	13	compound	_	SpaceAfter=No|th/proper=true
@@ -267,7 +267,7 @@
 17	เอช	_	PROPN	NNP	_	16	compound	_	th/proper=true
 18	ซึ่ง	_	DET	WDT	_	19	nsubj	_	SpaceAfter=No|th/proper=false
 19	ห่าง	_	ADJ	JJ	_	9	acl:relcl	_	SpaceAfter=No|th/proper=false
-20	ไป	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No|th/proper=false
+20	ไป	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No|th/proper=false
 21	ไม่	_	PART	NEG	Polarity=Neg	22	advmod	_	SpaceAfter=No|th/proper=false
 22	กี่	_	ADJ	JJ	_	23	amod	_	SpaceAfter=No|th/proper=false
 23	ช่วง	_	NOUN	NN	_	19	advmod	_	SpaceAfter=No|th/proper=false
@@ -284,7 +284,7 @@
 6	อาจ	_	VERB	MD	_	7	aux	_	SpaceAfter=No|th/proper=false
 7	ล้า	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 8	สมัย	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No|th/proper=false
-9	ไป	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+9	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 10	หน่อย	_	ADV	RB	_	7	advmod	_	th/proper=false
 
 # sent_id = n01004009
@@ -456,7 +456,7 @@
 3	เพิ่ม	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 4	อย่างคง	_	VERB	VV	_	3	advmod	_	SpaceAfter=No|th/proper=false
 5	ที่	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|th/proper=false
-6	มา	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+6	มา	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 7	เรื่อย	_	ADV	RB	_	3	advmod	_	SpaceAfter=No|th/proper=false
 8	ๆ	_	SYM	SYM	_	7	dep	_	SpaceAfter=No|th/proper=false
 9	หลาย	_	DET	DT	_	10	det	_	SpaceAfter=No|th/proper=false
@@ -492,7 +492,7 @@
 39	ว่า	_	ADP	IN	_	41	mark	_	SpaceAfter=No|th/proper=false
 40	จะ	_	VERB	MD	_	41	aux	_	SpaceAfter=No|th/proper=false
 41	เพิ่ม	_	VERB	VV	_	38	ccomp	_	SpaceAfter=No|th/proper=false
-42	ขึ้น	_	PART	RP	_	41	dep:prt	_	SpaceAfter=No|th/proper=false
+42	ขึ้น	_	PART	RP	_	41	compound:prt	_	SpaceAfter=No|th/proper=false
 43	อีก	_	ADV	RB	_	41	advmod	_	SpaceAfter=No|th/proper=false
 44	ใน	_	ADP	IN	_	45	case	_	SpaceAfter=No|th/proper=false
 45	ปี	_	NOUN	NN	_	41	obl	_	SpaceAfter=No|th/proper=false
@@ -539,7 +539,7 @@
 17	รวม	_	VERB	VV	_	19	cc	_	SpaceAfter=No|th/proper=false
 18	ถึง	_	ADP	IN	_	17	fixed	_	SpaceAfter=No|th/proper=false
 19	สุกร	_	NOUN	NN	_	13	conj	_	SpaceAfter=No|th/proper=false
-20	มา	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+20	มา	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 21	อยู่	_	VERB	VV	_	12	acl	_	SpaceAfter=No|th/proper=false
 22	ใน	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
 23	สวน	_	NOUN	NN	_	21	obl	_	SpaceAfter=No|th/proper=false
@@ -602,7 +602,7 @@
 10	หน้า	_	NOUN	NN	_	9	obj	_	SpaceAfter=No|th/proper=false
 11	ของ	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	เขา	_	PRON	PRP	Person=3	10	nmod:poss	_	SpaceAfter=No|th/proper=false
-13	เข้า	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+13	เข้า	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 14	กับ	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	ที่	_	NOUN	NN	_	9	obl	_	SpaceAfter=No|th/proper=false
 16	นอน	_	VERB	VV	_	15	acl	_	SpaceAfter=No|th/proper=false
@@ -643,7 +643,7 @@
 7	ต้อง	_	VERB	MD	_	9	aux	_	SpaceAfter=No|th/proper=false
 8	ถูก	_	VERB	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No|th/proper=false
 9	ส่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	ไป	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ไป	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	เข้า	_	VERB	VV	_	9	acl	_	SpaceAfter=No|th/proper=false
 12	คุก	_	NOUN	NN	_	11	obj	_	SpaceAfter=No|th/proper=false
 13	อยู่ดี	_	ADV	RB	_	9	advmod	_	th/proper=false
@@ -715,7 +715,7 @@
 13	ช่วย	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No|th/proper=false
 14	ให้	_	VERB	VV	_	13	acl	_	SpaceAfter=No|th/proper=false
 15	ได้	_	VERB	VV	_	14	xcomp	_	SpaceAfter=No|th/proper=false
-16	มา	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+16	มา	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 17	ซึ่ง	_	ADP	IN	_	18	case	_	SpaceAfter=No|th/proper=false
 18	การลง	_	VERB	VV	_	15	xcomp	_	SpaceAfter=No|th/proper=false
 19	ทุน	_	NOUN	NN	_	18	obj	_	SpaceAfter=No|th/proper=false
@@ -755,7 +755,7 @@
 17	ไคลด์	_	PROPN	NNP	_	16	flat:name	_	SpaceAfter=No|th/proper=true
 18	นั้น	_	DET	DT	_	1	det	_	SpaceAfter=No|th/proper=false
 19	ทำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-20	ขึ้น	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No|th/proper=false
+20	ขึ้น	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No|th/proper=false
 21	ก่อน	_	ADP	IN	_	22	case	_	SpaceAfter=No|th/proper=false
 22	การทำ	_	VERB	VV	_	19	xcomp	_	SpaceAfter=No|th/proper=false
 23	ประชามติ	_	NOUN	NN	_	22	obj	_	SpaceAfter=No|th/proper=false
@@ -1346,7 +1346,7 @@
 1	เรา	_	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|th/proper=false
 2	กำลัง	_	PART	AS	Aspect=Prog	3	aux	_	SpaceAfter=No|th/proper=false
 3	เดิน	_	VERB	VV	_	42	ccomp	_	SpaceAfter=No|th/proper=false
-4	มา	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	มา	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	ถูก	_	VERB	VV	_	3	acl	_	SpaceAfter=No|th/proper=false
 6	ทาง	_	NOUN	NN	_	5	advmod	_	SpaceAfter=No|th/proper=false
 7	:	_	PUNCT	:	_	11	punct	_	th/proper=false
@@ -1395,7 +1395,7 @@
 4	ส่วน	_	NOUN	NN	_	1	obl	_	SpaceAfter=No|th/proper=false
 5	นี้	_	DET	DT	_	4	det	_	SpaceAfter=No|th/proper=false
 6	เพิ่ม	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-7	ขึ้น	_	PART	RP	_	6	dep:prt	_	th/proper=false
+7	ขึ้น	_	PART	RP	_	6	compound:prt	_	th/proper=false
 8	6	_	NUM	CD	_	9	nummod	_	SpaceAfter=No|th/proper=false
 9	%	_	SYM	SYM	_	6	advmod	_	th/proper=false
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
@@ -1473,7 +1473,7 @@
 18	โลก	_	NOUN	NN	_	17	obj	_	SpaceAfter=No|th/proper=false
 19	และ	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No|th/proper=false
 20	นำ	_	VERB	VV	_	17	conj	_	SpaceAfter=No|th/proper=false
-21	ไป	_	PART	RP	_	20	dep:prt	_	SpaceAfter=No|th/proper=false
+21	ไป	_	PART	RP	_	20	compound:prt	_	SpaceAfter=No|th/proper=false
 22	สู่	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
 23	การสูญ	_	VERB	VV	_	20	xcomp	_	SpaceAfter=No|th/proper=false
 24	พันธุ์	_	NOUN	NN	_	23	obj	_	SpaceAfter=No|th/proper=false
@@ -1570,20 +1570,20 @@
 6	ข้อ	_	NOUN	NN	_	5	obj	_	SpaceAfter=No|th/proper=false
 7	สนับสนุน	_	VERB	VV	_	6	acl	_	SpaceAfter=No|th/proper=false
 8	เพิ่ม	_	VERB	VV	_	5	xcomp	_	SpaceAfter=No|th/proper=false
-9	ขึ้น	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+9	ขึ้น	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 10	ว่า	_	ADP	IN	_	21	mark	_	SpaceAfter=No|th/proper=false
 11	เมล็ด	_	NOUN	NN	_	21	obj	_	SpaceAfter=No|th/proper=false
 12	พันธุ์	_	NOUN	NN	_	11	compound	_	SpaceAfter=No|th/proper=false
 13	ที่	_	DET	WDT	_	14	nsubj	_	SpaceAfter=No|th/proper=false
 14	ขึ้น	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|th/proper=false
-15	ไป	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
+15	ไป	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
 16	กับ	_	ADP	IN	_	17	case	_	SpaceAfter=No|th/proper=false
 17	จรวด	_	NOUN	NN	_	14	obl	_	SpaceAfter=No|th/proper=false
 18	นั้น	_	DET	DT	_	17	det	_	SpaceAfter=No|th/proper=false
 19	นั้น	_	DET	DT	_	18	conj	_	SpaceAfter=No|th/proper=false
 20	สามารถ	_	VERB	MD	_	21	aux	_	SpaceAfter=No|th/proper=false
 21	ส่ง	_	VERB	VV	_	5	ccomp	_	SpaceAfter=No|th/proper=false
-22	ไป	_	PART	RP	_	21	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ไป	_	PART	RP	_	21	compound:prt	_	SpaceAfter=No|th/proper=false
 23	และ	_	CCONJ	CC	_	24	cc	_	SpaceAfter=No|th/proper=false
 24	เก็บ	_	VERB	VV	_	21	conj	_	SpaceAfter=No|th/proper=false
 25	ไว้	_	ADV	RB	_	24	advmod	_	SpaceAfter=No|th/proper=false
@@ -1623,7 +1623,7 @@
 3	ความคิดเห็น	_	VERB	VV	_	2	obj	_	SpaceAfter=No|th/proper=false
 4	ที่	_	DET	WDT	_	5	obj	_	SpaceAfter=No|th/proper=false
 5	ส่ง	_	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|th/proper=false
-6	มา	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+6	มา	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 7	จาก	_	ADP	IN	_	8	case	_	SpaceAfter=No|th/proper=false
 8	นัก	_	NOUN	NN	_	5	obl	_	SpaceAfter=No|th/proper=false
 9	เรียน	_	VERB	VV	_	8	acl	_	SpaceAfter=No|th/proper=false
@@ -1680,7 +1680,7 @@
 15	กำจัด	_	VERB	VV	_	10	advcl	_	SpaceAfter=No|th/proper=false
 16	เกล็ด	_	NOUN	NN	_	15	obj	_	SpaceAfter=No|th/proper=false
 17	ผม	_	NOUN	NN	_	16	compound	_	SpaceAfter=No|th/proper=false
-18	ออก	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+18	ออก	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 19	ทั้งหมด	_	ADV	RB	_	15	advmod	_	th/proper=false
 20	ทาร์โล	_	PROPN	NNP	_	21	nsubj	_	SpaceAfter=No|th/proper=true
 21	อธิบาย	_	VERB	VV	_	0	root	_	th/proper=false
@@ -1905,7 +1905,7 @@
 15	รัสเซีย	_	PROPN	NNP	_	10	nmod:poss	_	th/proper=true
 16	ได้	_	PART	AS	Aspect=Perf	17	aux	_	SpaceAfter=No|th/proper=false
 17	เดินทาง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-18	ไป	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+18	ไป	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 19	รัสเซีย	_	PROPN	NNP	_	17	obj	_	SpaceAfter=No|th/proper=true
 20	หลาย	_	DET	DT	_	21	det	_	SpaceAfter=No|th/proper=false
 21	ครั้ง	_	NOUN	NNB	_	17	advmod	_	SpaceAfter=No|th/proper=false
@@ -1916,7 +1916,7 @@
 26	ปี	_	NOUN	NNB	_	23	obl:tmod	_	SpaceAfter=No|th/proper=false
 27	ที่	_	DET	WDT	_	28	obl:tmod	_	SpaceAfter=No|th/proper=false
 28	ผ่าน	_	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No|th/proper=false
-29	มา	_	PART	RP	_	28	dep:prt	_	SpaceAfter=No|th/proper=false
+29	มา	_	PART	RP	_	28	compound:prt	_	SpaceAfter=No|th/proper=false
 30	นี้	_	DET	DT	_	23	det	_	th/proper=false
 31	และ	_	CCONJ	CC	_	33	cc	_	SpaceAfter=No|th/proper=false
 32	ได้	_	PART	AS	Aspect=Perf	33	aux	_	SpaceAfter=No|th/proper=false
@@ -2043,7 +2043,7 @@
 25	เขต	_	NOUN	NN	_	24	compound	_	SpaceAfter=No|th/proper=false
 26	”	_	PUNCT	''	_	15	punct	_	th/proper=false
 27	เข้า	_	VERB	VV	_	10	advcl	_	SpaceAfter=No|th/proper=false
-28	มา	_	PART	RP	_	27	dep:prt	_	SpaceAfter=No|th/proper=false
+28	มา	_	PART	RP	_	27	compound:prt	_	SpaceAfter=No|th/proper=false
 29	ใน	_	ADP	IN	_	30	case	_	SpaceAfter=No|th/proper=false
 30	บริเวณ	_	NOUN	NN	_	27	obl	_	SpaceAfter=No|th/proper=false
 31	ถ่าย	_	VERB	VV	_	30	acl	_	SpaceAfter=No|th/proper=false
@@ -2248,7 +2248,7 @@
 13	พุก	_	PROPN	NNP	_	12	appos	_	SpaceAfter=No|th/proper=true
 14	กำลัง	_	PART	AS	Aspect=Prog	15	aux	_	SpaceAfter=No|th/proper=false
 15	โต	_	VERB	VV	_	4	ccomp	_	SpaceAfter=No|th/proper=false
-16	ขึ้น	_	PART	RP	_	15	dep:prt	_	th/proper=false
+16	ขึ้น	_	PART	RP	_	15	compound:prt	_	th/proper=false
 17	และ	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No|th/proper=false
 18	เธอ	_	PRON	PRP	Person=3	20	nsubj	_	SpaceAfter=No|th/proper=false
 19	ต้อง	_	VERB	MD	_	20	aux	_	SpaceAfter=No|th/proper=false
@@ -2461,7 +2461,7 @@
 16	ที่	_	ADP	IN	_	18	mark	_	SpaceAfter=No|th/proper=false
 17	จะ	_	VERB	MD	_	18	aux	_	SpaceAfter=No|th/proper=false
 18	เดิน	_	VERB	VV	_	15	ccomp	_	SpaceAfter=No|th/proper=false
-19	ออก	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+19	ออก	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 20	จาก	_	ADP	IN	_	21	case	_	SpaceAfter=No|th/proper=false
 21	ห้อง	_	NOUN	NN	_	18	obl	_	SpaceAfter=No|th/proper=false
 22	คุมขัง	_	VERB	VV	_	21	acl	_	SpaceAfter=No|th/proper=false
@@ -2628,8 +2628,8 @@
 19	และ	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No|th/proper=false
 20	จีน	_	PROPN	NNP	_	16	conj	_	th/proper=true
 21	ก้าว	_	VERB	VV	_	2	xcomp	_	SpaceAfter=No|th/proper=false
-22	ขึ้น	_	PART	RP	_	21	dep:prt	_	SpaceAfter=No|th/proper=false
-23	มา	_	PART	RP	_	21	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ขึ้น	_	PART	RP	_	21	compound:prt	_	SpaceAfter=No|th/proper=false
+23	มา	_	PART	RP	_	21	compound:prt	_	SpaceAfter=No|th/proper=false
 24	รับผิดชอบ	_	VERB	VV	_	21	acl	_	SpaceAfter=No|th/proper=false
 25	โดย	_	ADP	IN	_	26	mark	_	SpaceAfter=No|th/proper=false
 26	มี	_	VERB	VV	_	24	advcl	_	SpaceAfter=No|th/proper=false
@@ -2778,7 +2778,7 @@
 15	สิ่ง	_	NOUN	NN	_	13	obl	_	SpaceAfter=No|th/proper=false
 16	ที่	_	DET	WDT	_	17	nsubj	_	SpaceAfter=No|th/proper=false
 17	เกิด	_	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|th/proper=false
-18	ขึ้น	_	PART	RP	_	17	dep:prt	_	th/proper=false
+18	ขึ้น	_	PART	RP	_	17	compound:prt	_	th/proper=false
 19	แต่	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No|th/proper=false
 20	เธอ	_	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|th/proper=false
 21	บอก	_	VERB	VV	_	6	conj	_	SpaceAfter=No|th/proper=false
@@ -3016,7 +3016,7 @@
 27	2014	_	NUM	CD	_	25	nmod	_	th/proper=false
 28	หรือ	_	CCONJ	CC	_	29	cc	_	SpaceAfter=No|th/proper=false|ToDo=ex-adp-child
 29	ล้าสมัย	_	VERB	VV	_	24	conj	_	SpaceAfter=No|th/proper=false|ToDo=ex-adp-child
-30	ไป	_	PART	RP	_	29	dep:prt	_	SpaceAfter=No|th/proper=false
+30	ไป	_	PART	RP	_	29	compound:prt	_	SpaceAfter=No|th/proper=false
 31	สอง	_	NUM	CD	_	32	nummod	_	SpaceAfter=No|th/proper=false
 32	ปี	_	NOUN	NNB	_	29	advmod	_	SpaceAfter=No|th/proper=false
 33	แล้ว	_	PART	AS	Aspect=Perf	29	aux	_	th/proper=false
@@ -3092,7 +3092,7 @@
 # english_text = That led to revelations over the last two days that at least six other Quebec journalists were targeted by provincial police surveillance operations.
 1	นั่น	_	PRON	PRD	_	2	nsubj	_	SpaceAfter=No|th/proper=false
 2	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-3	ไป	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	ไป	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	สู่	_	ADP	IN	_	5	case	_	SpaceAfter=No|th/proper=false
 5	การเปิดเผย	_	VERB	VV	_	2	xcomp	_	SpaceAfter=No|th/proper=false
 6	ความจริง	_	ADJ	JJ	_	5	obj	_	SpaceAfter=No|th/proper=false
@@ -3102,7 +3102,7 @@
 10	วัน	_	NOUN	NNB	_	8	obl:tmod	_	SpaceAfter=No|th/proper=false
 11	ที่	_	DET	WDT	_	12	obl:tmod	_	SpaceAfter=No|th/proper=false
 12	ผ่าน	_	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|th/proper=false
-13	มา	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	มา	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ว่า	_	ADP	IN	_	23	mark	_	th/proper=false
 15	นัก	_	NOUN	NN	_	23	nsubj:pass	_	SpaceAfter=No|th/proper=false
 16	ข่าว	_	NOUN	NN	_	15	compound	_	SpaceAfter=No|th/proper=false
@@ -3272,7 +3272,7 @@
 5	ทำให้	_	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|th/proper=false
 6	เรา	_	PRON	PRP	Person=1	5	obj	_	SpaceAfter=No|th/proper=false
 7	กลับ	_	VERB	VV	_	5	xcomp	_	SpaceAfter=No|th/proper=false
-8	มา	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+8	มา	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 9	อีก	_	ADV	RB	_	7	advmod	_	th/proper=false
 
 # sent_id = n01048008
@@ -3419,7 +3419,7 @@
 24	หน้าที่	_	NOUN	NN	_	23	obj	_	SpaceAfter=No|th/proper=false
 25	ขนส่ง	_	VERB	VV	_	23	xcomp	_	SpaceAfter=No|th/proper=false
 26	ออกซิเจน	_	NOUN	NN	_	25	obj	_	SpaceAfter=No|th/proper=false
-27	ไป	_	PART	RP	_	25	dep:prt	_	SpaceAfter=No|th/proper=false
+27	ไป	_	PART	RP	_	25	compound:prt	_	SpaceAfter=No|th/proper=false
 28	สู่	_	ADP	IN	_	29	case	_	SpaceAfter=No|th/proper=false
 29	เนื้อเยื่อ	_	NOUN	NN	_	25	obl	_	SpaceAfter=No|th/proper=false
 30	ต่าง	_	ADJ	JJ	_	29	amod	_	th/proper=false
@@ -3675,7 +3675,7 @@
 2	ของ	_	ADP	IN	_	3	case	_	SpaceAfter=No|th/proper=false
 3	เธอ	_	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|th/proper=false
 4	ส่ง	_	VERB	VV	_	11	ccomp	_	SpaceAfter=No|th/proper=false
-5	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	ทั่ว	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No|th/proper=false
 7	โลก	_	NOUN	NN	_	4	advmod	_	SpaceAfter=No|th/proper=false
 8	จริง	_	ADV	RB	_	4	advmod	_	SpaceAfter=No|th/proper=false
@@ -3695,8 +3695,8 @@
 7	ทางการ	_	ADJ	JJ	_	3	advmod	_	SpaceAfter=No|th/proper=false
 8	ถูก	_	VERB	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No|th/proper=false
 9	เผยแพร่	_	VERB	VV	_	15	advcl	_	SpaceAfter=No|th/proper=false
-10	ออก	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
-11	ไป	_	PART	RP	_	9	dep:prt	_	th/proper=false
+10	ออก	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
+11	ไป	_	PART	RP	_	9	compound:prt	_	th/proper=false
 12	โซเชียล	_	ADJ	JJ	_	13	amod	_	SpaceAfter=No|th/proper=false
 13	มีเดีย	_	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|th/proper=false
 14	ก็	_	ADV	RB	_	15	advmod	_	SpaceAfter=No|th/proper=false
@@ -3834,8 +3834,8 @@
 14	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No|th/proper=false
 15	ถูก	_	VERB	MD	Voice=Pass	16	aux:pass	_	SpaceAfter=No|th/proper=false
 16	ดึง	_	VERB	VV	_	4	conj	_	SpaceAfter=No|th/proper=false
-17	เข้า	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
-18	มา	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+17	เข้า	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
+18	มา	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 19	รวม	_	VERB	VV	_	16	acl	_	SpaceAfter=No|th/proper=false
 20	กัน	_	PRON	PRP	_	19	advmod	_	SpaceAfter=No|th/proper=false
 21	ด้วย	_	ADP	IN	_	22	case	_	SpaceAfter=No|th/proper=false
@@ -3878,8 +3878,8 @@
 4	ซึ่ง	_	DET	WDT	_	5	nsubj	_	SpaceAfter=No|th/proper=false
 5	อยู่	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|th/proper=false
 6	ห่าง	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|th/proper=false
-7	ออก	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
-8	ไป	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+7	ออก	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
+8	ไป	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 9	จาก	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	แชเปิลฮิลล์	_	PROPN	NNP	_	5	obl	_	th/proper=true
 11	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
@@ -4008,7 +4008,7 @@
 7	การนำ	_	VERB	VV	_	26	csubj	_	SpaceAfter=No|th/proper=false
 8	ข้อมูล	_	NOUN	NN	_	7	obj	_	SpaceAfter=No|th/proper=false
 9	นี้	_	DET	DT	_	8	det	_	SpaceAfter=No|th/proper=false
-10	มา	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+10	มา	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 11	เป็น	_	AUX	VC	_	12	cop	_	SpaceAfter=No|th/proper=false
 12	ข้อ	_	NOUN	NN	_	7	xcomp	_	SpaceAfter=No|th/proper=false
 13	พิสูจน์	_	VERB	VV	_	12	acl	_	SpaceAfter=No|th/proper=false
@@ -4092,8 +4092,8 @@
 20	ความคล้ายคลึง	_	VERB	VC	_	19	obj	_	SpaceAfter=No|th/proper=false
 21	ลด	_	VERB	VV	_	19	xcomp	_	SpaceAfter=No|th/proper=false
 22	น้อย	_	ADV	RB	_	21	advmod	_	SpaceAfter=No|th/proper=false
-23	ลง	_	PART	RP	_	21	dep:prt	_	SpaceAfter=No|th/proper=false
-24	ไป	_	PART	RP	_	21	dep:prt	_	SpaceAfter=No|th/proper=false
+23	ลง	_	PART	RP	_	21	compound:prt	_	SpaceAfter=No|th/proper=false
+24	ไป	_	PART	RP	_	21	compound:prt	_	SpaceAfter=No|th/proper=false
 25	เลย	_	ADV	RB	_	21	advmod	_	th/proper=false
 
 # sent_id = n01060069
@@ -4161,7 +4161,7 @@
 19	อก	_	NOUN	NN	_	18	obj	_	SpaceAfter=No|th/proper=false
 20	เห็น	_	VERB	VV	_	18	acl	_	SpaceAfter=No|th/proper=false
 21	ใจ	_	NOUN	NN	_	20	obj	_	SpaceAfter=No|th/proper=false
-22	ขึ้น	_	PART	RP	_	17	dep:prt	_	th/proper=false
+22	ขึ้น	_	PART	RP	_	17	compound:prt	_	th/proper=false
 
 # sent_id = n01061023
 # text = “เวลาผมสวมบทบาทเป็นเขา ผมรู้สึกมีอำนาจ” จอห์น ดี โดเมนิโค นักแสดงผู้เลียนแบบโดนัลด์ ทรัมป์ อธิบายกับนิตยสารสเลทเมื่อปีที่แล้ว
@@ -4251,7 +4251,7 @@
 2	โฆษณา	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|th/proper=false
 3	ก็	_	ADV	RB	_	4	advmod	_	SpaceAfter=No|th/proper=false
 4	จบ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	ลง	_	PART	RP	_	4	dep:prt	_	th/proper=false
+5	ลง	_	PART	RP	_	4	compound:prt	_	th/proper=false
 
 # sent_id = n01063011
 # text = พวกโปรดิวเซอร์ไมอามีเบสเป็นผู้เชี่ยวชาญด้านศิลปะการส่ายก้น อันเป็นจุดขายหลักของพวกเขา
@@ -4584,7 +4584,7 @@
 # english_text = Also being exhibited for the first time are British Ministry of Defence maps which imagine cold war battles and which were used in military college exams.
 1	ที่	_	PRON	PRP	_	2	obj	_	SpaceAfter=No|th/proper=false
 2	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-3	มา	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	มา	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	แสดง	_	VERB	VV	_	2	xcomp	_	SpaceAfter=No|th/proper=false
 5	เป็น	_	AUX	VC	_	6	cop	_	SpaceAfter=No|th/proper=false
 6	ครั้ง	_	NOUN	NN	_	4	xcomp	_	SpaceAfter=No|th/proper=false
@@ -5015,7 +5015,7 @@
 9	ให้	_	VERB	VV	_	8	acl	_	SpaceAfter=No|th/proper=false
 10	เรา	_	PRON	PRP	Person=1	9	obj	_	SpaceAfter=No|th/proper=false
 11	ก้าว	_	VERB	VV	_	9	xcomp	_	SpaceAfter=No|th/proper=false
-12	ไป	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+12	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 13	ข้าง	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No|th/proper=false
 14	หน้า	_	ADJ	JJ	_	13	amod	_	th/proper=false
 
@@ -5055,8 +5055,8 @@
 4	เขา	_	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|th/proper=false
 5	สลับ	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No|th/proper=false
 6	ลูกบอล	_	NOUN	NN	_	5	obj	_	SpaceAfter=No|th/proper=false
-7	ไป	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
-8	มา	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+7	ไป	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
+8	มา	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ใต้	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	แก้ว	_	NOUN	NN	_	5	obl	_	SpaceAfter=No|th/proper=false
 11	คว่ำ	_	VERB	VV	_	10	acl	_	th/proper=false
@@ -5103,7 +5103,7 @@
 15	ที่	_	PRON	PRP	_	16	nsubj	_	SpaceAfter=No|th/proper=false
 16	เป็น	_	VERB	VC	_	9	xcomp	_	SpaceAfter=No|th/proper=false
 17	อยู่	_	PART	AS	Aspect=Prog	16	aux	_	SpaceAfter=No|th/proper=false
-18	ไป	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+18	ไป	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 19	อีก	_	ADV	RB	_	9	advmod	_	SpaceAfter=No|th/proper=false
 20	โดยทันที	_	ADV	RB	_	7	advmod	_	th/proper=false
 
@@ -5128,7 +5128,7 @@
 16	นี้	_	DET	DT	_	15	det	_	SpaceAfter=No|th/proper=false
 17	จะ	_	VERB	MD	_	18	aux	_	SpaceAfter=No|th/proper=false
 18	บรรเทา	_	VERB	VV	_	5	conj	_	SpaceAfter=No|th/proper=false
-19	ลง	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+19	ลง	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 20	ด้วย	_	ADP	IN	_	21	case	_	SpaceAfter=No|th/proper=false
 21	มติ	_	NOUN	NN	_	18	obl	_	SpaceAfter=No|th/proper=false
 22	มหาชน	_	NOUN	NN	_	21	compound	_	SpaceAfter=No|th/proper=false
@@ -5174,8 +5174,8 @@
 11	จริง	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No|th/proper=false
 12	ที่	_	DET	WDT	_	13	obj	_	SpaceAfter=No|th/proper=false
 13	โพสต์	_	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|th/proper=false
-14	ขึ้น	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
-15	มา	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
+14	ขึ้น	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
+15	มา	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
 16	เป็น	_	AUX	VC	_	17	cop	_	SpaceAfter=No|th/proper=false
 17	ชุด	_	NOUN	NN	_	13	acl	_	SpaceAfter=No|th/proper=false
 18	รูปภาพ	_	NOUN	NN	_	17	compound	_	SpaceAfter=No|th/proper=false
@@ -5373,7 +5373,7 @@
 1	“	_	PUNCT	``	_	3	punct	_	SpaceAfter=No|th/proper=false
 2	ผู้คน	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|th/proper=false
 3	หัน	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-4	ไป	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ไป	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	หา	_	VERB	VV	_	3	acl	_	SpaceAfter=No|th/proper=false
 6	สิน	_	NOUN	NN	_	5	obj	_	SpaceAfter=No|th/proper=false
 7	เชื่อ	_	VERB	VV	_	6	acl	_	SpaceAfter=No|th/proper=false
@@ -5596,7 +5596,7 @@
 # english_text = Fast forward to 2016 and this is increasingly worthy of attention.
 1	กระโดด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 2	ข้าม	_	VERB	VV	_	1	acl	_	SpaceAfter=No|th/proper=false
-3	ไป	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	ไป	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	ปี	_	NOUN	NN	_	2	obl:tmod	_	th/proper=false
 5	2016	_	NUM	CD	_	4	appos	_	th/proper=false
 6	แล้ว	_	ADP	IN	_	11	mark	_	SpaceAfter=No|th/proper=false
@@ -5677,7 +5677,7 @@
 1	คุณ	_	PRON	PRP	Person=2	3	nsubj	_	SpaceAfter=No|th/proper=false
 2	จะ	_	VERB	MD	_	3	aux	_	SpaceAfter=No|th/proper=false
 3	จบ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-4	ลง	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ลง	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	ด้วย	_	ADP	IN	_	6	case	_	SpaceAfter=No|th/proper=false
 6	การตั้งใจ	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No|th/proper=false
 7	ฟัง	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No|th/proper=false
@@ -5694,7 +5694,7 @@
 18	เมื่อ	_	ADP	IN	_	20	mark	_	SpaceAfter=No|th/proper=false
 19	เสียง	_	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|th/proper=false
 20	ปรากฏ	_	VERB	VV	_	15	advcl	_	SpaceAfter=No|th/proper=false
-21	ขึ้น	_	PART	RP	_	20	dep:prt	_	th/proper=false
+21	ขึ้น	_	PART	RP	_	20	compound:prt	_	th/proper=false
 
 # sent_id = n01086031
 # text = นี่มันน่าสยดสยองทีเดียว
@@ -5720,9 +5720,9 @@
 11	ชีวิต	_	NOUN	NN	_	10	obj	_	th/proper=false
 12	และ	_	CCONJ	CC	_	13	cc	_	SpaceAfter=No|th/proper=false
 13	หายใจ	_	VERB	VV	_	8	conj	_	SpaceAfter=No|th/proper=false
-14	เข้า	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
+14	เข้า	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
 15	หายใจ	_	VERB	VV	_	13	conj	_	SpaceAfter=No|th/proper=false
-16	ออก	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+16	ออก	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 17	เป็น	_	AUX	VC	_	18	cop	_	SpaceAfter=No|th/proper=false
 18	เรโทร	_	NOUN	NN	_	8	xcomp	_	th/proper=false
 
@@ -5740,8 +5740,8 @@
 9	เขา	_	PRON	PRP	Person=3	8	compound	_	SpaceAfter=No|th/proper=false
 10	ดำ	_	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|th/proper=false
 11	ดิ่ง	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|th/proper=false
-12	ลง	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
-13	ไป	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+12	ลง	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
+13	ไป	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	ลวดลาย	_	NOUN	NN	_	10	obl	_	SpaceAfter=No|th/proper=false
 16	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No|th/proper=false
@@ -5753,7 +5753,7 @@
 1	คาตาลาโน่	_	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|th/proper=true
 2	ย้าย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 3	กลับ	_	VERB	VV	_	2	acl	_	SpaceAfter=No|th/proper=false
-4	ไป	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ไป	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	แถว	_	NOUN	NN	_	2	advmod	_	SpaceAfter=No|th/proper=false
 6	นั้น	_	DET	DT	_	5	det	_	SpaceAfter=No|th/proper=false
 7	หลัง	_	ADP	IN	_	10	mark	_	SpaceAfter=No|th/proper=false
@@ -5865,7 +5865,7 @@
 1	วินทัวร์	_	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|th/proper=true
 2	เอง	_	PRON	PRP	_	1	compound	_	SpaceAfter=No|th/proper=false
 3	โผล่	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-4	มา	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	มา	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	ช่วง	_	NOUN	NN	_	3	obl:tmod	_	SpaceAfter=No|th/proper=false
 6	สั้น	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No|th/proper=false
 7	ๆ	_	SYM	SYM	_	6	dep	_	th/proper=false
@@ -5896,7 +5896,7 @@
 6	ยิ่ง	_	ADV	RB	_	8	advmod	_	SpaceAfter=No|th/proper=false
 7	ฉัน	_	PRON	PRP	Person=1	8	nsubj	_	SpaceAfter=No|th/proper=false
 8	ดู	_	VERB	VV	_	2	conj	_	SpaceAfter=No|th/proper=false
-9	ไป	_	PART	RP	_	8	dep:prt	_	th/proper=false
+9	ไป	_	PART	RP	_	8	compound:prt	_	th/proper=false
 10	หน้า	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|th/proper=false
 11	ของ	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	ผู้หญิง	_	NOUN	NN	_	10	nmod:poss	_	SpaceAfter=No|th/proper=false
@@ -5905,7 +5905,7 @@
 15	ก็	_	ADV	RB	_	16	advmod	_	SpaceAfter=No|th/proper=false
 16	คอย	_	VERB	VV	_	8	acl	_	SpaceAfter=No|th/proper=false
 17	โผล่	_	VERB	VV	_	16	xcomp	_	SpaceAfter=No|th/proper=false
-18	มา	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+18	มา	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 19	เรื่อย	_	ADV	RB	_	17	advmod	_	SpaceAfter=No|th/proper=false
 20	ๆ	_	SYM	SYM	_	19	dep	_	th/proper=false
 21	ใน	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
@@ -5979,7 +5979,7 @@
 18	การล่า	_	VERB	VV	_	15	compound	_	SpaceAfter=No|th/proper=false
 19	สัตว์	_	NOUN	NN	_	18	obj	_	SpaceAfter=No|th/proper=false
 20	หลุด	_	VERB	VV	_	14	xcomp	_	SpaceAfter=No|th/proper=false
-21	ไป	_	PART	RP	_	20	dep:prt	_	SpaceAfter=No|th/proper=false
+21	ไป	_	PART	RP	_	20	compound:prt	_	SpaceAfter=No|th/proper=false
 22	อีก	_	DET	DT	_	23	det	_	SpaceAfter=No|th/proper=false
 23	ครั้ง	_	NOUN	NNB	_	20	advmod	_	th/proper=false
 
@@ -6010,7 +6010,7 @@
 22	ใบ	_	NOUN	NN	_	21	obj	_	SpaceAfter=No|th/proper=false
 23	อนุญาต	_	VERB	VV	_	22	acl	_	SpaceAfter=No|th/proper=false
 24	โผล่	_	VERB	VV	_	17	xcomp	_	SpaceAfter=No|th/proper=false
-25	มา	_	PART	RP	_	24	dep:prt	_	SpaceAfter=No|th/proper=false
+25	มา	_	PART	RP	_	24	compound:prt	_	SpaceAfter=No|th/proper=false
 26	จาก	_	ADP	IN	_	27	case	_	SpaceAfter=No|th/proper=false
 27	นี้	_	PRON	PRD	_	24	obl	_	SpaceAfter=No|th/proper=false
 28	”	_	PUNCT	''	_	15	punct	_	th/proper=false
@@ -6159,7 +6159,7 @@
 13	เซลติก	_	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|th/proper=true
 14	ต้อง	_	VERB	MD	_	15	aux	_	SpaceAfter=No|th/proper=false
 15	หมด	_	VERB	VV	_	7	ccomp	_	SpaceAfter=No|th/proper=false
-16	ไป	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+16	ไป	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 17	แน่	_	ADV	RB	_	15	advmod	_	SpaceAfter=No|th/proper=false
 18	ๆ	_	SYM	SYM	_	17	dep	_	SpaceAfter=No|th/proper=false
 19	"	_	PUNCT	''	_	15	punct	_	th/proper=false
@@ -6170,14 +6170,14 @@
 24	จำกัด	_	VERB	VV	_	23	acl	_	SpaceAfter=No|th/proper=false
 25	ที่	_	DET	WDT	_	26	obj	_	SpaceAfter=No|th/proper=false
 26	เสนอ	_	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No|th/proper=false
-27	ไป	_	PART	RP	_	26	dep:prt	_	th/proper=false
+27	ไป	_	PART	RP	_	26	compound:prt	_	th/proper=false
 
 # sent_id = n01093024
 # text = แต่การลดลงหลักๆ ก็ระบุปลาค็อด ปลาโซล ปลาเพลซ ปลาเมกริม และปลาพอลแล็คในทะเลเซลติกและไอริช
 # english_text = But big reductions have also been pencilled in for cod, sole, plaice, megrim and pollack in the Celtic and Irish Seas.
 1	แต่	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No|th/proper=false
 2	การลด	_	VERB	VV	_	7	nsubj	_	SpaceAfter=No|th/proper=false
-3	ลง	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	ลง	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	หลัก	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No|th/proper=false
 5	ๆ	_	SYM	SYM	_	4	dep	_	th/proper=false
 6	ก็	_	ADV	RB	_	7	advmod	_	SpaceAfter=No|th/proper=false
@@ -6281,8 +6281,8 @@
 21	แบบ	_	NOUN	NN	_	19	compound	_	SpaceAfter=No|th/proper=false
 22	สมัย	_	NOUN	NN	_	21	obl:tmod	_	SpaceAfter=No|th/proper=false
 23	ใหม่	_	ADJ	JJ	_	22	amod	_	SpaceAfter=No|th/proper=false
-24	ออก	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
-25	มา	_	PART	RP	_	17	dep:prt	_	th/proper=false
+24	ออก	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
+25	มา	_	PART	RP	_	17	compound:prt	_	th/proper=false
 
 # sent_id = n01095009
 # text = ฉันไม่เรียกมันว่าสัตว์ร้ายหรอก
@@ -6305,7 +6305,7 @@
 4	ฉัน	_	PRON	PRP	Person=1	6	nsubj	_	SpaceAfter=No|th/proper=false
 5	ก็	_	ADV	RB	_	6	advmod	_	SpaceAfter=No|th/proper=false
 6	กลับ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-7	มา	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+7	มา	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 8	ใช้	_	VERB	VV	_	6	acl	_	SpaceAfter=No|th/proper=false
 9	อีไมโคร	_	PROPN	NNP	_	8	obj	_	th/proper=true
 
@@ -6458,7 +6458,7 @@
 # text = กลับมาที่รถไฟ เรายังมุ่งลงใต้อยู่
 # english_text = Back on the train, we continue southwards.
 1	กลับ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-2	มา	_	PART	RP	_	1	dep:prt	_	SpaceAfter=No|th/proper=false
+2	มา	_	PART	RP	_	1	compound:prt	_	SpaceAfter=No|th/proper=false
 3	ที่	_	ADP	IN	_	4	case	_	SpaceAfter=No|th/proper=false
 4	รถไฟ	_	NOUN	NN	_	1	obl	_	th/proper=false
 5	เรา	_	PRON	PRP	Person=1	7	nsubj	_	SpaceAfter=No|th/proper=false
@@ -6582,7 +6582,7 @@
 16	มอบ	_	VERB	VV	_	15	xcomp	_	SpaceAfter=No|th/proper=false
 17	คืน	_	VERB	VV	_	16	acl	_	SpaceAfter=No|th/proper=false
 18	ฮ่องกง	_	PROPN	NNP	_	15	obj	_	SpaceAfter=No|th/proper=true
-19	มา	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+19	มา	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 20	จาก	_	ADP	IN	_	21	case	_	SpaceAfter=No|th/proper=false
 21	สหราชอาณาจักร	_	PROPN	NNP	_	15	obl	_	SpaceAfter=No|th/proper=true
 22	ใน	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
@@ -6596,7 +6596,7 @@
 2	ปฏิญาณ	_	VERB	VV	_	1	acl	_	SpaceAfter=No|th/proper=false
 3	ตน	_	NOUN	NN	_	2	obj	_	SpaceAfter=No|th/proper=false
 4	ประกอบ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	ด้วย	_	ADP	IN	_	7	case	_	SpaceAfter=No|th/proper=false
 7	การ	_	NOUN	NN	_	4	obl	_	SpaceAfter=No|th/proper=false
 8	ที่	_	DET	WDT	_	12	advmod	_	SpaceAfter=No|th/proper=false
@@ -6770,7 +6770,7 @@
 4	เพราะ	_	ADP	IN	_	6	mark	_	SpaceAfter=No|th/proper=false
 5	เรา	_	PRON	PRP	Person=1	6	nsubj	_	SpaceAfter=No|th/proper=false
 6	เสีย	_	VERB	VV	_	2	advcl	_	SpaceAfter=No|th/proper=false
-7	ไป	_	PART	RP	_	6	dep:prt	_	th/proper=false
+7	ไป	_	PART	RP	_	6	compound:prt	_	th/proper=false
 8	6	_	NUM	CD	_	9	nummod	_	th/proper=false
 9	คะแนน	_	NOUN	NNB	_	6	obj	_	SpaceAfter=No|th/proper=false
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
@@ -6813,7 +6813,7 @@
 7	ดู	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 8	ผิด	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No|th/proper=false
 9	ที่ทาง	_	NOUN	NN	_	8	obj	_	SpaceAfter=No|th/proper=false
-10	ไป	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ไป	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 11	หมด	_	ADV	RB	_	8	advmod	_	th/proper=false
 12	และ	_	CCONJ	CC	_	15	cc	_	SpaceAfter=No|th/proper=false
 13	เขา	_	PRON	PRP	Person=3	15	nsubj	_	SpaceAfter=No|th/proper=false
@@ -6875,7 +6875,7 @@
 4	ว่า	_	ADP	IN	_	17	mark	_	th/proper=false
 5	“	_	PUNCT	``	_	17	punct	_	SpaceAfter=No|th/proper=false
 6	การพุ่งทะยาน	_	VERB	VV	_	17	nsubj:pass	_	SpaceAfter=No|th/proper=false
-7	ขึ้น	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+7	ขึ้น	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 8	ของ	_	ADP	IN	_	9	case	_	SpaceAfter=No|th/proper=false
 9	ความเสี่ยง	_	VERB	VV	_	6	obl:poss	_	SpaceAfter=No|th/proper=false
 10	ทาง	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
@@ -6897,7 +6897,7 @@
 4	บริษัท	_	NOUN	NN	_	2	obl:poss	_	SpaceAfter=No|th/proper=false
 5	ที่	_	DET	WDT	_	6	nsubj	_	SpaceAfter=No|th/proper=false
 6	มี	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|th/proper=false
-7	มา	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+7	มา	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 8	ต่อเนื่อง	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No|th/proper=false
 9	หลาย	_	DET	DT	_	10	det	_	SpaceAfter=No|th/proper=false
 10	ปี	_	NOUN	NNB	_	8	obl:tmod	_	th/proper=false
@@ -6906,7 +6906,7 @@
 13	ของ	_	ADP	IN	_	14	case	_	SpaceAfter=No|th/proper=false
 14	โฟล์คสวาเกน	_	PROPN	NNP	_	12	nmod:poss	_	SpaceAfter=No|th/proper=true
 15	ตก	_	VERB	VV	_	11	xcomp	_	SpaceAfter=No|th/proper=false
-16	ลง	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+16	ลง	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 17	กว่า	_	ADV	RB	_	20	advmod	_	SpaceAfter=No|th/proper=false
 18	หลาย	_	DET	DT	_	21	det	_	SpaceAfter=No|th/proper=false
 19	หมื่น	_	NUM	CD	_	20	nummod	_	SpaceAfter=No|th/proper=false
@@ -6944,7 +6944,7 @@
 18	ก็	_	ADV	RB	_	19	advmod	_	SpaceAfter=No|th/proper=false
 19	ได้	_	VERB	VV	_	3	conj	_	SpaceAfter=No|th/proper=false
 20	เงิน	_	NOUN	NN	_	19	obj	_	SpaceAfter=No|th/proper=false
-21	มา	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No|th/proper=false
+21	มา	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No|th/proper=false
 22	แล้ว	_	PART	AS	Aspect=Perf	19	aux	_	SpaceAfter=No|th/proper=false
 23	กว่า	_	ADV	RB	_	25	advmod	_	th/proper=false
 24	16,000	_	NUM	CD	_	25	nummod	_	th/proper=false
@@ -6961,7 +6961,7 @@
 5	มิถุนายน	_	NOUN	NN	_	4	appos	_	th/proper=false
 6	โดย	_	ADP	IN	_	7	mark	_	SpaceAfter=No|th/proper=false
 7	เน้น	_	VERB	VV	_	2	advcl	_	SpaceAfter=No|th/proper=false
-8	ไป	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ที่	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	คุณ	_	NOUN	NN	_	7	obl	_	SpaceAfter=No|th/proper=false
 11	วินเทอร์คอร์น	_	PROPN	NNP	_	10	appos	_	th/proper=true
@@ -7008,7 +7008,7 @@
 19	เรื่อง	_	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|th/proper=false
 20	อื้อฉาว	_	ADJ	JJ	_	19	amod	_	SpaceAfter=No|th/proper=false
 21	ปรากฏ	_	VERB	VV	_	14	advcl	_	SpaceAfter=No|th/proper=false
-22	ขึ้น	_	PART	RP	_	21	dep:prt	_	th/proper=false
+22	ขึ้น	_	PART	RP	_	21	compound:prt	_	th/proper=false
 
 # sent_id = n01108003
 # text = ธุรกิจต่างๆ คาดหวังว่าจะเริ่มมีการจัดจ้างอีกครั้งในเดือนกรกฎาคม ทันทีหลังการลงคะแนนเบร็กซิต แต่ที่จริงการจัดจ้างก็โตขึ้นอย่างสม่ำเสมอ
@@ -7040,7 +7040,7 @@
 25	จ้าง	_	VERB	VV	_	24	xcomp	_	SpaceAfter=No|th/proper=false
 26	ก็	_	ADV	RB	_	27	advmod	_	SpaceAfter=No|th/proper=false
 27	โต	_	VERB	VV	_	4	conj	_	SpaceAfter=No|th/proper=false
-28	ขึ้น	_	PART	RP	_	27	dep:prt	_	SpaceAfter=No|th/proper=false
+28	ขึ้น	_	PART	RP	_	27	compound:prt	_	SpaceAfter=No|th/proper=false
 29	อย่างสม่ำเสมอ	_	ADJ	JJ	_	27	advmod	_	th/proper=false
 
 # sent_id = n01108005
@@ -7077,7 +7077,7 @@
 29	ก็	_	ADV	RB	_	30	advmod	_	SpaceAfter=No|th/proper=false
 30	โต	_	VERB	VV	_	17	conj	_	SpaceAfter=No|th/proper=false
 31	ตาม	_	ADV	RB	_	30	advmod	_	SpaceAfter=No|th/proper=false
-32	ไป	_	PART	RP	_	30	dep:prt	_	SpaceAfter=No|th/proper=false
+32	ไป	_	PART	RP	_	30	compound:prt	_	SpaceAfter=No|th/proper=false
 33	ด้วย	_	ADV	RB	_	30	advmod	_	th/proper=false
 
 # sent_id = n01108015
@@ -7277,7 +7277,7 @@
 29	อื่น	_	ADJ	JJ	_	28	amod	_	SpaceAfter=No|th/proper=false
 30	ๆ	_	SYM	SYM	_	29	dep	_	th/proper=false
 31	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-32	ไป	_	PART	RP	_	31	dep:prt	_	SpaceAfter=No|th/proper=false
+32	ไป	_	PART	RP	_	31	compound:prt	_	SpaceAfter=No|th/proper=false
 33	พยุง	_	VERB	VV	_	31	xcomp	_	SpaceAfter=No|th/proper=false
 34	รายจ่าย	_	NOUN	NN	_	33	obj	_	SpaceAfter=No|th/proper=false
 35	ของ	_	ADP	IN	_	36	case	_	SpaceAfter=No|th/proper=false
@@ -7298,7 +7298,7 @@
 10	กัน	_	PRON	PRP	_	9	advmod	_	SpaceAfter=No|th/proper=false
 11	เอา	_	VERB	VV	_	9	acl	_	SpaceAfter=No|th/proper=false
 12	เงิน	_	NOUN	NN	_	11	obj	_	SpaceAfter=No|th/proper=false
-13	ไป	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+13	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ลง	_	VERB	VV	_	11	xcomp	_	SpaceAfter=No|th/proper=false
 15	ใน	_	ADP	IN	_	16	case	_	SpaceAfter=No|th/proper=false
 16	กองทุน	_	NOUN	NN	_	14	obl	_	SpaceAfter=No|th/proper=false
@@ -7309,7 +7309,7 @@
 # english_text = It was followed by the Aviva Investors Multi Strategy Target Return and Income funds, into which investors put £2bn and £1.4bn respectively.
 1	ที่	_	PRON	PRP	_	2	nsubj	_	SpaceAfter=No|th/proper=false
 2	ตาม	_	VERB	VV	_	5	csubj	_	SpaceAfter=No|th/proper=false
-3	มา	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	มา	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	คือ	_	AUX	VC	_	5	cop	_	SpaceAfter=No|th/proper=false
 5	กองทุน	_	PROPN	NN	_	0	root	_	Proper=True|SpaceAfter=No|th/proper=true
 6	ผล	_	PROPN	NN	_	5	flat:name	_	Proper=True|SpaceAfter=No|th/proper=true
@@ -7339,7 +7339,7 @@
 30	ได้	_	PART	AS	Aspect=Perf	31	aux	_	SpaceAfter=No|th/proper=false
 31	ลง	_	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|th/proper=false
 32	ทุน	_	NOUN	NN	_	31	obj	_	SpaceAfter=No|th/proper=false
-33	ไป	_	PART	RP	_	31	dep:prt	_	th/proper=false
+33	ไป	_	PART	RP	_	31	compound:prt	_	th/proper=false
 34	2	_	NUM	CD	_	35	nummod	_	th/proper=false
 35	พัน	_	NUM	CD	_	36	nummod	_	SpaceAfter=No|th/proper=false
 36	ล้าน	_	NUM	CD	_	37	nummod	_	SpaceAfter=No|th/proper=false
@@ -7399,7 +7399,7 @@
 14	อยู่	_	PART	AS	Aspect=Prog	13	aux	_	SpaceAfter=No|th/proper=false
 15	ทั่ว	_	ADJ	JJ	_	16	amod	_	SpaceAfter=No|th/proper=false
 16	โลก	_	NOUN	NN	_	13	advmod	_	SpaceAfter=No|th/proper=false
-17	มา	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+17	มา	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 18	ทำ	_	VERB	VV	_	10	acl	_	SpaceAfter=No|th/proper=false
 19	รองเท้า	_	NOUN	NN	_	18	obj	_	th/proper=false
 
@@ -7453,8 +7453,8 @@
 31	การรั่วไหล	_	VERB	VV	_	30	obj	_	SpaceAfter=No|th/proper=false
 32	ของ	_	ADP	IN	_	33	case	_	SpaceAfter=No|th/proper=false
 33	ขยะ	_	NOUN	NN	_	31	obl:poss	_	SpaceAfter=No|th/proper=false
-34	ลง	_	PART	RP	_	31	dep:prt	_	SpaceAfter=No|th/proper=false
-35	ไป	_	PART	RP	_	31	dep:prt	_	SpaceAfter=No|th/proper=false
+34	ลง	_	PART	RP	_	31	compound:prt	_	SpaceAfter=No|th/proper=false
+35	ไป	_	PART	RP	_	31	compound:prt	_	SpaceAfter=No|th/proper=false
 36	ใน	_	ADP	IN	_	37	case	_	SpaceAfter=No|th/proper=false
 37	ทะเล	_	NOUN	NN	_	31	obl	_	th/proper=false
 
@@ -7566,7 +7566,7 @@
 10	พร้อม	_	VERB	VV	_	4	conj	_	SpaceAfter=No|th/proper=false
 11	สำหรับ	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	การกลับ	_	VERB	VV	_	10	obl	_	SpaceAfter=No|th/proper=false
-13	มา	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	มา	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ที่	_	DET	WDT	_	15	nsubj	_	SpaceAfter=No|th/proper=false
 15	ดี	_	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No|th/proper=false
 16	กว่า	_	ADV	RB	_	15	advmod	_	SpaceAfter=No|th/proper=false
@@ -7631,7 +7631,7 @@
 14	ที่	_	DET	WDT	_	16	nsubj	_	SpaceAfter=No|th/proper=false
 15	สามารถ	_	VERB	MD	_	16	aux	_	SpaceAfter=No|th/proper=false
 16	ระเบิด	_	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|th/proper=false
-17	มา	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+17	มา	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 18	พร้อม	_	VERB	VV	_	16	acl	_	SpaceAfter=No|th/proper=false
 19	พลัง	_	NOUN	NN	_	18	obj	_	SpaceAfter=No|th/proper=false
 20	ที่	_	DET	WDT	_	21	nsubj	_	SpaceAfter=No|th/proper=false
@@ -7648,7 +7648,7 @@
 2	ของ	_	ADP	IN	_	3	case	_	SpaceAfter=No|th/proper=false
 3	เธอ	_	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|th/proper=false
 4	ยื่น	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	ข้าง	_	NOUN	NN	_	4	advmod	_	SpaceAfter=No|th/proper=false
 7	หน้า	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No|th/proper=false
 8	โดย	_	ADP	IN	_	9	mark	_	SpaceAfter=No|th/proper=false
@@ -7696,7 +7696,7 @@
 10	แวดวง	_	NOUN	NN	_	2	obl	_	SpaceAfter=No|th/proper=false
 11	วิทยุ	_	NOUN	NN	_	10	compound	_	SpaceAfter=No|th/proper=false
 12	โทรทัศน์	_	NOUN	NN	_	10	compound	_	SpaceAfter=No|th/proper=false
-13	มา	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+13	มา	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 14	หลาย	_	DET	DT	_	15	det	_	SpaceAfter=No|th/proper=false
 15	ทศวรรษ	_	NOUN	NNB	_	2	obl:tmod	_	th/proper=false
 
@@ -7736,7 +7736,7 @@
 10	เขา	_	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No|th/proper=false
 11	ทำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 12	หนัง	_	NOUN	NN	_	11	obj	_	SpaceAfter=No|th/proper=false
-13	มา	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+13	มา	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 14	แล้ว	_	PART	AS	Aspect=Perf	11	aux	_	th/proper=false
 15	8	_	NUM	CD	_	16	nummod	_	th/proper=false
 16	เรื่อง	_	NOUN	NNB	_	12	clf	_	th/proper=false
@@ -7747,7 +7747,7 @@
 1	ภาพยนตร์	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|th/proper=false
 2	ได้	_	PART	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|th/proper=false
 3	เปลี่ยน	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-4	ไป	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ไป	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	อย่างมหาศาล	_	ADV	RB	_	3	advmod	_	SpaceAfter=No|th/proper=false
 6	จน	_	ADP	IN	_	9	mark	_	SpaceAfter=No|th/proper=false
 7	ฮอลลีวูด	_	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|th/proper=true
@@ -7757,7 +7757,7 @@
 11	ชม	_	VERB	VV	_	10	acl	_	SpaceAfter=No|th/proper=false
 12	แบบ	_	NOUN	NN	_	10	compound	_	SpaceAfter=No|th/proper=false
 13	ครอบครัว	_	NOUN	NN	_	12	compound	_	SpaceAfter=No|th/proper=false
-14	ไป	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+14	ไป	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 15	แล้ว	_	PART	AS	Aspect=Perf	9	aux	_	th/proper=false
 
 # sent_id = n01119011
@@ -7812,7 +7812,7 @@
 16	ดู	_	VERB	VV	_	8	advcl	_	SpaceAfter=No|th/proper=false
 17	เหมือน	_	VERB	VC	_	16	xcomp	_	SpaceAfter=No|th/proper=false
 18	สร้าง	_	VERB	VV	_	17	ccomp	_	SpaceAfter=No|th/proper=false
-19	มา	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+19	มา	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 20	เฉพาะ	_	ADV	RB	_	18	advmod	_	SpaceAfter=No|th/proper=false
 21	เพื่อ	_	ADP	IN	_	22	mark	_	SpaceAfter=No|th/proper=false
 22	ให้	_	VERB	VV	_	17	advcl	_	SpaceAfter=No|th/proper=false
@@ -7842,7 +7842,7 @@
 2	ผล	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|th/proper=false
 3	ก็	_	ADV	RB	_	4	advmod	_	SpaceAfter=No|th/proper=false
 4	ออก	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	มา	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	มา	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	แทบ	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|th/proper=false
 7	จะ	_	VERB	MD	_	10	aux	_	SpaceAfter=No|th/proper=false
 8	ไม่	_	PART	NEG	Polarity=Neg	10	advmod	_	SpaceAfter=No|th/proper=false
@@ -7953,7 +7953,7 @@
 1	เท่า	_	ADV	RB	_	3	advmod	_	SpaceAfter=No|th/proper=false
 2	ที่	_	PRON	PRP	_	3	nsubj	_	SpaceAfter=No|th/proper=false
 3	ผ่าน	_	VERB	VV	_	8	acl	_	SpaceAfter=No|th/proper=false
-4	มา	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	มา	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	ซีรีส์	_	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|th/proper=false
 6	สอง	_	NUM	CD	_	5	nummod	_	SpaceAfter=No|th/proper=false
 7	ยัง	_	PART	AS	Aspect=Prog	8	aux	_	SpaceAfter=No|th/proper=false
@@ -8005,7 +8005,7 @@
 7	ไม่	_	PART	NEG	Polarity=Neg	8	advmod	_	SpaceAfter=No|th/proper=false
 8	ได้	_	PART	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|th/proper=false
 9	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	ขึ้น	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	จาก	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	แรง	_	NOUN	NN	_	9	obl	_	SpaceAfter=No|th/proper=false
 13	ขับ	_	VERB	VV	_	12	acl	_	SpaceAfter=No|th/proper=false
@@ -8058,7 +8058,7 @@
 2	ใช่	_	AUX	VC	_	4	cop	_	SpaceAfter=No|th/proper=false
 3	แค่	_	ADV	RB	_	4	advmod	_	SpaceAfter=No|th/proper=false
 4	การย้อนกลับ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	สู่	_	ADP	IN	_	7	case	_	SpaceAfter=No|th/proper=false
 7	ยุค	_	PROPN	NN	_	4	obl	_	Proper=True|SpaceAfter=No|th/proper=true
 8	เซเวนตี้ส์	_	PROPN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No|th/proper=true
@@ -8122,7 +8122,7 @@
 14	ๆ	_	SYM	SYM	_	13	dep	_	th/proper=false
 15	ที่	_	DET	WDT	_	16	nsubj	_	SpaceAfter=No|th/proper=false
 16	เพิ่ม	_	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|th/proper=false
-17	ขึ้น	_	PART	RP	_	16	dep:prt	_	th/proper=false
+17	ขึ้น	_	PART	RP	_	16	compound:prt	_	th/proper=false
 
 # sent_id = n01127008
 # text = สองปีต่อมา จุททิง ซึ่งขณะนี้อายุ 31 ปี ถูกดำเนินคดีที่ศาลสูงฮ่องกงในข้อหาฆาตกรรมสองคดีและจัดการกับศพโดยไม่สมควรอีกหนึ่งคดี
@@ -8253,7 +8253,7 @@
 22	ผล	_	NOUN	NN	_	21	obj	_	SpaceAfter=No|th/proper=false
 23	ที่	_	DET	WDT	_	24	nsubj	_	SpaceAfter=No|th/proper=false
 24	ตาม	_	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|th/proper=false
-25	มา	_	PART	RP	_	24	dep:prt	_	th/proper=false
+25	มา	_	PART	RP	_	24	compound:prt	_	th/proper=false
 
 # sent_id = n01128025
 # text = อย่างแรก เราต้องให้ความรู้คนว่าจะให้ป้องกันตัวเองในโลกออนไลน์ให้ดีขึ้นอย่างไร
@@ -8308,7 +8308,7 @@
 2	คะแนน	_	NOUN	NN	_	1	obj	_	SpaceAfter=No|th/proper=false
 3	เสียง	_	NOUN	NN	_	2	compound	_	SpaceAfter=No|th/proper=false
 4	กลาย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	มา	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	มา	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	เป็น	_	AUX	VC	_	7	cop	_	SpaceAfter=No|th/proper=false
 7	เป้าหมาย	_	NOUN	NN	_	4	xcomp	_	SpaceAfter=No|th/proper=false
 8	รอง	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No|th/proper=false
@@ -8610,8 +8610,8 @@
 8	ฯ	_	PUNCT	...	_	7	punct	_	Proper=True|th/proper=true
 9	กำลัง	_	PART	AS	Aspect=Prog	10	aux	_	SpaceAfter=No|th/proper=false
 10	พุ่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-11	ขึ้น	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
-12	ไป	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ขึ้น	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
+12	ไป	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 13	กว่า	_	ADV	RB	_	14	advmod	_	th/proper=false
 14	1	_	NUM	CD	_	15	nummod	_	SpaceAfter=No|th/proper=false
 15	%	_	SYM	SYM	_	10	advmod	_	th/proper=false
@@ -8750,7 +8750,7 @@
 15	เมื่อ	_	ADP	IN	_	17	mark	_	SpaceAfter=No|th/proper=false
 16	คดี	_	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|th/proper=false
 17	ขึ้น	_	VERB	VV	_	11	advcl	_	SpaceAfter=No|th/proper=false
-18	ไป	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+18	ไป	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 19	ถึง	_	ADP	IN	_	20	case	_	SpaceAfter=No|th/proper=false
 20	ศาล	_	PROPN	NN	_	17	obl	_	Proper=True|SpaceAfter=No|th/proper=true
 21	สูง	_	ADJ	JJ	_	20	amod	_	Proper=True|SpaceAfter=No|th/proper=true
@@ -8785,7 +8785,7 @@
 # english_text = "Loving" opens with Richard and Mildred already a couple, eliding over a courtship that would have been interesting to see, if only in brief.
 1	เลิฟวิง	_	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|th/proper=true
 2	เปิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-3	มา	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	มา	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	ตอน	_	NOUN	NN	_	2	obl:tmod	_	SpaceAfter=No|th/proper=false
 5	ที่	_	DET	WDT	_	10	obl:tmod	_	SpaceAfter=No|th/proper=false
 6	ริชาร์ด	_	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No|th/proper=true
@@ -8802,7 +8802,7 @@
 17	ที่	_	DET	WDT	_	18	obl:tmod	_	SpaceAfter=No|th/proper=false
 18	จีบ	_	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|th/proper=false
 19	กัน	_	PRON	PRP	_	18	obj	_	SpaceAfter=No|th/proper=false
-20	ไป	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+20	ไป	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 21	เลย	_	ADV	RB	_	18	advmod	_	th/proper=false
 22	ซึ่ง	_	ADP	IN	_	26	mark	_	SpaceAfter=No|th/proper=false
 23	ก็	_	ADV	RB	_	26	advmod	_	SpaceAfter=No|th/proper=false
@@ -8849,7 +8849,7 @@
 # english_text = I hadn't seen a lot of the episodes and then my phone started lighting up.
 1	ผม	_	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|th/proper=false
 2	ดู	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-3	ไป	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	ไป	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	ได้	_	VERB	MD	_	2	aux	_	SpaceAfter=No|th/proper=false
 5	ไม่	_	PART	NEG	Polarity=Neg	6	advmod	_	SpaceAfter=No|th/proper=false
 6	กี่	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No|th/proper=false
@@ -8995,7 +8995,7 @@
 11	ตัด	_	VERB	VV	_	8	ccomp	_	SpaceAfter=No|th/proper=false
 12	บริการ	_	NOUN	NN	_	11	obj	_	SpaceAfter=No|th/proper=false
 13	นี้	_	DET	DT	_	12	det	_	SpaceAfter=No|th/proper=false
-14	ออก	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+14	ออก	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 15	ดี	_	ADV	RB	_	11	advmod	_	SpaceAfter=No|th/proper=false
 16	หรือไม่	_	PART	EP	_	11	discourse	_	th/proper=false
 
@@ -9119,7 +9119,7 @@
 3	ล่าสุด	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No|th/proper=false
 4	ใน	_	ADP	IN	_	5	case	_	SpaceAfter=No|th/proper=false
 5	การลง	_	VERB	VV	_	2	obl	_	SpaceAfter=No|th/proper=false
-6	มา	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+6	มา	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 7	เล่น	_	VERB	VV	_	5	xcomp	_	SpaceAfter=No|th/proper=false
 8	กับ	_	ADP	IN	_	9	case	_	SpaceAfter=No|th/proper=false
 9	แอป	_	NOUN	NN	_	7	obl	_	SpaceAfter=No|th/proper=false
@@ -9266,7 +9266,7 @@
 16	ก็	_	ADV	RB	_	18	advmod	_	SpaceAfter=No|th/proper=false
 17	จะ	_	VERB	MD	_	18	aux	_	SpaceAfter=No|th/proper=false
 18	กลับ	_	VERB	VV	_	3	conj	_	SpaceAfter=No|th/proper=false
-19	มา	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+19	มา	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 20	ยัง	_	ADP	IN	_	21	case	_	SpaceAfter=No|th/proper=false
 21	ที่	_	NOUN	NN	_	18	obl	_	SpaceAfter=No|th/proper=false
 22	ที่	_	DET	WDT	_	24	obj	_	SpaceAfter=No|th/proper=false
@@ -9282,7 +9282,7 @@
 # english_text = He kept on turning up at my barn and I joked to the guy that clearly he didn't want to be sold.
 1	มัน	_	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|th/proper=false
 2	แวะ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-3	มา	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	มา	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	ที่	_	ADP	IN	_	5	case	_	SpaceAfter=No|th/proper=false
 5	โรง	_	NOUN	NN	_	2	obl	_	SpaceAfter=No|th/proper=false
 6	นา	_	NOUN	NN	_	5	compound	_	SpaceAfter=No|th/proper=false
@@ -9298,7 +9298,7 @@
 16	ตลก	_	ADJ	JJ	_	2	conj	_	SpaceAfter=No|th/proper=false
 17	กับ	_	ADP	IN	_	18	case	_	SpaceAfter=No|th/proper=false
 18	เขา	_	PRON	PRP	Person=3	16	obl	_	SpaceAfter=No|th/proper=false
-19	ไป	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+19	ไป	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 20	ว่า	_	ADP	IN	_	26	mark	_	th/proper=false
 21	ชัด	_	ADV	RB	_	26	advmod	_	SpaceAfter=No|th/proper=false
 22	เลย	_	ADV	RB	_	21	advmod	_	SpaceAfter=No|th/proper=false
@@ -9326,9 +9326,9 @@
 12	จอห์นนี	_	PROPN	NNP	_	14	nsubj	_	th/proper=true
 13	คาร์สัน	_	PROPN	NNP	_	12	flat:name	_	th/proper=true
 14	ปีน	_	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|th/proper=false
-15	ขึ้น	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
+15	ขึ้น	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
 16	บันได	_	NOUN	NN	_	14	obj	_	SpaceAfter=No|th/proper=false
-17	ไป	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
+17	ไป	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
 18	นั่ง	_	VERB	VV	_	14	acl	_	SpaceAfter=No|th/proper=false
 19	กลับหลัง	_	VERB	VV	_	18	acl	_	SpaceAfter=No|th/proper=false
 20	บน	_	ADP	IN	_	21	case	_	SpaceAfter=No|th/proper=false
@@ -9456,7 +9456,7 @@
 10	กอบกู้	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|th/proper=false
 11	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No|th/proper=false
 12	นำ	_	VERB	VV	_	10	conj	_	SpaceAfter=No|th/proper=false
-13	มา	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	มา	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	รูปแบบ	_	NOUN	NN	_	10	obl	_	SpaceAfter=No|th/proper=false
 16	ใหม่	_	ADJ	JJ	_	15	amod	_	th/proper=false
@@ -9832,7 +9832,7 @@
 6	2019	_	NUM	CD	_	1	obl:tmod	_	Proper=True|th/proper=true
 7	จะ	_	VERB	MD	_	8	aux	_	SpaceAfter=No|th/proper=false
 8	จัด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-9	ขึ้น	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+9	ขึ้น	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 10	ที่	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
 11	ครัสโนยาสค์	_	PROPN	NNP	_	8	obl	_	th/proper=true
 
@@ -9909,7 +9909,7 @@
 10	ซึ่ง	_	DET	WDT	_	11	nsubj	_	SpaceAfter=No|th/proper=false
 11	อาศัย	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|th/proper=false
 12	การนำ	_	VERB	VV	_	11	obj	_	SpaceAfter=No|th/proper=false
-13	เข้า	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	เข้า	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ธัญพืช	_	NOUN	NN	_	12	obj	_	SpaceAfter=No|th/proper=false
 15	จาก	_	ADP	IN	_	16	case	_	SpaceAfter=No|th/proper=false
 16	ไซเธีย	_	PROPN	NNP	_	12	obl	_	th/proper=true
@@ -10056,7 +10056,7 @@
 10	)	_	PUNCT	)	_	8	punct	_	th/proper=false
 11	ได้	_	PART	AS	Aspect=Perf	12	aux	_	SpaceAfter=No|th/proper=false
 12	ก่อตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-13	ขึ้น	_	PART	RP	_	12	dep:prt	_	th/proper=false
+13	ขึ้น	_	PART	RP	_	12	compound:prt	_	th/proper=false
 14	และ	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No|th/proper=false
 15	ใน	_	ADP	IN	_	16	case	_	SpaceAfter=No|th/proper=false
 16	ปี	_	NOUN	NN	_	20	nmod	_	th/proper=false|ToDo=nmod
@@ -10159,7 +10159,7 @@
 3	ที่	_	NOUN	NN	_	2	obj	_	SpaceAfter=No|th/proper=false
 4	ดิน	_	NOUN	NN	_	3	compound	_	SpaceAfter=No|th/proper=false
 5	รวม	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-6	ไป	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+6	ไป	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 7	ถึง	_	ADP	IN	_	8	case	_	SpaceAfter=No|th/proper=false
 8	การขยาย	_	VERB	VV	_	5	xcomp	_	SpaceAfter=No|th/proper=false
 9	เขต	_	PROPN	NN	_	8	obj	_	Proper=True|SpaceAfter=No|th/proper=true
@@ -10311,7 +10311,7 @@
 7	โมราเวีย	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|th/proper=true
 8	ได้	_	PART	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|th/proper=false
 9	กลาย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	มา	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	มา	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	เป็น	_	AUX	VC	_	12	cop	_	SpaceAfter=No|th/proper=false
 12	เขต	_	NOUN	NN	_	9	xcomp	_	SpaceAfter=No|th/proper=false
 13	ตะวัน	_	NOUN	NN	_	12	compound	_	SpaceAfter=No|th/proper=false
@@ -10395,7 +10395,7 @@
 11	มอจเมียร์	_	PROPN	NNP	_	10	appos	_	SpaceAfter=No|th/proper=true
 12	ที่	_	PROPN	NN	_	10	flat:name	_	Proper=True|th/proper=true
 13	1	_	NUM	CD	_	12	nummod	_	Proper=True|th/proper=true
-14	ออก	_	PART	RP	_	9	dep:prt	_	th/proper=false
+14	ออก	_	PART	RP	_	9	compound:prt	_	th/proper=false
 15	แล้ว	_	ADP	IN	_	17	mark	_	SpaceAfter=No|th/proper=false
 16	ทรง	_	VERB	MD	_	17	aux	_	SpaceAfter=No|th/proper=false
 17	แต่งตั้ง	_	VERB	VV	_	9	advcl	_	SpaceAfter=No|th/proper=false
@@ -10403,7 +10403,7 @@
 19	ผู้	_	DET	WDT	_	21	nsubj	_	SpaceAfter=No|th/proper=false
 20	เป็น	_	AUX	VC	_	21	cop	_	SpaceAfter=No|th/proper=false
 21	พระนัดดา	_	NOUN	NN	_	18	acl:relcl	_	SpaceAfter=No|th/proper=false
-22	ขึ้น	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ขึ้น	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 23	แทน	_	ADV	RB	_	17	advmod	_	SpaceAfter=No|th/proper=false
 24	ซึ่ง	_	DET	WDT	_	27	nsubj	_	SpaceAfter=No|th/proper=false
 25	ต่อมา	_	ADV	RB	_	27	advmod	_	SpaceAfter=No|th/proper=false
@@ -10448,7 +10448,7 @@
 14	จน	_	ADP	IN	_	16	mark	_	SpaceAfter=No|th/proper=false
 15	กระทั่ง	_	ADP	IN	_	14	fixed	_	SpaceAfter=No|th/proper=false
 16	ผ่าน	_	VERB	VV	_	5	advcl	_	SpaceAfter=No|th/proper=false
-17	ไป	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+17	ไป	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 18	เป็น	_	AUX	VC	_	19	cop	_	SpaceAfter=No|th/proper=false
 19	เวลา	_	NOUN	NN	_	16	xcomp	_	SpaceAfter=No|th/proper=false
 20	นาน	_	ADJ	JJ	_	19	amod	_	th/proper=false
@@ -10484,8 +10484,8 @@
 9	ได้	_	PART	AS	Aspect=Perf	10	aux	_	SpaceAfter=No|th/proper=false
 10	พัฒนา	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|th/proper=false
 11	แยก	_	VERB	VV	_	10	acl	_	SpaceAfter=No|th/proper=false
-12	ออก	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
-13	ไป	_	PART	RP	_	11	dep:prt	_	th/proper=false
+12	ออก	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
+13	ไป	_	PART	RP	_	11	compound:prt	_	th/proper=false
 14	ซึ่ง	_	DET	WDT	_	15	obj	_	SpaceAfter=No|th/proper=false
 15	เรียก	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|th/proper=false
 16	ว่า	_	VERB	VV	_	15	acl	_	SpaceAfter=No|th/proper=false
@@ -10531,8 +10531,8 @@
 29	ภาษา	_	NOUN	NN	_	28	compound	_	SpaceAfter=No|th/proper=false
 30	ที่	_	DET	WDT	_	31	nsubj	_	SpaceAfter=No|th/proper=false
 31	แตกต่าง	_	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No|th/proper=false
-32	ออก	_	PART	RP	_	31	dep:prt	_	SpaceAfter=No|th/proper=false
-33	ไป	_	PART	RP	_	31	dep:prt	_	th/proper=false
+32	ออก	_	PART	RP	_	31	compound:prt	_	SpaceAfter=No|th/proper=false
+33	ไป	_	PART	RP	_	31	compound:prt	_	th/proper=false
 
 # sent_id = w01014002
 # text = ตอนเหนือของคอเคซัสเป็นที่รู้จักกันในชื่อซิสคอเคซัสและตอนใต้ในชื่อทรานส์คอเคซัส
@@ -10653,7 +10653,7 @@
 21	ซึ่ง	_	DET	WDT	_	22	nsubj	_	SpaceAfter=No|th/proper=false
 22	ก่อ	_	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|th/proper=false
 23	ตัว	_	NOUN	NN	_	22	obj	_	SpaceAfter=No|th/proper=false
-24	ขึ้น	_	PART	RP	_	22	dep:prt	_	SpaceAfter=No|th/proper=false
+24	ขึ้น	_	PART	RP	_	22	compound:prt	_	SpaceAfter=No|th/proper=false
 25	จาก	_	ADP	IN	_	26	case	_	SpaceAfter=No|th/proper=false
 26	แรง	_	NOUN	NN	_	22	obl	_	SpaceAfter=No|th/proper=false
 27	ดัน	_	VERB	VV	_	26	acl	_	SpaceAfter=No|th/proper=false
@@ -10680,7 +10680,7 @@
 5	เผยแผ่	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 6	ศาสนา	_	PROPN	NN	_	5	obj	_	Proper=True|SpaceAfter=No|th/proper=true
 7	อิสลาม	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|th/proper=true
-8	ไป	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ไป	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ยัง	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	เขต	_	NOUN	NN	_	5	obl	_	SpaceAfter=No|th/proper=false
 11	ชาย	_	NOUN	NN	_	10	compound	_	SpaceAfter=No|th/proper=false
@@ -10713,7 +10713,7 @@
 3	เศรษฐกิจ	_	NOUN	NN	_	2	obj	_	SpaceAfter=No|th/proper=false
 4	ของ	_	ADP	IN	_	5	case	_	SpaceAfter=No|th/proper=false
 5	แคเมอรูน	_	PROPN	NNP	_	3	nmod:poss	_	SpaceAfter=No|th/proper=true
-6	เข้า	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+6	เข้า	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 7	กับ	_	ADP	IN	_	8	case	_	SpaceAfter=No|th/proper=false
 8	เศรษฐกิจ	_	NOUN	NN	_	2	obl	_	SpaceAfter=No|th/proper=false
 9	ของ	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
@@ -10809,7 +10809,7 @@
 41	งาน	_	NOUN	NN	_	40	obj	_	SpaceAfter=No|th/proper=false
 42	และ	_	CCONJ	CC	_	43	cc	_	SpaceAfter=No|th/proper=false
 43	เรียน	_	VERB	VV	_	40	conj	_	SpaceAfter=No|th/proper=false
-44	ไป	_	PART	RP	_	40	dep:prt	_	SpaceAfter=No|th/proper=false
+44	ไป	_	PART	RP	_	40	compound:prt	_	SpaceAfter=No|th/proper=false
 45	พร้อม	_	VERB	VV	_	40	acl	_	SpaceAfter=No|th/proper=false
 46	กัน	_	PRON	PRP	_	45	obj	_	th/proper=false
 
@@ -11034,7 +11034,7 @@
 19	ใต้	_	NOUN	NN	_	17	compound	_	th/proper=false
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No|th/proper=false
 21	ไหล	_	VERB	VV	_	13	conj	_	SpaceAfter=No|th/proper=false
-22	ไป	_	PART	RP	_	21	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ไป	_	PART	RP	_	21	compound:prt	_	SpaceAfter=No|th/proper=false
 23	ผ่าน	_	VERB	VV	_	21	acl	_	SpaceAfter=No|th/proper=false
 24	ลิลเลอซันด์	_	PROPN	NNP	_	23	obj	_	th/proper=true
 
@@ -11091,7 +11091,7 @@
 17	และ	_	CCONJ	CC	_	18	cc	_	SpaceAfter=No|th/proper=false
 18	ไวน์	_	NOUN	NN	_	7	conj	_	SpaceAfter=No|th/proper=false
 19	นำ	_	VERB	VV	_	18	acl	_	SpaceAfter=No|th/proper=false
-20	เข้า	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No|th/proper=false
+20	เข้า	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No|th/proper=false
 21	สำหรับ	_	ADP	IN	_	22	case	_	SpaceAfter=No|th/proper=false
 22	คน	_	NOUN	NN	_	18	nmod	_	SpaceAfter=No|th/proper=false
 23	รวย	_	ADJ	JJ	_	22	amod	_	th/proper=false
@@ -11110,8 +11110,8 @@
 9	จะ	_	VERB	MD	_	10	aux	_	SpaceAfter=No|th/proper=false
 10	ได้	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 11	ผล	_	NOUN	NN	_	10	obj	_	SpaceAfter=No|th/proper=false
-12	ออก	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
-13	มา	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+12	ออก	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
+13	มา	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 14	เป็น	_	AUX	VC	_	15	cop	_	SpaceAfter=No|th/proper=false
 15	ความตาย	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No|th/proper=false
 16	ของ	_	ADP	IN	_	17	case	_	SpaceAfter=No|th/proper=false
@@ -11158,8 +11158,8 @@
 33	เยอรมัน	_	PROPN	NNP	_	31	compound	_	SpaceAfter=No|th/proper=true
 34	ที่	_	DET	WDT	_	35	nsubj	_	SpaceAfter=No|th/proper=false
 35	บุก	_	VERB	VV	_	31	acl:relcl	_	SpaceAfter=No|th/proper=false
-36	เข้า	_	PART	RP	_	35	dep:prt	_	SpaceAfter=No|th/proper=false
-37	มา	_	PART	RP	_	35	dep:prt	_	th/proper=false
+36	เข้า	_	PART	RP	_	35	compound:prt	_	SpaceAfter=No|th/proper=false
+37	มา	_	PART	RP	_	35	compound:prt	_	th/proper=false
 
 # sent_id = w01025084
 # text = การล่าถอยนี้เป็นเรื่องน่าประหลาดใจของกองทัพออสเตรีย-ปรัสเซีย และกองทัพเดนมาร์กเกือบทั้งหมดประสบความสำเร็จการอพยพ
@@ -11250,7 +11250,7 @@
 22	ก็	_	ADV	RB	_	24	advmod	_	SpaceAfter=No|th/proper=false
 23	ถูก	_	VERB	MD	Voice=Pass	24	aux:pass	_	SpaceAfter=No|th/proper=false
 24	ปลด	_	VERB	VV	_	3	conj	_	SpaceAfter=No|th/proper=false
-25	ออก	_	PART	RP	_	24	dep:prt	_	SpaceAfter=No|th/proper=false
+25	ออก	_	PART	RP	_	24	compound:prt	_	SpaceAfter=No|th/proper=false
 26	จาก	_	ADP	IN	_	27	case	_	SpaceAfter=No|th/proper=false
 27	การบังคับ	_	VERB	VV	_	24	xcomp	_	SpaceAfter=No|th/proper=false
 28	บัญชา	_	NOUN	NN	_	27	obj	_	SpaceAfter=No|th/proper=false
@@ -11268,7 +11268,7 @@
 7	นับ	_	VERB	VV	_	2	acl	_	SpaceAfter=No|th/proper=false
 8	แต่	_	ADP	IN	_	9	case	_	SpaceAfter=No|th/proper=false
 9	นั้น	_	PRON	PRD	_	7	obl	_	SpaceAfter=No|th/proper=false
-10	มา	_	PART	RP	_	7	dep:prt	_	th/proper=false
+10	มา	_	PART	RP	_	7	compound:prt	_	th/proper=false
 
 # sent_id = w01026024
 # text = จำนวนสินค้าที่ขนส่งตามลำน้ำดานูบเพิ่มขึ้นเป็นราว 100 ล้านตันในปี 1987
@@ -11282,7 +11282,7 @@
 7	น้ำ	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No|th/proper=true
 8	ดานูบ	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|th/proper=true
 9	เพิ่ม	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	ขึ้น	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	เป็น	_	AUX	VC	_	15	cop	_	SpaceAfter=No|th/proper=false
 12	ราว	_	ADV	RB	_	14	advmod	_	th/proper=false
 13	100	_	NUM	CD	_	14	nummod	_	th/proper=false
@@ -11366,7 +11366,7 @@
 14	ไม่	_	PART	NEG	Polarity=Neg	15	advmod	_	SpaceAfter=No|th/proper=false
 15	ได้	_	PART	AS	Aspect=Perf	16	aux	_	SpaceAfter=No|th/proper=false
 16	ขนาน	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|th/proper=false
-17	ไป	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+17	ไป	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 18	กับ	_	ADP	IN	_	19	case	_	SpaceAfter=No|th/proper=false
 19	ชาย	_	NOUN	NN	_	16	obl	_	SpaceAfter=No|th/proper=false
 20	ฝั่ง	_	NOUN	NN	_	19	compound	_	th/proper=false
@@ -11400,7 +11400,7 @@
 8	โอไฮโอ	_	PROPN	NNP	_	7	flat:name	_	th/proper=true
 9	ซึ่ง	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No|th/proper=false
 10	ไหล	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|th/proper=false
-11	ลง	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ลง	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 12	สู่	_	ADP	IN	_	13	case	_	SpaceAfter=No|th/proper=false
 13	แม่น้ำ	_	PROPN	NN	_	10	obl	_	Proper=True|SpaceAfter=No|th/proper=true
 14	มิสซิสซิปปี	_	PROPN	NNP	_	13	flat:name	_	th/proper=true
@@ -11675,7 +11675,7 @@
 35	สุดท้าย	_	ADV	RB	_	37	advmod	_	SpaceAfter=No|th/proper=false
 36	ก็	_	ADV	RB	_	37	advmod	_	SpaceAfter=No|th/proper=false
 37	ไหล	_	VERB	VV	_	31	acl	_	SpaceAfter=No|th/proper=false
-38	ลง	_	PART	RP	_	37	dep:prt	_	SpaceAfter=No|th/proper=false
+38	ลง	_	PART	RP	_	37	compound:prt	_	SpaceAfter=No|th/proper=false
 39	สู่	_	ADP	IN	_	40	case	_	SpaceAfter=No|th/proper=false
 40	ทะเล	_	PROPN	NN	_	37	obl	_	Proper=True|SpaceAfter=No|th/proper=true
 41	เหนือ	_	PROPN	NNP	_	40	flat:name	_	th/proper=true
@@ -11725,13 +11725,13 @@
 17	ไม่	_	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|th/proper=false
 18	ค่อย	_	ADV	RB	_	19	advmod	_	SpaceAfter=No|th/proper=false
 19	ออก	_	VERB	VV	_	4	advcl	_	SpaceAfter=No|th/proper=false
-20	มา	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No|th/proper=false
+20	มา	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No|th/proper=false
 21	ถึง	_	ADP	IN	_	22	case	_	SpaceAfter=No|th/proper=false
 22	ผิว	_	NOUN	NN	_	19	obl	_	SpaceAfter=No|th/proper=false
 23	โลก	_	NOUN	NN	_	22	compound	_	th/proper=false
 24	แต่	_	CCONJ	CC	_	25	cc	_	SpaceAfter=No|th/proper=false
 25	เย็นตัว	_	VERB	VV	_	19	conj	_	SpaceAfter=No|th/proper=false
-26	ลง	_	PART	RP	_	25	dep:prt	_	SpaceAfter=No|th/proper=false
+26	ลง	_	PART	RP	_	25	compound:prt	_	SpaceAfter=No|th/proper=false
 27	ตั้ง	_	VERB	VV	_	30	mark	_	SpaceAfter=No|th/proper=false
 28	แต่	_	ADP	IN	_	27	fixed	_	SpaceAfter=No|th/proper=false
 29	ยัง	_	PART	AS	Aspect=Prog	30	aux	_	SpaceAfter=No|th/proper=false
@@ -11872,7 +11872,7 @@
 9	ภัย	_	NOUN	NN	_	5	obl	_	SpaceAfter=No|th/proper=false
 10	ธรรมชาติ	_	NOUN	NN	_	9	compound	_	SpaceAfter=No|th/proper=false
 11	เพิ่ม	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No|th/proper=false
-12	ขึ้น	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+12	ขึ้น	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 13	อย่างมาก	_	ADJ	JJ	_	11	advmod	_	th/proper=false
 14	เช่น	_	ADP	IN	_	15	case	_	th/proper=false
 15	น้ำ	_	NOUN	NN	_	11	obl	_	SpaceAfter=No|th/proper=false
@@ -11917,7 +11917,7 @@
 23	ที่	_	DET	WDT	_	25	obl:tmod	_	SpaceAfter=No|th/proper=false
 24	จะ	_	VERB	MD	_	25	aux	_	SpaceAfter=No|th/proper=false
 25	เกิด	_	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No|th/proper=false
-26	ขึ้น	_	PART	RP	_	25	dep:prt	_	th/proper=false
+26	ขึ้น	_	PART	RP	_	25	compound:prt	_	th/proper=false
 27	หรือ	_	CCONJ	CC	_	30	cc	_	SpaceAfter=No|th/proper=false
 28	อย่างน้อย	_	ADJ	JJ	_	30	advmod	_	SpaceAfter=No|th/proper=false
 29	ก็	_	ADV	RB	_	30	advmod	_	SpaceAfter=No|th/proper=false
@@ -11954,7 +11954,7 @@
 3	ปี	_	NOUN	NNB	_	16	obl:tmod	_	SpaceAfter=No|th/proper=false
 4	ที่	_	DET	WDT	_	5	obl:tmod	_	SpaceAfter=No|th/proper=false
 5	ผ่าน	_	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|th/proper=false
-6	มา	_	PART	RP	_	5	dep:prt	_	th/proper=false
+6	มา	_	PART	RP	_	5	compound:prt	_	th/proper=false
 7	การทำลาย	_	VERB	VV	_	16	csubj	_	SpaceAfter=No|th/proper=false
 8	ถิ่น	_	NOUN	NN	_	7	obj	_	SpaceAfter=No|th/proper=false
 9	ที่	_	NOUN	NN	_	8	compound	_	SpaceAfter=No|th/proper=false
@@ -11974,7 +11974,7 @@
 23	ทั่ว	_	ADJ	JJ	_	24	amod	_	SpaceAfter=No|th/proper=false
 24	โลก	_	NOUN	NN	_	17	compound	_	SpaceAfter=No|th/proper=false
 25	เสื่อม	_	VERB	VV	_	16	xcomp	_	SpaceAfter=No|th/proper=false
-26	ลง	_	PART	RP	_	25	dep:prt	_	SpaceAfter=No|th/proper=false
+26	ลง	_	PART	RP	_	25	compound:prt	_	SpaceAfter=No|th/proper=false
 27	จาก	_	ADP	IN	_	28	case	_	SpaceAfter=No|th/proper=false
 28	การกัดกร่อน	_	VERB	VV	_	25	obl	_	th/proper=false
 29	ภาวะ	_	NOUN	NN	_	28	conj	_	SpaceAfter=No|th/proper=false
@@ -12082,7 +12082,7 @@
 5	ข้าม	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No|th/proper=false
 6	มหาสมุทร	_	PROPN	NN	_	5	obj	_	Proper=True|SpaceAfter=No|th/proper=true
 7	แอตแลนติก	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|th/proper=true
-8	ไป	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ไป	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ยัง	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	เวสต์อินดีส	_	PROPN	NNP	_	3	obl	_	SpaceAfter=No|th/proper=true
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
@@ -12284,7 +12284,7 @@
 7	ธรรมชาติ	_	NOUN	NN	_	6	compound	_	SpaceAfter=No|th/proper=false
 8	ที่	_	DET	WDT	_	9	nsubj	_	SpaceAfter=No|th/proper=false
 9	เกิด	_	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|th/proper=false
-10	ขึ้น	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	เขต	_	NOUN	NN	_	9	obl	_	SpaceAfter=No|th/proper=false
 13	แห้งแล้ง	_	ADJ	JJ	_	12	amod	_	SpaceAfter=No|th/proper=false
@@ -12324,7 +12324,7 @@
 23	ถูก	_	VERB	MD	Voice=Pass	24	aux:pass	_	SpaceAfter=No|th/proper=false
 24	พัด	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|th/proper=false
 25	ปลิว	_	VERB	VV	_	24	acl	_	SpaceAfter=No|th/proper=false
-26	ไป	_	PART	RP	_	24	dep:prt	_	SpaceAfter=No|th/proper=false
+26	ไป	_	PART	RP	_	24	compound:prt	_	SpaceAfter=No|th/proper=false
 27	แล้ว	_	PART	AS	Aspect=Perf	24	aux	_	th/proper=false
 
 # sent_id = w01040102
@@ -12361,7 +12361,7 @@
 8	ส่วน	_	NOUN	NNB	_	6	clf	_	SpaceAfter=No|th/proper=false
 9	ก็	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|th/proper=false
 10	ลอย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-11	ขึ้น	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ขึ้น	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 12	สู่	_	ADP	IN	_	13	case	_	SpaceAfter=No|th/proper=false
 13	กระแส	_	NOUN	NN	_	10	obl	_	SpaceAfter=No|th/proper=false
 14	อากาศ	_	NOUN	NN	_	13	compound	_	th/proper=false
@@ -12371,7 +12371,7 @@
 # english_text = When they land, they strike other particles which may be jerked into the air in their turn, starting a chain reaction.
 1	เมื่อ	_	ADP	IN	_	2	mark	_	SpaceAfter=No|th/proper=false
 2	ตก	_	VERB	VV	_	7	advcl	_	SpaceAfter=No|th/proper=false
-3	ลง	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	ลง	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	พื้น	_	NOUN	NN	_	2	advmod	_	SpaceAfter=No|th/proper=false
 5	ก็	_	ADV	RB	_	7	advmod	_	SpaceAfter=No|th/proper=false
 6	จะ	_	VERB	MD	_	7	aux	_	SpaceAfter=No|th/proper=false
@@ -12384,7 +12384,7 @@
 13	ทำให้	_	VERB	VV	_	7	advcl	_	SpaceAfter=No|th/proper=false
 14	เด้ง	_	VERB	VV	_	13	xcomp	_	SpaceAfter=No|th/proper=false
 15	ลอย	_	VERB	VV	_	14	acl	_	SpaceAfter=No|th/proper=false
-16	ขึ้น	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+16	ขึ้น	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 17	สู่	_	ADP	IN	_	18	case	_	SpaceAfter=No|th/proper=false
 18	อากาศ	_	NOUN	NN	_	15	obl	_	SpaceAfter=No|th/proper=false
 19	ตาม	_	ADP	IN	_	20	case	_	SpaceAfter=No|th/proper=false
@@ -12412,7 +12412,7 @@
 12	ทำให้	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 13	ปัญหา	_	NOUN	NN	_	12	obj	_	SpaceAfter=No|th/proper=false
 14	เพิ่ม	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No|th/proper=false
-15	ขึ้น	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
+15	ขึ้น	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
 16	อย่างมาก	_	ADV	RB	_	14	advmod	_	SpaceAfter=No|th/proper=false
 17	ด้วย	_	ADV	RB	_	14	advmod	_	th/proper=false
 18	เช่น	_	ADP	IN	_	19	case	_	th/proper=false
@@ -12426,7 +12426,7 @@
 2	ฟ้า	_	NOUN	NN	_	1	compound	_	SpaceAfter=No|th/proper=false
 3	คะนอง	_	VERB	VV	_	2	acl	_	SpaceAfter=No|th/proper=false
 4	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	ขึ้น	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ขึ้น	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	ได้	_	VERB	MD	_	4	aux	_	SpaceAfter=No|th/proper=false
 7	ยาก	_	ADV	RB	_	4	advmod	_	th/proper=false
 8	โดย	_	ADP	IN	_	11	mark	_	SpaceAfter=No|th/proper=false
@@ -12575,7 +12575,7 @@
 16	Antillas	_	PROPN	NNP	_	15	obj	_	th/proper=true
 17	ได้	_	PART	AS	Aspect=Perf	18	aux	_	SpaceAfter=No|th/proper=false
 18	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-19	มา	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+19	มา	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 20	ใช้	_	VERB	VV	_	18	acl	_	SpaceAfter=No|th/proper=false
 21	กับ	_	ADP	IN	_	22	case	_	SpaceAfter=No|th/proper=false
 22	ผืน	_	NOUN	NN	_	20	obl	_	SpaceAfter=No|th/proper=false
@@ -12773,7 +12773,7 @@
 14	แจ่มชัด	_	ADJ	JJ	_	11	acl:relcl	_	SpaceAfter=No|th/proper=false
 15	ของ	_	ADP	IN	_	16	case	_	SpaceAfter=No|th/proper=false
 16	การเดินทาง	_	VERB	VV	_	11	nmod:poss	_	SpaceAfter=No|th/proper=false
-17	ไป	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+17	ไป	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 18	ตาม	_	ADP	IN	_	19	case	_	SpaceAfter=No|th/proper=false
 19	พื้น	_	NOUN	NN	_	16	obl	_	SpaceAfter=No|th/proper=false
 20	มหาสมุทร	_	NOUN	NN	_	19	compound	_	th/proper=false
@@ -12815,7 +12815,7 @@
 8	ปรับ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 9	แก้	_	VERB	VV	_	8	xcomp	_	SpaceAfter=No|th/proper=false
 10	เสร็จ	_	VERB	VV	_	9	acl	_	SpaceAfter=No|th/proper=false
-11	ไป	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ไป	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 12	ส่วน	_	NOUN	NN	_	10	advmod	_	SpaceAfter=No|th/proper=false
 13	ใหญ่	_	ADJ	JJ	_	12	amod	_	SpaceAfter=No|th/proper=false
 14	แล้ว	_	PART	AS	Aspect=Perf	10	aux	_	th/proper=false
@@ -12830,8 +12830,8 @@
 23	ส่ง	_	VERB	VV	_	17	advcl	_	SpaceAfter=No|th/proper=false
 24	ต้น	_	NOUN	NN	_	23	obj	_	SpaceAfter=No|th/proper=false
 25	ฉบับ	_	NOUN	NN	_	24	compound	_	SpaceAfter=No|th/proper=false
-26	ออก	_	PART	RP	_	23	dep:prt	_	SpaceAfter=No|th/proper=false
-27	ไป	_	PART	RP	_	23	dep:prt	_	SpaceAfter=No|th/proper=false
+26	ออก	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No|th/proper=false
+27	ไป	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No|th/proper=false
 28	ให้	_	VERB	VV	_	23	acl	_	SpaceAfter=No|th/proper=false
 29	บุคคล	_	NOUN	NN	_	28	obj	_	SpaceAfter=No|th/proper=false
 30	ที่	_	DET	WDT	_	31	obj	_	SpaceAfter=No|th/proper=false
@@ -12944,7 +12944,7 @@
 5	ออสเตรเลีย	_	PROPN	NNP	_	1	nmod:poss	_	SpaceAfter=No|th/proper=true
 6	ซึ่ง	_	DET	WDT	_	7	obj	_	SpaceAfter=No|th/proper=false
 7	ก่อตั้ง	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|th/proper=false
-8	ขึ้น	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ขึ้น	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ใน	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	ปี	_	NOUN	NN	_	7	obl	_	th/proper=false
 11	1879	_	NUM	CD	_	10	appos	_	th/proper=false
@@ -12954,7 +12954,7 @@
 15	ชาติ	_	NOUN	NN	_	13	nmod:poss	_	SpaceAfter=No|th/proper=false
 16	ที่	_	DET	WDT	_	17	obj	_	SpaceAfter=No|th/proper=false
 17	ก่อตั้ง	_	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|th/proper=false
-18	ขึ้น	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+18	ขึ้น	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 19	อย่างเป็น	_	AUX	VC	_	20	cop	_	SpaceAfter=No|th/proper=false
 20	ทางการ	_	ADJ	JJ	_	17	advmod	_	SpaceAfter=No|th/proper=false
 21	แห่ง	_	NOUN	NNB	_	17	advmod	_	SpaceAfter=No|th/proper=false
@@ -13021,7 +13021,7 @@
 3	จีน	_	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No|th/proper=true
 4	ที่	_	DET	WDT	_	5	obj	_	SpaceAfter=No|th/proper=false
 5	ตั้ง	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|th/proper=false
-6	ขึ้น	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+6	ขึ้น	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 7	ใหม่	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|th/proper=false
 8	เห็น	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 9	ว่า	_	ADP	IN	_	12	mark	_	SpaceAfter=No|th/proper=false
@@ -13094,7 +13094,7 @@
 35	ก็	_	ADV	RB	_	37	advmod	_	SpaceAfter=No|th/proper=false
 36	เป็น	_	AUX	VC	_	37	cop	_	SpaceAfter=No|th/proper=false
 37	โมฆะ	_	ADJ	JJ	_	10	conj	_	SpaceAfter=No|th/proper=false
-38	ไป	_	PART	RP	_	37	dep:prt	_	th/proper=false
+38	ไป	_	PART	RP	_	37	compound:prt	_	th/proper=false
 
 # sent_id = w01050071
 # text = พื้นที่ที่โบกด์ข่านควบคุมคือราวๆ บริเวณมองโกเลียนอกเดิมในสมัยราชวงศ์ชิง
@@ -13209,7 +13209,7 @@
 12	เหนือ	_	NOUN	NN	_	10	compound	_	th/proper=false
 13	เลย	_	VERB	VV	_	10	acl	_	SpaceAfter=No|th/proper=false
 14	คาเดช	_	PROPN	NNP	_	13	obj	_	SpaceAfter=No|th/proper=true
-15	ไป	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
+15	ไป	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No|th/proper=false
 17	ตูนิป	_	PROPN	NNP	_	10	nmod	_	th/proper=true
 18	ซึ่ง	_	DET	WDT	_	20	advmod	_	SpaceAfter=No|th/proper=false
@@ -13341,7 +13341,7 @@
 10	มี	_	VERB	VV	_	4	advcl	_	SpaceAfter=No|th/proper=false
 11	อธิกมาส	_	NOUN	NN	_	10	obj	_	SpaceAfter=No|th/proper=false
 12	เพิ่ม	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No|th/proper=false
-13	ขึ้น	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	ขึ้น	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	ปี	_	NOUN	NN	_	12	obl	_	SpaceAfter=No|th/proper=false
 16	นั้น	_	DET	DT	_	15	det	_	th/proper=false
@@ -13388,7 +13388,7 @@
 1	ป้อม	_	NOUN	NN	_	3	obj	_	SpaceAfter=No|th/proper=false
 2	ปราการ	_	NOUN	NN	_	1	compound	_	SpaceAfter=No|th/proper=false
 3	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-4	ขึ้น	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ขึ้น	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No|th/proper=false
 6	พื้นที่	_	NOUN	NN	_	3	obl	_	SpaceAfter=No|th/proper=false
 7	เดิม	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No|th/proper=false
@@ -13400,7 +13400,7 @@
 13	มี	_	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|th/proper=false
 14	การตั้ง	_	VERB	VV	_	13	obj	_	SpaceAfter=No|th/proper=false
 15	รกราก	_	NOUN	NN	_	14	obj	_	SpaceAfter=No|th/proper=false
-16	มา	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
+16	มา	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
 17	ก่อน	_	ADV	RB	_	13	advmod	_	th/proper=false
 
 # sent_id = w01056103
@@ -13422,7 +13422,7 @@
 14	รัฐ	_	NOUN	NN	_	8	nmod:poss	_	SpaceAfter=No|th/proper=false
 15	สามารถ	_	VERB	MD	_	16	aux	_	SpaceAfter=No|th/proper=false
 16	นำ	_	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|th/proper=false
-17	มา	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+17	มา	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 18	ใช้	_	VERB	VV	_	16	acl	_	SpaceAfter=No|th/proper=false
 19	ได้	_	VERB	MD	_	18	aux	_	SpaceAfter=No|th/proper=false
 20	ทั่ว	_	ADJ	JJ	_	21	amod	_	SpaceAfter=No|th/proper=false
@@ -13548,7 +13548,7 @@
 6	ครั้ง	_	NOUN	NNB	_	4	clf	_	SpaceAfter=No|th/proper=false
 7	สุดท้าย	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No|th/proper=false
 8	จัด	_	VERB	VV	_	1	ccomp	_	SpaceAfter=No|th/proper=false
-9	ขึ้น	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+9	ขึ้น	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
 11	ปี	_	NOUN	NN	_	8	obl	_	th/proper=false
 12	393	_	NUM	CD	_	11	appos	_	th/proper=false
@@ -13584,7 +13584,7 @@
 4	เฉิน	_	PROPN	NNP	_	6	nsubj:pass	_	SpaceAfter=No|th/proper=true
 5	ถูก	_	VERB	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No|th/proper=false
 6	ส่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-7	ไป	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+7	ไป	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 8	ดูแล	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No|th/proper=false
 9	แผน	_	NOUN	NN	_	8	obj	_	SpaceAfter=No|th/proper=false
 10	ของ	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
@@ -13616,7 +13616,7 @@
 10	ที่	_	DET	WDT	_	11	obj	_	SpaceAfter=No|th/proper=false
 11	คิด	_	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|th/proper=false
 12	ค้น	_	VERB	VV	_	11	acl	_	SpaceAfter=No|th/proper=false
-13	ขึ้น	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+13	ขึ้น	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 14	เอง	_	ADV	RB	_	11	advmod	_	th/proper=false
 15	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No|th/proper=false
 16	แสดง	_	VERB	VV	_	8	conj	_	SpaceAfter=No|th/proper=false
@@ -13645,7 +13645,7 @@
 9	เมื่อ	_	ADP	IN	_	11	mark	_	SpaceAfter=No|th/proper=false
 10	ถูก	_	VERB	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No|th/proper=false
 11	ส่ง	_	VERB	VV	_	3	advcl	_	SpaceAfter=No|th/proper=false
-12	ไป	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+12	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 13	เป็น	_	AUX	VC	_	14	cop	_	SpaceAfter=No|th/proper=false
 14	ราชทูต	_	NOUN	NN	_	11	xcomp	_	SpaceAfter=No|th/proper=false
 15	ประจำ	_	VERB	VV	_	14	acl	_	SpaceAfter=No|th/proper=false
@@ -13671,7 +13671,7 @@
 7	เพื่อ	_	ADP	IN	_	8	mark	_	SpaceAfter=No|th/proper=false
 8	ขยาย	_	VERB	VV	_	4	advcl	_	SpaceAfter=No|th/proper=false
 9	พรมแดน	_	NOUN	NN	_	8	obj	_	SpaceAfter=No|th/proper=false
-10	ไป	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ไป	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 11	ทาง	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	ใต้	_	NOUN	NN	_	8	obl	_	th/proper=false
 13	พร้อม	_	CCONJ	CC	_	14	cc	_	SpaceAfter=No|th/proper=false
@@ -13818,7 +13818,7 @@
 24	เหมาะสม	_	ADJ	JJ	_	22	ccomp	_	SpaceAfter=No|th/proper=false
 25	แตกต่าง	_	VERB	VV	_	16	acl	_	SpaceAfter=No|th/proper=false
 26	กัน	_	PRON	PRP	_	25	obj	_	SpaceAfter=No|th/proper=false
-27	ไป	_	PART	RP	_	25	dep:prt	_	th/proper=false
+27	ไป	_	PART	RP	_	25	compound:prt	_	th/proper=false
 
 # sent_id = w01064034
 # text = เป็นการเดินทางโดยเรือจากยุโรปภาคพื้นทวีป
@@ -13933,7 +13933,7 @@
 8	สันนิษฐาน	_	VERB	VV	_	4	advcl	_	SpaceAfter=No|th/proper=false
 9	ว่า	_	ADP	IN	_	10	mark	_	SpaceAfter=No|th/proper=false
 10	เกิด	_	VERB	VV	_	8	ccomp	_	SpaceAfter=No|th/proper=false
-11	ขึ้น	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ขึ้น	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 12	ใน	_	ADP	IN	_	13	case	_	SpaceAfter=No|th/proper=false
 13	ช่วง	_	NOUN	NN	_	10	obl	_	SpaceAfter=No|th/proper=false
 14	ต้น	_	NOUN	NN	_	13	compound	_	SpaceAfter=No|th/proper=false
@@ -14097,7 +14097,7 @@
 11	เชื้อสาย	_	NOUN	NN	_	9	compound	_	SpaceAfter=No|th/proper=false
 12	จีน	_	PROPN	NNP	_	9	compound	_	SpaceAfter=No|th/proper=true
 13	เปลี่ยนแปลง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-14	ไป	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
+14	ไป	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
 15	ตาม	_	ADP	IN	_	18	case	_	SpaceAfter=No|th/proper=false
 16	ทั้ง	_	DET	DT	_	18	det	_	SpaceAfter=No|th/proper=false
 17	สอง	_	NUM	CD	_	18	nummod	_	SpaceAfter=No|th/proper=false
@@ -14200,7 +14200,7 @@
 6	อัลดริน	_	PROPN	NNP	_	8	nsubj:pass	_	SpaceAfter=No|th/proper=true
 7	ถูก	_	VERB	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No|th/proper=false
 8	ล่อลวง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-9	ไป	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+9	ไป	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 10	ยัง	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
 11	โรง	_	PROPN	NN	_	8	obl	_	Proper=True|SpaceAfter=No|th/proper=true
 12	แรม	_	VERB	VV	_	11	acl	_	SpaceAfter=No|th/proper=false
@@ -14314,7 +14314,7 @@
 25	เหลือ	_	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No|th/proper=false
 26	จะ	_	VERB	MD	_	27	aux	_	SpaceAfter=No|th/proper=false
 27	กลับ	_	VERB	VV	_	18	advcl	_	SpaceAfter=No|th/proper=false
-28	มา	_	PART	RP	_	27	dep:prt	_	th/proper=false
+28	มา	_	PART	RP	_	27	compound:prt	_	th/proper=false
 
 # sent_id = w01069094
 # text = การต่อสู้กับจักรวรรดิออตโตมันในทะเลเมดิเตอร์เรเนียนสร้างข้อจำกัดที่หนักหนาด้านกำลังทหารที่จะส่งไปปราบกบฏในเนเธอร์แลนด์
@@ -14337,7 +14337,7 @@
 16	ที่	_	DET	WDT	_	18	obj	_	SpaceAfter=No|th/proper=false
 17	จะ	_	VERB	MD	_	18	aux	_	SpaceAfter=No|th/proper=false
 18	ส่ง	_	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|th/proper=false
-19	ไป	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+19	ไป	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 20	ปราบ	_	VERB	VV	_	18	acl	_	SpaceAfter=No|th/proper=false
 21	กบฏ	_	NOUN	NN	_	20	obj	_	SpaceAfter=No|th/proper=false
 22	ใน	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
@@ -14352,7 +14352,7 @@
 4	ยุค	_	NOUN	NN	_	1	compound	_	SpaceAfter=No|th/proper=false
 5	สำริด	_	NOUN	NN	_	4	compound	_	SpaceAfter=No|th/proper=false
 6	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-7	ขึ้น	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+7	ขึ้น	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 8	ที่	_	ADP	IN	_	9	case	_	SpaceAfter=No|th/proper=false
 9	นั่น	_	PRON	PRD	_	6	obl	_	SpaceAfter=No|th/proper=false
 10	ประมาณ	_	ADV	RB	_	11	advmod	_	th/proper=false
@@ -14480,7 +14480,7 @@
 10	ได้	_	PART	AS	Aspect=Perf	12	aux	_	SpaceAfter=No|th/proper=false
 11	ถูก	_	VERB	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No|th/proper=false
 12	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-13	มา	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	มา	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ใช้	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No|th/proper=false
 15	งาน	_	NOUN	NN	_	14	obj	_	th/proper=false
 
@@ -14637,7 +14637,7 @@
 15	ที่	_	DET	WDT	_	16	nsubj	_	SpaceAfter=No|th/proper=false
 16	ล่อง	_	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|th/proper=false
 17	เรือ	_	NOUN	NN	_	16	obj	_	SpaceAfter=No|th/proper=false
-18	ไป	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+18	ไป	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 19	กับ	_	ADP	IN	_	20	case	_	SpaceAfter=No|th/proper=false
 20	ทริกซ์	_	PROPN	NNP	_	16	obl	_	SpaceAfter=No|th/proper=true
 21	ที่	_	ADP	IN	_	22	case	_	SpaceAfter=No|th/proper=false
@@ -14648,7 +14648,7 @@
 26	ทริกซ์	_	PROPN	NNP	_	28	nsubj	_	SpaceAfter=No|th/proper=true
 27	ได้	_	PART	AS	Aspect=Perf	28	aux	_	SpaceAfter=No|th/proper=false
 28	กลับ	_	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|th/proper=false
-29	มา	_	PART	RP	_	28	dep:prt	_	SpaceAfter=No|th/proper=false
+29	มา	_	PART	RP	_	28	compound:prt	_	SpaceAfter=No|th/proper=false
 30	อีก	_	PROPN	NNP	_	28	obj	_	SpaceAfter=No|th/proper=true
 31	)	_	PUNCT	)	_	28	punct	_	th/proper=false
 
@@ -14679,7 +14679,7 @@
 # english_text = Back in Lahore, some thirty-nine stories appeared in the Gazette between November 1886 and June 1887.
 1	ย้อน	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 2	กลับ	_	VERB	VV	_	1	acl	_	SpaceAfter=No|th/proper=false
-3	ไป	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	ไป	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	ที่	_	ADP	IN	_	5	case	_	SpaceAfter=No|th/proper=false
 5	ลาฮอร์	_	PROPN	NNP	_	1	obl	_	th/proper=true
 6	เรื่อง	_	NOUN	NN	_	13	obj	_	SpaceAfter=No|th/proper=false
@@ -14736,7 +14736,7 @@
 15	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 16	แนว	_	NOUN	NN	_	15	obj	_	SpaceAfter=No|th/proper=false
 17	โน้ม	_	VERB	VV	_	16	acl	_	SpaceAfter=No|th/proper=false
-18	ไป	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+18	ไป	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 19	ใน	_	ADP	IN	_	20	case	_	SpaceAfter=No|th/proper=false
 20	ทิศทาง	_	NOUN	NN	_	15	obl	_	SpaceAfter=No|th/proper=false
 21	ของ	_	ADP	IN	_	22	case	_	SpaceAfter=No|th/proper=false
@@ -14802,7 +14802,7 @@
 18	ลด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 19	โอกาส	_	NOUN	NN	_	18	obj	_	SpaceAfter=No|th/proper=false
 20	ความขัดแย้ง	_	VERB	VV	_	19	compound	_	SpaceAfter=No|th/proper=false
-21	ไป	_	PART	RP	_	20	dep:prt	_	SpaceAfter=No|th/proper=false
+21	ไป	_	PART	RP	_	20	compound:prt	_	SpaceAfter=No|th/proper=false
 22	ประมาณ	_	ADV	RB	_	23	advmod	_	th/proper=false
 23	3	_	NUM	CD	_	24	nummod	_	SpaceAfter=No|th/proper=false
 24	%	_	SYM	SYM	_	18	advmod	_	th/proper=false
@@ -14850,7 +14850,7 @@
 14	รายได้	_	NOUN	NN	_	11	nmod:poss	_	SpaceAfter=No|th/proper=false
 15	ที่	_	DET	WDT	_	16	nsubj	_	SpaceAfter=No|th/proper=false
 16	เสีย	_	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|th/proper=false
-17	ไป	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+17	ไป	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 18	หาก	_	ADP	IN	_	19	mark	_	SpaceAfter=No|th/proper=false
 19	เข้าร่วม	_	VERB	VV	_	16	advcl	_	SpaceAfter=No|th/proper=false
 20	การก่อ	_	VERB	VV	_	19	obj	_	SpaceAfter=No|th/proper=false
@@ -14859,7 +14859,7 @@
 23	รายได้	_	NOUN	NN	_	33	nsubj	_	SpaceAfter=No|th/proper=false
 24	ที่	_	DET	WDT	_	25	nsubj	_	SpaceAfter=No|th/proper=false
 25	เสีย	_	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No|th/proper=false
-26	ไป	_	PART	RP	_	25	dep:prt	_	SpaceAfter=No|th/proper=false
+26	ไป	_	PART	RP	_	25	compound:prt	_	SpaceAfter=No|th/proper=false
 27	ที่	_	DET	WDT	_	28	nsubj	_	SpaceAfter=No|th/proper=false
 28	น้อย	_	ADJ	JJ	_	23	acl:relcl	_	SpaceAfter=No|th/proper=false
 29	กว่า	_	ADP	IN	_	30	case	_	SpaceAfter=No|th/proper=false
@@ -14985,7 +14985,7 @@
 2	อาหรับ	_	PROPN	NNP	_	1	obj	_	SpaceAfter=No|th/proper=true
 3	ที่	_	DET	WDT	_	4	nsubj	_	SpaceAfter=No|th/proper=false
 4	เริ่ม	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|th/proper=false
-5	ขึ้น	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ขึ้น	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	ใน	_	ADP	IN	_	7	case	_	SpaceAfter=No|th/proper=false
 7	ปี	_	NOUN	NN	_	4	obl	_	th/proper=false
 8	1916	_	NUM	CD	_	7	appos	_	th/proper=false
@@ -15106,7 +15106,7 @@
 28	บาป	_	NOUN	NN	_	27	obj	_	SpaceAfter=No|th/proper=false
 29	สามารถ	_	VERB	MD	_	30	aux	_	SpaceAfter=No|th/proper=false
 30	กลับ	_	VERB	VV	_	6	conj	_	SpaceAfter=No|th/proper=false
-31	ไป	_	PART	RP	_	30	dep:prt	_	SpaceAfter=No|th/proper=false
+31	ไป	_	PART	RP	_	30	compound:prt	_	SpaceAfter=No|th/proper=false
 32	สู่	_	ADP	IN	_	33	case	_	SpaceAfter=No|th/proper=false
 33	ศาสนา	_	PROPN	NN	_	30	obl	_	Proper=True|SpaceAfter=No|th/proper=true
 34	ยิว	_	PROPN	NNP	_	33	flat:name	_	SpaceAfter=No|th/proper=true
@@ -15122,8 +15122,8 @@
 4	สเปน	_	PROPN	NNP	_	3	compound	_	SpaceAfter=No|th/proper=true
 5	เชื้อสาย	_	NOUN	NN	_	3	compound	_	SpaceAfter=No|th/proper=false
 6	ยิว	_	PROPN	NNP	_	3	compound	_	SpaceAfter=No|th/proper=true
-7	ออก	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
-8	ไป	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+7	ออก	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
+8	ไป	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ใน	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	ปี	_	NOUN	NN	_	2	obl	_	th/proper=false
 11	1492	_	NUM	CD	_	10	appos	_	th/proper=false
@@ -15183,7 +15183,7 @@
 3	ทรง	_	VERB	MD	_	4	aux	_	SpaceAfter=No|th/proper=false
 4	ยก	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 5	ทัพ	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|th/proper=false
-6	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+6	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 7	ประจัญ	_	VERB	VV	_	4	acl	_	SpaceAfter=No|th/proper=false
 8	กับ	_	ADP	IN	_	9	case	_	SpaceAfter=No|th/proper=false
 9	ศัตรู	_	NOUN	NN	_	7	obl	_	SpaceAfter=No|th/proper=false
@@ -15224,7 +15224,7 @@
 3	มาซิโดเนีย	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No|th/proper=true
 4	เคลื่อน	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 5	ทัพ	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|th/proper=false
-6	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+6	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 7	ไกล	_	ADV	RB	_	4	advmod	_	SpaceAfter=No|th/proper=false
 8	จน	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 9	ถึง	_	ADP	IN	_	8	fixed	_	SpaceAfter=No|th/proper=false
@@ -15234,7 +15234,7 @@
 13	ที่	_	DET	WDT	_	14	nsubj	_	SpaceAfter=No|th/proper=false
 14	แยก	_	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|th/proper=false
 15	กรีซ	_	PROPN	NNP	_	14	obj	_	SpaceAfter=No|th/proper=true
-16	ออก	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
+16	ออก	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
 17	เป็น	_	AUX	VC	_	19	cop	_	SpaceAfter=No|th/proper=false
 18	สอง	_	NUM	CD	_	19	nummod	_	SpaceAfter=No|th/proper=false
 19	ส่วน	_	NOUN	NNB	_	14	xcomp	_	th/proper=false
@@ -15286,7 +15286,7 @@
 20	ทัพ	_	NOUN	NN	_	19	obj	_	SpaceAfter=No|th/proper=false
 21	ลึก	_	ADV	RB	_	19	advmod	_	SpaceAfter=No|th/proper=false
 22	เข้า	_	VERB	VV	_	19	acl	_	SpaceAfter=No|th/proper=false
-23	ไป	_	PART	RP	_	22	dep:prt	_	SpaceAfter=No|th/proper=false
+23	ไป	_	PART	RP	_	22	compound:prt	_	SpaceAfter=No|th/proper=false
 24	ใน	_	ADP	IN	_	25	case	_	SpaceAfter=No|th/proper=false
 25	เธรซ	_	PROPN	NNP	_	22	obl	_	SpaceAfter=No|th/proper=true
 26	เพื่อ	_	ADP	IN	_	27	case	_	SpaceAfter=No|th/proper=false
@@ -15387,7 +15387,7 @@
 # english_text = This city-state emerged in the same period as Sukhothai.
 1	นครรัฐ	_	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|th/proper=false
 2	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-3	ขึ้น	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	ขึ้น	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	ใน	_	ADP	IN	_	5	case	_	SpaceAfter=No|th/proper=false
 5	ยุคสมัย	_	NOUN	NN	_	2	obl	_	SpaceAfter=No|th/proper=false
 6	เดียว	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No|th/proper=false
@@ -15409,7 +15409,7 @@
 10	ที่	_	NOUN	NN	_	8	compound	_	th/proper=false
 11	16	_	NUM	CD	_	10	nummod	_	th/proper=false
 12	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-13	ไป	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	ไป	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	สู่	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	ช่วง	_	NOUN	NN	_	12	obl	_	SpaceAfter=No|th/proper=false
 16	เศรษฐกิจ	_	NOUN	NN	_	15	compound	_	SpaceAfter=No|th/proper=false
@@ -15452,7 +15452,7 @@
 5	มัน	_	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No|th/proper=false
 6	มุ่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 7	เน้น	_	VERB	VV	_	6	acl	_	SpaceAfter=No|th/proper=false
-8	ไป	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ไป	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ยัง	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	ตำแหน่ง	_	NOUN	NN	_	6	obl	_	SpaceAfter=No|th/proper=false
 11	เล็ก	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No|th/proper=false
@@ -15555,11 +15555,11 @@
 6	ใหญ่	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No|th/proper=false
 7	ที่	_	DET	WDT	_	8	obj	_	SpaceAfter=No|th/proper=false
 8	เกณฑ์	_	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|th/proper=false
-9	มา	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+9	มา	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 10	จาก	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
 11	เวนิส	_	PROPN	NNP	_	8	obl	_	SpaceAfter=No|th/proper=true
 12	ปะทุ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-13	ขึ้น	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	ขึ้น	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	จาก	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	ฝรั่งเศส	_	PROPN	NNP	_	12	obl	_	th/proper=true
 
@@ -15573,7 +15573,7 @@
 5	เวนิส	_	PROPN	NNP	_	4	compound	_	SpaceAfter=No|th/proper=true
 6	ลด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 7	จำนวน	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|th/proper=false
-8	ลง	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ลง	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 9	เหลือ	_	VERB	VV	_	6	acl	_	SpaceAfter=No|th/proper=false
 10	ประมาณ	_	ADV	RB	_	11	advmod	_	th/proper=false
 11	168,000	_	NUM	CD	_	12	nummod	_	th/proper=false
@@ -15635,8 +15635,8 @@
 16	ที่	_	DET	WDT	_	17	nsubj	_	SpaceAfter=No|th/proper=false
 17	รวม	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|th/proper=false
 18	ผู้หญิง	_	NOUN	NN	_	17	obj	_	SpaceAfter=No|th/proper=false
-19	เข้า	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
-20	ไป	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+19	เข้า	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
+20	ไป	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 21	ด้วย	_	ADV	RB	_	17	advmod	_	th/proper=false
 22	โดย	_	ADP	IN	_	24	case	_	SpaceAfter=No|th/proper=false
 23	เฉพาะ	_	ADJ	JJ	_	22	fixed	_	SpaceAfter=No|th/proper=false
@@ -15660,7 +15660,7 @@
 6	ช่วง	_	NOUN	NN	_	1	nmod	_	SpaceAfter=No|th/proper=false
 7	เวลา	_	NOUN	NN	_	6	compound	_	SpaceAfter=No|th/proper=false
 8	ได้	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-9	มา	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+9	มา	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 10	จาก	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
 11	สถานที่	_	NOUN	NN	_	8	obl	_	SpaceAfter=No|th/proper=false
 12	ฝัง	_	VERB	VV	_	11	acl	_	SpaceAfter=No|th/proper=false
@@ -15719,7 +15719,7 @@
 7	ทาง	_	ADP	IN	_	8	case	_	SpaceAfter=No|th/proper=false
 8	ตะวัน	_	NOUN	NN	_	6	nmod	_	SpaceAfter=No|th/proper=false
 9	ตก	_	VERB	VV	_	8	acl	_	SpaceAfter=No|th/proper=false
-10	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 11	ทาง	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	ซิซิลี	_	PROPN	NNP	_	4	obl	_	SpaceAfter=No|th/proper=true
 13	และ	_	CCONJ	CC	_	14	cc	_	SpaceAfter=No|th/proper=false
@@ -15737,8 +15737,8 @@
 25	ใหม่	_	ADJ	JJ	_	24	amod	_	SpaceAfter=No|th/proper=false
 26	ก็	_	ADV	RB	_	27	advmod	_	SpaceAfter=No|th/proper=false
 27	ขยาย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-28	ออก	_	PART	RP	_	27	dep:prt	_	SpaceAfter=No|th/proper=false
-29	ไป	_	PART	RP	_	27	dep:prt	_	SpaceAfter=No|th/proper=false
+28	ออก	_	PART	RP	_	27	compound:prt	_	SpaceAfter=No|th/proper=false
+29	ไป	_	PART	RP	_	27	compound:prt	_	SpaceAfter=No|th/proper=false
 30	อีก	_	ADV	RB	_	27	advmod	_	th/proper=false
 
 # sent_id = w01091016
@@ -15749,7 +15749,7 @@
 3	กล้าย	_	NOUN	NN	_	1	conj	_	SpaceAfter=No|th/proper=false
 4	ซึ่ง	_	DET	WDT	_	5	obj	_	SpaceAfter=No|th/proper=false
 5	นำ	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|th/proper=false
-6	มา	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+6	มา	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 7	ปลูก	_	VERB	VV	_	5	acl	_	SpaceAfter=No|th/proper=false
 8	ครั้ง	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No|th/proper=false
 9	แรก	_	ADJ	JJ	_	8	amod	_	SpaceAfter=No|th/proper=false
@@ -15762,7 +15762,7 @@
 16	ปาปัวนิวกินี	_	PROPN	NNP	_	11	acl:relcl	_	th/proper=true
 17	ได้	_	PART	AS	Aspect=Perf	18	aux	_	SpaceAfter=No|th/proper=false
 18	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-19	มา	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+19	มา	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 20	ปลูก	_	VERB	VV	_	18	acl	_	SpaceAfter=No|th/proper=false
 21	อีก	_	DET	DT	_	22	det	_	SpaceAfter=No|th/proper=false
 22	ครั้ง	_	NOUN	NNB	_	20	advmod	_	SpaceAfter=No|th/proper=false
@@ -15813,7 +15813,7 @@
 7	งาน	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|th/proper=false
 8	ได้	_	PART	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|th/proper=false
 9	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	มา	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	มา	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	ใช้	_	VERB	VV	_	9	xcomp	_	SpaceAfter=No|th/proper=false
 12	โดย	_	ADP	IN	_	13	case	_	SpaceAfter=No|th/proper=false
 13	เจมส์	_	PROPN	NNP	_	9	obl	_	th/proper=true
@@ -15912,8 +15912,8 @@
 19	รถยนต์	_	NOUN	NN	_	18	obj	_	SpaceAfter=No|th/proper=false
 20	ขนาด	_	NOUN	NN	_	19	compound	_	SpaceAfter=No|th/proper=false
 21	เล็ก	_	ADJ	JJ	_	20	amod	_	SpaceAfter=No|th/proper=false
-22	ออก	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
-23	มา	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ออก	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
+23	มา	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 24	เอง	_	ADV	RB	_	18	advmod	_	SpaceAfter=No|th/proper=false
 25	ใน	_	ADP	IN	_	26	case	_	SpaceAfter=No|th/proper=false
 26	ปี	_	NOUN	NN	_	18	obl	_	th/proper=false
@@ -16036,7 +16036,7 @@
 16	จักรพรรดิ	_	NOUN	NN	_	11	nmod:poss	_	SpaceAfter=No|th/proper=false
 17	ก็	_	ADV	RB	_	18	advmod	_	SpaceAfter=No|th/proper=false
 18	เลือก	_	VERB	VV	_	7	conj	_	SpaceAfter=No|th/proper=false
-19	มา	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+19	มา	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 20	จาก	_	ADP	IN	_	21	case	_	SpaceAfter=No|th/proper=false
 21	รูปแบบ	_	NOUN	NN	_	18	obl	_	SpaceAfter=No|th/proper=false
 22	ที่	_	DET	WDT	_	23	nsubj	_	SpaceAfter=No|th/proper=false
@@ -16073,7 +16073,7 @@
 25	หลัง	_	ADP	IN	_	27	mark	_	SpaceAfter=No|th/proper=false
 26	จาก	_	ADP	IN	_	25	fixed	_	SpaceAfter=No|th/proper=false
 27	สวรรคต	_	VERB	VV	_	22	conj	_	SpaceAfter=No|th/proper=false
-28	ไป	_	PART	RP	_	27	dep:prt	_	SpaceAfter=No|th/proper=false
+28	ไป	_	PART	RP	_	27	compound:prt	_	SpaceAfter=No|th/proper=false
 29	แล้ว	_	PART	AS	Aspect=Perf	27	aux	_	th/proper=false
 
 # sent_id = w01096013
@@ -16159,7 +16159,7 @@
 18	ครั้ง	_	PROPN	NNB	_	16	clf	_	Proper=True|SpaceAfter=No|th/proper=true
 19	ที่	_	PROPN	NN	_	18	flat:name	_	Proper=True|SpaceAfter=No|th/proper=true
 20	หนึ่ง	_	NUM	CD	_	19	nummod	_	Proper=True|SpaceAfter=No|th/proper=true
-21	มา	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+21	มา	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 22	เป็น	_	AUX	VC	_	23	cop	_	SpaceAfter=No|th/proper=false
 23	แบบ	_	NOUN	NN	_	6	xcomp	_	SpaceAfter=No|th/proper=false
 24	เคลื่อนที่	_	VERB	VV	_	23	acl	_	SpaceAfter=No|th/proper=false
@@ -16377,7 +16377,7 @@
 2	ฮ่องกง	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No|th/proper=true
 3	ถูก	_	VERB	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No|th/proper=false
 4	ยึด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	โดย	_	ADP	IN	_	7	case	_	SpaceAfter=No|th/proper=false
 7	อังกฤษ	_	PROPN	NNP	_	4	obl	_	th/proper=true
 8	และ	_	CCONJ	CC	_	19	cc	_	SpaceAfter=No|th/proper=false
@@ -16413,7 +16413,7 @@
 7	ที่	_	NOUN	NN	_	6	compound	_	SpaceAfter=No|th/proper=false
 8	สอง	_	NUM	CD	_	7	nummod	_	SpaceAfter=No|th/proper=false
 9	ปะทุ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	ขึ้น	_	PART	RP	_	9	dep:prt	_	th/proper=false
+10	ขึ้น	_	PART	RP	_	9	compound:prt	_	th/proper=false
 11	ซึ่ง	_	ADP	IN	_	13	mark	_	SpaceAfter=No|th/proper=false
 12	จีน	_	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|th/proper=true
 13	พ่ายแพ้	_	VERB	VV	_	9	advcl	_	SpaceAfter=No|th/proper=false
@@ -16454,8 +16454,8 @@
 13	ต่าง	_	ADJ	JJ	_	14	amod	_	SpaceAfter=No|th/proper=false
 14	ชาติ	_	NOUN	NN	_	12	compound	_	SpaceAfter=No|th/proper=false
 15	เดินทาง	_	VERB	VV	_	11	xcomp	_	SpaceAfter=No|th/proper=false
-16	เข้า	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
-17	มา	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+16	เข้า	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
+17	มา	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 18	ข้าง	_	NOUN	NN	_	15	advmod	_	SpaceAfter=No|th/proper=false
 19	ใน	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No|th/proper=false
 20	ได้	_	VERB	MD	_	15	aux	_	th/proper=false
@@ -16465,7 +16465,7 @@
 # english_text = Lamarr accompanied Mandl to business meetings where he conferred with scientists and other professionals involved in military technology.
 1	ลามาร์	_	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|th/proper=true
 2	เดินทาง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-3	ไป	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	ไป	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	กับ	_	ADP	IN	_	5	case	_	SpaceAfter=No|th/proper=false
 5	มันเดิล	_	PROPN	NNP	_	2	obl	_	SpaceAfter=No|th/proper=true
 6	ใน	_	ADP	IN	_	7	case	_	SpaceAfter=No|th/proper=false
@@ -16662,7 +16662,7 @@
 16	B	_	NOUN	NN	_	15	compound	_	SpaceAfter=No|th/proper=false
 17	-	_	PUNCT	-	_	18	punct	_	SpaceAfter=No|th/proper=false
 18	29	_	NUM	CD	_	16	nummod	_	th/proper=false
-19	มา	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
+19	มา	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
 20	ใช้	_	VERB	VV	_	14	acl	_	SpaceAfter=No|th/proper=false
 21	กับ	_	ADP	IN	_	22	case	_	SpaceAfter=No|th/proper=false
 22	อีเกิล	_	PROPN	NNP	_	20	obl	_	SpaceAfter=No|th/proper=true
@@ -16765,7 +16765,7 @@
 35	การนำ	_	VERB	VV	_	34	obj	_	SpaceAfter=No|th/proper=false
 36	เครื่อง	_	NOUN	NN	_	35	obj	_	SpaceAfter=No|th/proper=false
 37	บิน	_	VERB	VV	_	36	acl	_	SpaceAfter=No|th/proper=false
-38	ลง	_	PART	RP	_	35	dep:prt	_	SpaceAfter=No|th/proper=false
+38	ลง	_	PART	RP	_	35	compound:prt	_	SpaceAfter=No|th/proper=false
 39	จอด	_	VERB	VV	_	35	xcomp	_	SpaceAfter=No|th/proper=false
 40	บน	_	ADP	IN	_	41	case	_	SpaceAfter=No|th/proper=false
 41	รันเวย์	_	NOUN	NN	_	39	obl	_	SpaceAfter=No|th/proper=false
@@ -16854,7 +16854,7 @@
 9	ขึ้น	_	ADV	RB	_	8	advmod	_	SpaceAfter=No|th/proper=false
 10	ถูก	_	VERB	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No|th/proper=false
 11	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-12	ขึ้น	_	PART	RP	_	11	dep:prt	_	th/proper=false
+12	ขึ้น	_	PART	RP	_	11	compound:prt	_	th/proper=false
 
 # sent_id = w01106052
 # text = สมาชิกพันธมิตรกองกำลังประชาธิปไตยเพื่ออิสรภาพแห่งคองโกจับตัวลูบุมบาชีในเดือนเมษายน 1997
@@ -16909,7 +16909,7 @@
 7	ของ	_	ADP	IN	_	8	case	_	SpaceAfter=No|th/proper=false
 8	ฮิตช์ค็อก	_	PROPN	NNP	_	5	nmod:poss	_	SpaceAfter=No|th/proper=true
 9	ลด	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No|th/proper=false
-10	ลง	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ลง	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	ช่วง	_	NOUN	NN	_	9	obl	_	SpaceAfter=No|th/proper=false
 13	สอง	_	NUM	CD	_	14	nummod	_	SpaceAfter=No|th/proper=false
@@ -17214,7 +17214,7 @@
 13	เอทีเอ็ม	_	NOUN	NN	_	10	obl	_	SpaceAfter=No|th/proper=false
 14	เพื่อ	_	ADP	IN	_	15	mark	_	SpaceAfter=No|th/proper=false
 15	นำ	_	VERB	VV	_	4	advcl	_	SpaceAfter=No|th/proper=false
-16	ไป	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+16	ไป	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 17	ซื้อ	_	VERB	VV	_	15	xcomp	_	SpaceAfter=No|th/proper=false
 18	อุปกรณ์	_	NOUN	NN	_	17	obj	_	SpaceAfter=No|th/proper=false
 19	การเรียน	_	VERB	VV	_	18	compound	_	SpaceAfter=No|th/proper=false
@@ -17297,15 +17297,15 @@
 19	ราคา	_	NOUN	NN	_	18	obj	_	SpaceAfter=No|th/proper=false
 20	เชื้อ	_	NOUN	NN	_	19	compound	_	SpaceAfter=No|th/proper=false
 21	เพลิง	_	NOUN	NN	_	19	compound	_	SpaceAfter=No|th/proper=false
-22	ขึ้น	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
-23	ไป	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ขึ้น	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
+23	ไป	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 24	อีก	_	ADV	RB	_	18	advmod	_	SpaceAfter=No|th/proper=false
 25	ด้วย	_	ADP	IN	_	26	case	_	SpaceAfter=No|th/proper=false
 26	การลด	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No|th/proper=false
 27	เงิน	_	NOUN	NN	_	26	obj	_	SpaceAfter=No|th/proper=false
 28	อุดหนุน	_	VERB	VV	_	27	acl	_	SpaceAfter=No|th/proper=false
-29	ลง	_	PART	RP	_	26	dep:prt	_	SpaceAfter=No|th/proper=false
-30	มา	_	PART	RP	_	26	dep:prt	_	SpaceAfter=No|th/proper=false
+29	ลง	_	PART	RP	_	26	compound:prt	_	SpaceAfter=No|th/proper=false
+30	มา	_	PART	RP	_	26	compound:prt	_	SpaceAfter=No|th/proper=false
 31	อีก	_	ADV	RB	_	26	advmod	_	th/proper=false
 
 # sent_id = w01114053
@@ -17434,7 +17434,7 @@
 3	เขา	_	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|th/proper=false
 4	ก็	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|th/proper=false
 5	กลับ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-6	ไป	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+6	ไป	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 7	ยัง	_	ADP	IN	_	8	case	_	SpaceAfter=No|th/proper=false
 8	คีร์รีมูร์	_	PROPN	NNP	_	5	obl	_	th/proper=true
 
@@ -17690,7 +17690,7 @@
 26	ใน	_	ADP	IN	_	27	case	_	SpaceAfter=No|th/proper=false
 27	โปแลนด์	_	PROPN	NNP	_	23	obl	_	SpaceAfter=No|th/proper=true
 28	สิ้นสุด	_	VERB	VV	_	6	advcl	_	SpaceAfter=No|th/proper=false
-29	ลง	_	PART	RP	_	28	dep:prt	_	th/proper=false
+29	ลง	_	PART	RP	_	28	compound:prt	_	th/proper=false
 
 # sent_id = w01122031
 # text = เรียลลี เรียลลี เลิฟ ยู ออกวางจำหน่ายในเดือนสิงหาคมและไต่ขึ้นถึงห้าสิบอันดับแรก ส่วน “เชกกี้ กราวด์” ซิงเกิลที่เกี่ยวเนื่องกันออกในเดือนกันยายน แต่กีเยอร์ก็เข้ามาในสหรัฐฯ แล้ว
@@ -17707,7 +17707,7 @@
 10	สิงหาคม	_	NOUN	NN	_	9	appos	_	SpaceAfter=No|th/proper=false
 11	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No|th/proper=false
 12	ไต่	_	VERB	VV	_	5	conj	_	SpaceAfter=No|th/proper=false
-13	ขึ้น	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	ขึ้น	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ถึง	_	ADP	IN	_	17	case	_	SpaceAfter=No|th/proper=false
 15	ห้า	_	NUM	CD	_	16	nummod	_	SpaceAfter=No|th/proper=false
 16	สิบ	_	NUM	CD	_	17	nummod	_	SpaceAfter=No|th/proper=false
@@ -17730,7 +17730,7 @@
 33	กีเยอร์	_	PROPN	NNP	_	35	nsubj	_	SpaceAfter=No|th/proper=true
 34	ก็	_	ADV	RB	_	35	advmod	_	SpaceAfter=No|th/proper=false
 35	เข้า	_	VERB	VV	_	28	conj	_	SpaceAfter=No|th/proper=false
-36	มา	_	PART	RP	_	35	dep:prt	_	SpaceAfter=No|th/proper=false
+36	มา	_	PART	RP	_	35	compound:prt	_	SpaceAfter=No|th/proper=false
 37	ใน	_	ADP	IN	_	38	case	_	SpaceAfter=No|th/proper=false
 38	สหรัฐ	_	PROPN	NN	_	35	obl	_	Proper=True|SpaceAfter=No|th/proper=true
 39	ฯ	_	PUNCT	...	_	40	punct	_	Proper=True|th/proper=true
@@ -17742,7 +17742,7 @@
 1	เมื่อ	_	ADP	IN	_	3	mark	_	SpaceAfter=No|th/proper=false
 2	ได้	_	PART	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|th/proper=false
 3	สำราญ	_	VERB	VV	_	17	advcl	_	SpaceAfter=No|th/proper=false
-4	ไป	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ไป	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	กับ	_	ADP	IN	_	6	case	_	SpaceAfter=No|th/proper=false
 6	จุด	_	NOUN	NN	_	3	obl	_	SpaceAfter=No|th/proper=false
 7	สูง	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No|th/proper=false
@@ -17756,7 +17756,7 @@
 15	ออสเตรเลีย	_	PROPN	NNP	_	12	nmod	_	th/proper=true
 16	กีเยอร์	_	PROPN	NNP	_	17	nsubj	_	SpaceAfter=No|th/proper=true
 17	กลับ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-18	มา	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+18	มา	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 19	อาศัย	_	VERB	VV	_	17	xcomp	_	SpaceAfter=No|th/proper=false
 20	ใน	_	ADP	IN	_	21	case	_	SpaceAfter=No|th/proper=false
 21	ลอสแอนเจลิส	_	PROPN	NNP	_	19	obl	_	SpaceAfter=No|th/proper=true
@@ -17779,7 +17779,7 @@
 1	หลัง	_	ADP	IN	_	3	case	_	SpaceAfter=No|th/proper=false
 2	จาก	_	ADP	IN	_	1	fixed	_	SpaceAfter=No|th/proper=false
 3	การก้าว	_	VERB	VV	_	17	obl	_	SpaceAfter=No|th/proper=false
-4	ขึ้น	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ขึ้น	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	สู่	_	ADP	IN	_	6	case	_	SpaceAfter=No|th/proper=false
 6	ชาร์ต	_	NOUN	NN	_	3	obl	_	SpaceAfter=No|th/proper=false
 7	บิลบอร์ด	_	PROPN	NNP	_	6	compound	_	th/proper=true
@@ -17793,7 +17793,7 @@
 15	Knew	_	VERB	VV	_	13	ccomp	_	Proper=True|th/proper=true
 16	ก็	_	ADV	RB	_	17	advmod	_	SpaceAfter=No|th/proper=false
 17	ไต่	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-18	ขึ้น	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+18	ขึ้น	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 19	สู่	_	ADP	IN	_	20	case	_	SpaceAfter=No|th/proper=false
 20	อันดับ	_	NOUN	NNB	_	17	obl	_	SpaceAfter=No|th/proper=false
 21	ที่	_	NOUN	NN	_	20	compound	_	th/proper=false
@@ -17819,7 +17819,7 @@
 2	จาก	_	ADP	IN	_	1	fixed	_	SpaceAfter=No|th/proper=false
 3	ถูก	_	VERB	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No|th/proper=false
 4	ไล่	_	VERB	VV	_	7	advcl	_	SpaceAfter=No|th/proper=false
-5	ออก	_	PART	RP	_	4	dep:prt	_	th/proper=false
+5	ออก	_	PART	RP	_	4	compound:prt	_	th/proper=false
 6	เพนิสตัน	_	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No|th/proper=true
 7	รับ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 8	เล่น	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No|th/proper=false
@@ -18086,8 +18086,8 @@
 7	เคนเซ็ท	_	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|th/proper=true
 8	ก็	_	ADV	RB	_	9	advmod	_	SpaceAfter=No|th/proper=false
 9	เดิน	_	VERB	VV	_	2	advcl	_	SpaceAfter=No|th/proper=false
-10	ออก	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
-11	ไป	_	PART	RP	_	9	dep:prt	_	th/proper=false
+10	ออก	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
+11	ไป	_	PART	RP	_	9	compound:prt	_	th/proper=false
 
 # sent_id = w01129037
 # text = เอลเลียตเข้าร่วมพิธีศพพ่อของเขาในวันที่มีการแข่งขัน
@@ -18176,7 +18176,7 @@
 21	เป็น	_	VERB	VC	_	17	ccomp	_	th/proper=false
 22	“	_	PUNCT	``	_	23	punct	_	SpaceAfter=No|th/proper=false
 23	การกลับ	_	VERB	VV	_	21	ccomp	_	SpaceAfter=No|th/proper=false
-24	มา	_	PART	RP	_	23	dep:prt	_	SpaceAfter=No|th/proper=false
+24	มา	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No|th/proper=false
 25	อย่างยิ่งใหญ่	_	ADJ	JJ	_	23	advmod	_	SpaceAfter=No|th/proper=false
 26	เพื่อ	_	ADP	IN	_	27	mark	_	SpaceAfter=No|th/proper=false
 27	สร้าง	_	VERB	VV	_	23	advcl	_	SpaceAfter=No|th/proper=false
@@ -18204,7 +18204,7 @@
 17	สตีลเลอร์ส	_	PROPN	NN	_	16	compound	_	Proper=True|SpaceAfter=No|th/proper=true
 18	วีล	_	PROPN	NN	_	17	flat:name	_	Proper=True|SpaceAfter=No|th/proper=true
 19	กลับ	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No|th/proper=false
-20	มา	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No|th/proper=false
+20	มา	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No|th/proper=false
 21	ร่วม	_	VERB	VV	_	19	acl	_	SpaceAfter=No|th/proper=false
 22	งาน	_	NOUN	NN	_	21	obj	_	SpaceAfter=No|th/proper=false
 23	กัน	_	PRON	PRP	_	21	advmod	_	SpaceAfter=No|th/proper=false
@@ -18216,7 +18216,7 @@
 # text = ประกอบไปด้วยสามเพลงที่ร่วมแต่งกับจิม น้องชายของราฟเฟอร์ตี้ ซึ่งเป็นนักร้องนักแต่งเพลงที่เซ็นสัญญากับเดคคา เรคคอร์ดส์เมื่อทศวรรษที่ 1970
 # english_text = It included three tracks cowritten with Rafferty's brother Jim, also a singer-songwriter, who had been signed to Decca Records in the 1970s.
 1	ประกอบ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-2	ไป	_	PART	RP	_	1	dep:prt	_	SpaceAfter=No|th/proper=false
+2	ไป	_	PART	RP	_	1	compound:prt	_	SpaceAfter=No|th/proper=false
 3	ด้วย	_	ADP	IN	_	5	case	_	SpaceAfter=No|th/proper=false
 4	สาม	_	NUM	CD	_	5	nummod	_	SpaceAfter=No|th/proper=false
 5	เพลง	_	NOUN	NNB	_	1	obl	_	SpaceAfter=No|th/proper=false
@@ -18327,7 +18327,7 @@
 8	ของ	_	ADP	IN	_	9	case	_	SpaceAfter=No|th/proper=false
 9	เขา	_	PRON	PRP	Person=3	7	nmod:poss	_	SpaceAfter=No|th/proper=false
 10	เอง	_	PRON	PRP	_	9	compound	_	SpaceAfter=No|th/proper=false
-11	ขึ้น	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ขึ้น	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 12	ภาย	_	NOUN	NN	_	14	case	_	SpaceAfter=No|th/proper=false
 13	ใน	_	ADP	IN	_	12	fixed	_	SpaceAfter=No|th/proper=false
 14	เอ็มจีบี	_	PROPN	NNP	_	6	obl	_	SpaceAfter=No|th/proper=true
@@ -18455,7 +18455,7 @@
 11	ฉบับ	_	NOUN	NNB	_	8	nmod	_	SpaceAfter=No|th/proper=false
 12	ถัด	_	VERB	VV	_	11	acl	_	SpaceAfter=No|th/proper=false
 13	ๆ	_	SYM	SYM	_	12	dep	_	th/proper=false
-14	มา	_	PART	RP	_	12	dep:prt	_	th/proper=false
+14	มา	_	PART	RP	_	12	compound:prt	_	th/proper=false
 15	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No|th/proper=false
 16	เริ่ม	_	VERB	VV	_	2	conj	_	SpaceAfter=No|th/proper=false
 17	พัฒนา	_	VERB	VV	_	16	xcomp	_	SpaceAfter=No|th/proper=false
@@ -18469,8 +18469,8 @@
 25	อย่างละเอียด	_	ADJ	JJ	_	17	advmod	_	th/proper=false
 26	แล้ว	_	ADP	IN	_	27	mark	_	SpaceAfter=No|th/proper=false
 27	แพร่	_	VERB	VV	_	2	advcl	_	SpaceAfter=No|th/proper=false
-28	ออก	_	PART	RP	_	27	dep:prt	_	SpaceAfter=No|th/proper=false
-29	ไป	_	PART	RP	_	27	dep:prt	_	SpaceAfter=No|th/proper=false
+28	ออก	_	PART	RP	_	27	compound:prt	_	SpaceAfter=No|th/proper=false
+29	ไป	_	PART	RP	_	27	compound:prt	_	SpaceAfter=No|th/proper=false
 30	ใน	_	ADP	IN	_	31	case	_	SpaceAfter=No|th/proper=false
 31	การ์ตูน	_	NOUN	NN	_	27	obl	_	SpaceAfter=No|th/proper=false
 32	มาร์เวล	_	PROPN	NNP	_	31	compound	_	SpaceAfter=No|th/proper=true
@@ -18843,8 +18843,8 @@
 17	จะ	_	VERB	MD	_	18	aux	_	SpaceAfter=No|th/proper=false
 18	ข้าม	_	VERB	VV	_	16	xcomp	_	SpaceAfter=No|th/proper=false
 19	พรมแดน	_	NOUN	NN	_	18	obj	_	SpaceAfter=No|th/proper=false
-20	เข้า	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
-21	มา	_	PART	RP	_	18	dep:prt	_	SpaceAfter=No|th/proper=false
+20	เข้า	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
+21	มา	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No|th/proper=false
 22	ใน	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
 23	เชโกสโลวาเกีย	_	PROPN	NNP	_	18	obl	_	SpaceAfter=No|th/proper=true
 24	โดย	_	ADP	IN	_	26	mark	_	SpaceAfter=No|th/proper=false
@@ -18878,7 +18878,7 @@
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No|th/proper=false
 21	โมโมน	_	PROPN	NNP	_	19	conj	_	SpaceAfter=No|th/proper=true
 22	ออก	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|th/proper=false
-23	ไป	_	PART	RP	_	22	dep:prt	_	SpaceAfter=No|th/proper=false
+23	ไป	_	PART	RP	_	22	compound:prt	_	SpaceAfter=No|th/proper=false
 24	เดิน	_	VERB	VV	_	22	acl	_	SpaceAfter=No|th/proper=false
 25	เล่น	_	VERB	VV	_	24	acl	_	SpaceAfter=No|th/proper=false
 26	หรือ	_	CCONJ	CC	_	27	cc	_	SpaceAfter=No|th/proper=false
@@ -18898,7 +18898,7 @@
 5	จะ	_	VERB	MD	_	7	aux	_	SpaceAfter=No|th/proper=false
 6	ถูก	_	VERB	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No|th/proper=false
 7	ลืมเลือน	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-8	ไป	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 9	เสีย	_	PART	EP	_	7	discourse	_	SpaceAfter=No|th/proper=false
 10	สิ้น	_	ADV	RB	_	7	advmod	_	SpaceAfter=No|th/proper=false
 11	หลัง	_	ADP	IN	_	13	case	_	SpaceAfter=No|th/proper=false
@@ -19040,7 +19040,7 @@
 15	เหล่า	_	NOUN	NNB	_	14	clf	_	SpaceAfter=No|th/proper=false
 16	นั้น	_	DET	DT	_	15	det	_	SpaceAfter=No|th/proper=false
 17	กลับ	_	VERB	VV	_	13	acl	_	SpaceAfter=No|th/proper=false
-18	ไป	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+18	ไป	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 19	ยัง	_	ADP	IN	_	20	case	_	SpaceAfter=No|th/proper=false
 20	สถาบัน	_	NOUN	NN	_	17	obl	_	SpaceAfter=No|th/proper=false
 21	เรเดียม	_	NOUN	NN	_	20	compound	_	SpaceAfter=No|th/proper=false
@@ -19068,14 +19068,14 @@
 11	ที่	_	DET	WDT	_	13	nsubj	_	SpaceAfter=No|th/proper=false
 12	ได้	_	PART	AS	Aspect=Perf	13	aux	_	SpaceAfter=No|th/proper=false
 13	เอา	_	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|th/proper=false
-14	มา	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
+14	มา	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
 15	ใช้	_	VERB	VV	_	13	xcomp	_	SpaceAfter=No|th/proper=false
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No|th/proper=false
 17	งาน	_	NOUN	NN	_	15	obl	_	SpaceAfter=No|th/proper=false
 18	วิจัย	_	VERB	VV	_	17	acl	_	SpaceAfter=No|th/proper=false
 19	ต่อ	_	VERB	VV	_	17	acl	_	SpaceAfter=No|th/proper=false
 20	ๆ	_	SYM	SYM	_	19	dep	_	th/proper=false
-21	มา	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No|th/proper=false
+21	มา	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No|th/proper=false
 22	ของ	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
 23	สถาบัน	_	NOUN	NN	_	17	nmod:poss	_	SpaceAfter=No|th/proper=false
 24	อีก	_	DET	DT	_	26	det:predet	_	SpaceAfter=No|th/proper=false
@@ -19125,7 +19125,7 @@
 14	แต่	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No|th/proper=false
 15	ก็	_	ADV	RB	_	16	advmod	_	SpaceAfter=No|th/proper=false
 16	พ่ายแพ้	_	VERB	VV	_	3	conj	_	SpaceAfter=No|th/proper=false
-17	ไป	_	PART	RP	_	16	dep:prt	_	th/proper=false
+17	ไป	_	PART	RP	_	16	compound:prt	_	th/proper=false
 
 # sent_id = w01141137
 # text = บูชาร์ดปวดใจกับการพ่ายแพ้ 3 เซ็ตที่น่าตกใจ
@@ -19217,8 +19217,8 @@
 11	ก็	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|th/proper=false
 12	ถูก	_	VERB	MD	Voice=Pass	13	aux:pass	_	SpaceAfter=No|th/proper=false
 13	โยน	_	VERB	VV	_	4	conj	_	SpaceAfter=No|th/proper=false
-14	เข้า	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
-15	ไป	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
+14	เข้า	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
+15	ไป	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No|th/proper=false
 17	หอคอย	_	NOUN	NN	_	13	obl	_	th/proper=false
 
@@ -19318,7 +19318,7 @@
 14	จิมมี	_	PROPN	NNP	_	10	appos	_	th/proper=true
 15	คาร์เตอร์	_	PROPN	NNP	_	10	flat:name	_	th/proper=true
 16	จัด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-17	ขึ้น	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+17	ขึ้น	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 18	ใน	_	ADP	IN	_	19	case	_	SpaceAfter=No|th/proper=false
 19	ช่วง	_	NOUN	NN	_	16	obl	_	SpaceAfter=No|th/proper=false
 20	เหตุการณ์	_	NOUN	NN	_	19	compound	_	SpaceAfter=No|th/proper=false
@@ -19407,7 +19407,7 @@
 30	ความพยายาม	_	VERB	VV	_	27	obl	_	SpaceAfter=No|th/proper=false
 31	ลอบ	_	VERB	VV	_	30	xcomp	_	SpaceAfter=No|th/proper=false
 32	สังหาร	_	VERB	VV	_	31	xcomp	_	SpaceAfter=No|th/proper=false
-33	มา	_	PART	RP	_	32	dep:prt	_	SpaceAfter=No|th/proper=false
+33	มา	_	PART	RP	_	32	compound:prt	_	SpaceAfter=No|th/proper=false
 34	ได้	_	VERB	MD	_	32	aux	_	th/proper=false
 
 # sent_id = w01144086
@@ -19479,7 +19479,7 @@
 7	จะ	_	VERB	MD	_	9	aux	_	SpaceAfter=No|th/proper=false
 8	ต้อง	_	VERB	MD	_	9	aux	_	SpaceAfter=No|th/proper=false
 9	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	ขึ้น	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	เมื่อ	_	ADP	IN	_	12	mark	_	SpaceAfter=No|th/proper=false
 12	พิจารณา	_	VERB	VV	_	9	advcl	_	SpaceAfter=No|th/proper=false
 13	ถึง	_	ADP	IN	_	14	case	_	SpaceAfter=No|th/proper=false
@@ -19493,7 +19493,7 @@
 1	พีบี	_	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|th/proper=true
 2	ย้าย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 3	ครอบครัว	_	NOUN	NN	_	2	obj	_	SpaceAfter=No|th/proper=false
-4	ไป	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ไป	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 5	ที่	_	ADP	IN	_	6	case	_	SpaceAfter=No|th/proper=false
 6	แนชวิลล์	_	PROPN	NNP	_	2	obl	_	th/proper=true
 7	รัฐ	_	PROPN	NN	_	6	appos	_	Proper=True|SpaceAfter=No|th/proper=true
@@ -19546,7 +19546,7 @@
 27	ที่	_	DET	WDT	_	29	obj	_	SpaceAfter=No|th/proper=false
 28	เธอ	_	PRON	PRP	Person=3	29	nsubj	_	SpaceAfter=No|th/proper=false
 29	ชื่นชอบ	_	VERB	VV	_	26	acl:relcl	_	SpaceAfter=No|th/proper=false
-30	มา	_	PART	RP	_	22	dep:prt	_	SpaceAfter=No|th/proper=false
+30	มา	_	PART	RP	_	22	compound:prt	_	SpaceAfter=No|th/proper=false
 31	ได้	_	VERB	MD	_	22	aux	_	SpaceAfter=No|th/proper=false
 32	ผ่าน	_	ADP	IN	_	33	case	_	SpaceAfter=No|th/proper=false
 33	สกริตตี	_	PROPN	NN	_	22	obl	_	Proper=True|th/proper=true
@@ -19778,7 +19778,7 @@
 10	ต้อง	_	VERB	MD	_	11	aux	_	SpaceAfter=No|th/proper=false
 11	เสีย	_	VERB	VV	_	4	ccomp	_	SpaceAfter=No|th/proper=false
 12	มาซิโดเนีย	_	PROPN	NNP	_	11	obj	_	SpaceAfter=No|th/proper=true
-13	ไป	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+13	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ทั้งหมด	_	DET	DT	_	12	det	_	SpaceAfter=No|th/proper=false
 15	พร้อม	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No|th/proper=false
 16	ดินแดน	_	NOUN	NN	_	12	conj	_	SpaceAfter=No|th/proper=false
@@ -19843,7 +19843,7 @@
 37	ขนาด	_	NOUN	NN	_	36	obj	_	SpaceAfter=No|th/proper=false
 38	ดินแดน	_	NOUN	NN	_	37	compound	_	SpaceAfter=No|th/proper=false
 39	แอลเบเนีย	_	PROPN	NNP	_	37	compound	_	SpaceAfter=No|th/proper=true
-40	ลง	_	PART	RP	_	36	dep:prt	_	SpaceAfter=No|th/proper=false
+40	ลง	_	PART	RP	_	36	compound:prt	_	SpaceAfter=No|th/proper=false
 41	จน	_	ADP	IN	_	42	mark	_	SpaceAfter=No|th/proper=false
 42	เหลือ	_	VERB	VV	_	36	advcl	_	SpaceAfter=No|th/proper=false
 43	แค่	_	ADV	RB	_	42	advmod	_	SpaceAfter=No|th/proper=false
@@ -20036,7 +20036,7 @@
 18	เฝ้า	_	VERB	VV	_	17	acl	_	SpaceAfter=No|th/proper=false
 19	ลุ้น	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No|th/proper=false
 20	กัน	_	PRON	PRP	_	19	obj	_	SpaceAfter=No|th/proper=false
-21	มา	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No|th/proper=false
+21	มา	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No|th/proper=false
 22	ใน	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
 23	ข่าว	_	NOUN	NN	_	17	nmod	_	SpaceAfter=No|th/proper=false|ToDo=nmod
 24	ลือ	_	VERB	VV	_	23	acl	_	th/proper=false
@@ -20181,7 +20181,7 @@
 47	เสียหาย	_	VERB	VV	_	46	acl	_	SpaceAfter=No|th/proper=false
 48	ที่	_	DET	WDT	_	49	nsubj	_	SpaceAfter=No|th/proper=false
 49	เกิด	_	VERB	VV	_	46	acl:relcl	_	SpaceAfter=No|th/proper=false
-50	ขึ้น	_	PART	RP	_	49	dep:prt	_	SpaceAfter=No|th/proper=false
+50	ขึ้น	_	PART	RP	_	49	compound:prt	_	SpaceAfter=No|th/proper=false
 51	ใน	_	ADP	IN	_	52	case	_	SpaceAfter=No|th/proper=false
 52	ฐานะ	_	NOUN	NN	_	49	obl	_	SpaceAfter=No|th/proper=false
 53	ผล	_	NOUN	NN	_	52	compound	_	SpaceAfter=No|th/proper=false
@@ -20224,7 +20224,7 @@
 9	ก็	_	ADV	RB	_	11	advmod	_	SpaceAfter=No|th/proper=false
 10	จะ	_	VERB	MD	_	11	aux	_	SpaceAfter=No|th/proper=false
 11	เข้า	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-12	มา	_	PART	RP	_	11	dep:prt	_	th/proper=false
+12	มา	_	PART	RP	_	11	compound:prt	_	th/proper=false
 
 # sent_id = n02032022
 # text = จากมุมมองนี้ โครงสร้างที่ล้าสมัยและชนชั้นสูงที่พึงพอใจกับตัวเองนั้นเป็นสาเหตุที่ว่าทำไมระบบสุขภาพ การศึกษา และการค้าต่างประเทศในสหรัฐอเมริกาอยู่ในสภาพย่ำแย่เหลือเกิน
@@ -20308,7 +20308,7 @@
 2	ปล่อย	_	VERB	VV	_	1	acl	_	SpaceAfter=No|th/proper=false
 3	ผี	_	NOUN	NN	_	2	obj	_	SpaceAfter=No|th/proper=false
 4	เริ่ม	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	ขึ้น	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ขึ้น	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	อย่างน้อย	_	ADJ	JJ	_	13	advmod	_	SpaceAfter=No|th/proper=false
 7	เมื่อ	_	ADP	IN	_	13	mark	_	SpaceAfter=No|th/proper=false
 8	เสียง	_	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|th/proper=false
@@ -20390,7 +20390,7 @@
 4	นี้	_	DET	DT	_	2	det	_	SpaceAfter=No|th/proper=false
 5	ได้	_	PART	AS	Aspect=Perf	6	aux	_	SpaceAfter=No|th/proper=false
 6	หยุด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-7	ลง	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+7	ลง	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 8	โดยสิ้นเชิง	_	VERB	VV	_	6	advmod	_	th/proper=false
 
 # sent_id = n02042005
@@ -20945,7 +20945,7 @@
 8	จะ	_	VERB	MD	_	10	aux	_	SpaceAfter=No|th/proper=false
 9	ไม่	_	PART	NEG	Polarity=Neg	10	advmod	_	SpaceAfter=No|th/proper=false
 10	หาย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-11	ไป	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ไป	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 12	หมด	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|th/proper=false
 13	:	_	PUNCT	:	_	20	punct	_	th/proper=false
 14	ตาม	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
@@ -21006,7 +21006,7 @@
 18	แต่	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No|th/proper=false
 19	ยัง	_	ADV	RB	_	20	advmod	_	SpaceAfter=No|th/proper=false
 20	นำ	_	VERB	VV	_	7	conj	_	SpaceAfter=No|th/proper=false
-21	ไป	_	PART	RP	_	20	dep:prt	_	SpaceAfter=No|th/proper=false
+21	ไป	_	PART	RP	_	20	compound:prt	_	SpaceAfter=No|th/proper=false
 22	สู่	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
 23	ความเสียหาย	_	VERB	VV	_	20	obl	_	SpaceAfter=No|th/proper=false
 24	ระยะ	_	NOUN	NN	_	23	compound	_	SpaceAfter=No|th/proper=false
@@ -21351,7 +21351,7 @@
 2	ใน	_	ADP	IN	_	3	case	_	SpaceAfter=No|th/proper=false
 3	การห้าม	_	VERB	VV	_	1	xcomp	_	SpaceAfter=No|th/proper=false
 4	การแสดง	_	VERB	VV	_	3	obj	_	SpaceAfter=No|th/proper=false
-5	ออก	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ออก	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	ด้าน	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|th/proper=false
 7	ความเชื่อ	_	VERB	VV	_	6	compound	_	SpaceAfter=No|th/proper=false
 8	ทาง	_	ADP	IN	_	9	case	_	SpaceAfter=No|th/proper=false
@@ -21373,7 +21373,7 @@
 6	ใหญ่	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No|th/proper=false
 7	ที่	_	DET	WDT	_	8	nsubj	_	SpaceAfter=No|th/proper=false
 8	เกิด	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|th/proper=false
-9	ขึ้น	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+9	ขึ้น	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
 11	ที่	_	NOUN	NN	_	8	obl	_	SpaceAfter=No|th/proper=false
 12	ทำ	_	VERB	VV	_	11	acl	_	SpaceAfter=No|th/proper=false
@@ -21455,8 +21455,8 @@
 8	เลย	_	ADV	RB	_	9	advmod	_	SpaceAfter=No|th/proper=false
 9	คือ	_	VERB	VC	_	3	advcl	_	SpaceAfter=No|th/proper=false
 10	เขียน	_	VERB	VV	_	9	ccomp	_	SpaceAfter=No|th/proper=false
-11	ขึ้น	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
-12	มา	_	PART	RP	_	10	dep:prt	_	Proper=True|th/proper=true
+11	ขึ้น	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
+12	มา	_	PART	RP	_	10	compound:prt	_	Proper=True|th/proper=true
 13	“	_	PUNCT	``	_	15	punct	_	SpaceAfter=No|th/proper=false
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	บริบท	_	NOUN	NN	_	10	obl	_	SpaceAfter=No|th/proper=false
@@ -21517,13 +21517,13 @@
 5	รวม	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No|th/proper=false
 6	เวลา	_	NOUN	NN	_	5	obj	_	SpaceAfter=No|th/proper=false
 7	เดินทาง	_	VERB	VV	_	6	acl	_	SpaceAfter=No|th/proper=false
-8	เข้า	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
-9	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+8	เข้า	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
+9	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 10	ด้วย	_	ADV	RB	_	4	advmod	_	th/proper=false
 11	หลัง	_	ADP	IN	_	13	mark	_	SpaceAfter=No|th/proper=false
 12	จาก	_	ADP	IN	_	11	fixed	_	SpaceAfter=No|th/proper=false
 13	หัก	_	VERB	VV	_	1	advcl	_	SpaceAfter=No|th/proper=false
-14	ออก	_	PART	RP	_	13	dep:prt	_	SpaceAfter=No|th/proper=false
+14	ออก	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No|th/proper=false
 15	จาก	_	ADP	IN	_	16	case	_	SpaceAfter=No|th/proper=false
 16	เวลา	_	NOUN	NN	_	13	obl	_	SpaceAfter=No|th/proper=false
 17	ทำ	_	VERB	VV	_	16	acl	_	SpaceAfter=No|th/proper=false
@@ -21566,7 +21566,7 @@
 3	กำลัง	_	PART	AS	Aspect=Prog	5	aux	_	SpaceAfter=No|th/proper=false
 4	จะ	_	VERB	MD	_	5	aux	_	SpaceAfter=No|th/proper=false
 5	ออก	_	VERB	VV	_	13	ccomp	_	SpaceAfter=No|th/proper=false
-6	ไป	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+6	ไป	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 7	แล้ว	_	PART	AS	Aspect=Perf	5	aux	_	SpaceAfter=No|th/proper=false
 8	”	_	PUNCT	''	_	5	punct	_	th/proper=false
 9	ตัว	_	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|th/proper=false
@@ -21592,7 +21592,7 @@
 12	นี้	_	DET	DT	_	11	det	_	SpaceAfter=No|th/proper=false
 13	อาจ	_	VERB	MD	_	14	aux	_	SpaceAfter=No|th/proper=false
 14	นำ	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No|th/proper=false
-15	ไป	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
+15	ไป	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
 16	สู่	_	ADP	IN	_	17	case	_	SpaceAfter=No|th/proper=false
 17	ผล	_	NOUN	NN	_	14	obl	_	SpaceAfter=No|th/proper=false
 18	ที่	_	DET	WDT	_	20	nsubj	_	SpaceAfter=No|th/proper=false
@@ -21648,7 +21648,7 @@
 9	จะ	_	VERB	MD	_	10	aux	_	SpaceAfter=No|th/proper=false
 10	ช่วย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 11	ประหยัด	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No|th/proper=false
-12	ไป	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+12	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 13	กว่า	_	ADV	RB	_	15	advmod	_	th/proper=false
 14	42	_	NUM	CD	_	15	nummod	_	th/proper=false
 15	ล้าน	_	NUM	CD	_	16	nummod	_	SpaceAfter=No|th/proper=false
@@ -21690,7 +21690,7 @@
 10	คาสเทลฟรังโกเวเนโต	_	PROPN	NNP	_	3	obl	_	th/proper=true
 11	เธอ	_	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No|th/proper=false
 12	เติบโต	_	VERB	VV	_	3	parataxis	_	SpaceAfter=No|th/proper=false
-13	มา	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	มา	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	ครอบครัว	_	NOUN	NN	_	12	obl	_	SpaceAfter=No|th/proper=false
 16	คาทอลิก	_	PROPN	NNP	_	15	compound	_	SpaceAfter=No|th/proper=true
@@ -21845,7 +21845,7 @@
 3	จะ	_	VERB	MD	_	5	aux	_	SpaceAfter=No|th/proper=false
 4	ถูก	_	VERB	MD	Voice=Pass	5	aux:pass	_	SpaceAfter=No|th/proper=false
 5	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-6	ขึ้น	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+6	ขึ้น	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 7	ซึ่ง	_	ADP	IN	_	9	mark	_	SpaceAfter=No|th/proper=false
 8	สามารถ	_	VERB	MD	_	9	aux	_	SpaceAfter=No|th/proper=false
 9	บันทึก	_	VERB	VV	_	5	advcl	_	SpaceAfter=No|th/proper=false
@@ -22015,7 +22015,7 @@
 1	จาก	_	ADP	IN	_	3	case	_	SpaceAfter=No|th/proper=false
 2	ที่	_	PRON	PRP	_	3	obj	_	SpaceAfter=No|th/proper=false
 3	กล่าว	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No|th/proper=false
-4	มา	_	PART	RP	_	3	dep:prt	_	th/proper=false
+4	มา	_	PART	RP	_	3	compound:prt	_	th/proper=false
 5	การตัดสินใจ	_	VERB	VV	_	7	nsubj	_	SpaceAfter=No|th/proper=false
 6	เป็น	_	AUX	VC	_	7	cop	_	SpaceAfter=No|th/proper=false
 7	อำนาจ	_	NOUN	NN	_	0	root	_	SpaceAfter=No|th/proper=false
@@ -22085,7 +22085,7 @@
 2	นี้	_	DET	DT	_	1	det	_	SpaceAfter=No|th/proper=false
 3	จะ	_	VERB	MD	_	4	aux	_	SpaceAfter=No|th/proper=false
 4	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	ไป	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	ประเมิน	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No|th/proper=false
 7	ผล	_	NOUN	NN	_	6	obj	_	th/proper=false
 
@@ -22103,7 +22103,7 @@
 9	การประชุม	_	VERB	VV	_	7	obl	_	SpaceAfter=No|th/proper=false
 10	ที่	_	DET	WDT	_	11	obj	_	SpaceAfter=No|th/proper=false
 11	จัด	_	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|th/proper=false
-12	ขึ้น	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+12	ขึ้น	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 13	ใน	_	ADP	IN	_	14	case	_	SpaceAfter=No|th/proper=false
 14	โรม	_	PROPN	NNP	_	11	obl	_	th/proper=true
 
@@ -22174,7 +22174,7 @@
 6	วิจัย	_	VERB	VV	_	5	acl	_	SpaceAfter=No|th/proper=false
 7	ที่	_	DET	WDT	_	8	obj	_	SpaceAfter=No|th/proper=false
 8	นำ	_	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|th/proper=false
-9	ไป	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+9	ไป	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 10	ใช้	_	VERB	VV	_	8	xcomp	_	SpaceAfter=No|th/proper=false
 11	ภาย	_	NOUN	NN	_	13	case	_	SpaceAfter=No|th/proper=false
 12	ใต้	_	ADP	IN	_	11	fixed	_	SpaceAfter=No|th/proper=false
@@ -22358,14 +22358,14 @@
 7	ปี	_	NOUN	NNB	_	5	clf	_	SpaceAfter=No|th/proper=false
 8	ที่	_	DET	WDT	_	9	obl:tmod	_	SpaceAfter=No|th/proper=false
 9	ผ่าน	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|th/proper=false
-10	มา	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	มา	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	ที่	_	DET	WDT	_	16	obl:tmod	_	SpaceAfter=No|th/proper=false
 12	อัตรา	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|th/proper=false
 13	การเลิก	_	VERB	VV	_	12	compound	_	SpaceAfter=No|th/proper=false
 14	จ้าง	_	VERB	VV	_	13	xcomp	_	SpaceAfter=No|th/proper=false
 15	งาน	_	NOUN	NN	_	14	obj	_	SpaceAfter=No|th/proper=false
 16	ลด	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|th/proper=false
-17	ลง	_	PART	RP	_	16	dep:prt	_	SpaceAfter=No|th/proper=false
+17	ลง	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|th/proper=false
 18	ต่ำ	_	ADV	RB	_	16	advmod	_	SpaceAfter=No|th/proper=false
 19	กว่า	_	ADP	IN	_	21	case	_	th/proper=false
 20	20	_	NUM	CD	_	21	nummod	_	SpaceAfter=No|th/proper=false
@@ -22685,7 +22685,7 @@
 15	ๆ	_	SYM	SYM	_	14	dep	_	th/proper=false
 16	ที่	_	DET	WDT	_	17	obj	_	SpaceAfter=No|th/proper=false
 17	นำ	_	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|th/proper=false
-18	มา	_	PART	RP	_	17	dep:prt	_	SpaceAfter=No|th/proper=false
+18	มา	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No|th/proper=false
 19	ใช้	_	VERB	VV	_	17	xcomp	_	SpaceAfter=No|th/proper=false
 20	อย่างพอดี	_	ADV	RB	_	19	advmod	_	SpaceAfter=No|th/proper=false
 21	นั้น	_	DET	DT	_	1	det	_	SpaceAfter=No|th/proper=false
@@ -22755,8 +22755,8 @@
 21	เห็น	_	VERB	VV	_	20	xcomp	_	SpaceAfter=No|th/proper=false
 22	พืชผล	_	NOUN	NN	_	21	obj	_	SpaceAfter=No|th/proper=false
 23	งอกเงย	_	VERB	VV	_	21	xcomp	_	SpaceAfter=No|th/proper=false
-24	ขึ้น	_	PART	RP	_	23	dep:prt	_	SpaceAfter=No|th/proper=false
-25	มา	_	PART	RP	_	23	dep:prt	_	SpaceAfter=No|th/proper=false
+24	ขึ้น	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No|th/proper=false
+25	มา	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No|th/proper=false
 26	และ	_	CCONJ	CC	_	27	cc	_	SpaceAfter=No|th/proper=false
 27	ทำให้	_	VERB	VV	_	20	conj	_	SpaceAfter=No|th/proper=false
 28	ความลับ	_	ADJ	JJ	_	27	obj	_	SpaceAfter=No|th/proper=false
@@ -22839,7 +22839,7 @@
 13	ละตินอเมริกัน	_	PROPN	NNP	_	12	compound	_	SpaceAfter=No|th/proper=true
 14	จะ	_	VERB	MD	_	15	aux	_	SpaceAfter=No|th/proper=false
 15	ออก	_	VERB	VV	_	7	ccomp	_	SpaceAfter=No|th/proper=false
-16	มา	_	PART	RP	_	15	dep:prt	_	SpaceAfter=No|th/proper=false
+16	มา	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No|th/proper=false
 17	ลง	_	VERB	VV	_	15	acl	_	SpaceAfter=No|th/proper=false
 18	คะแนน	_	NOUN	NN	_	17	obj	_	SpaceAfter=No|th/proper=false
 19	เสียง	_	NOUN	NN	_	18	compound	_	SpaceAfter=No|th/proper=false
@@ -22854,7 +22854,7 @@
 28	แน่ชัด	_	ADJ	JJ	_	27	amod	_	SpaceAfter=No|th/proper=false
 29	ว่า	_	ADP	IN	_	34	mark	_	SpaceAfter=No|th/proper=false
 30	การเพิ่ม	_	VERB	VV	_	34	nsubj	_	SpaceAfter=No|th/proper=false
-31	ขึ้น	_	PART	RP	_	30	dep:prt	_	SpaceAfter=No|th/proper=false
+31	ขึ้น	_	PART	RP	_	30	compound:prt	_	SpaceAfter=No|th/proper=false
 32	นี้	_	DET	DT	_	30	det	_	SpaceAfter=No|th/proper=false
 33	จะ	_	VERB	MD	_	34	aux	_	SpaceAfter=No|th/proper=false
 34	ส่ง	_	VERB	VV	_	27	ccomp	_	SpaceAfter=No|th/proper=false
@@ -22973,7 +22973,7 @@
 2	อุทิศ	_	VERB	VV	_	1	acl	_	SpaceAfter=No|th/proper=false
 3	ตน	_	NOUN	NN	_	2	obj	_	SpaceAfter=No|th/proper=false
 4	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-5	ขึ้น	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+5	ขึ้น	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 6	เมื่อ	_	ADP	IN	_	7	case	_	SpaceAfter=No|th/proper=false
 7	วันที่	_	NOUN	NN	_	4	obl	_	th/proper=false
 8	30	_	NUM	CD	_	7	appos	_	th/proper=false
@@ -22997,7 +22997,7 @@
 12	ไหม้	_	VERB	VV	_	11	acl	_	th/proper=false
 13	34	_	NUM	CD	_	14	nummod	_	th/proper=false
 14	ตัว	_	NOUN	NNB	_	9	clf	_	SpaceAfter=No|th/proper=false
-15	มา	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+15	มา	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 16	ใช้	_	VERB	VV	_	5	acl	_	SpaceAfter=No|th/proper=false
 17	งาน	_	NOUN	NN	_	16	obj	_	th/proper=false
 
@@ -23089,7 +23089,7 @@
 26	งาน	_	NOUN	NN	_	25	compound	_	SpaceAfter=No|th/proper=false
 27	ผ้า	_	NOUN	NN	_	25	compound	_	SpaceAfter=No|th/proper=false
 28	ฝ้าย	_	NOUN	NN	_	25	compound	_	SpaceAfter=No|th/proper=false
-29	ขึ้น	_	PART	RP	_	24	dep:prt	_	SpaceAfter=No|th/proper=false
+29	ขึ้น	_	PART	RP	_	24	compound:prt	_	SpaceAfter=No|th/proper=false
 30	ที่	_	ADP	IN	_	31	case	_	SpaceAfter=No|th/proper=false
 31	นั่น	_	PRON	PRD	_	24	obl	_	th/proper=false
 
@@ -23101,14 +23101,14 @@
 3	ที่	_	DET	WDT	_	4	nsubj	_	SpaceAfter=No|th/proper=false
 4	ตั้ง	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|th/proper=false
 5	รกราก	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|th/proper=false
-6	มา	_	PART	RP	_	4	dep:prt	_	SpaceAfter=No|th/proper=false
+6	มา	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|th/proper=false
 7	ตั้ง	_	VERB	VV	_	9	case	_	SpaceAfter=No|th/proper=false
 8	แต่	_	ADP	IN	_	7	fixed	_	SpaceAfter=No|th/proper=false
 9	ต้น	_	NOUN	NN	_	4	obl	_	SpaceAfter=No|th/proper=false
 10	ยุค	_	NOUN	NN	_	9	compound	_	th/proper=false
 11	1960	_	NUM	CD	_	10	appos	_	th/proper=false
 12	อพยพ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-13	มา	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	มา	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	จาก	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	ตุรกี	_	PROPN	NNP	_	12	obl	_	SpaceAfter=No|th/proper=true
 16	เป็น	_	AUX	VC	_	17	cop	_	SpaceAfter=No|th/proper=false
@@ -23142,7 +23142,7 @@
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No|th/proper=false
 6	โอเบอร์มาร์สเบิร์ก	_	PROPN	NNP	_	1	nmod	_	SpaceAfter=No|th/proper=true
 7	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-8	ขึ้น	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ขึ้น	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ตั้ง	_	VERB	VV	_	11	case	_	SpaceAfter=No|th/proper=false
 10	แต่	_	ADP	IN	_	9	fixed	_	SpaceAfter=No|th/proper=false
 11	ศตวรรษ	_	NOUN	NN	_	7	obl	_	SpaceAfter=No|th/proper=false
@@ -23222,7 +23222,7 @@
 1	สวน	_	NOUN	NN	_	3	obj	_	SpaceAfter=No|th/proper=false
 2	เยร์บาบวยนา	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No|th/proper=true
 3	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-4	ขึ้น	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ขึ้น	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No|th/proper=false
 6	ช่วง	_	NOUN	NN	_	3	obl	_	SpaceAfter=No|th/proper=false
 7	ต้น	_	NOUN	NN	_	6	compound	_	SpaceAfter=No|th/proper=false
@@ -23262,7 +23262,7 @@
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No|th/proper=false
 11	สภาวะ	_	NOUN	NN	_	9	obl	_	SpaceAfter=No|th/proper=false
 12	ตก	_	VERB	VV	_	11	acl	_	SpaceAfter=No|th/proper=false
-13	ลง	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	ลง	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ฮวบฮาบ	_	ADV	RB	_	12	advmod	_	th/proper=false
 
 # sent_id = w02006081
@@ -23325,7 +23325,7 @@
 21	คลอง	_	PROPN	NN	_	20	obj	_	Proper=True|SpaceAfter=No|th/proper=true
 22	อิสตันบูล	_	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No|th/proper=true
 23	ขนาน	_	VERB	VV	_	20	acl	_	SpaceAfter=No|th/proper=false
-24	ไป	_	PART	RP	_	23	dep:prt	_	SpaceAfter=No|th/proper=false
+24	ไป	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No|th/proper=false
 25	กับ	_	ADP	IN	_	26	case	_	SpaceAfter=No|th/proper=false
 26	มัน	_	PRON	PRP	Person=3	23	obl	_	th/proper=false
 
@@ -23342,8 +23342,8 @@
 8	ถูก	_	VERB	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No|th/proper=false
 9	ส่ง	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No|th/proper=false
 10	ต่อ	_	ADV	RB	_	9	advmod	_	SpaceAfter=No|th/proper=false
-11	ออก	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
-12	ไป	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ออก	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
+12	ไป	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 13	อีก	_	ADV	RB	_	9	advmod	_	SpaceAfter=No|th/proper=false
 14	เพราะ	_	ADP	IN	_	17	mark	_	SpaceAfter=No|th/proper=false
 15	พวก	_	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|th/proper=false
@@ -23389,7 +23389,7 @@
 8	วัฒนธรรม	_	NOUN	NN	_	0	root	_	SpaceAfter=No|th/proper=false
 9	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No|th/proper=false
 10	แผ่	_	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|th/proper=false
-11	ไป	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ไป	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 12	ไกล	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|th/proper=false
 13	มาก	_	ADV	RB	_	12	advmod	_	SpaceAfter=No|th/proper=false
 14	ที่สุด	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|th/proper=false
@@ -23419,7 +23419,7 @@
 10	ใต้	_	NOUN	NN	_	9	compound	_	th/proper=false
 11	การค้นหา	_	VERB	VV	_	12	nsubj	_	SpaceAfter=No|th/proper=false
 12	ย้อน	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-13	ไป	_	PART	RP	_	12	dep:prt	_	SpaceAfter=No|th/proper=false
+13	ไป	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No|th/proper=false
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No|th/proper=false
 15	ช่วง	_	NOUN	NN	_	12	obl	_	SpaceAfter=No|th/proper=false
 16	ต้น	_	NOUN	NN	_	15	compound	_	SpaceAfter=No|th/proper=false
@@ -23618,7 +23618,7 @@
 5	1	_	NUM	CD	_	4	nummod	_	th/proper=false
 6	ได้	_	PART	AS	Aspect=Perf	7	aux	_	SpaceAfter=No|th/proper=false
 7	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-8	มา	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+8	มา	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ซึ่ง	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	ความเปลี่ยนแปลง	_	VERB	VV	_	7	obl	_	SpaceAfter=No|th/proper=false
 11	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No|th/proper=false
@@ -23637,7 +23637,7 @@
 1	การปฏิวัติ	_	VERB	VV	_	3	csubj	_	Proper=True|SpaceAfter=No|th/proper=true
 2	อุตสาหกรรม	_	PROPN	NN	_	1	obj	_	Proper=True|SpaceAfter=No|th/proper=true
 3	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-4	ขึ้น	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ขึ้น	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No|th/proper=false
 6	บริเตนใหญ่	_	PROPN	NNP	_	3	obl	_	SpaceAfter=No|th/proper=true
 7	ก่อน	_	ADP	IN	_	8	case	_	SpaceAfter=No|th/proper=false
@@ -23788,8 +23788,8 @@
 5	ทุบ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 6	และ	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No|th/proper=false
 7	ถล่ม	_	VERB	VV	_	5	conj	_	SpaceAfter=No|th/proper=false
-8	ลง	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
-9	มา	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ลง	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
+9	มา	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 10	เป็น	_	AUX	VC	_	11	cop	_	SpaceAfter=No|th/proper=false
 11	ซาก	_	NOUN	NN	_	7	acl	_	SpaceAfter=No|th/proper=false
 12	ปรัก	_	VERB	VV	_	11	acl	_	SpaceAfter=No|th/proper=false
@@ -23847,8 +23847,8 @@
 4	ถิ่น	_	NOUN	NN	_	3	advmod	_	SpaceAfter=No|th/proper=false
 5	ถูก	_	VERB	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No|th/proper=false
 6	ย้าย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-7	เข้า	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
-8	ไป	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+7	เข้า	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
+8	ไป	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ที่	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	สำนัก	_	PROPN	NN	_	6	obl	_	Proper=True|SpaceAfter=No|th/proper=true
 11	สงฆ์	_	PROPN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No|th/proper=true
@@ -23863,8 +23863,8 @@
 4	พัง	_	VERB	VV	_	2	conj	_	SpaceAfter=No|th/proper=false
 5	ถูก	_	VERB	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No|th/proper=false
 6	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-7	ขึ้น	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
-8	มา	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+7	ขึ้น	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
+8	มา	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 9	ภาย	_	NOUN	NN	_	6	advmod	_	SpaceAfter=No|th/proper=false
 10	หลัง	_	ADJ	JJ	_	9	amod	_	th/proper=false
 
@@ -23885,7 +23885,7 @@
 12	เทเลคอม	_	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No|th/proper=true
 13	และ	_	CCONJ	CC	_	14	cc	_	SpaceAfter=No|th/proper=false
 14	ย้าย	_	VERB	VV	_	8	conj	_	SpaceAfter=No|th/proper=false
-15	ไป	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
+15	ไป	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
 16	อยู่	_	VERB	VV	_	14	acl	_	SpaceAfter=No|th/proper=false
 17	กับ	_	ADP	IN	_	18	case	_	SpaceAfter=No|th/proper=false
 18	แฟน	_	NOUN	NN	_	16	obl	_	SpaceAfter=No|th/proper=false
@@ -24018,7 +24018,7 @@
 9	และ	_	CCONJ	CC	_	11	cc	_	SpaceAfter=No|th/proper=false
 10	ได้	_	PART	AS	Aspect=Perf	11	aux	_	SpaceAfter=No|th/proper=false
 11	เดินทาง	_	VERB	VV	_	2	conj	_	SpaceAfter=No|th/proper=false
-12	ไป	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+12	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 13	ยัง	_	ADP	IN	_	14	case	_	SpaceAfter=No|th/proper=false
 14	อิสราเอล	_	PROPN	NNP	_	11	obl	_	SpaceAfter=No|th/proper=true
 15	หลาย	_	DET	DT	_	16	det	_	SpaceAfter=No|th/proper=false
@@ -24094,7 +24094,7 @@
 22	ที่	_	DET	WDT	_	23	nsubj	_	SpaceAfter=No|th/proper=false
 23	สืบ	_	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|th/proper=false
 24	เชื้อสาย	_	NOUN	NN	_	23	obj	_	SpaceAfter=No|th/proper=false
-25	มา	_	PART	RP	_	23	dep:prt	_	SpaceAfter=No|th/proper=false
+25	มา	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No|th/proper=false
 26	จาก	_	ADP	IN	_	27	case	_	SpaceAfter=No|th/proper=false
 27	ผู้	_	NOUN	NN	_	23	obl	_	SpaceAfter=No|th/proper=false
 28	อพยพ	_	VERB	VV	_	27	acl	_	th/proper=false
@@ -24289,7 +24289,7 @@
 7	กรีซ	_	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|th/proper=true
 8	ได้	_	PART	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|th/proper=false
 9	ถือกำเนิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	ขึ้น	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	จาก	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	ยุค	_	PROPN	NN	_	9	obl	_	Proper=True|SpaceAfter=No|th/proper=true
 13	มืด	_	ADJ	JJ	_	12	amod	_	Proper=True|SpaceAfter=No|th/proper=true
@@ -24305,7 +24305,7 @@
 1	การรู้	_	VERB	VV	_	3	csubj	_	SpaceAfter=No|th/proper=false
 2	หนังสือ	_	NOUN	NN	_	1	obj	_	SpaceAfter=No|th/proper=false
 3	หาย	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-4	ไป	_	PART	RP	_	3	dep:prt	_	SpaceAfter=No|th/proper=false
+4	ไป	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No|th/proper=false
 5	และ	_	CCONJ	CC	_	10	cc	_	SpaceAfter=No|th/proper=false
 6	อักขระ	_	NOUN	NN	_	10	nsubj:pass	_	SpaceAfter=No|th/proper=false
 7	ไมซีเนียน	_	PROPN	NNP	_	6	compound	_	SpaceAfter=No|th/proper=true
@@ -24319,11 +24319,11 @@
 15	เอา	_	VERB	VV	_	14	xcomp	_	SpaceAfter=No|th/proper=false
 16	อักษร	_	NOUN	NN	_	15	obj	_	SpaceAfter=No|th/proper=false
 17	ฟีนีเชียน	_	PROPN	NNP	_	16	compound	_	SpaceAfter=No|th/proper=true
-18	เข้า	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
-19	มา	_	PART	RP	_	14	dep:prt	_	SpaceAfter=No|th/proper=false
+18	เข้า	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
+19	มา	_	PART	RP	_	14	compound:prt	_	SpaceAfter=No|th/proper=false
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No|th/proper=false
 21	ปรับ	_	VERB	VV	_	14	conj	_	SpaceAfter=No|th/proper=false
-22	มา	_	PART	RP	_	21	dep:prt	_	SpaceAfter=No|th/proper=false
+22	มา	_	PART	RP	_	21	compound:prt	_	SpaceAfter=No|th/proper=false
 23	ทำ	_	VERB	VV	_	21	xcomp	_	SpaceAfter=No|th/proper=false
 24	เป็น	_	AUX	VC	_	25	cop	_	SpaceAfter=No|th/proper=false
 25	อักษร	_	NOUN	NN	_	23	xcomp	_	SpaceAfter=No|th/proper=false
@@ -24337,7 +24337,7 @@
 3	ข้อความ	_	NOUN	NNB	_	1	clf	_	SpaceAfter=No|th/proper=false
 4	แรก	_	ADJ	JJ	_	3	amod	_	SpaceAfter=No|th/proper=false
 5	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-6	ขึ้น	_	PART	RP	_	5	dep:prt	_	SpaceAfter=No|th/proper=false
+6	ขึ้น	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No|th/proper=false
 7	ใน	_	ADP	IN	_	8	case	_	SpaceAfter=No|th/proper=false
 8	ศตวรรษ	_	NOUN	NN	_	5	obl	_	SpaceAfter=No|th/proper=false
 9	ที่	_	NOUN	NN	_	8	compound	_	th/proper=false
@@ -24378,7 +24378,7 @@
 28	ราบ	_	ADJ	JJ	_	27	amod	_	SpaceAfter=No|th/proper=false
 29	ถูก	_	VERB	MD	Voice=Pass	30	aux:pass	_	SpaceAfter=No|th/proper=false
 30	ตัด	_	VERB	VV	_	3	advcl	_	SpaceAfter=No|th/proper=false
-31	ออก	_	PART	RP	_	30	dep:prt	_	SpaceAfter=No|th/proper=false
+31	ออก	_	PART	RP	_	30	compound:prt	_	SpaceAfter=No|th/proper=false
 32	จาก	_	ADP	IN	_	33	case	_	SpaceAfter=No|th/proper=false
 33	เพื่อนบ้าน	_	NOUN	NN	_	30	obl	_	SpaceAfter=No|th/proper=false
 34	ด้วย	_	ADP	IN	_	35	case	_	SpaceAfter=No|th/proper=false
@@ -24471,14 +24471,14 @@
 21	ได้	_	PART	AS	Aspect=Perf	23	aux	_	SpaceAfter=No|th/proper=false
 22	ถูก	_	VERB	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No|th/proper=false
 23	สร้าง	_	VERB	VV	_	10	advcl	_	SpaceAfter=No|th/proper=false
-24	ขึ้น	_	PART	RP	_	23	dep:prt	_	th/proper=false
+24	ขึ้น	_	PART	RP	_	23	compound:prt	_	th/proper=false
 
 # sent_id = w03007039
 # text = การค้าพัฒนาขึ้นจากการตั้งด่านชั้นนอกเพื่อการพาณิชย์ตลอดแนวทะเลเมดิเตอร์เรเนียน ซึ่งเป็นกลวิธีที่ยังไม่เคยมีใครใช้มาก่อน
 # english_text = Trade was developed by establishing commercial outposts throughout the Mediterranean, a technique that had not been used until then.
 1	การค้า	_	VERB	VV	_	2	nsubj	_	SpaceAfter=No|th/proper=false
 2	พัฒนา	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-3	ขึ้น	_	PART	RP	_	2	dep:prt	_	SpaceAfter=No|th/proper=false
+3	ขึ้น	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No|th/proper=false
 4	จาก	_	ADP	IN	_	5	case	_	SpaceAfter=No|th/proper=false
 5	การตั้ง	_	VERB	VV	_	2	xcomp	_	SpaceAfter=No|th/proper=false
 6	ด่าน	_	NOUN	NN	_	5	obj	_	SpaceAfter=No|th/proper=false
@@ -24501,7 +24501,7 @@
 23	มี	_	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No|th/proper=false
 24	ใคร	_	PRON	WP	_	23	obj	_	SpaceAfter=No|th/proper=false
 25	ใช้	_	VERB	VV	_	23	xcomp	_	SpaceAfter=No|th/proper=false
-26	มา	_	PART	RP	_	25	dep:prt	_	SpaceAfter=No|th/proper=false
+26	มา	_	PART	RP	_	25	compound:prt	_	SpaceAfter=No|th/proper=false
 27	ก่อน	_	ADV	RB	_	25	advmod	_	th/proper=false
 
 # sent_id = w03008011
@@ -24572,7 +24572,7 @@
 9	ทุน	_	NOUN	NN	_	8	compound	_	SpaceAfter=No|th/proper=false
 10	สนับสนุน	_	VERB	VV	_	8	acl	_	SpaceAfter=No|th/proper=false
 11	ทั้งหมด	_	DET	DT	_	8	det	_	SpaceAfter=No|th/proper=false
-12	มา	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+12	มา	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 13	จาก	_	ADP	IN	_	14	case	_	SpaceAfter=No|th/proper=false
 14	เงิน	_	NOUN	NN	_	7	obl	_	SpaceAfter=No|th/proper=false
 15	ของ	_	ADP	IN	_	16	case	_	SpaceAfter=No|th/proper=false
@@ -24582,7 +24582,7 @@
 19	ต้อง	_	VERB	MD	_	20	aux	_	SpaceAfter=No|th/proper=false
 20	ปิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 21	ตัว	_	NOUN	NN	_	20	obj	_	SpaceAfter=No|th/proper=false
-22	ลง	_	PART	RP	_	20	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ลง	_	PART	RP	_	20	compound:prt	_	SpaceAfter=No|th/proper=false
 23	ใน	_	ADP	IN	_	24	case	_	SpaceAfter=No|th/proper=false
 24	ปี	_	NOUN	NN	_	20	obl	_	th/proper=false
 25	1994	_	NUM	CD	_	24	appos	_	th/proper=false
@@ -24656,7 +24656,7 @@
 2	พวก	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|th/proper=false
 3	เขา	_	PRON	PRP	Person=3	2	compound	_	SpaceAfter=No|th/proper=false
 4	กลับ	_	VERB	VV	_	7	advcl	_	SpaceAfter=No|th/proper=false
-5	มา	_	PART	RP	_	4	dep:prt	_	th/proper=false
+5	มา	_	PART	RP	_	4	compound:prt	_	th/proper=false
 6	ก็	_	ADV	RB	_	7	advmod	_	SpaceAfter=No|th/proper=false
 7	รู้สึก	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 8	มี	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No|th/proper=false
@@ -24728,7 +24728,7 @@
 8	ได้	_	PART	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|th/proper=false
 9	เดินทาง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 10	กลับ	_	VERB	VV	_	9	acl	_	SpaceAfter=No|th/proper=false
-11	ไป	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+11	ไป	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 12	ยัง	_	ADP	IN	_	13	case	_	SpaceAfter=No|th/proper=false
 13	สวิตเซอร์แลนด์	_	PROPN	NNP	_	9	obl	_	SpaceAfter=No|th/proper=true
 14	พร้อม	_	VERB	VV	_	9	acl	_	SpaceAfter=No|th/proper=false
@@ -24825,7 +24825,7 @@
 7	เกาะ	_	NOUN	NN	_	4	nmod	_	SpaceAfter=No|th/proper=false
 8	สามารถ	_	VERB	MD	_	9	aux	_	SpaceAfter=No|th/proper=false
 9	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	ขึ้น	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	ได้	_	VERB	MD	_	9	aux	_	SpaceAfter=No|th/proper=false
 12	ใน	_	ADP	IN	_	13	case	_	SpaceAfter=No|th/proper=false
 13	ช่วง	_	NOUN	NN	_	9	obl	_	SpaceAfter=No|th/proper=false
@@ -24900,7 +24900,7 @@
 7	เฮกตาร์	_	NOUN	NN	_	4	compound	_	SpaceAfter=No|th/proper=false
 8	ถูก	_	VERB	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No|th/proper=false
 9	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	ขึ้น	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	บริเวณ	_	NOUN	NN	_	9	obl	_	SpaceAfter=No|th/proper=false
 13	ตะวัน	_	NOUN	NN	_	12	compound	_	SpaceAfter=No|th/proper=false
@@ -24925,7 +24925,7 @@
 6	ก็	_	ADV	RB	_	7	advmod	_	SpaceAfter=No|th/proper=false
 7	เลิก	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 8	ใช้	_	VERB	VV	_	7	acl	_	SpaceAfter=No|th/proper=false
-9	ไป	_	PART	RP	_	7	dep:prt	_	th/proper=false
+9	ไป	_	PART	RP	_	7	compound:prt	_	th/proper=false
 10	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No|th/proper=false
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 12	ปี	_	NOUN	NN	_	16	obl	_	th/proper=false
@@ -24945,7 +24945,7 @@
 26	ได้	_	PART	AS	Aspect=Perf	28	aux	_	SpaceAfter=No|th/proper=false
 27	ถูก	_	VERB	MD	Voice=Pass	28	aux:pass	_	SpaceAfter=No|th/proper=false
 28	รื้อถอน	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|th/proper=false
-29	ไป	_	PART	RP	_	28	dep:prt	_	SpaceAfter=No|th/proper=false
+29	ไป	_	PART	RP	_	28	compound:prt	_	SpaceAfter=No|th/proper=false
 30	พร้อม	_	VERB	VV	_	28	xcomp	_	SpaceAfter=No|th/proper=false
 31	กัน	_	PRON	PRP	_	30	obj	_	SpaceAfter=No|th/proper=false
 32	กับ	_	ADP	IN	_	33	case	_	SpaceAfter=No|th/proper=false
@@ -24968,7 +24968,7 @@
 11	ถอด	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 12	โทษ	_	NOUN	NN	_	11	obj	_	SpaceAfter=No|th/proper=false
 13	ประหาร	_	VERB	VV	_	12	acl	_	SpaceAfter=No|th/proper=false
-14	ออก	_	PART	RP	_	11	dep:prt	_	SpaceAfter=No|th/proper=false
+14	ออก	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No|th/proper=false
 15	จาก	_	ADP	IN	_	16	case	_	SpaceAfter=No|th/proper=false
 16	กฎหมาย	_	NOUN	NN	_	11	obl	_	SpaceAfter=No|th/proper=false
 17	วาติกัน	_	PROPN	NNP	_	16	compound	_	th/proper=true
@@ -24976,7 +24976,7 @@
 19	เพิกถอน	_	VERB	VV	_	11	conj	_	SpaceAfter=No|th/proper=false
 20	โทษ	_	NOUN	NN	_	19	obj	_	SpaceAfter=No|th/proper=false
 21	ประหาร	_	VERB	VV	_	20	acl	_	SpaceAfter=No|th/proper=false
-22	ออก	_	PART	RP	_	19	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ออก	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No|th/proper=false
 23	จาก	_	ADP	IN	_	24	case	_	SpaceAfter=No|th/proper=false
 24	ความผิด	_	VERB	VV	_	19	xcomp	_	SpaceAfter=No|th/proper=false
 25	อาญา	_	NOUN	NN	_	24	obj	_	SpaceAfter=No|th/proper=false
@@ -25070,7 +25070,7 @@
 11	ก็	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|th/proper=false
 12	ได้	_	PART	AS	Aspect=Perf	13	aux	_	SpaceAfter=No|th/proper=false
 13	ก่อตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-14	ขึ้น	_	PART	RP	_	13	dep:prt	_	th/proper=false
+14	ขึ้น	_	PART	RP	_	13	compound:prt	_	th/proper=false
 15	รวม	_	VERB	VV	_	13	acl	_	SpaceAfter=No|th/proper=false
 16	ถึง	_	ADP	IN	_	17	case	_	SpaceAfter=No|th/proper=false
 17	ซัมเนียม	_	NOUN	NN	_	15	obl	_	th/proper=false
@@ -25095,7 +25095,7 @@
 7	ชื่อ	_	NOUN	NN	_	9	obj	_	SpaceAfter=No|th/proper=false
 8	อะพูเลีย	_	PROPN	NNP	_	7	compound	_	SpaceAfter=No|th/proper=true
 9	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-10	มา	_	PART	RP	_	9	dep:prt	_	SpaceAfter=No|th/proper=false
+10	มา	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No|th/proper=false
 11	ใช้	_	VERB	VV	_	9	xcomp	_	SpaceAfter=No|th/proper=false
 12	โดย	_	ADP	IN	_	13	case	_	SpaceAfter=No|th/proper=false
 13	นัก	_	NOUN	NN	_	11	obl	_	SpaceAfter=No|th/proper=false
@@ -25166,7 +25166,7 @@
 22	นี้	_	DET	DT	_	21	det	_	SpaceAfter=No|th/proper=false
 23	ได้	_	PART	AS	Aspect=Perf	24	aux	_	SpaceAfter=No|th/proper=false
 24	กลาย	_	VERB	VV	_	11	conj	_	SpaceAfter=No|th/proper=false
-25	มา	_	PART	RP	_	24	dep:prt	_	SpaceAfter=No|th/proper=false
+25	มา	_	PART	RP	_	24	compound:prt	_	SpaceAfter=No|th/proper=false
 26	เป็น	_	AUX	VC	_	27	cop	_	SpaceAfter=No|th/proper=false
 27	เครื่องหมาย	_	NOUN	NN	_	24	xcomp	_	SpaceAfter=No|th/proper=false
 28	ที่	_	DET	WDT	_	29	nsubj	_	SpaceAfter=No|th/proper=false
@@ -25212,7 +25212,7 @@
 4	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
 5	ผู้	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|th/proper=false
 6	เข้า	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No|th/proper=false
-7	มา	_	PART	RP	_	6	dep:prt	_	SpaceAfter=No|th/proper=false
+7	มา	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No|th/proper=false
 8	คลี่คลาย	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No|th/proper=false
 9	ปัญหา	_	NOUN	NN	_	8	obj	_	SpaceAfter=No|th/proper=false
 10	ความขัดแย้ง	_	VERB	VV	_	9	compound	_	th/proper=false
@@ -25232,7 +25232,7 @@
 24	ยอม	_	VERB	VV	_	20	xcomp	_	SpaceAfter=No|th/proper=false
 25	ทิ้ง	_	VERB	VV	_	24	xcomp	_	SpaceAfter=No|th/proper=false
 26	อิตาลี	_	PROPN	NNP	_	25	obj	_	SpaceAfter=No|th/proper=true
-27	ไป	_	PART	RP	_	25	dep:prt	_	SpaceAfter=No|th/proper=false
+27	ไป	_	PART	RP	_	25	compound:prt	_	SpaceAfter=No|th/proper=false
 28	เป็น	_	AUX	VC	_	29	cop	_	SpaceAfter=No|th/proper=false
 29	หน	_	NOUN	NN	_	25	acl	_	SpaceAfter=No|th/proper=false
 30	ที่	_	NOUN	NN	_	29	compound	_	SpaceAfter=No|th/proper=false
@@ -25242,7 +25242,7 @@
 # text = การเข้ามาปิดล้อมโดยกองเรือรบวิลล์เนิฟส่งผลให้ต้องล้มเลิกแผนการเข้ารุกรานเกาะอังกฤษไป ทั้งนี้เพราะการพัฒนาใหม่ๆ เกิดขึ้นในทวีปด้วย
 # english_text = The blockage of Villeneuve's fleet resulted in giving up the invasion plan of the British Isles, also because new developments were taking place in the continent.
 1	การเข้า	_	VERB	VV	_	10	nsubj	_	SpaceAfter=No|th/proper=false
-2	มา	_	PART	RP	_	1	dep:prt	_	SpaceAfter=No|th/proper=false
+2	มา	_	PART	RP	_	1	compound:prt	_	SpaceAfter=No|th/proper=false
 3	ปิด	_	VERB	VV	_	1	xcomp	_	SpaceAfter=No|th/proper=false
 4	ล้อม	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No|th/proper=false
 5	โดย	_	ADP	IN	_	6	case	_	SpaceAfter=No|th/proper=false
@@ -25260,7 +25260,7 @@
 17	รุกราน	_	VERB	VV	_	16	xcomp	_	SpaceAfter=No|th/proper=false
 18	เกาะ	_	PROPN	NN	_	17	obj	_	Proper=True|SpaceAfter=No|th/proper=true
 19	อังกฤษ	_	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No|th/proper=true
-20	ไป	_	PART	RP	_	14	dep:prt	_	th/proper=false
+20	ไป	_	PART	RP	_	14	compound:prt	_	th/proper=false
 21	ทั้ง	_	ADP	IN	_	27	mark	_	SpaceAfter=No|th/proper=false
 22	นี้	_	PRON	PRD	_	21	fixed	_	SpaceAfter=No|th/proper=false
 23	เพราะ	_	ADP	IN	_	21	fixed	_	SpaceAfter=No|th/proper=false
@@ -25268,7 +25268,7 @@
 25	ใหม่	_	ADJ	JJ	_	24	amod	_	SpaceAfter=No|th/proper=false
 26	ๆ	_	SYM	SYM	_	25	dep	_	th/proper=false
 27	เกิด	_	VERB	VV	_	10	advcl	_	SpaceAfter=No|th/proper=false
-28	ขึ้น	_	PART	RP	_	27	dep:prt	_	SpaceAfter=No|th/proper=false
+28	ขึ้น	_	PART	RP	_	27	compound:prt	_	SpaceAfter=No|th/proper=false
 29	ใน	_	ADP	IN	_	30	case	_	SpaceAfter=No|th/proper=false
 30	ทวีป	_	NOUN	NN	_	27	obl	_	SpaceAfter=No|th/proper=false
 31	ด้วย	_	ADV	RB	_	27	advmod	_	th/proper=false
@@ -25286,7 +25286,7 @@
 8	ออสเตอร์ลิตซ์	_	PROPN	NNP	_	6	obl:poss	_	SpaceAfter=No|th/proper=true
 9	จะ	_	VERB	MD	_	10	aux	_	SpaceAfter=No|th/proper=false
 10	นำ	_	VERB	VV	_	4	ccomp	_	SpaceAfter=No|th/proper=false
-11	มา	_	PART	RP	_	10	dep:prt	_	SpaceAfter=No|th/proper=false
+11	มา	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No|th/proper=false
 12	ซึ่ง	_	ADP	IN	_	13	case	_	SpaceAfter=No|th/proper=false
 13	สนธิสัญญา	_	NOUN	NN	_	10	obl	_	SpaceAfter=No|th/proper=false
 14	สงบ	_	VERB	VV	_	13	acl	_	SpaceAfter=No|th/proper=false
@@ -25297,7 +25297,7 @@
 19	พระองค์	_	PRON	PRP	Person=3	17	obl:poss	_	SpaceAfter=No|th/proper=false
 20	ก็	_	ADV	RB	_	21	advmod	_	SpaceAfter=No|th/proper=false
 21	ทลาย	_	VERB	VV	_	4	conj	_	SpaceAfter=No|th/proper=false
-22	ลง	_	PART	RP	_	21	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ลง	_	PART	RP	_	21	compound:prt	_	SpaceAfter=No|th/proper=false
 23	ใน	_	ADP	IN	_	24	case	_	SpaceAfter=No|th/proper=false
 24	เวลา	_	NOUN	NN	_	21	obl	_	SpaceAfter=No|th/proper=false
 25	ไม่	_	PART	NEG	Polarity=Neg	26	advmod	_	SpaceAfter=No|th/proper=false
@@ -25491,7 +25491,7 @@
 6	ก็	_	ADV	RB	_	8	advmod	_	SpaceAfter=No|th/proper=false
 7	ต้อง	_	VERB	MD	_	8	aux	_	SpaceAfter=No|th/proper=false
 8	จบ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-9	ลง	_	PART	RP	_	8	dep:prt	_	SpaceAfter=No|th/proper=false
+9	ลง	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No|th/proper=false
 10	เนื่อง	_	ADP	IN	_	12	case	_	SpaceAfter=No|th/proper=false
 11	จาก	_	ADP	IN	_	10	fixed	_	SpaceAfter=No|th/proper=false
 12	การร่วมมือ	_	VERB	VV	_	8	obl	_	SpaceAfter=No|th/proper=false
@@ -25504,7 +25504,7 @@
 19	สอง	_	NUM	CD	_	12	obl	_	SpaceAfter=No|th/proper=false
 20	ซึ่ง	_	DET	WDT	_	21	nsubj	_	SpaceAfter=No|th/proper=false
 21	นำ	_	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|th/proper=false
-22	ไป	_	PART	RP	_	21	dep:prt	_	SpaceAfter=No|th/proper=false
+22	ไป	_	PART	RP	_	21	compound:prt	_	SpaceAfter=No|th/proper=false
 23	สู่	_	ADP	IN	_	24	case	_	SpaceAfter=No|th/proper=false
 24	ข้อ	_	NOUN	NN	_	21	obl	_	SpaceAfter=No|th/proper=false
 25	ขัดแย้ง	_	VERB	VV	_	24	acl	_	SpaceAfter=No|th/proper=false
@@ -25758,7 +25758,7 @@
 5	หลาย	_	DET	DT	_	6	det	_	SpaceAfter=No|th/proper=false
 6	แห่ง	_	NOUN	NNB	_	4	clf	_	SpaceAfter=No|th/proper=false
 7	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|th/proper=false
-8	ไป	_	PART	RP	_	7	dep:prt	_	SpaceAfter=No|th/proper=false
+8	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|th/proper=false
 9	สู่	_	ADP	IN	_	10	case	_	SpaceAfter=No|th/proper=false
 10	การเคลื่อนย้าย	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No|th/proper=false
 11	ทุน	_	NOUN	NN	_	10	obj	_	SpaceAfter=No|th/proper=false
@@ -26252,8 +26252,8 @@
 22	ระหว่าง	_	ADP	IN	_	23	case	_	SpaceAfter=No|th/proper=false
 23	ถอน	_	VERB	VV	_	20	xcomp	_	SpaceAfter=No|th/proper=false
 24	ทัพ	_	NOUN	NN	_	23	obj	_	SpaceAfter=No|th/proper=false
-25	ออก	_	PART	RP	_	23	dep:prt	_	SpaceAfter=No|th/proper=false
-26	ไป	_	PART	RP	_	23	dep:prt	_	SpaceAfter=No|th/proper=false
+25	ออก	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No|th/proper=false
+26	ไป	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No|th/proper=false
 27	หรือ	_	CCONJ	CC	_	28	cc	_	SpaceAfter=No|th/proper=false
 28	กลาย	_	VERB	VV	_	23	conj	_	SpaceAfter=No|th/proper=false
 29	เป็น	_	AUX	VC	_	30	cop	_	SpaceAfter=No|th/proper=false
