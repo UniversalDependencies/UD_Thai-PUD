@@ -25,8 +25,8 @@
     <tag name="PROPN">2022</tag><!-- _ -->
     <tag name="PUNCT">272</tag><!-- _ -->
     <tag name="SCONJ">1</tag><!-- _ -->
+    <tag name="SYM">134</tag><!-- _ -->
     <tag name="VERB">5408</tag><!-- _ -->
-    <tag name="X">134</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="8">

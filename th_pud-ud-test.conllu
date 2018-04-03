@@ -245,7 +245,7 @@
 33	และ	_	CCONJ	CC	_	21	cc	_	th/proper=false
 34	กลุ่ม	_	NOUN	NN	_	21	conj	_	th/proper=false
 35	อื่น	_	ADJ	JJ	_	34	amod	_	th/proper=false
-36	ๆ	_	X	SYM	_	35	p	_	th/proper=false
+36	ๆ	_	SYM	SYM	_	35	p	_	th/proper=false
 
 # n01003012
 # การชุมนุมนี้เดิมกำหนดว่าจะจัดที่สโมสรมหานครส่วนตัวในกรุงวอชิงตัน ถนนเอช ซึ่งห่างไปไม่กี่ช่วงตึก
@@ -458,7 +458,7 @@
 6	ที่	_	NOUN	NN	_	5	dobj	_	th/proper=false
 7	มา	_	PART	RP	_	3	prt	_	th/proper=false
 8	เรื่อย	_	ADV	RB	_	3	advmod	_	th/proper=false
-9	ๆ	_	X	SYM	_	8	p	_	th/proper=false
+9	ๆ	_	SYM	SYM	_	8	p	_	th/proper=false
 10	หลาย	_	DET	DT	_	11	det	_	th/proper=false
 11	ปี	_	NOUN	NNB	_	3	tmod	_	th/proper=false
 12	—	_	PUNCT	-	_	3	p	_	th/proper=false
@@ -527,14 +527,14 @@
 7	จาก	_	ADP	IN	_	4	prep	_	th/proper=false
 8	ประเทศ	_	NOUN	NN	_	7	pobj	_	th/proper=false
 9	ต่าง	_	ADJ	JJ	_	8	amod	_	th/proper=false
-10	ๆ	_	X	SYM	_	9	p	_	th/proper=false
+10	ๆ	_	SYM	SYM	_	9	p	_	th/proper=false
 11	เพื่อ	_	ADP	IN	_	12	mark	_	th/proper=false
 12	ให้	_	VERB	VV	_	4	advcl	_	th/proper=false
 13	ส่ง	_	VERB	VV	_	12	xcomp	_	th/proper=false
 14	สัตว์	_	NOUN	NN	_	13	dobj	_	th/proper=false
 15	สายพันธุ์	_	NOUN	NN	_	14	nn	_	th/proper=false
 16	ต่าง	_	ADJ	JJ	_	15	amod	_	th/proper=false
-17	ๆ	_	X	SYM	_	16	p	_	th/proper=false
+17	ๆ	_	SYM	SYM	_	16	p	_	th/proper=false
 18	รวม	_	VERB	VV	_	14	cc	_	th/proper=false
 19	ถึง	_	ADP	IN	_	18	mwe	_	th/proper=false
 20	สุกร	_	NOUN	NN	_	14	conj	_	th/proper=false
@@ -1119,7 +1119,7 @@
 6	แสดง	_	VERB	VV	_	5	xcomp	_	th/proper=false
 7	ยุทโธปกรณ์	_	NOUN	NN	_	6	dobj	_	th/proper=false
 8	อื่น	_	ADJ	JJ	_	7	amod	_	th/proper=false
-9	ๆ	_	X	SYM	_	8	p	_	th/proper=false
+9	ๆ	_	SYM	SYM	_	8	p	_	th/proper=false
 10	อีก	_	DET	DT	_	7	det	_	th/proper=false
 11	มากมาย	_	ADJ	JJ	_	7	amod	_	th/proper=false
 12	ใน	_	ADP	IN	_	5	prep	_	th/proper=false
@@ -1259,7 +1259,7 @@
 35	ช่วง	_	NOUN	NN	_	34	attr	_	th/proper=false
 36	เวลา	_	NOUN	NN	_	35	nn	_	th/proper=false
 37	สั้น	_	ADJ	JJ	_	35	amod	_	th/proper=false
-38	ๆ	_	X	SYM	_	37	p	_	th/proper=false
+38	ๆ	_	SYM	SYM	_	37	p	_	th/proper=false
 
 # n01021012
 # บทวิเคราะห์เผยว่ามีการใช้ข้อมูลมหาศาลเพื่อทำให้เกิดความขัดข้อง
@@ -1288,7 +1288,7 @@
 6	กับ	_	ADP	IN	_	5	mwe	_	th/proper=false
 7	แผน	_	NOUN	NN	_	5	pobj	_	th/proper=false
 8	ต่าง	_	ADJ	JJ	_	7	amod	_	th/proper=false
-9	ๆ	_	X	SYM	_	8	p	_	th/proper=false
+9	ๆ	_	SYM	SYM	_	8	p	_	th/proper=false
 10	ระดับ	_	NOUN	NN	_	7	nn	_	th/proper=false
 11	ประเทศ	_	NOUN	NN	_	10	nn	_	th/proper=false
 12	ใน	_	ADP	IN	_	7	prep	_	th/proper=false
@@ -1404,7 +1404,7 @@
 7	เพิ่ม	_	VERB	VV	_	0	ROOT	_	th/proper=false
 8	ขึ้น	_	PART	RP	_	7	prt	_	th/proper=false
 9	6	_	NUM	CD	_	10	num	_	th/proper=false
-10	%	_	X	SYM	_	7	npadvmod	_	th/proper=false
+10	%	_	SYM	SYM	_	7	npadvmod	_	th/proper=false
 11	ใน	_	ADP	IN	_	7	prep	_	th/proper=false
 12	ปี	_	NOUN	NN	_	11	pobj	_	th/proper=false
 13	2015	_	NUM	CD	_	12	appos	_	th/proper=false
@@ -1530,7 +1530,7 @@
 # กว่า 70% ของต้นไม้ที่โตจากเมล็ดจากบนโลกยังคงมีชีวิตหลังจาก 17 วัน มากกว่าต้นไม้ที่โตจากเมล็ดจากในอวกาศเล็กน้อย ซึ่งมีอัตราเพียงราว 66% กว่า
 1	กว่า	_	ADV	RB	_	2	advmod	_	th/proper=false
 2	70	_	NUM	CD	_	3	num	_	th/proper=false
-3	%	_	X	SYM	_	14	nsubj	_	th/proper=false
+3	%	_	SYM	SYM	_	14	nsubj	_	th/proper=false
 4	ของ	_	ADP	IN	_	5	ps	_	th/proper=false
 5	ต้นไม้	_	NOUN	NN	_	3	poss	_	th/proper=false
 6	ที่	_	DET	WDT	_	7	nsubj	_	th/proper=false
@@ -1564,7 +1564,7 @@
 34	เพียง	_	ADV	RB	_	36	advmod	_	th/proper=false
 35	ราว	_	ADV	RB	_	36	advmod	_	th/proper=false
 36	66	_	NUM	CD	_	37	num	_	th/proper=false
-37	%	_	X	SYM	_	33	mes	_	th/proper=false
+37	%	_	SYM	SYM	_	33	mes	_	th/proper=false
 38	กว่า	_	ADV	RB	_	36	advmod	_	th/proper=false
 
 # n01024013
@@ -2137,7 +2137,7 @@
 22	ออก	_	VERB	VV	_	20	dobj	_	th/proper=false
 23	กฎหมาย	_	NOUN	NN	_	22	dobj	_	th/proper=false
 24	ใหม่	_	ADJ	JJ	_	23	amod	_	th/proper=false
-25	ๆ	_	X	SYM	_	24	p	_	th/proper=false
+25	ๆ	_	SYM	SYM	_	24	p	_	th/proper=false
 
 # n01033005
 # นักวิจัยกล่าวว่าการวิเคราะห์ดีเอ็นเอของเนื้องอกอาจช่วยอธิบายถึงสาเหตุที่แท้จริงของมะเร็งชนิดอื่นๆ ได้
@@ -2162,7 +2162,7 @@
 19	มะเร็ง	_	NOUN	NN	_	15	poss	_	th/proper=false
 20	ชนิด	_	NOUN	NNB	_	19	mes	_	th/proper=false
 21	อื่น	_	ADJ	JJ	_	20	amod	_	th/proper=false
-22	ๆ	_	X	SYM	_	21	p	_	th/proper=false
+22	ๆ	_	SYM	SYM	_	21	p	_	th/proper=false
 23	ได้	_	VERB	MD	_	12	aux	_	th/proper=false
 
 # n01033012
@@ -2406,7 +2406,7 @@
 17	เผยแพร่	_	VERB	VV	_	4	conj	_	th/proper=false
 18	ข้อมูล	_	NOUN	NN	_	17	dobj	_	th/proper=false
 19	คร่าว	_	ADJ	JJ	_	18	amod	_	th/proper=false
-20	ๆ	_	X	SYM	_	19	p	_	th/proper=false
+20	ๆ	_	SYM	SYM	_	19	p	_	th/proper=false
 21	เกี่ยว	_	VERB	VV	_	18	prep	_	th/proper=false
 22	กับ	_	ADP	IN	_	21	mwe	_	th/proper=false
 23	สถานที่	_	NOUN	NN	_	21	pobj	_	th/proper=false
@@ -2415,7 +2415,7 @@
 26	เขา	_	PRON	PRP	Person=3	25	dobj	_	th/proper=false
 27	เมื่อ	_	ADP	IN	_	28	mark	_	th/proper=false
 28	เร็ว	_	ADV	RB	_	25	advcl	_	th/proper=false
-29	ๆ	_	X	SYM	_	28	p	_	th/proper=false
+29	ๆ	_	SYM	SYM	_	28	p	_	th/proper=false
 30	นี้	_	PRON	PRD	_	28	npadvmod	_	th/proper=false
 
 # n01035025
@@ -2618,7 +2618,7 @@
 1	เรา	_	PRON	PRP	Person=1	2	nsubj	_	th/proper=false
 2	เห็น	_	VERB	VV	_	35	ccomp	_	th/proper=false
 3	หลาย	_	DET	DT	_	5	det	_	th/proper=false
-4	ๆ	_	X	SYM	_	3	p	_	th/proper=false
+4	ๆ	_	SYM	SYM	_	3	p	_	th/proper=false
 5	ประเทศ	_	NOUN	NN	_	2	dobj	_	th/proper=false
 6	โดย	_	ADP	IN	_	5	prep	_	th/proper=false
 7	เฉพาะ	_	ADJ	JJ	_	6	mwe	_	th/proper=false
@@ -3448,7 +3448,7 @@
 29	สู่	_	ADP	IN	_	26	prep	_	th/proper=false
 30	เนื้อเยื่อ	_	NOUN	NN	_	29	pobj	_	th/proper=false
 31	ต่าง	_	ADJ	JJ	_	30	amod	_	th/proper=false
-32	ๆ	_	X	SYM	_	31	p	_	th/proper=false
+32	ๆ	_	SYM	SYM	_	31	p	_	th/proper=false
 33	ใน	_	ADP	IN	_	30	prep	_	th/proper=false
 34	ร่างกาย	_	NOUN	NN	_	33	pobj	_	th/proper=false
 
@@ -3701,7 +3701,7 @@
 6	ทั่ว	_	ADJ	JJ	_	7	amod	_	th/proper=false
 7	โลก	_	NOUN	NN	_	4	npadvmod	_	th/proper=false
 8	จริง	_	ADV	RB	_	4	advmod	_	th/proper=false
-9	ๆ	_	X	SYM	_	8	p	_	th/proper=true
+9	ๆ	_	SYM	SYM	_	8	p	_	th/proper=true
 10	ลีฟ	_	PROPN	NNP	_	11	nsubj	_	th/proper=true
 11	กล่าว	_	VERB	VV	_	0	ROOT	_	th/proper=false
 
@@ -3976,7 +3976,7 @@
 7	การ	_	AFFIX	PFN	_	8	pref	_	th/proper=false
 8	เลือกตั้ง	_	VERB	VV	_	6	pobj	_	th/proper=false
 9	รอบ	_	ADP	IN	_	8	prep	_	th/proper=false
-10	ๆ	_	X	SYM	_	9	p	_	th/proper=false
+10	ๆ	_	SYM	SYM	_	9	p	_	th/proper=false
 11	ตัว	_	NOUN	NN	_	9	pobj	_	th/proper=false
 12	เขา	_	PRON	PRP	Person=3	11	nn	_	th/proper=false
 13	จาก	_	ADP	IN	_	2	prep	_	th/proper=false
@@ -3993,12 +3993,12 @@
 24	ความ	_	AFFIX	PFN	_	25	pref	_	th/proper=false
 25	คิด	_	VERB	VV	_	33	rcmod	_	th/proper=false
 26	เก่า	_	ADJ	JJ	_	25	amod	_	th/proper=false
-27	ๆ	_	X	SYM	_	26	p	_	th/proper=false
+27	ๆ	_	SYM	SYM	_	26	p	_	th/proper=false
 28	และ	_	CCONJ	CC	_	25	cc	_	th/proper=false
 29	ความ	_	AFFIX	PFN	_	30	pref	_	th/proper=false
 30	คิด	_	VERB	VV	_	25	conj	_	th/proper=false
 31	ใหม่	_	ADJ	JJ	_	30	amod	_	th/proper=false
-32	ๆ	_	X	SYM	_	31	p	_	th/proper=false
+32	ๆ	_	SYM	SYM	_	31	p	_	th/proper=false
 33	มา	_	VERB	VV	_	18	rcmod	_	th/proper=false
 34	บรรจบ	_	VERB	VV	_	33	vmod	_	th/proper=false
 35	กัน	_	PRON	PRP	_	34	dobj	_	th/proper=false
@@ -4278,7 +4278,7 @@
 9	ทำ	_	VERB	VV	_	8	xcomp	_	th/proper=false
 10	เรื่อง	_	NOUN	NN	_	9	dobj	_	th/proper=false
 11	ต่าง	_	ADJ	JJ	_	10	amod	_	th/proper=false
-12	ๆ	_	X	SYM	_	11	p	_	th/proper=false
+12	ๆ	_	SYM	SYM	_	11	p	_	th/proper=false
 13	อยู่แล้ว	_	ADV	RB	_	8	advmod	_	th/proper=false
 
 # n01062049
@@ -4351,7 +4351,7 @@
 2	ความ	_	AFFIX	PFN	_	3	pref	_	th/proper=false
 3	ท้าทาย	_	VERB	VV	_	12	nsubj	_	th/proper=false
 4	ต่าง	_	ADJ	JJ	_	3	amod	_	th/proper=false
-5	ๆ	_	X	SYM	_	4	p	_	th/proper=false
+5	ๆ	_	SYM	SYM	_	4	p	_	th/proper=false
 6	และ	_	CCONJ	CC	_	3	cc	_	th/proper=false
 7	บท	_	NOUN	NN	_	3	conj	_	th/proper=false
 8	เพลง	_	NOUN	NN	_	7	nn	_	th/proper=false
@@ -4372,9 +4372,9 @@
 23	วิดีโอ	_	NOUN	NN	_	22	nn	_	th/proper=false
 24	ดิ้น	_	VERB	VV	_	22	vmod	_	th/proper=false
 25	กระแด่ว	_	ADV	RB	_	24	advmod	_	th/proper=false
-26	ๆ	_	X	SYM	_	25	p	_	th/proper=false
+26	ๆ	_	SYM	SYM	_	25	p	_	th/proper=false
 27	แตก	_	VERB	VV	_	22	vmod	_	th/proper=false
-28	ๆ	_	X	SYM	_	27	p	_	th/proper=false
+28	ๆ	_	SYM	SYM	_	27	p	_	th/proper=false
 29	ที่	_	DET	WDT	_	30	nsubj	_	th/proper=false
 30	เล่น	_	VERB	VV	_	22	rcmod	_	th/proper=false
 31	ซ้ำ	_	ADV	RB	_	30	advmod	_	th/proper=false
@@ -4396,7 +4396,7 @@
 11	ความ	_	AFFIX	PFN	_	12	pref	_	th/proper=false
 12	ท้าทาย	_	VERB	VV	_	9	poss	_	th/proper=false
 13	ดี	_	ADJ	JJ	_	12	amod	_	th/proper=false
-14	ๆ	_	X	SYM	_	13	p	_	th/proper=false
+14	ๆ	_	SYM	SYM	_	13	p	_	th/proper=false
 15	ความ	_	AFFIX	PFN	_	16	pref	_	th/proper=false
 16	เป็น	_	VERB	VC	_	9	conj	_	th/proper=false
 17	ศิลปะ	_	NOUN	NN	_	16	attr	_	th/proper=false
@@ -4531,7 +4531,7 @@
 21	ต่อ	_	ADP	IN	_	18	prep	_	th/proper=false
 22	คน	_	NOUN	NN	_	21	pobj	_	th/proper=false
 23	อื่น	_	ADJ	JJ	_	22	amod	_	th/proper=false
-24	ๆ	_	X	SYM	_	23	p	_	th/proper=false
+24	ๆ	_	SYM	SYM	_	23	p	_	th/proper=false
 
 # n01066045
 # ในปี 2010 มูลนิธิได้ออก “เซตเทลส์ ทรอม” ฉบับเรียงพิมพ์ เป็นการเปิดประตูให้คนที่ไม่ชอบสัมผัสที่เหมือนดราฟต์ของการพิมพ์ระบบออฟเซตได้เข้าถึง
@@ -4586,7 +4586,7 @@
 12	ราก	_	NOUN	NN	_	11	dobj	_	th/proper=false
 13	ศัพท์	_	NOUN	NN	_	12	nn	_	th/proper=false
 14	ต่าง	_	ADJ	JJ	_	12	amod	_	th/proper=false
-15	ๆ	_	X	SYM	_	14	p	_	th/proper=false
+15	ๆ	_	SYM	SYM	_	14	p	_	th/proper=false
 
 # n01066093
 # อลิซ ภรรยาของเขารายงานว่า “ละเลยสุขภาพของเขาเองโดยสิ้นเชิง”
@@ -4639,7 +4639,7 @@
 11	คือ	_	VERB	VC	_	2	vmod	_	th/proper=false
 12	แผนที่	_	NOUN	NN	_	11	attr	_	th/proper=false
 13	ต่าง	_	ADJ	JJ	_	12	amod	_	th/proper=false
-14	ๆ	_	X	SYM	_	13	p	_	th/proper=false
+14	ๆ	_	SYM	SYM	_	13	p	_	th/proper=false
 15	ของ	_	ADP	IN	_	16	ps	_	th/proper=false
 16	กระทรวง	_	PROPN	NN	_	12	poss	_	th/proper=true
 17	กลาโหม	_	PROPN	NN	_	16	nn	_	th/proper=true
@@ -4672,7 +4672,7 @@
 10	นอร์ทเคสเตเวน	_	PROPN	NNP	_	7	nn	_	th/proper=true
 11	ซึ่ง	_	ADP	IN	_	18	mark	_	th/proper=false
 12	62	_	NUM	CD	_	13	num	_	th/proper=false
-13	%	_	X	SYM	_	18	nsubj	_	th/proper=false
+13	%	_	SYM	SYM	_	18	nsubj	_	th/proper=false
 14	ของ	_	ADP	IN	_	15	ps	_	th/proper=false
 15	ผู้	_	NOUN	NN	_	13	poss	_	th/proper=false
 16	ออก	_	VERB	VV	_	15	vmod	_	th/proper=false
@@ -4702,7 +4702,7 @@
 14	เสีย	_	VERB	VV	_	13	vmod	_	th/proper=false
 15	ภาษี	_	NOUN	NN	_	14	dobj	_	th/proper=false
 16	แน่	_	ADV	RB	_	3	advmod	_	th/proper=false
-17	ๆ	_	X	SYM	_	16	p	_	th/proper=false
+17	ๆ	_	SYM	SYM	_	16	p	_	th/proper=false
 
 # n01069004
 # คริสเตียน โวลมาร์ ผู้เขียนหนังสือประวัติศาสตร์การรถไฟหลายเล่ม จะลงแข่งในวันที่ 1 ธันวาคม
@@ -5023,14 +5023,14 @@
 2	เล่ม	_	VERB	VV	_	0	ROOT	_	th/proper=false
 3	เกม	_	NOUN	NN	_	2	dobj	_	th/proper=false
 4	หนัก	_	ADJ	JJ	_	3	amod	_	th/proper=false
-5	ๆ	_	X	SYM	_	4	p	_	th/proper=false
+5	ๆ	_	SYM	SYM	_	4	p	_	th/proper=false
 6	ได้	_	VERB	MD	_	2	aux	_	th/proper=false
 7	แต่	_	CCONJ	CC	_	2	cc	_	th/proper=false
 8	ก็	_	ADV	RB	_	9	advmod	_	th/proper=false
 9	เล่น	_	VERB	VV	_	2	conj	_	th/proper=false
 10	เกม	_	NOUN	NN	_	9	dobj	_	th/proper=false
 11	เบา	_	ADJ	JJ	_	10	amod	_	th/proper=false
-12	ๆ	_	X	SYM	_	11	p	_	th/proper=false
+12	ๆ	_	SYM	SYM	_	11	p	_	th/proper=false
 13	ได้	_	VERB	MD	_	9	aux	_	th/proper=false
 14	เช่น	_	VERB	VC	_	9	vmod	_	th/proper=false
 15	กัน	_	PRON	PRP	_	14	attr	_	th/proper=false
@@ -5070,7 +5070,7 @@
 14	หา	_	VERB	VV	_	13	vmod	_	th/proper=false
 15	ฉัน	_	PRON	PRP	Person=1	14	dobj	_	th/proper=false
 16	ตรง	_	ADV	RB	_	14	advmod	_	th/proper=false
-17	ๆ	_	X	SYM	_	16	p	_	th/proper=false
+17	ๆ	_	SYM	SYM	_	16	p	_	th/proper=false
 18	มาก	_	ADV	RB	_	10	advmod	_	th/proper=false
 19	กว่า	_	ADP	IN	_	18	prep	_	th/proper=false
 20	จะ	_	VERB	MD	_	21	aux	_	th/proper=false
@@ -5105,7 +5105,7 @@
 7	แข่ง	_	VERB	VV	_	5	pobj	_	th/proper=false
 8	เมื่อ	_	ADP	IN	_	7	prep	_	th/proper=false
 9	เร็ว	_	ADV	RB	_	8	pcomp	_	th/proper=false
-10	ๆ	_	X	SYM	_	9	p	_	th/proper=false
+10	ๆ	_	SYM	SYM	_	9	p	_	th/proper=false
 11	นี้	_	PRON	PRD	_	9	npadvmod	_	th/proper=false
 12	ใน	_	ADP	IN	_	7	prep	_	th/proper=false
 13	รักบี้	_	PROPN	NN	_	14	nn	_	th/proper=true
@@ -5247,7 +5247,7 @@
 11	ที่	_	DET	WDT	_	12	nsubj	_	th/proper=false
 12	ดู	_	VERB	VV	_	5	rcmod	_	th/proper=false
 13	เงียบ	_	ADV	RB	_	12	advmod	_	th/proper=false
-14	ๆ	_	X	SYM	_	13	p	_	th/proper=false
+14	ๆ	_	SYM	SYM	_	13	p	_	th/proper=false
 15	เสีย	_	ADV	RB	_	13	advmod	_	th/proper=false
 16	จน	_	ADP	IN	_	18	mark	_	th/proper=false
 17	ฉัน	_	PRON	PRP	Person=1	18	nsubj	_	th/proper=false
@@ -5492,7 +5492,7 @@
 15	ผล	_	NOUN	NN	_	14	dobj	_	th/proper=false
 16	ตอบแทน	_	VERB	VV	_	15	vmod	_	th/proper=false
 17	3	_	NUM	CD	_	18	num	_	th/proper=false
-18	%	_	X	SYM	_	15	mes	_	th/proper=false
+18	%	_	SYM	SYM	_	15	mes	_	th/proper=false
 19	จาก	_	ADP	IN	_	14	prep	_	th/proper=false
 20	เงิน	_	NOUN	NN	_	19	pobj	_	th/proper=false
 21	12,000	_	NUM	CD	_	22	num	_	th/proper=false
@@ -5516,7 +5516,7 @@
 10	จะ	_	VERB	MD	_	11	aux	_	th/proper=false
 11	ได้	_	VERB	VV	_	0	ROOT	_	th/proper=false
 12	3	_	NUM	CD	_	13	num	_	th/proper=false
-13	%	_	X	SYM	_	11	dobj	_	th/proper=false
+13	%	_	SYM	SYM	_	11	dobj	_	th/proper=false
 14	จาก	_	ADP	IN	_	11	prep	_	th/proper=false
 15	ยอด	_	NOUN	NN	_	14	pobj	_	th/proper=false
 16	เงิน	_	NOUN	NN	_	15	nn	_	th/proper=false
@@ -5561,7 +5561,7 @@
 # อัตรา 3% นี้มีผลกับผู้ถือบัตรเน็กทาร์ที่ต้องการกู้ยืมเงินระหว่าง 15,001-19,999 ปอนด์ เป็นเวลา 2-3 ปีเช่นกัน
 1	อัตรา	_	NOUN	NN	_	5	nsubj	_	th/proper=false
 2	3	_	NUM	CD	_	3	num	_	th/proper=false
-3	%	_	X	SYM	_	1	mes	_	th/proper=false
+3	%	_	SYM	SYM	_	1	mes	_	th/proper=false
 4	นี้	_	DET	DT	_	1	det	_	th/proper=false
 5	มี	_	VERB	VV	_	0	ROOT	_	th/proper=false
 6	ผล	_	NOUN	NN	_	5	dobj	_	th/proper=false
@@ -5647,7 +5647,7 @@
 7	ประหลาดใจ	_	VERB	VV	_	5	acomp	_	th/proper=false
 8	แต่	_	CCONJ	CC	_	5	cc	_	th/proper=false
 9	จริง	_	ADV	RB	_	19	advmod	_	th/proper=false
-10	ๆ	_	X	SYM	_	9	p	_	th/proper=false
+10	ๆ	_	SYM	SYM	_	9	p	_	th/proper=false
 11	แล้ว	_	ADV	RB	_	9	advmod	_	th/proper=false
 12	แม้	_	ADP	IN	_	19	prep	_	th/proper=false
 13	แต่	_	CCONJ	CC	_	12	mwe	_	th/proper=false
@@ -5659,7 +5659,7 @@
 19	มี	_	VERB	VV	_	5	conj	_	th/proper=false
 20	สิ่ง	_	NOUN	NN	_	19	dobj	_	th/proper=false
 21	ดี	_	ADJ	JJ	_	20	amod	_	th/proper=false
-22	ๆ	_	X	SYM	_	21	p	_	th/proper=false
+22	ๆ	_	SYM	SYM	_	21	p	_	th/proper=false
 23	ซ่อน	_	VERB	VV	_	19	xcomp	_	th/proper=false
 24	อยู่	_	PART	AS	Aspect=Prog	23	asp	_	th/proper=false
 
@@ -5677,7 +5677,7 @@
 10	แต่	_	CCONJ	CC	_	5	cc	_	th/proper=false
 11	อย่าง	_	AFFIX	PFR	_	12	pref	_	th/proper=false
 12	น้อย	_	ADJ	JJ	_	15	advmod	_	th/proper=false
-13	ๆ	_	X	SYM	_	12	p	_	th/proper=false
+13	ๆ	_	SYM	SYM	_	12	p	_	th/proper=false
 14	ก็	_	ADV	RB	_	15	advmod	_	th/proper=false
 15	มี	_	VERB	VV	_	5	conj	_	th/proper=false
 16	บาง	_	DET	DT	_	17	det	_	th/proper=false
@@ -5887,7 +5887,7 @@
 4	มา	_	PART	RP	_	3	prt	_	th/proper=false
 5	ช่วง	_	NOUN	NN	_	3	tmod	_	th/proper=false
 6	สั้น	_	ADJ	JJ	_	5	amod	_	th/proper=false
-7	ๆ	_	X	SYM	_	6	p	_	th/proper=false
+7	ๆ	_	SYM	SYM	_	6	p	_	th/proper=false
 8	และ	_	CCONJ	CC	_	3	cc	_	th/proper=false
 9	ถูก	_	VERB	MD	Voice=Pass	10	auxpass	_	th/proper=false
 10	ถ่าย	_	VERB	VV	_	3	conj	_	th/proper=false
@@ -5926,7 +5926,7 @@
 18	โผล่	_	VERB	VV	_	17	xcomp	_	th/proper=false
 19	มา	_	PART	RP	_	18	prt	_	th/proper=false
 20	เรื่อย	_	ADV	RB	_	18	advmod	_	th/proper=false
-21	ๆ	_	X	SYM	_	20	p	_	th/proper=false
+21	ๆ	_	SYM	SYM	_	20	p	_	th/proper=false
 22	ใน	_	ADP	IN	_	18	prep	_	th/proper=false
 23	บรรดา	_	ADJ	JJ	_	24	amod	_	th/proper=false
 24	รูปถ่าย	_	NOUN	NN	_	22	pobj	_	th/proper=false
@@ -6162,7 +6162,7 @@
 36	ความ	_	AFFIX	PFN	_	37	pref	_	th/proper=false
 37	เกี่ยวข้อง	_	VERB	VV	_	35	dobj	_	th/proper=false
 38	จริง	_	ADV	RB	_	35	advmod	_	th/proper=false
-39	ๆ	_	X	SYM	_	38	p	_	th/proper=false
+39	ๆ	_	SYM	SYM	_	38	p	_	th/proper=false
 40	ใน	_	ADP	IN	_	35	prep	_	th/proper=false
 41	แต่ละ	_	DET	DT	_	42	det	_	th/proper=false
 42	โครงการ	_	NOUN	NNB	_	40	pobj	_	th/proper=false
@@ -6187,7 +6187,7 @@
 15	หมด	_	VERB	VV	_	7	ccomp	_	th/proper=false
 16	ไป	_	PART	RP	_	15	prt	_	th/proper=false
 17	แน่	_	ADV	RB	_	15	advmod	_	th/proper=false
-18	ๆ	_	X	SYM	_	17	p	_	th/proper=false
+18	ๆ	_	SYM	SYM	_	17	p	_	th/proper=false
 19	"	_	PUNCT	''	_	22	p	_	th/proper=false
 20	หาก	_	ADP	IN	_	22	mark	_	th/proper=false
 21	ไม่	_	PART	NEG	_	22	neg	_	th/proper=false
@@ -6205,7 +6205,7 @@
 3	ลด	_	VERB	VV	_	8	nsubj	_	th/proper=false
 4	ลง	_	PART	RP	_	3	prt	_	th/proper=false
 5	หลัก	_	ADJ	JJ	_	3	amod	_	th/proper=false
-6	ๆ	_	X	SYM	_	5	p	_	th/proper=false
+6	ๆ	_	SYM	SYM	_	5	p	_	th/proper=false
 7	ก็	_	ADV	RB	_	8	advmod	_	th/proper=false
 8	ระบุ	_	VERB	VV	_	0	ROOT	_	th/proper=false
 9	ปลา	_	NOUN	NN	_	8	dobj	_	th/proper=false
@@ -6363,7 +6363,7 @@
 # บริษัทต่างๆ อาจพยายามตั้งไฟร์วอลล์ระหว่างระบบที่ไวกับกำลังภายนอก แต่ก็ใช่ว่าจะได้ผลเสมอไป
 1	บริษัท	_	NOUN	NN	_	5	nsubj	_	th/proper=false
 2	ต่าง	_	ADJ	JJ	_	1	amod	_	th/proper=false
-3	ๆ	_	X	SYM	_	2	p	_	th/proper=false
+3	ๆ	_	SYM	SYM	_	2	p	_	th/proper=false
 4	อาจ	_	VERB	MD	_	5	aux	_	th/proper=false
 5	พยายาม	_	VERB	VV	_	0	ROOT	_	th/proper=false
 6	ตั้ง	_	VERB	VV	_	5	xcomp	_	th/proper=false
@@ -6491,7 +6491,7 @@
 # เมืองเล็กๆ ที่มีหอคอยสุเหร่าสองแห่งตั้งตระหง่านอยู่
 1	เมือง	_	NOUN	NN	_	0	ROOT	_	th/proper=false
 2	เล็ก	_	ADJ	JJ	_	1	amod	_	th/proper=false
-3	ๆ	_	X	SYM	_	2	p	_	th/proper=false
+3	ๆ	_	SYM	SYM	_	2	p	_	th/proper=false
 4	ที่	_	DET	WDT	_	5	nsubj	_	th/proper=false
 5	มี	_	VERB	VV	_	1	rcmod	_	th/proper=false
 6	หอคอย	_	NOUN	NN	_	5	dobj	_	th/proper=false
@@ -6574,7 +6574,7 @@
 36	,	_	PUNCT	,	_	15	p	_	th/proper=false
 37	คางคก	_	NOUN	NN	_	15	conj	_	th/proper=false
 38	เป็น	_	ADJ	JJ	_	37	amod	_	th/proper=false
-39	ๆ	_	X	SYM	_	38	p	_	th/proper=false
+39	ๆ	_	SYM	SYM	_	38	p	_	th/proper=false
 40	และ	_	CCONJ	CC	_	15	cc	_	th/proper=false
 41	ปลา	_	NOUN	NN	_	15	conj	_	th/proper=false
 42	ดุก	_	NOUN	NN	_	41	nn	_	th/proper=false
@@ -6719,7 +6719,7 @@
 10	ว่า	_	ADP	IN	_	18	mark	_	th/proper=false
 11	“	_	PUNCT	``	_	18	p	_	th/proper=false
 12	จริง	_	ADV	RB	_	18	advmod	_	th/proper=false
-13	ๆ	_	X	SYM	_	12	p	_	th/proper=false
+13	ๆ	_	SYM	SYM	_	12	p	_	th/proper=false
 14	แล้ว	_	ADV	RB	_	12	advmod	_	th/proper=false
 15	การ	_	AFFIX	PFN	_	16	pref	_	th/proper=false
 16	เลือกตั้ง	_	VERB	VV	_	18	nsubj	_	th/proper=false
@@ -6879,7 +6879,7 @@
 17	การ	_	NOUN	NN	_	16	pobj	_	th/proper=false
 18	เงิน	_	NOUN	NN	_	17	nn	_	th/proper=false
 19	ใหม่	_	ADJ	JJ	_	15	amod	_	th/proper=false
-20	ๆ	_	X	SYM	_	19	p	_	th/proper=false
+20	ๆ	_	SYM	SYM	_	19	p	_	th/proper=false
 21	พุ่ง	_	VERB	VV	_	7	ccomp	_	th/proper=false
 22	สูง	_	ADV	RB	_	21	advmod	_	th/proper=false
 23	ขึ้น	_	ADV	RB	_	22	advmod	_	th/proper=false
@@ -7032,7 +7032,7 @@
 # ธุรกิจต่างๆ คาดหวังว่าจะเริ่มมีการจัดจ้างอีกครั้งในเดือนกรกฎาคม ทันทีหลังการลงคะแนนเบร็กซิต แต่ที่จริงการจัดจ้างก็โตขึ้นอย่างสม่ำเสมอ
 1	ธุรกิจ	_	NOUN	NN	_	4	nsubj	_	th/proper=false
 2	ต่าง	_	ADJ	JJ	_	1	amod	_	th/proper=false
-3	ๆ	_	X	SYM	_	2	p	_	th/proper=false
+3	ๆ	_	SYM	SYM	_	2	p	_	th/proper=false
 4	คาดหวัง	_	VERB	VV	_	0	ROOT	_	th/proper=false
 5	ว่า	_	ADP	IN	_	7	mark	_	th/proper=false
 6	จะ	_	VERB	MD	_	7	aux	_	th/proper=false
@@ -7172,7 +7172,7 @@
 18	ต้อง	_	VERB	MD	_	19	aux	_	th/proper=false
 19	จ่าย	_	VERB	VV	_	7	conj	_	th/proper=false
 20	ราว	_	ADV	RB	_	22	advmod	_	th/proper=false
-21	ๆ	_	X	SYM	_	20	p	_	th/proper=false
+21	ๆ	_	SYM	SYM	_	20	p	_	th/proper=false
 22	760	_	NUM	CD	_	23	num	_	th/proper=false
 23	ปอนด์	_	NOUN	NNB	_	19	dobj	_	th/proper=false
 24	สำหรับ	_	ADP	IN	_	19	prep	_	th/proper=false
@@ -7235,7 +7235,7 @@
 2	เขา	_	PRON	PRP	Person=3	3	nsubj	_	th/proper=false
 3	ทำ	_	VERB	VV	_	22	advcl	_	th/proper=false
 4	จริง	_	ADV	RB	_	3	advmod	_	th/proper=false
-5	ๆ	_	X	SYM	_	4	p	_	th/proper=false
+5	ๆ	_	SYM	SYM	_	4	p	_	th/proper=false
 6	หุ้น	_	NOUN	NN	_	22	nsubj	_	th/proper=false
 7	กู้	_	VERB	VV	_	6	vmod	_	th/proper=false
 8	ที่	_	DET	WDT	_	9	dobj	_	th/proper=false
@@ -7292,7 +7292,7 @@
 28	ชาติ	_	PROPN	NN	_	21	poss	_	th/proper=true
 29	บัญชี	_	NOUN	NNB	_	20	mes	_	th/proper=false
 30	อื่น	_	ADJ	JJ	_	29	amod	_	th/proper=false
-31	ๆ	_	X	SYM	_	30	p	_	th/proper=false
+31	ๆ	_	SYM	SYM	_	30	p	_	th/proper=false
 32	นำ	_	VERB	VV	_	0	ROOT	_	th/proper=false
 33	ไป	_	PART	RP	_	32	prt	_	th/proper=false
 34	พยุง	_	VERB	VV	_	32	xcomp	_	th/proper=false
@@ -7618,7 +7618,7 @@
 20	ใน	_	ADP	IN	_	12	prep	_	th/proper=false
 21	เรื่อง	_	NOUN	NN	_	20	pobj	_	th/proper=false
 22	Marat	_	PROPN	NNP	_	21	nn	_	th/proper=true
-23	/	_	X	SYM	_	22	p	_	th/proper=true
+23	/	_	SYM	SYM	_	22	p	_	th/proper=true
 24	Sade	_	PROPN	NNP	_	22	conj	_	th/proper=true
 
 # n01116014
@@ -7799,7 +7799,7 @@
 25	สังคม	_	NOUN	NN	_	23	nn	_	th/proper=false
 26	แบบ	_	NOUN	NN	_	23	nn	_	th/proper=false
 27	หนัก	_	ADJ	JJ	_	26	amod	_	th/proper=false
-28	ๆ	_	X	SYM	_	27	p	_	th/proper=false
+28	ๆ	_	SYM	SYM	_	27	p	_	th/proper=false
 
 # n01119012
 # ในระดับหนึ่งแล้ว มันก็ดูอบอุ่นหัวใจไม่เสแสร้งแถมน่ารักกุ๊กกิ๊กที่ดูเหมือนสร้างมาเฉพาะเพื่อให้ดูยามบ่ายวันอาทิตย์
@@ -8037,7 +8037,7 @@
 11	แห่ง	_	NOUN	NNB	_	9	mes	_	th/proper=false
 12	หนึ่ง	_	NUM	CD	_	11	num	_	th/proper=false
 13	ใกล้	_	ADP	IN	_	9	prep	_	th/proper=false
-14	ๆ	_	X	SYM	_	13	p	_	th/proper=true
+14	ๆ	_	SYM	SYM	_	13	p	_	th/proper=true
 15	ซันเดอร์แลนด์	_	PROPN	NNP	_	13	pobj	_	th/proper=true
 
 # n01123024
@@ -8129,7 +8129,7 @@
 14	สร้าง	_	VERB	VV	_	12	pcomp	_	th/proper=false
 15	สิ่งของ	_	NOUN	NN	_	14	dobj	_	th/proper=false
 16	ต่าง	_	ADJ	JJ	_	15	amod	_	th/proper=false
-17	ๆ	_	X	SYM	_	16	p	_	th/proper=false
+17	ๆ	_	SYM	SYM	_	16	p	_	th/proper=false
 18	ที่	_	DET	WDT	_	19	nsubj	_	th/proper=false
 19	เพิ่ม	_	VERB	VV	_	11	rcmod	_	th/proper=false
 20	ขึ้น	_	PART	RP	_	19	prt	_	th/proper=false
@@ -8305,10 +8305,10 @@
 15	ประสงค์	_	VERB	VV	_	14	vmod	_	th/proper=false
 16	ร้าย	_	ADJ	JJ	_	15	xcomp	_	th/proper=false
 17	ต่าง	_	ADJ	JJ	_	14	amod	_	th/proper=false
-18	ๆ	_	X	SYM	_	17	p	_	th/proper=false
+18	ๆ	_	SYM	SYM	_	17	p	_	th/proper=false
 19	ได้	_	VERB	MD	_	7	aux	_	th/proper=false
 20	ง่าย	_	ADV	RB	_	7	advmod	_	th/proper=false
-21	ๆ	_	X	SYM	_	20	p	_	th/proper=false
+21	ๆ	_	SYM	SYM	_	20	p	_	th/proper=false
 
 # n01129006
 # การลงคะแนนเสียงกลายมาเป็นเป้าหมายรองเป้าใหม่ในภาษาของการก่อการร้าย
@@ -8504,7 +8504,7 @@
 29	โดย	_	AFFIX	PFR	_	30	pref	_	th/proper=false
 30	รวม	_	VERB	VV	_	27	advmod	_	th/proper=false
 31	ราว	_	ADV	RB	_	33	advmod	_	th/proper=false
-32	ๆ	_	X	SYM	_	31	p	_	th/proper=false
+32	ๆ	_	SYM	SYM	_	31	p	_	th/proper=false
 33	16,500	_	NUM	CD	_	34	num	_	th/proper=false
 34	คะแนน	_	NOUN	NNB	_	27	npadvmod	_	th/proper=false
 35	เสียง	_	NOUN	NN	_	34	nn	_	th/proper=false
@@ -8625,13 +8625,13 @@
 12	ไป	_	PART	RP	_	10	prt	_	th/proper=false
 13	กว่า	_	ADV	RB	_	14	advmod	_	th/proper=false
 14	1	_	NUM	CD	_	15	num	_	th/proper=false
-15	%	_	X	SYM	_	10	npadvmod	_	th/proper=false
+15	%	_	SYM	SYM	_	10	npadvmod	_	th/proper=false
 16	พร้อม	_	VERB	VV	_	10	vmod	_	th/proper=false
-17	ๆ	_	X	SYM	_	16	p	_	th/proper=false
+17	ๆ	_	SYM	SYM	_	16	p	_	th/proper=false
 18	กับ	_	ADP	IN	_	16	prep	_	th/proper=false
 19	ตลาด	_	NOUN	NN	_	18	pobj	_	th/proper=false
 20	ต่าง	_	ADJ	JJ	_	19	amod	_	th/proper=false
-21	ๆ	_	X	SYM	_	20	p	_	th/proper=false
+21	ๆ	_	SYM	SYM	_	20	p	_	th/proper=false
 22	ใน	_	ADP	IN	_	19	prep	_	th/proper=false
 23	ยุโรป	_	PROPN	NNP	_	22	pobj	_	th/proper=true
 
@@ -8834,7 +8834,7 @@
 2	คน	_	NOUN	NN	_	12	nsubj	_	th/proper=false
 3	ดัง	_	ADJ	JJ	_	2	amod	_	th/proper=false
 4	แฟน	_	NOUN	NN	_	2	conj	_	th/proper=false
-5	ๆ	_	X	SYM	_	4	p	_	th/proper=false
+5	ๆ	_	SYM	SYM	_	4	p	_	th/proper=false
 6	และ	_	CCONJ	CC	_	2	cc	_	th/proper=false
 7	กระทั่ง	_	ADP	IN	_	2	conj	_	th/proper=false
 8	นัก	_	NOUN	NN	_	7	pobj	_	th/proper=false
@@ -8927,7 +8927,7 @@
 # ตอนใหม่ๆ จะมีรายการพิเศษ "เดอะทอล์กกิ้งเดด" ต่อท้าย
 1	ตอน	_	NOUN	NN	_	5	nsubj	_	th/proper=false
 2	ใหม่	_	ADJ	JJ	_	1	amod	_	th/proper=false
-3	ๆ	_	X	SYM	_	2	p	_	th/proper=false
+3	ๆ	_	SYM	SYM	_	2	p	_	th/proper=false
 4	จะ	_	VERB	MD	_	5	aux	_	th/proper=false
 5	มี	_	VERB	VV	_	0	ROOT	_	th/proper=false
 6	รายการ	_	NOUN	NN	_	5	dobj	_	th/proper=false
@@ -9070,7 +9070,7 @@
 14	และ	_	CCONJ	CC	_	9	cc	_	th/proper=false
 15	สติกเกอร์	_	NOUN	NN	_	9	conj	_	th/proper=false
 16	ต่าง	_	ADJ	JJ	_	15	amod	_	th/proper=false
-17	ๆ	_	X	SYM	_	16	p	_	th/proper=false
+17	ๆ	_	SYM	SYM	_	16	p	_	th/proper=false
 18	ผ่าน	_	ADP	IN	_	8	prep	_	th/proper=false
 19	แพลตฟอร์ม	_	NOUN	NN	_	18	pobj	_	th/proper=false
 20	นี้	_	DET	DT	_	19	det	_	th/proper=false
@@ -9149,7 +9149,7 @@
 28	บริษัท	_	NOUN	NN	_	22	poss	_	th/proper=false
 29	เทคโนโลยี	_	NOUN	NN	_	28	nn	_	th/proper=false
 30	ต่าง	_	ADJ	JJ	_	28	amod	_	th/proper=false
-31	ๆ	_	X	SYM	_	30	p	_	th/proper=false
+31	ๆ	_	SYM	SYM	_	30	p	_	th/proper=false
 
 # n01142007
 # อิสเนอร์ซึ่งตีเทนนิสได้สุดยอดจากการเสมอและต้องมีเซ็ตตัดสินก็ได้แสดงความชื่นชม
@@ -9214,7 +9214,7 @@
 10	ทำ	_	VERB	VV	_	5	ccomp	_	th/proper=false
 11	อะไร	_	PRON	WP	_	10	dobj	_	th/proper=false
 12	แผลง	_	ADV	RB	_	10	advmod	_	th/proper=false
-13	ๆ	_	X	SYM	_	12	p	_	th/proper=false
+13	ๆ	_	SYM	SYM	_	12	p	_	th/proper=false
 14	จน	_	ADP	IN	_	16	mark	_	th/proper=false
 15	ได้	_	PART	AS	Aspect=Perf	16	asp	_	th/proper=false
 16	ไป	_	VERB	VV	_	10	advcl	_	th/proper=false
@@ -9295,7 +9295,7 @@
 8	ผม	_	PRON	PRP	Person=1	5	poss	_	th/proper=false
 9	อยู่	_	PART	AS	Aspect=Prog	2	asp	_	th/proper=false
 10	เรื่อย	_	ADV	RB	_	2	advmod	_	th/proper=false
-11	ๆ	_	X	SYM	_	10	p	_	th/proper=false
+11	ๆ	_	SYM	SYM	_	10	p	_	th/proper=false
 12	และ	_	CCONJ	CC	_	2	cc	_	th/proper=false
 13	ผม	_	PRON	PRP	Person=1	15	nsubj	_	th/proper=false
 14	ก็	_	ADV	RB	_	15	advmod	_	th/proper=false
@@ -9869,7 +9869,7 @@
 8	เช่น	_	ADP	IN	_	1	prep	_	th/proper=false
 9	เกาะ	_	NOUN	NN	_	8	pobj	_	th/proper=false
 10	เล็ก	_	ADJ	JJ	_	9	amod	_	th/proper=false
-11	ๆ	_	X	SYM	_	10	p	_	th/proper=false
+11	ๆ	_	SYM	SYM	_	10	p	_	th/proper=false
 12	นอก	_	ADP	IN	_	9	prep	_	th/proper=false
 13	ชาย	_	NOUN	NN	_	12	pobj	_	th/proper=false
 14	ฝั่ง	_	NOUN	NN	_	13	nn	_	th/proper=false
@@ -9943,7 +9943,7 @@
 6	เธรซ	_	PROPN	NNP	_	5	dobj	_	th/proper=true
 7	นคร	_	NOUN	NN	_	6	conj	_	th/proper=false
 8	ต่าง	_	ADJ	JJ	_	7	amod	_	th/proper=false
-9	ๆ	_	X	SYM	_	8	p	_	th/proper=false
+9	ๆ	_	SYM	SYM	_	8	p	_	th/proper=false
 10	ริม	_	ADP	IN	_	7	prep	_	th/proper=false
 11	ชาย	_	NOUN	NN	_	10	pobj	_	th/proper=false
 12	ฝั่ง	_	NOUN	NN	_	11	nn	_	th/proper=false
@@ -10213,7 +10213,7 @@
 23	ที่	_	DET	WDT	_	24	nsubj	_	th/proper=false
 24	สำคัญ	_	ADJ	JJ	_	21	rcmod	_	th/proper=false
 25	ต่าง	_	ADJ	JJ	_	24	amod	_	th/proper=false
-26	ๆ	_	X	SYM	_	25	p	_	th/proper=false
+26	ๆ	_	SYM	SYM	_	25	p	_	th/proper=false
 27	จาก	_	ADP	IN	_	19	prep	_	th/proper=false
 28	แนว	_	NOUN	NN	_	27	pobj	_	th/proper=false
 29	คิด	_	VERB	VV	_	28	vmod	_	th/proper=false
@@ -10259,7 +10259,7 @@
 9	สลาฟ	_	PROPN	NNP	_	7	nn	_	th/proper=true
 10	กลุ่ม	_	NOUN	NNB	_	7	mes	_	th/proper=false
 11	หลัก	_	ADJ	JJ	_	10	amod	_	th/proper=false
-12	ๆ	_	X	SYM	_	11	p	_	th/proper=false
+12	ๆ	_	SYM	SYM	_	11	p	_	th/proper=false
 13	เดินทาง	_	VERB	VV	_	0	ROOT	_	th/proper=false
 14	ผ่าน	_	VERB	VV	_	13	vmod	_	th/proper=false
 15	โมราเวีย	_	PROPN	NNP	_	14	dobj	_	th/proper=true
@@ -10591,7 +10591,7 @@
 6	อากาศ	_	NOUN	NN	_	5	nn	_	th/proper=false
 7	เมื่อ	_	ADP	IN	_	1	prep	_	th/proper=false
 8	เร็ว	_	ADV	RB	_	7	pcomp	_	th/proper=false
-9	ๆ	_	X	SYM	_	8	p	_	th/proper=false
+9	ๆ	_	SYM	SYM	_	8	p	_	th/proper=false
 10	นี้	_	PRON	PRD	_	8	npadvmod	_	th/proper=false
 11	คือ	_	VERB	VC	_	0	ROOT	_	th/proper=false
 12	การ	_	AFFIX	PFN	_	13	pref	_	th/proper=false
@@ -10758,7 +10758,7 @@
 15	ระบุ	_	VERB	VV	_	0	ROOT	_	th/proper=false
 16	ว่า	_	ADP	IN	_	26	mark	_	th/proper=false
 17	56	_	NUM	CD	_	18	num	_	th/proper=false
-18	%	_	X	SYM	_	26	nsubj	_	th/proper=false
+18	%	_	SYM	SYM	_	26	nsubj	_	th/proper=false
 19	ของ	_	ADP	IN	_	20	ps	_	th/proper=false
 20	เด็ก	_	NOUN	NN	_	18	poss	_	th/proper=false
 21	อายุ	_	NOUN	NN	_	20	nn	_	th/proper=false
@@ -10772,7 +10772,7 @@
 29	และ	_	CCONJ	CC	_	26	cc	_	th/proper=false
 30	เกือบ	_	ADV	RB	_	31	advmod	_	th/proper=false
 31	53	_	NUM	CD	_	32	num	_	th/proper=false
-32	%	_	X	SYM	_	40	nsubj	_	th/proper=false
+32	%	_	SYM	SYM	_	40	nsubj	_	th/proper=false
 33	ของ	_	ADP	IN	_	34	ps	_	th/proper=false
 34	เด็ก	_	NOUN	NN	_	32	poss	_	th/proper=false
 35	วัย	_	NOUN	NN	_	34	nn	_	th/proper=false
@@ -10898,11 +10898,11 @@
 10	ทะเล	_	NOUN	NN	_	9	pobj	_	th/proper=false
 11	ที่	_	DET	WDT	_	12	nsubj	_	th/proper=false
 12	คล้าย	_	VERB	VC	_	3	rcmod	_	th/proper=false
-13	ๆ	_	X	SYM	_	12	p	_	th/proper=false
+13	ๆ	_	SYM	SYM	_	12	p	_	th/proper=false
 14	กัน	_	PRON	PRP	_	12	dobj	_	th/proper=false
 15	วัฒนธรรม	_	NOUN	NN	_	26	nsubj	_	th/proper=false
 16	ต่าง	_	ADJ	JJ	_	15	amod	_	th/proper=false
-17	ๆ	_	X	SYM	_	16	p	_	th/proper=false
+17	ๆ	_	SYM	SYM	_	16	p	_	th/proper=false
 18	ที่	_	DET	WDT	_	19	nsubj	_	th/proper=false
 19	มี	_	VERB	VV	_	15	rcmod	_	th/proper=false
 20	ศูนย์กลาง	_	NOUN	NN	_	19	dobj	_	th/proper=false
@@ -11559,14 +11559,14 @@
 # เมืองต่างๆ เช่น มิลาน พึ่งพาน้ำถึง 80% จากสาขาของน้ำที่ไหลจากเทือกเขาแอลป์
 1	เมือง	_	NOUN	NN	_	6	nsubj	_	th/proper=false
 2	ต่าง	_	ADJ	JJ	_	1	amod	_	th/proper=false
-3	ๆ	_	X	SYM	_	2	p	_	th/proper=false
+3	ๆ	_	SYM	SYM	_	2	p	_	th/proper=false
 4	เช่น	_	ADP	IN	_	1	prep	_	th/proper=false
 5	มิลาน	_	PROPN	NNP	_	4	pobj	_	th/proper=true
 6	พึ่งพา	_	VERB	VV	_	0	ROOT	_	th/proper=false
 7	น้ำ	_	NOUN	NN	_	6	dobj	_	th/proper=false
 8	ถึง	_	ADV	RB	_	9	advmod	_	th/proper=false
 9	80	_	NUM	CD	_	10	num	_	th/proper=false
-10	%	_	X	SYM	_	7	mes	_	th/proper=false
+10	%	_	SYM	SYM	_	7	mes	_	th/proper=false
 11	จาก	_	ADP	IN	_	10	prep	_	th/proper=false
 12	สาขา	_	NOUN	NN	_	11	pobj	_	th/proper=false
 13	ของ	_	ADP	IN	_	14	ps	_	th/proper=false
@@ -11895,7 +11895,7 @@
 # w01035081
 # จริงๆ แล้วพื้นที่การเกษตรสามารถได้รับผลเสียจากการทำลายสภาพภูมิประเทศรอบข้าง
 1	จริง	_	ADV	RB	_	9	advmod	_	th/proper=false
-2	ๆ	_	X	SYM	_	1	p	_	th/proper=false
+2	ๆ	_	SYM	SYM	_	1	p	_	th/proper=false
 3	แล้ว	_	ADV	RB	_	1	advmod	_	th/proper=false
 4	พื้นที่	_	NOUN	NN	_	9	nsubj	_	th/proper=false
 5	การ	_	NOUN	NN	_	4	nn	_	th/proper=false
@@ -12094,7 +12094,7 @@
 1	องค์กร	_	NOUN	NN	_	5	nsubj	_	th/proper=false
 2	เอกชน	_	ADJ	JJ	_	1	amod	_	th/proper=false
 3	ต่าง	_	ADJ	JJ	_	1	amod	_	th/proper=false
-4	ๆ	_	X	SYM	_	3	p	_	th/proper=false
+4	ๆ	_	SYM	SYM	_	3	p	_	th/proper=false
 5	ถือครอง	_	VERB	VV	_	0	ROOT	_	th/proper=false
 6	ที่	_	NOUN	NN	_	5	dobj	_	th/proper=false
 7	ดิน	_	NOUN	NN	_	6	nn	_	th/proper=false
@@ -13070,7 +13070,7 @@
 5	ควบคุม	_	VERB	VV	_	1	rcmod	_	th/proper=false
 6	คือ	_	VERB	VC	_	0	ROOT	_	th/proper=false
 7	ราว	_	ADV	RB	_	9	advmod	_	th/proper=false
-8	ๆ	_	X	SYM	_	7	p	_	th/proper=false
+8	ๆ	_	SYM	SYM	_	7	p	_	th/proper=false
 9	บริเวณ	_	NOUN	NN	_	6	attr	_	th/proper=false
 10	มองโกเลียนอก	_	PROPN	NNP	_	9	nn	_	th/proper=true
 11	เดิม	_	ADJ	JJ	_	10	amod	_	th/proper=false
@@ -13427,7 +13427,7 @@
 1	ใน	_	ADP	IN	_	14	prep	_	th/proper=false
 2	ยุค	_	NOUN	NN	_	1	pobj	_	th/proper=false
 3	หลัง	_	ADJ	JJ	_	2	amod	_	th/proper=false
-4	ๆ	_	X	SYM	_	3	p	_	th/proper=false
+4	ๆ	_	SYM	SYM	_	3	p	_	th/proper=false
 5	นัก	_	NOUN	NN	_	14	nsubj	_	th/proper=false
 6	เขียน	_	VERB	VV	_	5	vmod	_	th/proper=false
 7	บท	_	NOUN	NN	_	6	dobj	_	th/proper=false
@@ -14051,7 +14051,7 @@
 4	เทศกาล	_	NOUN	NN	_	1	conj	_	th/proper=false
 5	ฉลอง	_	VERB	VV	_	4	vmod	_	th/proper=false
 6	อื่น	_	ADJ	JJ	_	4	amod	_	th/proper=false
-7	ๆ	_	X	SYM	_	6	p	_	th/proper=false
+7	ๆ	_	SYM	SYM	_	6	p	_	th/proper=false
 8	ของ	_	ADP	IN	_	9	ps	_	th/proper=false
 9	ชาว	_	NOUN	NN	_	1	poss	_	th/proper=false
 10	ไทย	_	PROPN	NNP	_	9	nn	_	th/proper=true
@@ -14544,7 +14544,7 @@
 17	ใน	_	ADP	IN	_	14	prep	_	th/proper=false
 18	ช่วง	_	NOUN	NN	_	17	pobj	_	th/proper=false
 19	สั้น	_	ADJ	JJ	_	18	amod	_	th/proper=false
-20	ๆ	_	X	SYM	_	19	p	_	th/proper=false
+20	ๆ	_	SYM	SYM	_	19	p	_	th/proper=false
 
 # w01073007
 # พวกเขาได้รับอิทธิพลจากความงามของบริเวณทะเลสาบรัดยาร์ดมากเสียจนเมื่อลูกคนแรกคลอด พวกเขาก็ตั้งชื่อลูกตาม
@@ -14686,7 +14686,7 @@
 9	ผนวก	_	VERB	VV	_	15	advcl	_	th/proper=false
 10	เรื่อง	_	NOUN	NN	_	9	dobj	_	th/proper=false
 11	เก่า	_	ADJ	JJ	_	10	amod	_	th/proper=false
-12	ๆ	_	X	SYM	_	11	p	_	th/proper=false
+12	ๆ	_	SYM	SYM	_	11	p	_	th/proper=false
 13	แต่	_	CCONJ	CC	_	15	cc	_	th/proper=false
 14	ก็	_	ADV	RB	_	15	advmod	_	th/proper=false
 15	สร้าง	_	VERB	VV	_	0	ROOT	_	th/proper=false
@@ -14759,7 +14759,7 @@
 15	ค่า	_	NOUN	NN	_	14	pobj	_	th/proper=false
 16	เฉลี่ย	_	ADJ	JJ	_	15	amod	_	th/proper=false
 17	10	_	NUM	CD	_	18	num	_	th/proper=false
-18	%	_	X	SYM	_	13	npadvmod	_	th/proper=false
+18	%	_	SYM	SYM	_	13	npadvmod	_	th/proper=false
 19	ลด	_	VERB	VV	_	0	ROOT	_	th/proper=false
 20	โอกาส	_	NOUN	NN	_	19	dobj	_	th/proper=false
 21	ความ	_	AFFIX	PFN	_	22	pref	_	th/proper=false
@@ -14767,7 +14767,7 @@
 23	ไป	_	PART	RP	_	22	prt	_	th/proper=false
 24	ประมาณ	_	ADV	RB	_	25	advmod	_	th/proper=false
 25	3	_	NUM	CD	_	26	num	_	th/proper=false
-26	%	_	X	SYM	_	19	npadvmod	_	th/proper=false
+26	%	_	SYM	SYM	_	19	npadvmod	_	th/proper=false
 27	ใน	_	ADP	IN	_	43	mark	_	th/proper=false
 28	ขณะ	_	NOUN	NN	_	27	mwe	_	th/proper=false
 29	ที่	_	DET	WDT	_	27	mwe	_	th/proper=false
@@ -14783,7 +14783,7 @@
 39	การ	_	AFFIX	PFN	_	40	pref	_	th/proper=false
 40	ศึกษา	_	VERB	VV	_	36	poss	_	th/proper=false
 41	1	_	NUM	CD	_	42	num	_	th/proper=false
-42	%	_	X	SYM	_	34	npadvmod	_	th/proper=false
+42	%	_	SYM	SYM	_	34	npadvmod	_	th/proper=false
 43	ทำให้	_	VERB	VV	_	19	advcl	_	th/proper=false
 44	ลด	_	VERB	VV	_	43	xcomp	_	th/proper=false
 45	โอกาส	_	NOUN	NN	_	44	dobj	_	th/proper=false
@@ -14793,7 +14793,7 @@
 49	เมือง	_	NOUN	NN	_	48	pobj	_	th/proper=false
 50	ประมาณ	_	ADV	RB	_	51	advmod	_	th/proper=false
 51	1	_	NUM	CD	_	52	num	_	th/proper=false
-52	%	_	X	SYM	_	44	npadvmod	_	th/proper=false
+52	%	_	SYM	SYM	_	44	npadvmod	_	th/proper=false
 
 # w01075038
 # การศึกษานี้ตีความปัจจัยสามอย่างนี้ในฐานะตัวแทนของรายได้ที่เสียไปหากเข้าร่วมการก่อกบฏ และรายได้ที่เสียไปที่น้อยกว่านี้เองเป็นตัวกระตุ้นให้เกิดการก่อกบฏ
@@ -15428,7 +15428,7 @@
 9	ยัง	_	ADP	IN	_	6	prep	_	th/proper=false
 10	ตำแหน่ง	_	NOUN	NN	_	9	pobj	_	th/proper=false
 11	เล็ก	_	ADJ	JJ	_	10	amod	_	th/proper=false
-12	ๆ	_	X	SYM	_	11	p	_	th/proper=false
+12	ๆ	_	SYM	SYM	_	11	p	_	th/proper=false
 13	ทาง	_	ADP	IN	_	10	prep	_	th/proper=false
 14	ตะวัน	_	NOUN	NN	_	13	pobj	_	th/proper=false
 15	ตก	_	VERB	VV	_	14	vmod	_	th/proper=false
@@ -16420,7 +16420,7 @@
 3	ใช้	_	VERB	VV	_	2	xcomp	_	th/proper=false
 4	ท่า	_	NOUN	NN	_	3	dobj	_	th/proper=false
 5	ใหม่	_	ADJ	JJ	_	4	amod	_	th/proper=false
-6	ๆ	_	X	SYM	_	5	p	_	th/proper=false
+6	ๆ	_	SYM	SYM	_	5	p	_	th/proper=false
 7	เพื่อ	_	ADP	IN	_	2	prep	_	th/proper=false
 8	การ	_	AFFIX	PFN	_	9	pref	_	th/proper=false
 9	ค้า	_	VERB	VV	_	7	pobj	_	th/proper=false
@@ -16471,7 +16471,7 @@
 3	ใน	_	ADP	IN	_	1	prep	_	th/proper=false
 4	ช่วง	_	NOUN	NN	_	3	pobj	_	th/proper=false
 5	แรก	_	ADJ	JJ	_	4	amod	_	th/proper=false
-6	ๆ	_	X	SYM	_	5	p	_	th/proper=false
+6	ๆ	_	SYM	SYM	_	5	p	_	th/proper=false
 7	ของ	_	ADP	IN	_	8	ps	_	th/proper=false
 8	ลามาร์	_	PROPN	NNP	_	1	poss	_	th/proper=true
 9	รวม	_	VERB	VV	_	0	ROOT	_	th/proper=false
@@ -17057,7 +17057,7 @@
 3	บอก	_	VERB	VV	_	0	ROOT	_	th/proper=false
 4	เป็น	_	VERB	VC	_	3	xcomp	_	th/proper=false
 5	นัย	_	NOUN	NN	_	4	attr	_	th/proper=false
-6	ๆ	_	X	SYM	_	5	p	_	th/proper=false
+6	ๆ	_	SYM	SYM	_	5	p	_	th/proper=false
 7	ได้	_	VERB	MD	_	3	aux	_	th/proper=false
 8	ว่า	_	ADP	IN	_	10	mark	_	th/proper=false
 9	เขา	_	PRON	PRP	Person=3	10	nsubj	_	th/proper=false
@@ -18317,13 +18317,13 @@
 23	เหนือ	_	ADP	IN	_	19	prep	_	th/proper=false
 24	กระทรวง	_	PROPN	NN	_	23	pobj	_	th/proper=true
 25	ต่าง	_	ADJ	JJ	_	24	amod	_	th/proper=false
-26	ๆ	_	X	SYM	_	25	p	_	th/proper=false
+26	ๆ	_	SYM	SYM	_	25	p	_	th/proper=false
 
 # w01132042
 # รูปแบบต่างๆ ที่เสนอโดยข้อมูลจากเขตเปเต็นและวาชักตุนทำให้พื้นที่เหล่านี้เหมาะสมต่อการพัฒนาทางวัฒนธรรมของที่ราบลุ่มต่ำมายา
 1	รูปแบบ	_	NOUN	NN	_	13	nsubj	_	th/proper=false
 2	ต่าง	_	ADJ	JJ	_	1	amod	_	th/proper=false
-3	ๆ	_	X	SYM	_	2	p	_	th/proper=false
+3	ๆ	_	SYM	SYM	_	2	p	_	th/proper=false
 4	ที่	_	DET	WDT	_	5	dobj	_	th/proper=false
 5	เสนอ	_	VERB	VV	_	1	rcmod	_	th/proper=false
 6	โดย	_	ADP	IN	_	5	prep	_	th/proper=false
@@ -18430,7 +18430,7 @@
 10	ใน	_	ADP	IN	_	8	prep	_	th/proper=false
 11	ฉบับ	_	NOUN	NNB	_	10	pobj	_	th/proper=false
 12	ถัด	_	VERB	VV	_	11	vmod	_	th/proper=false
-13	ๆ	_	X	SYM	_	12	p	_	th/proper=false
+13	ๆ	_	SYM	SYM	_	12	p	_	th/proper=false
 14	มา	_	PART	RP	_	12	prt	_	th/proper=false
 15	และ	_	CCONJ	CC	_	2	cc	_	th/proper=false
 16	เริ่ม	_	VERB	VV	_	2	conj	_	th/proper=false
@@ -18612,7 +18612,7 @@
 11	เป็น	_	VERB	VC	_	9	xcomp	_	th/proper=false
 12	ช่วง	_	NOUN	NN	_	11	attr	_	th/proper=false
 13	สั้น	_	ADJ	JJ	_	12	amod	_	th/proper=false
-14	ๆ	_	X	SYM	_	13	p	_	th/proper=false
+14	ๆ	_	SYM	SYM	_	13	p	_	th/proper=false
 15	ใน	_	ADP	IN	_	9	prep	_	th/proper=false
 16	เดอะ	_	DET	DT	_	17	det	_	th/proper=true
 17	มัพเพ็ตส์	_	PROPN	NN	_	15	pobj	_	th/proper=true
@@ -18766,7 +18766,7 @@
 3	กล่าว	_	VERB	VV	_	1	pcomp	_	th/proper=false
 4	อย่าง	_	AFFIX	PFR	_	5	pref	_	th/proper=false
 5	สั้น	_	ADJ	JJ	_	3	advmod	_	th/proper=false
-6	ๆ	_	X	SYM	_	5	p	_	th/proper=false
+6	ๆ	_	SYM	SYM	_	5	p	_	th/proper=false
 7	ต่อ	_	ADP	IN	_	3	prep	_	th/proper=false
 8	คณะ	_	NOUN	NN	_	7	pobj	_	th/proper=false
 9	รัฐมนตรี	_	NOUN	NN	_	8	nn	_	th/proper=false
@@ -18944,7 +18944,7 @@
 8	ค่า	_	NOUN	NN	_	7	dobj	_	th/proper=false
 9	ใช้จ่าย	_	VERB	VV	_	8	vmod	_	th/proper=false
 10	ต่าง	_	ADJ	JJ	_	8	amod	_	th/proper=false
-11	ๆ	_	X	SYM	_	10	p	_	th/proper=false
+11	ๆ	_	SYM	SYM	_	10	p	_	th/proper=false
 12	ของ	_	ADP	IN	_	13	ps	_	th/proper=false
 13	โรนา	_	PROPN	NNP	_	8	poss	_	th/proper=true
 14	ได้	_	VERB	MD	_	5	aux	_	th/proper=false
@@ -19014,7 +19014,7 @@
 25	พอโลเนียม	_	NOUN	NN	_	24	pobj	_	th/proper=false
 26	แผ่น	_	NOUN	NNB	_	25	mes	_	th/proper=false
 27	เล็ก	_	ADJ	JJ	_	26	amod	_	th/proper=false
-28	ๆ	_	X	SYM	_	27	p	_	th/proper=false
+28	ๆ	_	SYM	SYM	_	27	p	_	th/proper=false
 29	ด้วย	_	ADV	RB	_	23	advmod	_	th/proper=false
 
 # w01140034
@@ -19038,7 +19038,7 @@
 17	งาน	_	NOUN	NN	_	16	pobj	_	th/proper=false
 18	วิจัย	_	VERB	VV	_	17	vmod	_	th/proper=false
 19	ต่อ	_	VERB	VV	_	17	vmod	_	th/proper=false
-20	ๆ	_	X	SYM	_	19	p	_	th/proper=false
+20	ๆ	_	SYM	SYM	_	19	p	_	th/proper=false
 21	มา	_	PART	RP	_	19	prt	_	th/proper=false
 22	ของ	_	ADP	IN	_	23	ps	_	th/proper=false
 23	สถาบัน	_	NOUN	NN	_	17	poss	_	th/proper=false
@@ -19772,7 +19772,7 @@
 12	แบ่งแยก	_	VERB	VV	_	0	ROOT	_	th/proper=false
 13	ดินแดน	_	NOUN	NN	_	12	dobj	_	th/proper=false
 14	สำคัญ	_	ADJ	JJ	_	13	amod	_	th/proper=false
-15	ๆ	_	X	SYM	_	14	p	_	th/proper=false
+15	ๆ	_	SYM	SYM	_	14	p	_	th/proper=false
 16	ที่	_	DET	WDT	_	18	npadvmod	_	th/proper=false
 17	แอลเบเนีย	_	PROPN	NNP	_	18	nsubj	_	th/proper=true
 18	อ้าง	_	VERB	VV	_	13	rcmod	_	th/proper=false
@@ -19975,7 +19975,7 @@
 8	จอ	_	NOUN	NN	_	7	nn	_	th/proper=false
 9	สัมผัส	_	VERB	VV	_	8	vmod	_	th/proper=false
 10	เล็ก	_	ADJ	JJ	_	7	amod	_	th/proper=false
-11	ๆ	_	X	SYM	_	10	p	_	th/proper=false
+11	ๆ	_	SYM	SYM	_	10	p	_	th/proper=false
 12	อยู่	_	VERB	VV	_	6	xcomp	_	th/proper=false
 13	เหนือ	_	ADP	IN	_	12	prep	_	th/proper=false
 14	คีย์บอร์ด	_	NOUN	NN	_	13	pobj	_	th/proper=false
@@ -20627,7 +20627,7 @@
 6	ข้อ	_	NOUN	NN	_	5	dobj	_	th/proper=false
 7	สรุป	_	VERB	VV	_	6	vmod	_	th/proper=false
 8	ใหม่	_	ADJ	JJ	_	6	amod	_	th/proper=false
-9	ๆ	_	X	SYM	_	8	p	_	th/proper=false
+9	ๆ	_	SYM	SYM	_	8	p	_	th/proper=false
 10	จาก	_	ADP	IN	_	5	prep	_	th/proper=false
 11	การ	_	AFFIX	PFN	_	12	pref	_	th/proper=false
 12	ตรวจสอบ	_	VERB	VV	_	10	pcomp	_	th/proper=false
@@ -21049,7 +21049,7 @@
 19	สืบสวน	_	VERB	VV	_	12	ccomp	_	th/proper=false
 20	เป็น	_	VERB	VC	_	19	xcomp	_	th/proper=false
 21	ปี	_	NOUN	NN	_	20	attr	_	th/proper=false
-22	ๆ	_	X	SYM	_	21	p	_	th/proper=false
+22	ๆ	_	SYM	SYM	_	21	p	_	th/proper=false
 23	’	_	PUNCT	''	_	19	p	_	th/proper=false
 
 # n03001023
@@ -21369,7 +21369,7 @@
 19	ด้วย	_	ADV	RB	_	17	advmod	_	th/proper=false
 20	“	_	PUNCT	``	_	26	p	_	th/proper=false
 21	จริง	_	ADV	RB	_	26	advmod	_	th/proper=false
-22	ๆ	_	X	SYM	_	21	p	_	th/proper=false
+22	ๆ	_	SYM	SYM	_	21	p	_	th/proper=false
 23	แล้ว	_	ADV	RB	_	21	advmod	_	th/proper=false
 24	ไม่	_	PART	NEG	_	25	neg	_	th/proper=false
 25	ได้	_	PART	AS	Aspect=Perf	26	asp	_	th/proper=false
@@ -21492,7 +21492,7 @@
 8	อยู่	_	VERB	VV	_	0	ROOT	_	th/proper=false
 9	ที่	_	ADP	IN	_	8	prep	_	th/proper=false
 10	ราว	_	ADV	RB	_	12	advmod	_	th/proper=false
-11	ๆ	_	X	SYM	_	10	p	_	th/proper=false
+11	ๆ	_	SYM	SYM	_	10	p	_	th/proper=false
 12	45	_	NUM	CD	_	13	num	_	th/proper=false
 13	นาที	_	NOUN	NNB	_	9	pobj	_	th/proper=false
 
@@ -22161,7 +22161,7 @@
 4	มาก	_	ADJ	JJ	_	3	amod	_	th/proper=false
 5	ขึ้น	_	ADV	RB	_	4	advmod	_	th/proper=false
 6	เรื่อย	_	ADV	RB	_	5	advmod	_	th/proper=false
-7	ๆ	_	X	SYM	_	6	p	_	th/proper=false
+7	ๆ	_	SYM	SYM	_	6	p	_	th/proper=false
 8	กำลัง	_	PART	AS	Aspect=Prog	9	asp	_	th/proper=false
 9	มี	_	VERB	VV	_	0	ROOT	_	th/proper=false
 10	บทบาท	_	NOUN	NN	_	9	dobj	_	th/proper=false
@@ -22212,7 +22212,7 @@
 4	ของ	_	ADP	IN	_	5	ps	_	th/proper=false
 5	บริษัท	_	NOUN	NN	_	2	poss	_	th/proper=false
 6	ต่าง	_	ADJ	JJ	_	5	amod	_	th/proper=false
-7	ๆ	_	X	SYM	_	6	p	_	th/proper=false
+7	ๆ	_	SYM	SYM	_	6	p	_	th/proper=false
 8	อาทิ	_	ADP	IN	_	5	prep	_	th/proper=false
 9	สปอติฟาย	_	PROPN	NNP	_	8	pobj	_	th/proper=true
 10	เทสลา	_	PROPN	NNP	_	9	conj	_	th/proper=true
@@ -22302,7 +22302,7 @@
 19	ต่ำ	_	ADV	RB	_	17	advmod	_	th/proper=false
 20	กว่า	_	ADP	IN	_	19	prep	_	th/proper=false
 21	20	_	NUM	CD	_	22	num	_	th/proper=false
-22	%	_	X	SYM	_	20	pobj	_	th/proper=false
+22	%	_	SYM	SYM	_	20	pobj	_	th/proper=false
 23	และ	_	CCONJ	CC	_	17	cc	_	th/proper=false
 24	มี	_	VERB	VV	_	17	conj	_	th/proper=false
 25	คน	_	NOUN	NN	_	24	dobj	_	th/proper=false
@@ -22339,7 +22339,7 @@
 # สหภาพต่างๆ ได้ต่อสู้อย่างหนัก และหลายครั้งก็เรียกร้องการยกเลิกการออกกฎหมายที่ฟาติมา บาเยซมีความภูมิใจเป็นที่สุด
 1	สหภาพ	_	PROPN	NN	_	5	nsubj	_	th/proper=true
 2	ต่าง	_	ADJ	JJ	_	1	amod	_	th/proper=false
-3	ๆ	_	X	SYM	_	2	p	_	th/proper=false
+3	ๆ	_	SYM	SYM	_	2	p	_	th/proper=false
 4	ได้	_	PART	AS	Aspect=Perf	5	asp	_	th/proper=false
 5	ต่อสู้	_	VERB	VV	_	0	ROOT	_	th/proper=false
 6	อย่าง	_	AFFIX	PFR	_	7	pref	_	th/proper=false
@@ -22387,10 +22387,10 @@
 9	"	_	PUNCT	``	_	10	p	_	th/proper=false
 10	เรื่อง	_	NOUN	NN	_	8	pobj	_	th/proper=false
 11	ร้อน	_	ADJ	JJ	_	10	amod	_	th/proper=false
-12	ๆ	_	X	SYM	_	11	p	_	th/proper=false
+12	ๆ	_	SYM	SYM	_	11	p	_	th/proper=false
 13	"	_	PUNCT	''	_	10	p	_	th/proper=false
 14	อื่น	_	ADJ	JJ	_	10	amod	_	th/proper=false
-15	ๆ	_	X	SYM	_	14	p	_	th/proper=false
+15	ๆ	_	SYM	SYM	_	14	p	_	th/proper=false
 16	อีก	_	ADV	RB	_	7	advmod	_	th/proper=false
 
 # n05003006
@@ -22428,7 +22428,7 @@
 12	"	_	PUNCT	``	_	13	p	_	th/proper=false
 13	คอสพีดัล	_	PROPN	NNP	_	11	attr	_	th/proper=true
 14	100	_	NUM	CD	_	15	num	_	th/proper=false
-15	%	_	X	SYM	_	13	mes	_	th/proper=false
+15	%	_	SYM	SYM	_	13	mes	_	th/proper=false
 16	"	_	PUNCT	''	_	13	p	_	th/proper=false
 
 # n05003019
@@ -22605,14 +22605,14 @@
 8	คำ	_	NOUN	NN	_	2	conj	_	th/proper=false
 9	ประชด	_	VERB	VV	_	8	vmod	_	th/proper=false
 10	ทื่อ	_	ADJ	JJ	_	8	amod	_	th/proper=false
-11	ๆ	_	X	SYM	_	10	p	_	th/proper=false
+11	ๆ	_	SYM	SYM	_	10	p	_	th/proper=false
 12	และ	_	CCONJ	CC	_	2	cc	_	th/proper=false
 13	เครื่องมือ	_	NOUN	NN	_	2	conj	_	th/proper=false
 14	ทาง	_	ADP	IN	_	13	prep	_	th/proper=false
 15	คำ	_	NOUN	NN	_	14	pobj	_	th/proper=false
 16	พูด	_	VERB	VV	_	15	vmod	_	th/proper=false
 17	อื่น	_	ADJ	JJ	_	13	amod	_	th/proper=false
-18	ๆ	_	X	SYM	_	17	p	_	th/proper=false
+18	ๆ	_	SYM	SYM	_	17	p	_	th/proper=false
 19	ที่	_	DET	WDT	_	20	dobj	_	th/proper=false
 20	นำ	_	VERB	VV	_	13	rcmod	_	th/proper=false
 21	มา	_	PART	RP	_	20	prt	_	th/proper=false
@@ -22794,7 +22794,7 @@
 36	ส่ง	_	VERB	VV	_	27	ccomp	_	th/proper=false
 37	ผล	_	NOUN	NN	_	36	dobj	_	th/proper=false
 38	ใด	_	DET	WDT	_	37	det	_	th/proper=false
-39	ๆ	_	X	SYM	_	38	p	_	th/proper=false
+39	ๆ	_	SYM	SYM	_	38	p	_	th/proper=false
 40	หรือไม่	_	PART	EP	_	36	discourse	_	th/proper=false
 
 # n05009025
@@ -22808,7 +22808,7 @@
 7	การ	_	AFFIX	PFN	_	8	pref	_	th/proper=false
 8	กระทำ	_	VERB	VV	_	5	conj	_	th/proper=false
 9	อื่น	_	ADJ	JJ	_	8	amod	_	th/proper=false
-10	ๆ	_	X	SYM	_	9	p	_	th/proper=false
+10	ๆ	_	SYM	SYM	_	9	p	_	th/proper=false
 11	ซึ่ง	_	DET	WDT	_	13	dobj	_	th/proper=false
 12	ได้	_	PART	AS	Aspect=Perf	13	asp	_	th/proper=false
 13	วางแผน	_	VERB	VV	_	5	rcmod	_	th/proper=false
@@ -23557,7 +23557,7 @@
 13	การ	_	AFFIX	PFN	_	14	pref	_	th/proper=false
 14	พัฒนา	_	VERB	VV	_	11	conj	_	th/proper=false
 15	ใหม่	_	ADJ	JJ	_	14	amod	_	th/proper=false
-16	ๆ	_	X	SYM	_	15	p	_	th/proper=false
+16	ๆ	_	SYM	SYM	_	15	p	_	th/proper=false
 17	ใน	_	ADP	IN	_	11	prep	_	th/proper=false
 18	การ	_	NOUN	NN	_	17	pobj	_	th/proper=false
 19	เมือง	_	NOUN	NN	_	18	nn	_	th/proper=false
@@ -23576,7 +23576,7 @@
 8	ก่อน	_	ADP	IN	_	4	prep	_	th/proper=false
 9	ประเทศ	_	NOUN	NN	_	8	pobj	_	th/proper=false
 10	อื่น	_	ADJ	JJ	_	9	amod	_	th/proper=false
-11	ๆ	_	X	SYM	_	10	p	_	th/proper=false
+11	ๆ	_	SYM	SYM	_	10	p	_	th/proper=false
 
 # w02013033
 # วิกฤตการณ์สุเอซได้แสดงให้เห็นถึงขอบเขตของอำนาจอาณานิคมเก่าอย่างบริเตนใหญ่และฝรั่งเศสในโลกที่กำลังเปลี่ยนแปลง
@@ -24182,7 +24182,7 @@
 9	โรมัน	_	PROPN	NNP	_	8	nn	_	th/proper=true
 10	สถาบัน	_	NOUN	NN	_	8	conj	_	th/proper=false
 11	ต่าง	_	ADJ	JJ	_	10	amod	_	th/proper=false
-12	ๆ	_	X	SYM	_	11	p	_	th/proper=false
+12	ๆ	_	SYM	SYM	_	11	p	_	th/proper=false
 13	ของ	_	ADP	IN	_	14	ps	_	th/proper=false
 14	สาธารณรัฐ	_	PROPN	NN	_	10	poss	_	th/proper=true
 15	โรมัน	_	PROPN	NNP	_	14	nn	_	th/proper=true
@@ -24287,7 +24287,7 @@
 4	เป็น	_	VERB	VC	_	3	xcomp	_	th/proper=false
 5	ชุมชน	_	NOUN	NN	_	4	attr	_	th/proper=false
 6	เล็ก	_	ADJ	JJ	_	5	amod	_	th/proper=false
-7	ๆ	_	X	SYM	_	6	p	_	th/proper=false
+7	ๆ	_	SYM	SYM	_	6	p	_	th/proper=false
 8	ปกครอง	_	VERB	VV	_	5	vmod	_	th/proper=false
 9	ตนเอง	_	PRON	PRP	Person=3	8	dobj	_	th/proper=false
 10	หลาย	_	DET	DT	_	11	det	_	th/proper=false
@@ -24484,7 +24484,7 @@
 24	ใช้	_	VERB	VV	_	0	ROOT	_	th/proper=false
 25	มาตรการ	_	NOUN	NN	_	24	dobj	_	th/proper=false
 26	ต่าง	_	ADJ	JJ	_	25	amod	_	th/proper=false
-27	ๆ	_	X	SYM	_	26	p	_	th/proper=false
+27	ๆ	_	SYM	SYM	_	26	p	_	th/proper=false
 28	นานา	_	ADJ	JJ	_	26	conj	_	th/proper=false
 29	ปล่อย	_	VERB	VV	_	24	xcomp	_	th/proper=false
 30	ตัว	_	NOUN	NN	_	29	dobj	_	th/proper=false
@@ -24644,9 +24644,9 @@
 30	สนับสนุน	_	VERB	VV	_	28	dobj	_	th/proper=false
 31	แบบ	_	NOUN	NN	_	30	nn	_	th/proper=false
 32	ลม	_	NOUN	NN	_	30	nn	_	th/proper=false
-33	ๆ	_	X	SYM	_	32	p	_	th/proper=false
+33	ๆ	_	SYM	SYM	_	32	p	_	th/proper=false
 34	แล้ง	_	ADJ	JJ	_	32	conj	_	th/proper=false
-35	ๆ	_	X	SYM	_	34	p	_	th/proper=false
+35	ๆ	_	SYM	SYM	_	34	p	_	th/proper=false
 
 # w03010099
 # ในช่วงฤดูร้อน จอร์จและภรรยาได้เดินทางกลับไปยังสวิตเซอร์แลนด์พร้อมกับโรแซน เด็กหญิงอายุ 18 ปีผู้เป็นลูกสาวของเพื่อนคนหนึ่งของเจอร์แมน
@@ -25067,7 +25067,7 @@
 22	กับ	_	ADP	IN	_	21	prep	_	th/proper=false
 23	เรื่อง	_	NOUN	NN	_	22	pobj	_	th/proper=false
 24	อื่น	_	ADJ	JJ	_	23	amod	_	th/proper=false
-25	ๆ	_	X	SYM	_	24	p	_	th/proper=false
+25	ๆ	_	SYM	SYM	_	24	p	_	th/proper=false
 
 # w04006065
 # เพียงแค่หยิบมือเดียวเท่านั้น (ยศแห่งเอิร์ล) เหลืออยู่ในรัชสมัยพระเจ้าเฮนรี่ที่ 1 และยศเหล่านี้ได้กลายมาเป็นเครื่องหมายที่ทรงเกียรติมาก
@@ -25198,7 +25198,7 @@
 25	การ	_	AFFIX	PFN	_	26	pref	_	th/proper=false
 26	พัฒนา	_	VERB	VV	_	29	nsubj	_	th/proper=false
 27	ใหม่	_	ADJ	JJ	_	26	amod	_	th/proper=false
-28	ๆ	_	X	SYM	_	27	p	_	th/proper=false
+28	ๆ	_	SYM	SYM	_	27	p	_	th/proper=false
 29	เกิด	_	VERB	VV	_	11	advcl	_	th/proper=false
 30	ขึ้น	_	PART	RP	_	29	prt	_	th/proper=false
 31	ใน	_	ADP	IN	_	29	prep	_	th/proper=false
@@ -25331,7 +25331,7 @@
 39	เหมือน	_	VERB	VC	_	37	vmod	_	th/proper=false
 40	คน	_	NOUN	NN	_	39	attr	_	th/proper=false
 41	อื่น	_	ADJ	JJ	_	40	amod	_	th/proper=false
-42	ๆ	_	X	SYM	_	41	p	_	th/proper=false
+42	ๆ	_	SYM	SYM	_	41	p	_	th/proper=false
 
 # w04010027
 # เอนนิโอ มอร์ริโคเนและบรูโน นิโคไล สองศิษย์ของโกฟเฟรโด เปตราสซีมาพบกันที่โรงเรียนดนตรีซานตา (เซนต์) ซิซิเลีย
@@ -25747,7 +25747,7 @@
 # สิ่งต่างๆ เริ่มเปลี่ยนแปลงในเดือนตุลาคม 1777 เมื่อกองทัพอังกฤษภายใต้บัญชาการของนายพลจอห์น เบอร์กอยน์ยอมจำนนที่ซาราโตก้าบริเวณตอนเหนือของรัฐนิวยอร์ก
 1	สิ่ง	_	NOUN	NN	_	4	nsubj	_	th/proper=false
 2	ต่าง	_	ADJ	JJ	_	1	amod	_	th/proper=false
-3	ๆ	_	X	SYM	_	2	p	_	th/proper=false
+3	ๆ	_	SYM	SYM	_	2	p	_	th/proper=false
 4	เริ่ม	_	VERB	VV	_	0	ROOT	_	th/proper=false
 5	เปลี่ยนแปลง	_	VERB	VV	_	4	xcomp	_	th/proper=false
 6	ใน	_	ADP	IN	_	4	prep	_	th/proper=false
@@ -25826,7 +25826,7 @@
 25	มาก	_	ADV	RB	_	21	advmod	_	th/proper=false
 26	ขึ้น	_	ADV	RB	_	25	advmod	_	th/proper=false
 27	เรื่อย	_	ADV	RB	_	25	advmod	_	th/proper=false
-28	ๆ	_	X	SYM	_	27	p	_	th/proper=false
+28	ๆ	_	SYM	SYM	_	27	p	_	th/proper=false
 
 # w05005086
 # การเดินทางครั้งนี้นำโดยนายพลโจเซฟ เบอร์กอยน์ผู้ตั้งใจจะไปให้ถึงอัลบานี
