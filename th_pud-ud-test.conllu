@@ -18,7 +18,7 @@
 15	มา	_	PART	AS	Aspect=Perf	14	aux	_	SpaceAfter=No
 16	ก่อน	_	ADV	RB	_	14	advmod	_	SpaceAfter=No
 17	ใน	_	ADP	IN	_	18	case	_	SpaceAfter=No
-18	สหรัฐ	_	PROPN	NN	_	14	obl	_	Proper=True|SpaceAfter=No
+18	สหรัฐ	_	NOUN	NN	_	14	obl	_	Proper=True|SpaceAfter=No
 19	ฯ	_	PUNCT	...	_	18	punct	_	Proper=True
 20	การเปลี่ยนผ่าน	_	VERB	VV	_	27	csubj	_	SpaceAfter=No
 21	อำนาจ	_	NOUN	NN	_	20	obj	_	SpaceAfter=No
@@ -128,7 +128,7 @@
 12	แต่	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 13	ชะตากรรม	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 14	ของ	_	ADP	IN	_	15	case	_	SpaceAfter=No
-15	สาธารณรัฐ	_	PROPN	NN	_	13	nmod:poss	_	Proper=True|SpaceAfter=No
+15	สาธารณรัฐ	_	NOUN	NN	_	13	nmod:poss	_	Proper=True|SpaceAfter=No
 16	อยู่	_	VERB	VV	_	6	conj	_	SpaceAfter=No
 17	ใน	_	ADP	IN	_	18	case	_	SpaceAfter=No
 18	กำมือ	_	NOUN	NN	_	16	obl	_	SpaceAfter=No
@@ -147,7 +147,7 @@
 31	ที่	_	ADP	IN	_	32	case	_	SpaceAfter=No
 32	สนาม	_	NOUN	NN	_	30	obl	_	SpaceAfter=No
 33	กีฬา	_	NOUN	NN	_	32	compound	_	SpaceAfter=No
-34	มหาวิทยาลัย	_	PROPN	NN	_	32	compound	_	Proper=True|SpaceAfter=No
+34	มหาวิทยาลัย	_	NOUN	NN	_	32	compound	_	Proper=True|SpaceAfter=No
 35	นอร์ทแคโรไลนา	_	PROPN	NNP	_	32	compound	_	_
 
 # sent_id = n01002042
@@ -232,13 +232,13 @@
 22	แทน	_	VERB	VV	_	21	acl	_	SpaceAfter=No
 23	ของ	_	ADP	IN	_	24	case	_	SpaceAfter=No
 24	อูเบอร์	_	PROPN	NNP	_	21	nmod:poss	_	_
-25	สมาคม	_	PROPN	NN	_	21	conj	_	Proper=True|SpaceAfter=No
-26	ภาพยนตร์	_	PROPN	NN	_	25	flat:name	_	Proper=True|SpaceAfter=No
+25	สมาคม	_	NOUN	NN	_	21	conj	_	Proper=True|SpaceAfter=No
+26	ภาพยนตร์	_	NOUN	NN	_	25	flat:name	_	Proper=True|SpaceAfter=No
 27	แห่ง	_	ADP	IN	_	28	case	_	Proper=True|SpaceAfter=No
 28	อเมริกา	_	PROPN	NNP	_	25	nmod:poss	_	_
-29	สมาคม	_	PROPN	NN	_	21	conj	_	Proper=True|SpaceAfter=No
-30	เทคโนโลยี	_	PROPN	NN	_	29	flat:name	_	Proper=True|SpaceAfter=No
-31	ผู้	_	PROPN	NN	_	29	flat:name	_	Proper=True|SpaceAfter=No
+29	สมาคม	_	NOUN	NN	_	21	conj	_	Proper=True|SpaceAfter=No
+30	เทคโนโลยี	_	NOUN	NN	_	29	flat:name	_	Proper=True|SpaceAfter=No
+31	ผู้	_	NOUN	NN	_	29	flat:name	_	Proper=True|SpaceAfter=No
 32	บริโภค	_	VERB	VV	_	31	acl	_	Proper=True
 33	และ	_	CCONJ	CC	_	34	cc	_	SpaceAfter=No
 34	กลุ่ม	_	NOUN	NN	_	21	conj	_	SpaceAfter=No
@@ -256,12 +256,12 @@
 6	จะ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
 7	จัด	_	VERB	VV	_	4	ccomp	_	SpaceAfter=No
 8	ที่	_	ADP	IN	_	9	case	_	SpaceAfter=No
-9	สโมสร	_	PROPN	NN	_	7	obl	_	Proper=True|SpaceAfter=No
-10	มหานคร	_	PROPN	NN	_	9	flat:name	_	Proper=True|SpaceAfter=No
+9	สโมสร	_	NOUN	NN	_	7	obl	_	Proper=True|SpaceAfter=No
+10	มหานคร	_	NOUN	NN	_	9	flat:name	_	Proper=True|SpaceAfter=No
 11	ส่วน	_	NOUN	NN	_	10	compound	_	SpaceAfter=No
 12	ตัว	_	NOUN	NN	_	11	compound	_	SpaceAfter=No
 13	ใน	_	ADP	IN	_	14	case	_	SpaceAfter=No
-14	กรุง	_	PROPN	NN	_	9	nmod	_	Proper=True|SpaceAfter=No
+14	กรุง	_	NOUN	NN	_	9	nmod	_	Proper=True|SpaceAfter=No
 15	วอชิงตัน	_	PROPN	NNP	_	14	flat:name	_	_
 16	ถนน	_	NOUN	NN	_	14	appos	_	SpaceAfter=No
 17	เอช	_	PROPN	NNP	_	16	compound	_	_
@@ -344,7 +344,7 @@
 1	หาก	_	SCONJ	CC	_	2	mark	_	SpaceAfter=No
 2	เปรียบเทียบ	_	VERB	VV	_	14	advcl	_	_
 3	การก่อสร้าง	_	VERB	VV	_	14	csubj	_	SpaceAfter=No
-4	สถานี	_	PROPN	NN	_	3	obj	_	Proper=True|SpaceAfter=No
+4	สถานี	_	NOUN	NN	_	3	obj	_	Proper=True|SpaceAfter=No
 5	รถไฟ	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	โนมาอินฟิล	_	PROPN	NNP	_	5	flat:name	_	SpaceAfter=No
 7	ที่	_	DET	WDT	_	8	nsubj	_	SpaceAfter=No
@@ -406,7 +406,7 @@
 14	นาที	_	NOUN	NNB	_	11	clf	_	SpaceAfter=No
 15	ใน	_	ADP	IN	_	16	case	_	SpaceAfter=No
 16	การข้าม	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No
-17	แม่น้ำ	_	PROPN	NN	_	16	obj	_	Proper=True|SpaceAfter=No
+17	แม่น้ำ	_	NOUN	NN	_	16	obj	_	Proper=True|SpaceAfter=No
 18	โปโตแมค	_	PROPN	NNP	_	17	flat:name	_	SpaceAfter=No
 19	ด้วย	_	ADP	IN	_	20	case	_	SpaceAfter=No
 20	เรือ	_	NOUN	NN	_	16	obl	_	SpaceAfter=No
@@ -595,7 +595,7 @@
 3	ฆาตกรรม	_	VERB	VV	_	40	ccomp	_	SpaceAfter=No
 4	อังเดร	_	PROPN	NNP	_	3	obj	_	_
 5	ไพรซ์	_	PROPN	NNP	_	4	flat:name	_	_
-6	ที่	_	PROPN	NN	_	4	flat:name	_	Proper=True
+6	ที่	_	NOUN	NN	_	4	flat:name	_	Proper=True
 7	3	_	NUM	CD	_	6	nummod	_	Proper=True
 8	โดย	_	ADP	IN	_	9	case	_	SpaceAfter=No
 9	การกด	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
@@ -687,7 +687,7 @@
 9	หน่วย	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
 10	งาน	_	NOUN	NN	_	9	compound	_	SpaceAfter=No
 11	โฆษก	_	NOUN	NN	_	9	compound	_	SpaceAfter=No
-12	สหรัฐ	_	PROPN	NN	_	9	compound	_	Proper=True|SpaceAfter=No
+12	สหรัฐ	_	NOUN	NN	_	9	compound	_	Proper=True|SpaceAfter=No
 13	อเมริกา	_	PROPN	NNP	_	9	compound	_	_
 14	หลัง	_	ADP	IN	_	17	mark	_	SpaceAfter=No
 15	จาก	_	ADP	IN	_	14	fixed	_	SpaceAfter=No
@@ -751,7 +751,7 @@
 13	ต่อ	_	VERB	VV	_	12	acl	_	SpaceAfter=No
 14	เรือ	_	NOUN	NN	_	13	obj	_	SpaceAfter=No
 15	ใน	_	ADP	IN	_	16	case	_	SpaceAfter=No
-16	แม่น้ำ	_	PROPN	NN	_	12	nmod	_	Proper=True|SpaceAfter=No
+16	แม่น้ำ	_	NOUN	NN	_	12	nmod	_	Proper=True|SpaceAfter=No
 17	ไคลด์	_	PROPN	NNP	_	16	flat:name	_	SpaceAfter=No
 18	นั้น	_	DET	DT	_	1	det	_	SpaceAfter=No
 19	ทำ	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -906,9 +906,9 @@
 8	ประดิษฐ์	_	VERB	VV	_	7	acl	_	SpaceAfter=No
 9	อย่าง	_	ADP	IN	_	10	case	_	_
 10	Google	_	PROPN	NNP	_	6	nmod	_	_
-11	Assistant	_	PROPN	NN	_	10	flat:name	_	Proper=True
+11	Assistant	_	NOUN	NN	_	10	flat:name	_	Proper=True
 12	หรือ	_	CCONJ	CC	_	13	cc	_	_
-13	Siri	_	PROPN	NN	_	10	conj	_	Proper=True
+13	Siri	_	NOUN	NN	_	10	conj	_	Proper=True
 14	ของ	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	แอปเปิล	_	PROPN	NNP	_	13	nmod:poss	_	_
 
@@ -953,7 +953,7 @@
 1	แต่	_	CCONJ	CC	_	6	cc	_	SpaceAfter=No
 2	บีเอ	_	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
 3	และ	_	CCONJ	CC	_	4	cc	_	SpaceAfter=No
-4	ไอเอจี	_	PROPN	NN	_	2	conj	_	Proper=True|SpaceAfter=No
+4	ไอเอจี	_	NOUN	NN	_	2	conj	_	Proper=True|SpaceAfter=No
 5	อาจ	_	VERB	MD	_	6	aux	_	SpaceAfter=No
 6	ได้	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	คำ	_	NOUN	NN	_	6	obj	_	SpaceAfter=No
@@ -1379,11 +1379,11 @@
 34	อีริค	_	PROPN	NNP	_	42	nsubj	_	_
 35	โซลไฮม์	_	PROPN	NNP	_	34	flat:name	_	_
 36	ประธาน	_	NOUN	NN	_	34	appos	_	SpaceAfter=No
-37	โครงการ	_	PROPN	NN	_	36	compound	_	Proper=True|SpaceAfter=No
-38	สิ่ง	_	PROPN	NN	_	36	compound	_	Proper=True|SpaceAfter=No
+37	โครงการ	_	NOUN	NN	_	36	compound	_	Proper=True|SpaceAfter=No
+38	สิ่ง	_	NOUN	NN	_	36	compound	_	Proper=True|SpaceAfter=No
 39	แวดล้อม	_	ADJ	JJ	_	38	amod	_	Proper=True|SpaceAfter=No
 40	แห่ง	_	ADP	IN	_	41	case	_	Proper=True|SpaceAfter=No
-41	สหประชาชาติ	_	PROPN	NN	_	37	nmod:poss	_	Proper=True|SpaceAfter=No
+41	สหประชาชาติ	_	NOUN	NN	_	37	nmod:poss	_	Proper=True|SpaceAfter=No
 42	กล่าว	_	VERB	VV	_	0	root	_	_
 
 # sent_id = n01022016
@@ -1588,10 +1588,10 @@
 24	เก็บ	_	VERB	VV	_	21	conj	_	SpaceAfter=No
 25	ไว้	_	ADV	RB	_	24	advmod	_	SpaceAfter=No
 26	ใน	_	ADP	IN	_	27	case	_	SpaceAfter=No
-27	สถานี	_	PROPN	NN	_	24	obl	_	Proper=True|SpaceAfter=No
-28	อวกาศ	_	PROPN	NN	_	27	flat:name	_	Proper=True|SpaceAfter=No
+27	สถานี	_	NOUN	NN	_	24	obl	_	Proper=True|SpaceAfter=No
+28	อวกาศ	_	NOUN	NN	_	27	flat:name	_	Proper=True|SpaceAfter=No
 29	นานา	_	ADJ	JJ	_	30	amod	_	Proper=True|SpaceAfter=No
-30	ชาติ	_	PROPN	NN	_	27	flat:name	_	Proper=True|SpaceAfter=No
+30	ชาติ	_	NOUN	NN	_	27	flat:name	_	Proper=True|SpaceAfter=No
 31	ได้	_	VERB	MD	_	24	aux	_	SpaceAfter=No
 32	เป็น	_	AUX	VC	_	33	cop	_	SpaceAfter=No
 33	เวลา	_	NOUN	NN	_	24	acl	_	SpaceAfter=No
@@ -1664,7 +1664,7 @@
 # text = ในประเทศจีน โดยปกติแล้วเส้นผมจะถูกแช่ในสารเคมีเพื่อกำจัดเกล็ดผมออกทั้งหมด ทาร์โลอธิบาย
 # english_text = In China the hair is typically put in a chemical bath to remove the cuticle completely, Tarlo explains.
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
-2	ประเทศ	_	PROPN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
+2	ประเทศ	_	NOUN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
 3	จีน	_	PROPN	NNP	_	2	flat:name	_	_
 4	โดยปกติ	_	ADJ	JJ	_	10	advmod	_	SpaceAfter=No
 5	แล้ว	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
@@ -1952,7 +1952,7 @@
 18	ป้องกัน	_	VERB	VV	_	17	acl	_	SpaceAfter=No
 19	ตัว	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
 20	ใน	_	ADP	IN	_	21	case	_	SpaceAfter=No
-21	นคร	_	PROPN	NN	_	13	obl	_	Proper=True|SpaceAfter=No
+21	นคร	_	NOUN	NN	_	13	obl	_	Proper=True|SpaceAfter=No
 22	หลวง	_	ADJ	JJ	_	21	amod	_	Proper=True|SpaceAfter=No
 23	เบลเกรด	_	PROPN	NNP	_	21	flat:name	_	_
 
@@ -1963,8 +1963,8 @@
 1	โฆษก	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 2	ตำรวจ	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 3	บอก	_	VERB	VV	_	0	root	_	SpaceAfter=No
-4	สำนัก	_	PROPN	NN	_	3	obj	_	Proper=True|SpaceAfter=No
-5	ข่าว	_	PROPN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
+4	สำนัก	_	NOUN	NN	_	3	obj	_	Proper=True|SpaceAfter=No
+5	ข่าว	_	NOUN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
 6	เอพี	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 7	ว่า	_	ADP	IN	_	8	mark	_	SpaceAfter=No
 8	มี	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No
@@ -2115,8 +2115,8 @@
 4	ตาม	_	ADV	RB	_	1	fixed	_	_
 5	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	สมาชิก	_	NOUN	NN	_	5	obj	_	SpaceAfter=No
-7	สภา	_	PROPN	NN	_	6	compound	_	Proper=True|SpaceAfter=No
-8	นิติบัญญัติ	_	PROPN	NN	_	6	compound	_	Proper=True|SpaceAfter=No
+7	สภา	_	NOUN	NN	_	6	compound	_	Proper=True|SpaceAfter=No
+8	นิติบัญญัติ	_	NOUN	NN	_	6	compound	_	Proper=True|SpaceAfter=No
 9	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
 10	มี	_	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No
 11	ความเชื่อ	_	VERB	VV	_	10	obj	_	SpaceAfter=No
@@ -2220,11 +2220,11 @@
 4	รับ	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 5	การรักษา	_	VERB	VV	_	4	obj	_	SpaceAfter=No
 6	ที่	_	ADP	IN	_	7	case	_	SpaceAfter=No
-7	โรง	_	PROPN	NN	_	3	obl	_	Proper=True|SpaceAfter=No
+7	โรง	_	NOUN	NN	_	3	obl	_	Proper=True|SpaceAfter=No
 8	พยาบาล	_	VERB	VV	_	7	acl	_	Proper=True|SpaceAfter=No
 9	แพพเวิร์ท	_	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
 10	และ	_	CCONJ	CC	_	11	cc	_	SpaceAfter=No
-11	โรง	_	PROPN	NN	_	7	conj	_	Proper=True|SpaceAfter=No
+11	โรง	_	NOUN	NN	_	7	conj	_	Proper=True|SpaceAfter=No
 12	พยาบาล	_	VERB	VV	_	11	acl	_	Proper=True|SpaceAfter=No
 13	แอดเดนบรูค	_	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No
@@ -2312,7 +2312,7 @@
 10	ที่	_	NOUN	NN	_	9	compound	_	_
 11	45	_	NUM	CD	_	9	nummod	_	_
 12	ของ	_	ADP	IN	_	13	case	_	SpaceAfter=No
-13	สหรัฐ	_	PROPN	NN	_	8	nmod:poss	_	Proper=True|SpaceAfter=No
+13	สหรัฐ	_	NOUN	NN	_	8	nmod:poss	_	Proper=True|SpaceAfter=No
 14	อเมริกา	_	PROPN	NNP	_	13	flat:name	_	_
 15	ไม่	_	PART	NEG	_	22	mark	_	SpaceAfter=No
 16	ว่า	_	ADP	IN	_	15	fixed	_	SpaceAfter=No
@@ -2368,11 +2368,11 @@
 40	สาว	_	NOUN	NN	_	39	obj	_	SpaceAfter=No
 41	วัยรุ่น	_	NOUN	NN	_	40	compound	_	SpaceAfter=No
 42	ที่	_	ADP	IN	_	43	case	_	SpaceAfter=No
-43	โรง	_	PROPN	NN	_	39	obl	_	Proper=True|SpaceAfter=No
+43	โรง	_	NOUN	NN	_	39	obl	_	Proper=True|SpaceAfter=No
 44	เรียน	_	VERB	VV	_	43	acl	_	Proper=True|SpaceAfter=No
-45	มัธยม	_	PROPN	NN	_	43	flat:name	_	Proper=True|SpaceAfter=No
-46	ปลาย	_	PROPN	NN	_	43	flat:name	_	Proper=True|SpaceAfter=No
-47	แอบบอทส์ฟอร์ด	_	PROPN	NN	_	43	flat:name	_	Proper=True|SpaceAfter=No
+45	มัธยม	_	NOUN	NN	_	43	flat:name	_	Proper=True|SpaceAfter=No
+46	ปลาย	_	NOUN	NN	_	43	flat:name	_	Proper=True|SpaceAfter=No
+47	แอบบอทส์ฟอร์ด	_	NOUN	NN	_	43	flat:name	_	Proper=True|SpaceAfter=No
 48	จน	_	ADP	IN	_	49	mark	_	SpaceAfter=No
 49	ถึงแก่ชีวิต	_	VERB	VV	_	39	advcl	_	_
 
@@ -2434,7 +2434,7 @@
 19	สอง	_	NUM	CD	_	17	nummod	_	SpaceAfter=No
 20	หรือ	_	CCONJ	CC	_	22	cc	_	SpaceAfter=No|ToDo=ex-adp-child
 21	กับ	_	ADP	IN	_	22	case	_	SpaceAfter=No|ToDo=ex-adp-child
-22	เขต	_	PROPN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
+22	เขต	_	NOUN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
 23	แอบบอทส์ฟอร์ด	_	PROPN	NNP	_	22	flat:name	_	SpaceAfter=No
 24	โดยเฉพาะ	_	ADV	RB	_	9	advmod	_	_
 25	เธอ	_	PRON	PRP	Person=3	26	nsubj	_	SpaceAfter=No
@@ -2476,7 +2476,7 @@
 # sent_id = n01036002
 # text = สมาคมที่เป็นตัวแทนนายหน้าอสังหาริมทรัพย์ในออนทาริโอกล่าวว่าต้องมีความพยายามปกป้องผู้บริโภคและลงโทษนายหน้าที่ข้องเกี่ยวกับการประพฤติผิดจรรยาบรรณ
 # english_text = The association that represents real estate agents in Ontario says more needs to be done to protect consumers and punish agents found to have engaged in unethical behaviour.
-1	สมาคม	_	PROPN	NN	_	10	nsubj	_	Proper=True|SpaceAfter=No
+1	สมาคม	_	NOUN	NN	_	10	nsubj	_	Proper=True|SpaceAfter=No
 2	ที่	_	DET	WDT	_	4	nsubj	_	SpaceAfter=No
 3	เป็น	_	AUX	VC	_	4	cop	_	SpaceAfter=No
 4	ตัว	_	NOUN	NN	_	1	acl:relcl	_	SpaceAfter=No
@@ -2519,10 +2519,10 @@
 11	มาก	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
 12	ขึ้น	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
 13	ให้	_	VERB	VV	_	7	acl	_	SpaceAfter=No
-14	สภา	_	PROPN	NN	_	13	obj	_	Proper=True|SpaceAfter=No
-15	อสังหาริมทรัพย์	_	PROPN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
+14	สภา	_	NOUN	NN	_	13	obj	_	Proper=True|SpaceAfter=No
+15	อสังหาริมทรัพย์	_	NOUN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
 16	แห่ง	_	ADP	IN	_	17	case	_	Proper=True|SpaceAfter=No
-17	รัฐ	_	PROPN	NN	_	14	nmod:poss	_	Proper=True|SpaceAfter=No
+17	รัฐ	_	NOUN	NN	_	14	nmod:poss	_	Proper=True|SpaceAfter=No
 18	ออนทาริโอ	_	PROPN	NNP	_	17	flat:name	_	_
 19	(	_	PUNCT	(	_	20	punct	_	SpaceAfter=No
 20	อาร์อีซีโอ	_	PROPN	NNP	_	14	appos	_	SpaceAfter=No
@@ -2617,7 +2617,7 @@
 8	กลุ่ม	_	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 9	ผู้	_	NOUN	NN	_	8	compound	_	SpaceAfter=No
 10	ปล่อย	_	VERB	VV	_	9	acl	_	SpaceAfter=No
-11	มลภาวะ	_	PROPN	NN	_	10	obj	_	Proper=True|SpaceAfter=No
+11	มลภาวะ	_	NOUN	NN	_	10	obj	_	Proper=True|SpaceAfter=No
 12	มาก	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
 13	ราย	_	NOUN	NNB	_	9	clf	_	SpaceAfter=No
 14	ใหม่	_	ADJ	JJ	_	13	amod	_	_
@@ -2809,7 +2809,7 @@
 12	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
 13	กับ	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	ซีบีซี	_	PROPN	NNP	_	12	obl	_	SpaceAfter=No
-15	นิวส์	_	PROPN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
+15	นิวส์	_	NOUN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No
 17	การสัมภาษณ์	_	VERB	VV	_	14	nmod	_	SpaceAfter=No
 18	เมื่อ	_	ADP	IN	_	19	case	_	SpaceAfter=No
@@ -2845,13 +2845,13 @@
 # english_text = The Ontario Independent Police Review Director, Gerry McNeilly, set the terms for his review this week after "alarming questions" were raised about how officers interact with Indigenous peoples.
 1	ผู้	_	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 2	กำกับ	_	VERB	VV	_	1	acl	_	SpaceAfter=No
-3	องค์กร	_	PROPN	NN	_	2	obj	_	Proper=True|SpaceAfter=No
+3	องค์กร	_	NOUN	NN	_	2	obj	_	Proper=True|SpaceAfter=No
 4	ตรวจสอบ	_	VERB	VV	_	3	acl	_	Proper=True|SpaceAfter=No
 5	ความประพฤติ	_	VERB	VV	_	4	obj	_	Proper=True|SpaceAfter=No
 6	ของ	_	ADP	IN	_	7	case	_	Proper=True|SpaceAfter=No
-7	ตำรวจ	_	PROPN	NN	_	5	obl:poss	_	Proper=True|SpaceAfter=No
+7	ตำรวจ	_	NOUN	NN	_	5	obl:poss	_	Proper=True|SpaceAfter=No
 8	อิสระ	_	ADJ	JJ	_	7	amod	_	Proper=True|SpaceAfter=No
-9	รัฐ	_	PROPN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No
+9	รัฐ	_	NOUN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No
 10	ออนทาริโอ	_	PROPN	NNP	_	9	flat:name	_	_
 11	เจอร์รี่	_	PROPN	NNP	_	1	appos	_	_
 12	แมคเนลลี่	_	PROPN	NNP	_	1	flat:name	_	_
@@ -3315,7 +3315,7 @@
 35	ตลาด	_	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 36	อสังหาริมทรัพย์	_	NOUN	NN	_	35	compound	_	SpaceAfter=No
 37	ของ	_	ADP	IN	_	38	case	_	SpaceAfter=No
-38	มหานคร	_	PROPN	NN	_	35	nmod:poss	_	Proper=True|SpaceAfter=No
+38	มหานคร	_	NOUN	NN	_	35	nmod:poss	_	Proper=True|SpaceAfter=No
 39	โทรอนโต	_	PROPN	NNP	_	38	flat:name	_	_
 
 # sent_id = n01049022
@@ -3454,9 +3454,9 @@
 12	เหล็ก	_	NOUN	NN	_	11	compound	_	SpaceAfter=No
 13	โดยรวม	_	VERB	VV	_	11	amod	_	SpaceAfter=No
 14	ต่ำ	_	ADV	RB	_	10	advmod	_	_
-15	ศูนย์	_	PROPN	NN	_	22	nsubj	_	Proper=True|SpaceAfter=No
+15	ศูนย์	_	NOUN	NN	_	22	nsubj	_	Proper=True|SpaceAfter=No
 16	บริการ	_	VERB	VV	_	15	acl	_	Proper=True|SpaceAfter=No
-17	โลหิต	_	PROPN	NN	_	16	obj	_	Proper=True|SpaceAfter=No
+17	โลหิต	_	NOUN	NN	_	16	obj	_	Proper=True|SpaceAfter=No
 18	แคนาดา	_	PROPN	NNP	_	15	flat:name	_	_
 19	(	_	PUNCT	(	_	20	punct	_	SpaceAfter=No
 20	ซีบีเอส	_	PROPN	NNP	_	15	appos	_	SpaceAfter=No
@@ -3873,7 +3873,7 @@
 # text = ที่เมืองฮิลส์โบโรซึ่งอยู่ห่างออกไปจากแชเปิลฮิลล์ มีคนโยนระเบิดเพลิงใส่ที่ทำการพรรคริพับลิกันเมื่อเดือนที่แล้ว
 # english_text = In the town of Hillsborough, just outside Chapel Hill, someone firebombed the Republican Party headquarters last month.
 1	ที่	_	ADP	IN	_	2	case	_	SpaceAfter=No
-2	เมือง	_	PROPN	NN	_	11	obl	_	Proper=True|SpaceAfter=No
+2	เมือง	_	NOUN	NN	_	11	obl	_	Proper=True|SpaceAfter=No
 3	ฮิลส์โบโร	_	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
 4	ซึ่ง	_	DET	WDT	_	5	nsubj	_	SpaceAfter=No
 5	อยู่	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No
@@ -3890,7 +3890,7 @@
 16	ใส่	_	VERB	VV	_	13	acl	_	SpaceAfter=No
 17	ที่	_	NOUN	NN	_	16	obj	_	SpaceAfter=No
 18	ทำการ	_	VERB	VV	_	17	acl	_	SpaceAfter=No
-19	พรรค	_	PROPN	NN	_	17	compound	_	Proper=True|SpaceAfter=No
+19	พรรค	_	NOUN	NN	_	17	compound	_	Proper=True|SpaceAfter=No
 20	ริพับลิกัน	_	PROPN	NNP	_	19	flat:name	_	SpaceAfter=No
 21	เมื่อ	_	ADP	IN	_	22	case	_	SpaceAfter=No
 22	เดือน	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
@@ -3902,7 +3902,7 @@
 1	หลัง	_	ADP	IN	_	7	mark	_	SpaceAfter=No
 2	จาก	_	ADP	IN	_	1	fixed	_	SpaceAfter=No
 3	ที่	_	ADP	IN	_	1	fixed	_	SpaceAfter=No
-4	รัฐ	_	PROPN	NN	_	7	nsubj	_	Proper=True|SpaceAfter=No
+4	รัฐ	_	NOUN	NN	_	7	nsubj	_	Proper=True|SpaceAfter=No
 5	นอร์ธแคโรไลนา	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	ได้	_	PART	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 7	ผ่าน	_	VERB	VV	_	23	advcl	_	SpaceAfter=No
@@ -4079,7 +4079,7 @@
 7	และ	_	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	โรม	_	PROPN	NNP	_	4	conj	_	SpaceAfter=No
 9	กับ	_	CCONJ	CC	_	10	cc	_	SpaceAfter=No
-10	สหรัฐ	_	PROPN	NN	_	8	conj	_	Proper=True|SpaceAfter=No
+10	สหรัฐ	_	NOUN	NN	_	8	conj	_	Proper=True|SpaceAfter=No
 11	มาก	_	ADV	RB	_	1	advmod	_	SpaceAfter=No
 12	กว่า	_	ADP	IN	_	13	case	_	SpaceAfter=No
 13	ความเหมือน	_	VERB	VC	_	11	obl	_	_
@@ -4454,7 +4454,7 @@
 25	การฆ่า	_	VERB	VV	_	22	xcomp	_	SpaceAfter=No
 26	ฟาโรห์	_	NOUN	NN	_	25	obj	_	SpaceAfter=No
 27	เมื่อ	_	ADP	IN	_	31	mark	_	SpaceAfter=No
-28	แม่น้ำ	_	PROPN	NN	_	31	nsubj	_	Proper=True|SpaceAfter=No
+28	แม่น้ำ	_	NOUN	NN	_	31	nsubj	_	Proper=True|SpaceAfter=No
 29	ไนล์	_	PROPN	NNP	_	28	flat:name	_	SpaceAfter=No
 30	ไม่	_	PART	NEG	Polarity=Neg	31	advmod	_	SpaceAfter=No
 31	เอ่อ	_	VERB	VV	_	25	advcl	_	SpaceAfter=No
@@ -4597,14 +4597,14 @@
 13	ต่าง	_	ADJ	JJ	_	12	amod	_	SpaceAfter=No
 14	ๆ	_	SYM	SYM	_	13	dep	_	_
 15	ของ	_	ADP	IN	_	16	case	_	SpaceAfter=No
-16	กระทรวง	_	PROPN	NN	_	12	nmod:poss	_	Proper=True|SpaceAfter=No
-17	กลาโหม	_	PROPN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
+16	กระทรวง	_	NOUN	NN	_	12	nmod:poss	_	Proper=True|SpaceAfter=No
+17	กลาโหม	_	NOUN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
 18	ของ	_	ADP	IN	_	19	case	_	SpaceAfter=No
 19	บริเตน	_	PROPN	NNP	_	16	nmod:poss	_	SpaceAfter=No
 20	ที่	_	DET	WDT	_	21	nsubj	_	SpaceAfter=No
 21	แสดง	_	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 22	สมรภูมิ	_	NOUN	NN	_	21	obj	_	SpaceAfter=No
-23	สงคราม	_	PROPN	NN	_	22	compound	_	Proper=True|SpaceAfter=No
+23	สงคราม	_	NOUN	NN	_	22	compound	_	Proper=True|SpaceAfter=No
 24	เย็น	_	ADJ	JJ	_	23	amod	_	Proper=True|SpaceAfter=No
 25	และ	_	CCONJ	CC	_	26	cc	_	SpaceAfter=No
 26	ใช้	_	VERB	VV	_	21	conj	_	SpaceAfter=No
@@ -4624,8 +4624,8 @@
 5	อยู่	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	ใน	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	พื้นที่	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
-8	สภา	_	PROPN	NN	_	7	compound	_	Proper=True|SpaceAfter=No
-9	เมือง	_	PROPN	NN	_	7	compound	_	Proper=True|SpaceAfter=No
+8	สภา	_	NOUN	NN	_	7	compound	_	Proper=True|SpaceAfter=No
+9	เมือง	_	NOUN	NN	_	7	compound	_	Proper=True|SpaceAfter=No
 10	นอร์ทเคสเตเวน	_	PROPN	NNP	_	7	compound	_	_
 11	ซึ่ง	_	ADP	IN	_	18	mark	_	_
 12	62	_	NUM	CD	_	13	nummod	_	SpaceAfter=No
@@ -4638,7 +4638,7 @@
 19	ให้	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No
 20	ออก	_	VERB	VV	_	19	xcomp	_	SpaceAfter=No
 21	จาก	_	ADP	IN	_	22	case	_	SpaceAfter=No
-22	สหภาพ	_	PROPN	NN	_	20	obl	_	Proper=True|SpaceAfter=No
+22	สหภาพ	_	NOUN	NN	_	20	obl	_	Proper=True|SpaceAfter=No
 23	ยุโรป	_	PROPN	NNP	_	22	flat:name	_	_
 
 # sent_id = n01068038
@@ -4685,9 +4685,9 @@
 # sent_id = n01069006
 # text = พรรคเสรีประชาธิปไตยที่เป็นตัวแทนของเขตชานเมืองอันมั่งมีจนถึงปี 2010 หวังว่าจะได้ที่นั่งคืนด้วยผู้สมัคร ซาราห์ โอลนีย์
 # english_text = The Liberal Democrats, who represented the affluent suburb until 2010, are hoping to snatch it back with their candidate Sarah Olney.
-1	พรรค	_	PROPN	NN	_	18	nsubj	_	Proper=True|SpaceAfter=No
+1	พรรค	_	NOUN	NN	_	18	nsubj	_	Proper=True|SpaceAfter=No
 2	เสรี	_	ADJ	JJ	_	3	amod	_	Proper=True|SpaceAfter=No
-3	ประชาธิปไตย	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+3	ประชาธิปไตย	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 4	ที่	_	DET	WDT	_	6	nsubj	_	SpaceAfter=No
 5	เป็น	_	AUX	VC	_	6	cop	_	SpaceAfter=No
 6	ตัว	_	NOUN	NN	_	1	acl:relcl	_	SpaceAfter=No
@@ -4846,14 +4846,14 @@
 6	สี่	_	NUM	CD	_	7	nummod	_	SpaceAfter=No
 7	ปี	_	NOUN	NNB	_	5	clf	_	SpaceAfter=No
 8	กับ	_	ADP	IN	_	9	case	_	SpaceAfter=No
-9	สถานี	_	PROPN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
-10	วิทยุ	_	PROPN	NN	_	9	flat:name	_	Proper=True|SpaceAfter=No
+9	สถานี	_	NOUN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
+10	วิทยุ	_	NOUN	NN	_	9	flat:name	_	Proper=True|SpaceAfter=No
 11	บีบีซี	_	PROPN	NNP	_	9	flat:name	_	SpaceAfter=No
-12	เวิลด์	_	PROPN	NN	_	11	flat:name	_	Proper=True|SpaceAfter=No
-13	เซอร์วิส	_	PROPN	NN	_	11	flat:name	_	Proper=True|SpaceAfter=No
+12	เวิลด์	_	NOUN	NN	_	11	flat:name	_	Proper=True|SpaceAfter=No
+13	เซอร์วิส	_	NOUN	NN	_	11	flat:name	_	Proper=True|SpaceAfter=No
 14	ที่	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	บุช	_	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
-16	เฮาส์	_	PROPN	NN	_	15	flat:name	_	Proper=True
+16	เฮาส์	_	NOUN	NN	_	15	flat:name	_	Proper=True
 
 # sent_id = n01072012
 # text = เขาทำงานกับบีบีซีมาหนึ่งทศวรรษ
@@ -5077,8 +5077,8 @@
 9	ๆ	_	SYM	SYM	_	8	dep	_	_
 10	นี้	_	PRON	PRD	_	8	advmod	_	SpaceAfter=No
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No
-12	รักบี้	_	PROPN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
-13	แชมเปี้ยนชิป	_	PROPN	NN	_	12	flat:name	_	Proper=True|SpaceAfter=No
+12	รักบี้	_	NOUN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
+13	แชมเปี้ยนชิป	_	NOUN	NN	_	12	flat:name	_	Proper=True|SpaceAfter=No
 14	กำลัง	_	PART	AS	Aspect=Prog	15	aux	_	SpaceAfter=No
 15	เร่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 16	เครื่อง	_	NOUN	NN	_	15	obj	_	_
@@ -5136,7 +5136,7 @@
 24	เบื่อหน่าย	_	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No
 25	สงคราม	_	NOUN	NN	_	24	obj	_	SpaceAfter=No
 26	ใน	_	ADP	IN	_	27	case	_	SpaceAfter=No
-27	สหรัฐ	_	PROPN	NN	_	25	nmod	_	Proper=True|SpaceAfter=No
+27	สหรัฐ	_	NOUN	NN	_	25	nmod	_	Proper=True|SpaceAfter=No
 28	อเมริกา	_	PROPN	NNP	_	27	flat:name	_	_
 
 # sent_id = n01076030
@@ -5201,7 +5201,7 @@
 9	ยุค	_	NOUN	NN	_	8	obl:tmod	_	SpaceAfter=No
 10	ปัจจุบัน	_	NOUN	NN	_	9	obl:tmod	_	SpaceAfter=No
 11	กับ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No
-12	ระบอบ	_	PROPN	NN	_	8	conj	_	Proper=True|SpaceAfter=No
+12	ระบอบ	_	NOUN	NN	_	8	conj	_	Proper=True|SpaceAfter=No
 13	นาซี	_	PROPN	NNP	_	12	flat:name	_	_
 
 # sent_id = n01079015
@@ -5283,19 +5283,19 @@
 14	ระดับ	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
 15	โลก	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
 16	ให้	_	VERB	VV	_	13	xcomp	_	SpaceAfter=No
-17	บริษัท	_	PROPN	NN	_	16	obj	_	Proper=True|SpaceAfter=No
-18	สุขภาพ	_	PROPN	NN	_	17	flat:name	_	Proper=True|SpaceAfter=No
+17	บริษัท	_	NOUN	NN	_	16	obj	_	Proper=True|SpaceAfter=No
+18	สุขภาพ	_	NOUN	NN	_	17	flat:name	_	Proper=True|SpaceAfter=No
 19	และ	_	CCONJ	CC	_	20	cc	_	Proper=True|SpaceAfter=No
-20	โรง	_	PROPN	NN	_	17	conj	_	Proper=True|SpaceAfter=No
+20	โรง	_	NOUN	NN	_	17	conj	_	Proper=True|SpaceAfter=No
 21	พยาบาล	_	VERB	VV	_	20	acl	_	Proper=True|SpaceAfter=No
 22	แห่ง	_	ADP	IN	_	23	case	_	Proper=True|SpaceAfter=No
 23	นิวยอร์ก	_	PROPN	NNP	_	17	nmod:poss	_	SpaceAfter=No
-24	ซิตี้	_	PROPN	NN	_	23	flat:name	_	Proper=True
+24	ซิตี้	_	NOUN	NN	_	23	flat:name	_	Proper=True
 25	และ	_	CCONJ	CC	_	26	cc	_	SpaceAfter=No
 26	ตำแหน่ง	_	NOUN	NN	_	13	conj	_	SpaceAfter=No
 27	ที่	_	ADP	IN	_	28	case	_	SpaceAfter=No
-28	วิทยาลัย	_	PROPN	NN	_	26	nmod	_	Proper=True|SpaceAfter=No
-29	ธุรกิจ	_	PROPN	NN	_	28	flat:name	_	Proper=True|SpaceAfter=No
+28	วิทยาลัย	_	NOUN	NN	_	26	nmod	_	Proper=True|SpaceAfter=No
+29	ธุรกิจ	_	NOUN	NN	_	28	flat:name	_	Proper=True|SpaceAfter=No
 30	ฮาร์วาร์ด	_	PROPN	NNP	_	28	flat:name	_	_
 
 # sent_id = n01080039
@@ -5485,7 +5485,7 @@
 4	กัน	_	PRON	PRP	_	3	advmod	_	_
 5	ลูกค้า	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 6	ของ	_	ADP	IN	_	7	case	_	SpaceAfter=No
-7	ธนาคาร	_	PROPN	NN	_	5	nmod:poss	_	Proper=True|SpaceAfter=No
+7	ธนาคาร	_	NOUN	NN	_	5	nmod:poss	_	Proper=True|SpaceAfter=No
 8	แห่ง	_	ADP	IN	_	9	case	_	Proper=True|SpaceAfter=No
 9	สก็อตแลนด์	_	PROPN	NNP	_	7	nmod:poss	_	_
 10	จะ	_	VERB	MD	_	11	aux	_	SpaceAfter=No
@@ -5504,7 +5504,7 @@
 23	เพิ่ม	_	VERB	VV	_	11	advcl	_	SpaceAfter=No
 24	ตัว	_	NOUN	NN	_	23	obj	_	SpaceAfter=No
 25	เลือก	_	VERB	VV	_	24	acl	_	SpaceAfter=No
-26	แวนเทจ	_	PROPN	NN	_	24	compound	_	Proper=True|SpaceAfter=No
+26	แวนเทจ	_	NOUN	NN	_	24	compound	_	Proper=True|SpaceAfter=No
 27	ฟรี	_	ADJ	JJ	_	26	amod	_	SpaceAfter=No
 28	ใน	_	ADP	IN	_	29	case	_	SpaceAfter=No
 29	บัญชี	_	NOUN	NN	_	23	obl	_	SpaceAfter=No
@@ -5774,8 +5774,8 @@
 22	การออกแบบ	_	VERB	VV	_	21	obj	_	SpaceAfter=No
 23	อัญมณี	_	NOUN	NN	_	22	obj	_	SpaceAfter=No
 24	ที่	_	ADP	IN	_	25	case	_	SpaceAfter=No
-25	วิทยาลัย	_	PROPN	NN	_	21	obl	_	Proper=True|SpaceAfter=No
-26	ศิลปะ	_	PROPN	NN	_	25	flat:name	_	Proper=True|SpaceAfter=No
+25	วิทยาลัย	_	NOUN	NN	_	21	obl	_	Proper=True|SpaceAfter=No
+26	ศิลปะ	_	NOUN	NN	_	25	flat:name	_	Proper=True|SpaceAfter=No
 27	กลาสโกว์	_	PROPN	NNP	_	25	flat:name	_	_
 
 # sent_id = n01087035
@@ -5803,7 +5803,7 @@
 6	สอบ	_	VERB	VV	_	5	acl	_	SpaceAfter=No
 7	จบ	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No
 8	ที่	_	ADP	IN	_	9	case	_	SpaceAfter=No
-9	มหาวิทยาลัย	_	PROPN	NN	_	3	obl	_	Proper=True|SpaceAfter=No
+9	มหาวิทยาลัย	_	NOUN	NN	_	3	obl	_	Proper=True|SpaceAfter=No
 10	นอร์ธแฮมป์ตัน	_	PROPN	NNP	_	9	flat:name	_	SpaceAfter=No
 11	เพื่อ	_	ADP	IN	_	12	mark	_	SpaceAfter=No
 12	หา	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
@@ -6020,9 +6020,9 @@
 # english_text = The RSPB’s stance has also brought it into conflict with many leading conservationists, from the author of the petition, Mark Avery, to the TV presenter Chris Packham.
 1	ท่าที	_	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 2	ของ	_	ADP	IN	_	3	case	_	SpaceAfter=No
-3	สมาคม	_	PROPN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
+3	สมาคม	_	NOUN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
 4	ปกป้อง	_	VERB	VV	_	3	acl	_	Proper=True|SpaceAfter=No
-5	นก	_	PROPN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
+5	นก	_	NOUN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
 6	ใน	_	ADP	IN	_	7	case	_	Proper=True|SpaceAfter=No
 7	พระบรมราชูปถัมภ์	_	NOUN	NN	_	3	nmod:poss	_	SpaceAfter=No
 8	ขัดแย้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -6146,7 +6146,7 @@
 # english_text = “Celtic Sea cod could collapse,” without the proposed limits, one EU official said.
 1	เจ้าหน้าที่	_	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 2	ของ	_	ADP	IN	_	3	case	_	SpaceAfter=No
-3	สหภาพ	_	PROPN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
+3	สหภาพ	_	NOUN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
 4	ยุโรป	_	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No
 5	คน	_	NOUN	NNB	_	1	clf	_	SpaceAfter=No
 6	หนึ่ง	_	NUM	CD	_	5	nummod	_	SpaceAfter=No
@@ -6194,7 +6194,7 @@
 17	ปลา	_	NOUN	NN	_	8	conj	_	SpaceAfter=No
 18	พอลแล็ค	_	NOUN	NN	_	17	compound	_	SpaceAfter=No
 19	ใน	_	ADP	IN	_	20	case	_	SpaceAfter=No
-20	ทะเล	_	PROPN	NN	_	8	nmod	_	Proper=True|SpaceAfter=No
+20	ทะเล	_	NOUN	NN	_	8	nmod	_	Proper=True|SpaceAfter=No
 21	เซลติก	_	PROPN	NNP	_	20	flat:name	_	SpaceAfter=No
 22	และ	_	CCONJ	CC	_	23	cc	_	SpaceAfter=No
 23	ไอริช	_	PROPN	NNP	_	20	conj	_	_
@@ -6427,7 +6427,7 @@
 28	ทุก	_	DET	DT	_	29	det	_	SpaceAfter=No
 29	รัฐ	_	NOUN	NNB	_	26	obj	_	SpaceAfter=No
 30	ใน	_	ADP	IN	_	31	case	_	SpaceAfter=No
-31	สหภาพ	_	PROPN	NN	_	29	nmod	_	Proper=True
+31	สหภาพ	_	NOUN	NN	_	29	nmod	_	Proper=True
 
 # sent_id = n01097041
 # text = ฉันเห็นอยู่บ้าง
@@ -6601,8 +6601,8 @@
 7	การ	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
 8	ที่	_	DET	WDT	_	12	advmod	_	SpaceAfter=No
 9	สมาชิก	_	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
-10	สภา	_	PROPN	NN	_	9	compound	_	Proper=True|SpaceAfter=No
-11	นิติบัญญัติ	_	PROPN	NN	_	9	compound	_	Proper=True|SpaceAfter=No
+10	สภา	_	NOUN	NN	_	9	compound	_	Proper=True|SpaceAfter=No
+11	นิติบัญญัติ	_	NOUN	NN	_	9	compound	_	Proper=True|SpaceAfter=No
 12	ปฏิญาณ	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
 13	ว่า	_	ADP	IN	_	15	mark	_	SpaceAfter=No
 14	จะ	_	VERB	MD	_	15	aux	_	SpaceAfter=No
@@ -6614,8 +6614,8 @@
 20	ส่วน	_	NOUN	NN	_	19	compound	_	SpaceAfter=No
 21	หนึ่ง	_	NUM	CD	_	20	nummod	_	SpaceAfter=No
 22	ของ	_	ADP	IN	_	23	case	_	SpaceAfter=No
-23	สาธารณรัฐ	_	PROPN	NN	_	20	nmod:poss	_	Proper=True|SpaceAfter=No
-24	ประชาชน	_	PROPN	NN	_	23	flat:name	_	Proper=True|SpaceAfter=No
+23	สาธารณรัฐ	_	NOUN	NN	_	20	nmod:poss	_	Proper=True|SpaceAfter=No
+24	ประชาชน	_	NOUN	NN	_	23	flat:name	_	Proper=True|SpaceAfter=No
 25	จีน	_	PROPN	NNP	_	23	flat:name	_	_
 
 # sent_id = n01101012
@@ -6627,8 +6627,8 @@
 4	นำ	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No
 5	โดย	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	สมาชิก	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
-7	สภา	_	PROPN	NN	_	6	compound	_	Proper=True|SpaceAfter=No
-8	นิติบัญญัติ	_	PROPN	NN	_	6	compound	_	Proper=True|SpaceAfter=No
+7	สภา	_	NOUN	NN	_	6	compound	_	Proper=True|SpaceAfter=No
+8	นิติบัญญัติ	_	NOUN	NN	_	6	compound	_	Proper=True|SpaceAfter=No
 9	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
 10	สนับสนุน	_	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No
 11	ปักกิ่ง	_	PROPN	NNP	_	10	obj	_	SpaceAfter=No
@@ -6662,8 +6662,8 @@
 14	ภาวะ	_	NOUN	NN	_	13	obj	_	SpaceAfter=No
 15	อัมพาต	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No
-17	สภา	_	PROPN	NN	_	14	nmod	_	Proper=True|SpaceAfter=No
-18	นิติบัญญัติ	_	PROPN	NN	_	17	flat:name	_	Proper=True|SpaceAfter=No
+17	สภา	_	NOUN	NN	_	14	nmod	_	Proper=True|SpaceAfter=No
+18	นิติบัญญัติ	_	NOUN	NN	_	17	flat:name	_	Proper=True|SpaceAfter=No
 19	ของ	_	ADP	IN	_	20	case	_	SpaceAfter=No
 20	เมือง	_	NOUN	NN	_	17	nmod:poss	_	SpaceAfter=No
 21	ดำเนิน	_	VERB	VV	_	13	xcomp	_	SpaceAfter=No
@@ -6695,7 +6695,7 @@
 4	รายการ	_	NOUN	NN	_	2	obl	_	SpaceAfter=No
 5	แอนดรูว์	_	PROPN	NNP	_	4	appos	_	SpaceAfter=No
 6	มาร์	_	PROPN	NNP	_	5	flat:name	_	SpaceAfter=No
-7	โชว์	_	PROPN	NN	_	5	flat:name	_	Proper=True|SpaceAfter=No
+7	โชว์	_	NOUN	NN	_	5	flat:name	_	Proper=True|SpaceAfter=No
 8	ของ	_	ADP	IN	_	9	case	_	SpaceAfter=No
 9	บีบีซี	_	PROPN	NNP	_	4	nmod:poss	_	SpaceAfter=No
 10	ว่า	_	ADP	IN	_	18	mark	_	_
@@ -6836,7 +6836,7 @@
 4	ด้วย	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
 5	ว่า	_	ADP	IN	_	8	mark	_	SpaceAfter=No
 6	เดวิส	_	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
-7	คัพ	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+7	คัพ	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
 8	มี	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No
 9	ส่วน	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	หรือเปล่า	_	PART	EP	_	8	discourse	_	_
@@ -7146,7 +7146,7 @@
 12	ลูกค้า	_	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 13	ของ	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	อัฟโร่	_	PROPN	NNP	_	12	nmod:poss	_	SpaceAfter=No
-15	เอเนอร์ยี	_	PROPN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
+15	เอเนอร์ยี	_	NOUN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
 16	ก็	_	ADV	RB	_	19	advmod	_	SpaceAfter=No
 17	จะ	_	VERB	MD	_	19	aux	_	SpaceAfter=No
 18	ต้อง	_	VERB	MD	_	19	aux	_	SpaceAfter=No
@@ -7267,12 +7267,12 @@
 19	ใน	_	ADP	IN	_	20	case	_	SpaceAfter=No|ToDo=ex-adp-child
 20	บัญชี	_	NOUN	NN	_	6	conj	_	SpaceAfter=No
 21	ออม	_	VERB	VV	_	20	acl	_	Proper=True|SpaceAfter=No
-22	ทรัพย์	_	PROPN	NN	_	21	obj	_	Proper=True|SpaceAfter=No
+22	ทรัพย์	_	NOUN	NN	_	21	obj	_	Proper=True|SpaceAfter=No
 23	และ	_	CCONJ	CC	_	24	cc	_	Proper=True|SpaceAfter=No
 24	การลง	_	VERB	VV	_	21	conj	_	Proper=True|SpaceAfter=No
-25	ทุน	_	PROPN	NN	_	24	obj	_	Proper=True|SpaceAfter=No
+25	ทุน	_	NOUN	NN	_	24	obj	_	Proper=True|SpaceAfter=No
 26	แห่ง	_	ADP	IN	_	27	case	_	Proper=True|SpaceAfter=No
-27	ชาติ	_	PROPN	NN	_	21	obl:poss	_	Proper=True|SpaceAfter=No
+27	ชาติ	_	NOUN	NN	_	21	obl:poss	_	Proper=True|SpaceAfter=No
 28	บัญชี	_	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 29	อื่น	_	ADJ	JJ	_	28	amod	_	SpaceAfter=No
 30	ๆ	_	SYM	SYM	_	29	dep	_	_
@@ -7311,26 +7311,26 @@
 2	ตาม	_	VERB	VV	_	5	csubj	_	SpaceAfter=No
 3	มา	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No
 4	คือ	_	AUX	VC	_	5	cop	_	SpaceAfter=No
-5	กองทุน	_	PROPN	NN	_	0	root	_	Proper=True|SpaceAfter=No
-6	ผล	_	PROPN	NN	_	5	flat:name	_	Proper=True|SpaceAfter=No
+5	กองทุน	_	NOUN	NN	_	0	root	_	Proper=True|SpaceAfter=No
+6	ผล	_	NOUN	NN	_	5	flat:name	_	Proper=True|SpaceAfter=No
 7	ตอบแทน	_	VERB	VV	_	6	acl	_	Proper=True|SpaceAfter=No
-8	เป้าหมาย	_	PROPN	NN	_	7	obj	_	Proper=True|SpaceAfter=No
+8	เป้าหมาย	_	NOUN	NN	_	7	obj	_	Proper=True|SpaceAfter=No
 9	หลาย	_	DET	DT	_	10	det	_	Proper=True|SpaceAfter=No
 10	กลยุทธ์	_	PROPN	NNB	_	6	flat:name	_	Proper=True|SpaceAfter=No
 11	สำหรับ	_	ADP	IN	_	12	case	_	Proper=True|SpaceAfter=No
-12	นัก	_	PROPN	NN	_	5	nmod	_	Proper=True|SpaceAfter=No|ToDo=nmod
+12	นัก	_	NOUN	NN	_	5	nmod	_	Proper=True|SpaceAfter=No|ToDo=nmod
 13	ลง	_	VERB	VV	_	12	acl	_	Proper=True|SpaceAfter=No
-14	ทุน	_	PROPN	NN	_	13	obj	_	Proper=True|SpaceAfter=No
+14	ทุน	_	NOUN	NN	_	13	obj	_	Proper=True|SpaceAfter=No
 15	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No
-16	กองทุน	_	PROPN	NN	_	5	conj	_	Proper=True|SpaceAfter=No
-17	รายได้	_	PROPN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
-18	เป้าหมาย	_	PROPN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
+16	กองทุน	_	NOUN	NN	_	5	conj	_	Proper=True|SpaceAfter=No
+17	รายได้	_	NOUN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
+18	เป้าหมาย	_	NOUN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
 19	หลาย	_	DET	DT	_	20	det	_	Proper=True|SpaceAfter=No
 20	กลยุทธ์	_	PROPN	NNB	_	16	flat:name	_	Proper=True|SpaceAfter=No
 21	สำหรับ	_	ADP	IN	_	22	case	_	Proper=True|SpaceAfter=No
-22	นัก	_	PROPN	NN	_	16	nmod	_	Proper=True|SpaceAfter=No
+22	นัก	_	NOUN	NN	_	16	nmod	_	Proper=True|SpaceAfter=No
 23	ลง	_	VERB	VV	_	22	acl	_	Proper=True|SpaceAfter=No
-24	ทุน	_	PROPN	NN	_	23	obj	_	Proper=True
+24	ทุน	_	NOUN	NN	_	23	obj	_	Proper=True
 25	ซึ่ง	_	DET	WDT	_	31	advmod	_	SpaceAfter=No
 26	นัก	_	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
 27	ลง	_	VERB	VV	_	26	acl	_	SpaceAfter=No
@@ -8060,8 +8060,8 @@
 4	การย้อนกลับ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No
 6	สู่	_	ADP	IN	_	7	case	_	SpaceAfter=No
-7	ยุค	_	PROPN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
-8	เซเวนตี้ส์	_	PROPN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No
+7	ยุค	_	NOUN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
+8	เซเวนตี้ส์	_	NOUN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No
 9	อีก	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
 10	ต่อไป	_	ADV	RB	_	4	advmod	_	_
 11	แต่	_	CCONJ	CC	_	20	cc	_	_
@@ -8080,9 +8080,9 @@
 # sent_id = n01125016
 # text = เซาท์แบงค์ทาวเวอร์ แลนด์มาร์กของลอนดอนได้ให้นักออกแบบภายใน ราเชล วินแฮมมาเป็นผู้ออกแบบอพาร์ตเมนต์สำหรับจัดแสดง
 # english_text = London’s landmark South Bank Tower commissioned interior designer Rachel Winham to design the show apartment.
-1	เซาท์	_	PROPN	NN	_	8	nsubj	_	Proper=True|SpaceAfter=No
-2	แบงค์	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
-3	ทาวเวอร์	_	PROPN	NN	_	1	flat:name	_	Proper=True
+1	เซาท์	_	NOUN	NN	_	8	nsubj	_	Proper=True|SpaceAfter=No
+2	แบงค์	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+3	ทาวเวอร์	_	NOUN	NN	_	1	flat:name	_	Proper=True
 4	แลนด์มาร์ก	_	NOUN	NN	_	1	appos	_	SpaceAfter=No
 5	ของ	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	ลอนดอน	_	PROPN	NNP	_	4	nmod:poss	_	SpaceAfter=No
@@ -8141,7 +8141,7 @@
 12	ดำเนิน	_	VERB	VV	_	0	root	_	SpaceAfter=No
 13	คดี	_	NOUN	NN	_	12	obj	_	SpaceAfter=No
 14	ที่	_	ADP	IN	_	15	case	_	SpaceAfter=No
-15	ศาล	_	PROPN	NN	_	12	obl	_	Proper=True|SpaceAfter=No
+15	ศาล	_	NOUN	NN	_	12	obl	_	Proper=True|SpaceAfter=No
 16	สูง	_	ADJ	JJ	_	15	amod	_	Proper=True|SpaceAfter=No
 17	ฮ่องกง	_	PROPN	NNP	_	15	flat:name	_	SpaceAfter=No
 18	ใน	_	ADP	IN	_	19	case	_	SpaceAfter=No
@@ -8181,7 +8181,7 @@
 # text = ที่ศาลสูงฮ่องกงสองปีต่อมา จุททิงปรากฏตัวในท่าทีที่สำรวมอย่างมาก
 # english_text = In Hong Kong's High Court, two years later, Jutting appeared largely composed.
 1	ที่	_	ADP	IN	_	2	case	_	SpaceAfter=No
-2	ศาล	_	PROPN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
+2	ศาล	_	NOUN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
 3	สูง	_	ADJ	JJ	_	2	amod	_	Proper=True|SpaceAfter=No
 4	ฮ่องกง	_	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
 5	สอง	_	NUM	CD	_	6	nummod	_	SpaceAfter=No
@@ -8430,7 +8430,7 @@
 20	เป็น	_	AUX	VC	_	21	cop	_	SpaceAfter=No
 21	พิษภัย	_	NOUN	NN	_	4	conj	_	SpaceAfter=No
 22	ต่อ	_	ADP	IN	_	23	case	_	SpaceAfter=No
-23	สหรัฐ	_	PROPN	NN	_	21	nmod	_	Proper=True|ToDo=nmod
+23	สหรัฐ	_	NOUN	NN	_	21	nmod	_	Proper=True|ToDo=nmod
 
 # sent_id = n01131007
 # text = ชาวฟลอริดากว่า 5.7 ล้านคนออกเสียงลงคะแนนแล้วภายหลังการลงคะแนนเสียงล่วงหน้าที่หน่วยเลือกตั้ง 2 อาทิตย์
@@ -8464,7 +8464,7 @@
 1	คะแนน	_	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 2	นำ	_	VERB	VV	_	1	acl	_	SpaceAfter=No
 3	ของ	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	พรรค	_	PROPN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
+4	พรรค	_	NOUN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
 5	รีพับลิกัน	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	จาก	_	ADP	IN	_	8	case	_	SpaceAfter=No
@@ -8483,7 +8483,7 @@
 20	มาก	_	ADJ	JJ	_	19	amod	_	_
 21	และ	_	CCONJ	CC	_	26	cc	_	SpaceAfter=No
 22	ทาง	_	ADP	IN	_	23	case	_	SpaceAfter=No
-23	พรรค	_	PROPN	NN	_	26	obl	_	Proper=True|SpaceAfter=No
+23	พรรค	_	NOUN	NN	_	26	obl	_	Proper=True|SpaceAfter=No
 24	รีพับลิกัน	_	PROPN	NNP	_	23	flat:name	_	SpaceAfter=No
 25	ก็	_	ADV	RB	_	26	advmod	_	SpaceAfter=No
 26	นำ	_	VERB	VV	_	6	conj	_	SpaceAfter=No
@@ -8510,9 +8510,9 @@
 6	ไม่	_	PART	NEG	Polarity=Neg	9	advmod	_	SpaceAfter=No
 7	ใช่	_	AUX	VC	_	9	cop	_	_
 8	"	_	PUNCT	``	_	9	punct	_	SpaceAfter=No
-9	มหาศึก	_	PROPN	NN	_	5	acl	_	Proper=True|SpaceAfter=No
+9	มหาศึก	_	NOUN	NN	_	5	acl	_	Proper=True|SpaceAfter=No
 10	ชิง	_	VERB	VV	_	9	acl	_	Proper=True|SpaceAfter=No
-11	บัลลังก์	_	PROPN	NN	_	10	obj	_	Proper=True|SpaceAfter=No
+11	บัลลังก์	_	NOUN	NN	_	10	obj	_	Proper=True|SpaceAfter=No
 12	"	_	PUNCT	''	_	9	punct	_	_
 
 # sent_id = n01132013
@@ -8539,16 +8539,16 @@
 19	ชื่อ	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
 20	ว่า	_	VERB	VV	_	19	acl	_	_
 21	"	_	PUNCT	``	_	22	punct	_	SpaceAfter=No
-22	สาย	_	PROPN	NN	_	20	obj	_	Proper=True|SpaceAfter=No
-23	ลม	_	PROPN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
+22	สาย	_	NOUN	NN	_	20	obj	_	Proper=True|SpaceAfter=No
+23	ลม	_	NOUN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
 24	แห่ง	_	ADP	IN	_	25	case	_	Proper=True|SpaceAfter=No
-25	เหมันต์	_	PROPN	NN	_	22	nmod:poss	_	Proper=True|SpaceAfter=No
+25	เหมันต์	_	NOUN	NN	_	22	nmod:poss	_	Proper=True|SpaceAfter=No
 26	"	_	PUNCT	''	_	22	punct	_	_
 27	และ	_	CCONJ	CC	_	29	cc	_	_
 28	"	_	PUNCT	``	_	29	punct	_	SpaceAfter=No
 29	ความฝัน	_	VERB	VV	_	22	conj	_	Proper=True|SpaceAfter=No
 30	แห่ง	_	ADP	IN	_	31	case	_	Proper=True|SpaceAfter=No
-31	วสันตฤดู	_	PROPN	NN	_	29	obl:poss	_	Proper=True|SpaceAfter=No
+31	วสันตฤดู	_	NOUN	NN	_	29	obl:poss	_	Proper=True|SpaceAfter=No
 32	"	_	PUNCT	''	_	29	punct	_	_
 
 # sent_id = n01133014
@@ -8606,7 +8606,7 @@
 4	ซื้อขาย	_	VERB	VV	_	3	acl	_	SpaceAfter=No
 5	ล่วงหน้า	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
 6	ของ	_	ADP	IN	_	7	case	_	SpaceAfter=No
-7	สหรัฐ	_	PROPN	NN	_	3	nmod:poss	_	Proper=True|SpaceAfter=No
+7	สหรัฐ	_	NOUN	NN	_	3	nmod:poss	_	Proper=True|SpaceAfter=No
 8	ฯ	_	PUNCT	...	_	7	punct	_	Proper=True
 9	กำลัง	_	PART	AS	Aspect=Prog	10	aux	_	SpaceAfter=No
 10	พุ่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -8638,7 +8638,7 @@
 9	โดย	_	ADP	IN	_	17	mark	_	SpaceAfter=No
 10	พันธบัตร	_	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 11	รัฐบาล	_	NOUN	NN	_	10	compound	_	SpaceAfter=No
-12	สหรัฐ	_	PROPN	NN	_	10	compound	_	Proper=True|SpaceAfter=No
+12	สหรัฐ	_	NOUN	NN	_	10	compound	_	Proper=True|SpaceAfter=No
 13	อเมริกา	_	PROPN	NNP	_	12	flat:name	_	SpaceAfter=No
 14	และ	_	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 15	ออสเตรเลีย	_	PROPN	NNP	_	12	conj	_	SpaceAfter=No
@@ -8683,12 +8683,12 @@
 5	หลัง	_	ADP	IN	_	15	mark	_	SpaceAfter=No
 6	จาก	_	ADP	IN	_	5	fixed	_	SpaceAfter=No
 7	ที่	_	ADP	IN	_	5	fixed	_	SpaceAfter=No
-8	สํานัก	_	PROPN	NN	_	15	nsubj	_	Proper=True|SpaceAfter=No
-9	งาน	_	PROPN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
+8	สํานัก	_	NOUN	NN	_	15	nsubj	_	Proper=True|SpaceAfter=No
+9	งาน	_	NOUN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
 10	ปกป้อง	_	VERB	VV	_	8	acl	_	Proper=True|SpaceAfter=No
-11	สิ่ง	_	PROPN	NN	_	10	obj	_	Proper=True|SpaceAfter=No
+11	สิ่ง	_	NOUN	NN	_	10	obj	_	Proper=True|SpaceAfter=No
 12	แวดล้อม	_	ADJ	JJ	_	11	amod	_	Proper=True|SpaceAfter=No
-13	สหรัฐ	_	PROPN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
+13	สหรัฐ	_	NOUN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
 14	อเมริกา	_	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 15	กล่าว	_	VERB	VV	_	4	advcl	_	SpaceAfter=No
 16	เตือน	_	VERB	VV	_	15	xcomp	_	SpaceAfter=No
@@ -8724,7 +8724,7 @@
 21	จึง	_	ADV	RB	_	22	advmod	_	SpaceAfter=No
 22	ชอบ	_	VERB	VV	_	16	ccomp	_	SpaceAfter=No
 23	ยัม	_	ADJ	JJ	_	24	amod	_	Proper=True|SpaceAfter=No
-24	แบรนด์ส	_	PROPN	NN	_	22	obj	_	Proper=True
+24	แบรนด์ส	_	NOUN	NN	_	22	obj	_	Proper=True
 25	บริษัท	_	NOUN	NN	_	24	appos	_	SpaceAfter=No
 26	แม่	_	NOUN	NN	_	25	compound	_	SpaceAfter=No
 27	ของ	_	ADP	IN	_	28	case	_	SpaceAfter=No
@@ -8736,9 +8736,9 @@
 1	ด้วย	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ความช่วยเหลือ	_	VERB	VV	_	11	obl	_	SpaceAfter=No
 3	จาก	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	สหภาพ	_	PROPN	NN	_	2	obl	_	Proper=True|SpaceAfter=No
-5	เสรีภาพ	_	PROPN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
-6	พลเมือง	_	PROPN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
+4	สหภาพ	_	NOUN	NN	_	2	obl	_	Proper=True|SpaceAfter=No
+5	เสรีภาพ	_	NOUN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
+6	พลเมือง	_	NOUN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
 7	อเมริกัน	_	PROPN	NNP	_	4	flat:name	_	_
 8	พวก	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 9	เขา	_	PRON	PRP	Person=3	8	compound	_	SpaceAfter=No
@@ -8752,10 +8752,10 @@
 17	ขึ้น	_	VERB	VV	_	11	advcl	_	SpaceAfter=No
 18	ไป	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No
 19	ถึง	_	ADP	IN	_	20	case	_	SpaceAfter=No
-20	ศาล	_	PROPN	NN	_	17	obl	_	Proper=True|SpaceAfter=No
+20	ศาล	_	NOUN	NN	_	17	obl	_	Proper=True|SpaceAfter=No
 21	สูง	_	ADJ	JJ	_	20	amod	_	Proper=True|SpaceAfter=No
 22	สุด	_	ADV	RB	_	21	advmod	_	Proper=True|SpaceAfter=No
-23	สหรัฐ	_	PROPN	NN	_	20	flat:name	_	Proper=True
+23	สหรัฐ	_	NOUN	NN	_	20	flat:name	_	Proper=True
 
 # sent_id = n01136006
 # text = ตามที่หนังบอกไว้ชัดเจน คู่สามีภรรยาเลิฟวิง โดยเฉพาะริชาร์ด เป็นผู้เข้าร่วมที่ลังเลในประวัติศาสตร์
@@ -8836,8 +8836,8 @@
 15	ตัว	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
 16	ละคร	_	NOUN	NN	_	15	compound	_	_
 17	"	_	PUNCT	``	_	18	punct	_	SpaceAfter=No
-18	สเตรนเจอร์	_	PROPN	NN	_	15	compound	_	Proper=True|SpaceAfter=No
-19	ธิงส์	_	PROPN	NN	_	18	flat:name	_	Proper=True|SpaceAfter=No
+18	สเตรนเจอร์	_	NOUN	NN	_	15	compound	_	Proper=True|SpaceAfter=No
+19	ธิงส์	_	NOUN	NN	_	18	flat:name	_	Proper=True|SpaceAfter=No
 20	"	_	PUNCT	''	_	18	punct	_	_
 21	ใน	_	ADP	IN	_	22	case	_	SpaceAfter=No
 22	วัน	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
@@ -8928,7 +8928,7 @@
 8	"	_	PUNCT	``	_	11	punct	_	SpaceAfter=No
 9	เดอะ	_	DET	DT	_	11	det	_	Proper=True|SpaceAfter=No
 10	ทอล์กกิ้ง	_	ADJ	JJ	_	11	amod	_	Proper=True|SpaceAfter=No
-11	เดด	_	PROPN	NN	_	6	appos	_	Proper=True|SpaceAfter=No
+11	เดด	_	NOUN	NN	_	6	appos	_	Proper=True|SpaceAfter=No
 12	"	_	PUNCT	''	_	11	punct	_	_
 13	ต่อ	_	VERB	VV	_	5	xcomp	_	SpaceAfter=No
 14	ท้าย	_	NOUN	NN	_	13	obj	_	_
@@ -9194,8 +9194,8 @@
 # sent_id = n01143003
 # text = สำนักข่าวบริสเบนไนน์รายงานว่าทั้งคู่ได้ทำอะไรแผลงๆ จนได้ไปแข่งทัวร์นาเมนต์กอล์ฟในเกาหลีเหนือได้
 # english_text = "Pair prank their way into North Korean golf tournament," read Brisbane's Nine News.
-1	สำนัก	_	PROPN	NN	_	5	nsubj	_	Proper=True|SpaceAfter=No
-2	ข่าว	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+1	สำนัก	_	NOUN	NN	_	5	nsubj	_	Proper=True|SpaceAfter=No
+2	ข่าว	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 3	บริสเบน	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 4	ไนน์	_	NUM	CD	_	3	nummod	_	Proper=True|SpaceAfter=No
 5	รายงาน	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -9378,8 +9378,8 @@
 8	จะ	_	VERB	MD	_	9	aux	_	SpaceAfter=No
 9	แข่ง	_	VERB	VV	_	6	ccomp	_	SpaceAfter=No
 10	กับ	_	ADP	IN	_	11	case	_	SpaceAfter=No
-11	งาน	_	PROPN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
-12	คาร์นิวัล	_	PROPN	NN	_	11	flat:name	_	Proper=True|SpaceAfter=No
+11	งาน	_	NOUN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
+12	คาร์นิวัล	_	NOUN	NN	_	11	flat:name	_	Proper=True|SpaceAfter=No
 13	ของ	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	บราซิล	_	PROPN	NNP	_	11	nmod:poss	_	SpaceAfter=No
 15	ใน	_	ADP	IN	_	16	case	_	SpaceAfter=No
@@ -9517,8 +9517,8 @@
 # english_text = The Yas Marina Circuit website has exact timings.
 1	เว็บไซต์	_	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 2	ยาส	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No
-3	มาริน่า	_	PROPN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
-4	เซอร์กิต	_	PROPN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
+3	มาริน่า	_	NOUN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
+4	เซอร์กิต	_	NOUN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
 5	มา	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	ได้	_	VERB	VV	_	5	acl	_	SpaceAfter=No
 7	เวลา	_	NOUN	NN	_	6	obj	_	SpaceAfter=No
@@ -9562,7 +9562,7 @@
 9	สมัย	_	NOUN	NN	_	6	obl:tmod	_	SpaceAfter=No
 10	ใหม่	_	ADJ	JJ	_	9	amod	_	_
 11	อย่าง	_	ADP	IN	_	12	case	_	SpaceAfter=No
-12	ตึก	_	PROPN	NN	_	6	nmod	_	Proper=True|SpaceAfter=No
+12	ตึก	_	NOUN	NN	_	6	nmod	_	Proper=True|SpaceAfter=No
 13	มหานคร	_	PROPN	NNP	_	12	flat:name	_	SpaceAfter=No
 14	ที่	_	DET	WDT	_	17	nsubj	_	SpaceAfter=No
 15	ดู	_	AUX	VV	_	17	cop	_	SpaceAfter=No
@@ -9592,9 +9592,9 @@
 # sent_id = n01149002
 # text = รถไฟใต้ดินเปียงยางเป็นหนึ่งในระบบขนส่งที่ลึกที่สุดในโลก โดยอยู่ลึกลงไปถึง 100 เมตร (328 ฟุต) ใต้ดิน
 # english_text = Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.
-1	รถไฟ	_	PROPN	NN	_	6	nsubj	_	Proper=True|SpaceAfter=No
+1	รถไฟ	_	NOUN	NN	_	6	nsubj	_	Proper=True|SpaceAfter=No
 2	ใต้	_	ADP	IN	_	3	case	_	Proper=True|SpaceAfter=No
-3	ดิน	_	PROPN	NN	_	1	nmod	_	Proper=True|SpaceAfter=No
+3	ดิน	_	NOUN	NN	_	1	nmod	_	Proper=True|SpaceAfter=No
 4	เปียงยาง	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 5	เป็น	_	AUX	VC	_	6	cop	_	SpaceAfter=No
 6	หนึ่ง	_	NUM	CD	_	0	root	_	SpaceAfter=No
@@ -9628,7 +9628,7 @@
 2	เล่า	_	VERB	VV	_	0	root	_	SpaceAfter=No
 3	ให้	_	VERB	VV	_	2	xcomp	_	SpaceAfter=No
 4	ซีเอ็นเอ็น	_	PROPN	NNP	_	3	obj	_	SpaceAfter=No
-5	สไตล์	_	PROPN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
+5	สไตล์	_	NOUN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
 6	ฟัง	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 7	ถึง	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	ประสบการณ์	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
@@ -9824,10 +9824,10 @@
 # sent_id = w01002075
 # text = กีฬามหาวิทยาลัยโลกฤดูหนาว 2019 จะจัดขึ้นที่ครัสโนยาสค์
 # english_text = The 2019 Winter Universiade will be hosted by Krasnoyarsk.
-1	กีฬา	_	PROPN	NN	_	8	obj	_	Proper=True|SpaceAfter=No
-2	มหาวิทยาลัย	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
-3	โลก	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
-4	ฤดู	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+1	กีฬา	_	NOUN	NN	_	8	obj	_	Proper=True|SpaceAfter=No
+2	มหาวิทยาลัย	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+3	โลก	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+4	ฤดู	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 5	หนาว	_	ADJ	JJ	_	4	amod	_	Proper=True
 6	2019	_	NUM	CD	_	1	obl:tmod	_	Proper=True
 7	จะ	_	VERB	MD	_	8	aux	_	SpaceAfter=No
@@ -9841,16 +9841,16 @@
 # english_text = Examples are the Line Islands in the Pacific and the Maldives in the Indian Ocean.
 1	ตัวอย่าง	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 2	คือ	_	AUX	VC	_	3	cop	_	SpaceAfter=No
-3	หมู่	_	PROPN	NN	_	0	root	_	Proper=True|SpaceAfter=No
-4	เกาะ	_	PROPN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
+3	หมู่	_	NOUN	NN	_	0	root	_	Proper=True|SpaceAfter=No
+4	เกาะ	_	NOUN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
 5	ไลน์	_	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No
 6	ใน	_	ADP	IN	_	7	case	_	SpaceAfter=No
-7	มหาสมุทร	_	PROPN	NN	_	3	nmod	_	Proper=True|SpaceAfter=No|ToDo=nmod
+7	มหาสมุทร	_	NOUN	NN	_	3	nmod	_	Proper=True|SpaceAfter=No|ToDo=nmod
 8	แปซิฟิก	_	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
 9	และ	_	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	มัลดีฟส์	_	PROPN	NNP	_	3	conj	_	SpaceAfter=No
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No
-12	มหาสมุทร	_	PROPN	NN	_	10	nmod	_	Proper=True|SpaceAfter=No
+12	มหาสมุทร	_	NOUN	NN	_	10	nmod	_	Proper=True|SpaceAfter=No
 13	อินเดีย	_	PROPN	NNP	_	12	flat:name	_	_
 
 # sent_id = w01003056
@@ -9870,7 +9870,7 @@
 12	ภูเขา	_	NOUN	NN	_	11	compound	_	SpaceAfter=No
 13	ไฟ	_	NOUN	NN	_	11	compound	_	SpaceAfter=No
 14	อย่าง	_	ADP	IN	_	15	case	_	SpaceAfter=No
-15	เซนต์	_	PROPN	NN	_	11	nmod	_	Proper=True|SpaceAfter=No
+15	เซนต์	_	NOUN	NN	_	11	nmod	_	Proper=True|SpaceAfter=No
 16	เฮเลน่า	_	PROPN	NNP	_	15	appos	_	_
 
 # sent_id = w01003062
@@ -9897,7 +9897,7 @@
 # sent_id = w01004051
 # text = นครรัฐกรีกเอเธนส์ในศตวรรษที่ 5 ก่อนคริสตศักราช ซึ่งอาศัยการนำเข้าธัญพืชจากไซเธีย ได้รักษาพันธมิตรที่สำคัญยิ่งกับเหล่านครรัฐที่ควบคุมช่องแคบ เช่น อาณานิคมเมกาเรียนแห่งไบแซนเทียม
 # english_text = The Greek city-state of Athens in the 5th century BC, which was dependent on grain imports from Scythia, maintained critical alliances with cities which controlled the straits, such as the Megarian colony Byzantium.
-1	นครรัฐ	_	PROPN	NN	_	18	nsubj	_	Proper=True|SpaceAfter=No
+1	นครรัฐ	_	NOUN	NN	_	18	nsubj	_	Proper=True|SpaceAfter=No
 2	กรีก	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	เอเธนส์	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 4	ใน	_	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -9947,7 +9947,7 @@
 10	หน้าที่	_	NOUN	NN	_	9	obj	_	SpaceAfter=No
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	การพิชิต	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No
-13	คาบสมุทร	_	PROPN	NN	_	12	obj	_	Proper=True|SpaceAfter=No
+13	คาบสมุทร	_	NOUN	NN	_	12	obj	_	Proper=True|SpaceAfter=No
 14	บอลข่าน	_	PROPN	NNP	_	13	flat:name	_	_
 
 # sent_id = w01005021
@@ -9985,7 +9985,7 @@
 9	คริสตกาล	_	NOUN	NN	_	4	nmod	_	_
 10	กษัตริย์	_	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 11	อามินทาส	_	PROPN	NNP	_	10	appos	_	SpaceAfter=No
-12	ที่	_	PROPN	NN	_	10	flat:name	_	Proper=True
+12	ที่	_	NOUN	NN	_	10	flat:name	_	Proper=True
 13	1	_	NUM	CD	_	12	nummod	_	Proper=True
 14	แห่ง	_	ADP	IN	_	15	case	_	Proper=True|SpaceAfter=No
 15	มาซิโดเนีย	_	PROPN	NNP	_	10	nmod:poss	_	SpaceAfter=No
@@ -9993,7 +9993,7 @@
 17	ยอมรับ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 18	การปกครอง	_	VERB	VV	_	17	obj	_	SpaceAfter=No
 19	ของ	_	ADP	IN	_	20	case	_	SpaceAfter=No
-20	ราชวงศ์	_	PROPN	NN	_	18	obl:poss	_	Proper=True|SpaceAfter=No
+20	ราชวงศ์	_	NOUN	NN	_	18	obl:poss	_	Proper=True|SpaceAfter=No
 21	อะคีเมนิด	_	PROPN	NNP	_	20	flat:name	_	SpaceAfter=No
 22	และ	_	CCONJ	CC	_	23	cc	_	SpaceAfter=No
 23	ยอม	_	VERB	VV	_	17	conj	_	SpaceAfter=No
@@ -10001,7 +10001,7 @@
 25	เป็น	_	AUX	VC	_	26	cop	_	SpaceAfter=No
 26	ประเทศราช	_	NOUN	NN	_	24	xcomp	_	SpaceAfter=No
 27	ของ	_	ADP	IN	_	28	case	_	SpaceAfter=No
-28	จักรวรรดิ	_	PROPN	NN	_	26	nmod:poss	_	Proper=True|SpaceAfter=No
+28	จักรวรรดิ	_	NOUN	NN	_	26	nmod:poss	_	Proper=True|SpaceAfter=No
 29	เปอร์เชีย	_	PROPN	NNP	_	28	flat:name	_	SpaceAfter=No
 30	อะคีเมนิด	_	PROPN	NNP	_	28	flat:name	_	_
 
@@ -10052,7 +10052,7 @@
 6	แรก	_	ADJ	JJ	_	5	amod	_	_
 7	(	_	PUNCT	(	_	8	punct	_	SpaceAfter=No
 8	อธินา	_	PROPN	NNP	_	3	appos	_	SpaceAfter=No
-9	ฟิล์ม	_	PROPN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
+9	ฟิล์ม	_	NOUN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
 10	)	_	PUNCT	)	_	8	punct	_	_
 11	ได้	_	PART	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
 12	ก่อตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -10063,9 +10063,9 @@
 17	1916	_	NUM	CD	_	16	appos	_	_
 18	ก็	_	ADV	RB	_	20	advmod	_	SpaceAfter=No
 19	เป็น	_	AUX	VC	_	20	cop	_	SpaceAfter=No
-20	บริษัท	_	PROPN	NN	_	12	conj	_	Proper=True|SpaceAfter=No
+20	บริษัท	_	NOUN	NN	_	12	conj	_	Proper=True|SpaceAfter=No
 21	แอสตี้	_	PROPN	NNP	_	20	flat:name	_	SpaceAfter=No
-22	ฟิล์ม	_	PROPN	NN	_	21	flat:name	_	Proper=True
+22	ฟิล์ม	_	NOUN	NN	_	21	flat:name	_	Proper=True
 
 # sent_id = w01006081
 # text = ในปี 2007 ภาพยนตร์ที่ประสบความสำเร็จมากที่สุดคือ เอล เกรโค กำกับโดยยานนิส สมาแรกดิส
@@ -10096,7 +10096,7 @@
 4	ของ	_	ADP	IN	_	5	case	_	SpaceAfter=No
 5	ปี	_	NOUN	NN	_	2	nmod:poss	_	_
 6	1918	_	NUM	CD	_	5	appos	_	_
-7	สนธิสัญญา	_	PROPN	NN	_	12	nsubj	_	Proper=True|SpaceAfter=No
+7	สนธิสัญญา	_	NOUN	NN	_	12	nsubj	_	Proper=True|SpaceAfter=No
 8	ฝรั่งเศส	_	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
 9	-	_	PUNCT	-	_	10	punct	_	Proper=True|SpaceAfter=No
 10	โมนาโก	_	PROPN	NNP	_	8	conj	_	SpaceAfter=No
@@ -10129,9 +10129,9 @@
 11	เป็น	_	AUX	VC	_	12	cop	_	SpaceAfter=No
 12	ประธาน	_	NOUN	NN	_	7	acl:relcl	_	SpaceAfter=No
 13	ของ	_	ADP	IN	_	14	case	_	SpaceAfter=No
-14	สภา	_	PROPN	NN	_	12	nmod:poss	_	Proper=True|SpaceAfter=No
+14	สภา	_	NOUN	NN	_	12	nmod:poss	_	Proper=True|SpaceAfter=No
 15	แห่ง	_	ADP	IN	_	16	case	_	Proper=True|SpaceAfter=No
-16	รัฐ	_	PROPN	NN	_	14	nmod:poss	_	Proper=True
+16	รัฐ	_	NOUN	NN	_	14	nmod:poss	_	Proper=True
 17	5	_	NUM	CD	_	18	nummod	_	_
 18	คน	_	NOUN	NNB	_	14	clf	_	_
 
@@ -10162,7 +10162,7 @@
 6	ไป	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No
 7	ถึง	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	การขยาย	_	VERB	VV	_	5	xcomp	_	SpaceAfter=No
-9	เขต	_	PROPN	NN	_	8	obj	_	Proper=True|SpaceAfter=No
+9	เขต	_	NOUN	NN	_	8	obj	_	Proper=True|SpaceAfter=No
 10	ฟองต์วิแอล	_	PROPN	NNP	_	9	flat:name	_	_
 
 # sent_id = w01008043
@@ -10270,13 +10270,13 @@
 # text = ชนเผ่าเจอร์แมนิกหลายกลุ่มและชนเผ่าสลาฟกลุ่มหลักๆ เดินทางผ่านโมราเวียในช่วงอพยพก่อนที่พวกสลาฟจะสถาปนาตนเองในคริสต์ศตวรรษที่ 6
 # english_text = A variety of Germanic and major Slavic tribes crossed through Moravia during the Migration Period before Slavs established themselves in the 6th century AD.
 1	ชน	_	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
-2	เผ่า	_	PROPN	NN	_	1	compound	_	Proper=True|SpaceAfter=No
+2	เผ่า	_	NOUN	NN	_	1	compound	_	Proper=True|SpaceAfter=No
 3	เจอร์แมนิก	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No
 4	หลาย	_	DET	DT	_	5	det	_	SpaceAfter=No
 5	กลุ่ม	_	NOUN	NNB	_	1	clf	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	ชน	_	NOUN	NN	_	1	conj	_	SpaceAfter=No
-8	เผ่า	_	PROPN	NN	_	7	compound	_	Proper=True|SpaceAfter=No
+8	เผ่า	_	NOUN	NN	_	7	compound	_	Proper=True|SpaceAfter=No
 9	สลาฟ	_	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 10	กลุ่ม	_	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 11	หลัก	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
@@ -10307,7 +10307,7 @@
 3	ศตวรรษ	_	NOUN	NN	_	2	obl:tmod	_	SpaceAfter=No
 4	ที่	_	NOUN	NN	_	3	compound	_	_
 5	8	_	NUM	CD	_	4	nummod	_	_
-6	ราชรัฐ	_	PROPN	NN	_	9	nsubj	_	Proper=True|SpaceAfter=No
+6	ราชรัฐ	_	NOUN	NN	_	9	nsubj	_	Proper=True|SpaceAfter=No
 7	โมราเวีย	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	ได้	_	PART	AS	Aspect=Perf	9	aux	_	SpaceAfter=No
 9	กลาย	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -10332,7 +10332,7 @@
 28	บาง	_	DET	DT	_	29	det	_	SpaceAfter=No
 29	ส่วน	_	NOUN	NNB	_	12	conj	_	SpaceAfter=No
 30	ของ	_	ADP	IN	_	31	case	_	SpaceAfter=No
-31	รัฐ	_	PROPN	NN	_	29	nmod:poss	_	Proper=True|SpaceAfter=No
+31	รัฐ	_	NOUN	NN	_	29	nmod:poss	_	Proper=True|SpaceAfter=No
 32	โลเวอร์ออสเตรีย	_	PROPN	NNP	_	31	flat:name	_	SpaceAfter=No
 33	ใน	_	ADP	IN	_	34	case	_	SpaceAfter=No
 34	ปัจจุบัน	_	NOUN	NN	_	31	nmod	_	_
@@ -10347,11 +10347,11 @@
 5	ก็	_	ADV	RB	_	8	advmod	_	SpaceAfter=No
 6	ได้	_	PART	AS	Aspect=Perf	8	aux	_	SpaceAfter=No
 7	เป็น	_	AUX	VC	_	8	cop	_	SpaceAfter=No
-8	รัฐ	_	PROPN	NN	_	0	root	_	Proper=True|SpaceAfter=No
+8	รัฐ	_	NOUN	NN	_	0	root	_	Proper=True|SpaceAfter=No
 9	เกรตโมราเวียใหญ่	_	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No
 10	พร้อม	_	VERB	VV	_	8	acl	_	SpaceAfter=No
 11	การพิชิต	_	VERB	VV	_	10	obj	_	SpaceAfter=No
-12	ราชรัฐ	_	PROPN	NN	_	11	obj	_	Proper=True|SpaceAfter=No
+12	ราชรัฐ	_	NOUN	NN	_	11	obj	_	Proper=True|SpaceAfter=No
 13	ไนตรา	_	PROPN	NNP	_	12	flat:name	_	_
 14	(	_	PUNCT	(	_	15	punct	_	SpaceAfter=No
 15	สโลวาเกีย	_	PROPN	NNP	_	12	appos	_	SpaceAfter=No
@@ -10366,9 +10366,9 @@
 2	พระองค์	_	NOUN	NNB	_	1	clf	_	SpaceAfter=No
 3	แรก	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No
 4	คือ	_	AUX	VC	_	5	cop	_	_
-5	พระเจ้า	_	PROPN	NN	_	0	root	_	Proper=True|SpaceAfter=No
+5	พระเจ้า	_	NOUN	NN	_	0	root	_	Proper=True|SpaceAfter=No
 6	มอจเมียร์	_	PROPN	NNP	_	5	appos	_	SpaceAfter=No
-7	ที่	_	PROPN	NN	_	5	flat:name	_	Proper=True
+7	ที่	_	NOUN	NN	_	5	flat:name	_	Proper=True
 8	1	_	NUM	CD	_	7	nummod	_	Proper=True
 9	(	_	PUNCT	(	_	10	punct	_	SpaceAfter=No
 10	ครอง	_	VERB	VV	_	5	acl	_	SpaceAfter=No
@@ -10382,18 +10382,18 @@
 # sent_id = w01010048
 # text = พระเจ้าหลุยส์ชาวเยอรมันรุกรานโมราเวียและทรงปลดพระเจ้ามอจเมียร์ที่ 1 ออก แล้วทรงแต่งตั้งราสทิซผู้เป็นพระนัดดาขึ้นแทนซึ่งต่อมาเป็นนักบุญราสทิสลาฟ
 # english_text = Louis the German invaded Moravia and replaced Mojmír I with his nephew Rastiz who became St. Rastislav.
-1	พระเจ้า	_	PROPN	NN	_	5	nsubj	_	Proper=True|SpaceAfter=No
+1	พระเจ้า	_	NOUN	NN	_	5	nsubj	_	Proper=True|SpaceAfter=No
 2	หลุยส์	_	PROPN	NNP	_	1	appos	_	SpaceAfter=No
-3	ชาว	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+3	ชาว	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 4	เยอรมัน	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 5	รุกราน	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	โมราเวีย	_	PROPN	NNP	_	5	obj	_	SpaceAfter=No
 7	และ	_	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 8	ทรง	_	VERB	MD	_	9	aux	_	SpaceAfter=No
 9	ปลด	_	VERB	VV	_	5	conj	_	SpaceAfter=No
-10	พระเจ้า	_	PROPN	NN	_	9	obj	_	Proper=True|SpaceAfter=No
+10	พระเจ้า	_	NOUN	NN	_	9	obj	_	Proper=True|SpaceAfter=No
 11	มอจเมียร์	_	PROPN	NNP	_	10	appos	_	SpaceAfter=No
-12	ที่	_	PROPN	NN	_	10	flat:name	_	Proper=True
+12	ที่	_	NOUN	NN	_	10	flat:name	_	Proper=True
 13	1	_	NUM	CD	_	12	nummod	_	Proper=True
 14	ออก	_	PART	RP	_	9	compound:prt	_	_
 15	แล้ว	_	ADP	IN	_	17	mark	_	SpaceAfter=No
@@ -10516,7 +10516,7 @@
 14	ภาษา	_	NOUN	NN	_	11	conj	_	SpaceAfter=No
 15	ถิ่น	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
 16	ซามิ	_	PROPN	NNP	_	14	compound	_	SpaceAfter=No
-17	เหนือ	_	PROPN	NN	_	14	compound	_	Proper=True
+17	เหนือ	_	NOUN	NN	_	14	compound	_	Proper=True
 18	แต่	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 19	ไม่	_	PART	NEG	Polarity=Neg	20	advmod	_	SpaceAfter=No
 20	พบ	_	VERB	VV	_	7	conj	_	SpaceAfter=No
@@ -10524,7 +10524,7 @@
 22	ภาษา	_	NOUN	NN	_	20	obl	_	SpaceAfter=No
 23	ถิ่น	_	NOUN	NN	_	22	compound	_	SpaceAfter=No
 24	ซามิ	_	PROPN	NNP	_	22	compound	_	SpaceAfter=No
-25	ใต้	_	PROPN	NN	_	22	compound	_	Proper=True|SpaceAfter=No
+25	ใต้	_	NOUN	NN	_	22	compound	_	Proper=True|SpaceAfter=No
 26	ซึ่ง	_	DET	WDT	_	27	nsubj	_	SpaceAfter=No
 27	มี	_	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
 28	ประวัติศาสตร์	_	NOUN	NN	_	27	obj	_	SpaceAfter=No
@@ -10622,9 +10622,9 @@
 14	จีน	_	PROPN	NNP	_	11	obl:poss	_	SpaceAfter=No
 15	สำหรับ	_	ADP	IN	_	16	case	_	SpaceAfter=No
 16	โอลิมปิก	_	PROPN	NNP	_	11	obl	_	SpaceAfter=No
-17	ฤดู	_	PROPN	NN	_	16	obl:tmod	_	Proper=True|SpaceAfter=No
+17	ฤดู	_	NOUN	NN	_	16	obl:tmod	_	Proper=True|SpaceAfter=No
 18	ร้อน	_	ADJ	JJ	_	17	amod	_	Proper=True|SpaceAfter=No
-19	ปี	_	PROPN	NN	_	16	obl:tmod	_	Proper=True
+19	ปี	_	NOUN	NN	_	16	obl:tmod	_	Proper=True
 20	2008	_	NUM	CD	_	19	appos	_	Proper=True
 
 # sent_id = w01017004
@@ -10635,12 +10635,12 @@
 3	ที่	_	NOUN	NN	_	0	root	_	SpaceAfter=No
 4	ตั้ง	_	VERB	VV	_	3	acl	_	SpaceAfter=No
 5	ของ	_	ADP	IN	_	6	case	_	SpaceAfter=No
-6	ยอด	_	PROPN	NN	_	3	nmod:poss	_	Proper=True|SpaceAfter=No
-7	เขา	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+6	ยอด	_	NOUN	NN	_	3	nmod:poss	_	Proper=True|SpaceAfter=No
+7	เขา	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
 8	คิลิมันจาโร	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 9	และ	_	CCONJ	CC	_	10	cc	_	SpaceAfter=No
-10	ยอด	_	PROPN	NN	_	6	conj	_	Proper=True|SpaceAfter=No
-11	เขา	_	PROPN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
+10	ยอด	_	NOUN	NN	_	6	conj	_	Proper=True|SpaceAfter=No
+11	เขา	_	NOUN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
 12	เคนยา	_	PROPN	NNP	_	10	flat:name	_	_
 13	สอง	_	NUM	CD	_	14	nummod	_	SpaceAfter=No
 14	ยอด	_	NOUN	NNB	_	6	clf	_	SpaceAfter=No
@@ -10678,7 +10678,7 @@
 3	ยัง	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
 4	ได้	_	PART	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
 5	เผยแผ่	_	VERB	VV	_	0	root	_	SpaceAfter=No
-6	ศาสนา	_	PROPN	NN	_	5	obj	_	Proper=True|SpaceAfter=No
+6	ศาสนา	_	NOUN	NN	_	5	obj	_	Proper=True|SpaceAfter=No
 7	อิสลาม	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	ไป	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No
 9	ยัง	_	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -10686,14 +10686,14 @@
 11	ชาย	_	NOUN	NN	_	10	compound	_	SpaceAfter=No
 12	ฝั่ง	_	NOUN	NN	_	10	compound	_	_
 13	แต่	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No
-14	เผ่า	_	PROPN	NN	_	20	nsubj	_	Proper=True|SpaceAfter=No
+14	เผ่า	_	NOUN	NN	_	20	nsubj	_	Proper=True|SpaceAfter=No
 15	บันตู	_	PROPN	NNP	_	14	flat:name	_	SpaceAfter=No
 16	ส่วน	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
 17	มาก	_	ADJ	JJ	_	16	amod	_	SpaceAfter=No
 18	ไม่	_	PART	NEG	Polarity=Neg	19	advmod	_	SpaceAfter=No
 19	เคย	_	PART	AS	Aspect=Perf	20	aux	_	SpaceAfter=No
 20	สัมผัส	_	VERB	VV	_	5	conj	_	SpaceAfter=No
-21	ศาสนา	_	PROPN	NN	_	20	obj	_	Proper=True|SpaceAfter=No
+21	ศาสนา	_	NOUN	NN	_	20	obj	_	Proper=True|SpaceAfter=No
 22	อิสลาม	_	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No
 23	และ	_	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 24	ยังคง	_	PART	AS	Aspect=Prog	25	aux	_	SpaceAfter=No
@@ -10759,8 +10759,8 @@
 17	เพื่อ	_	ADP	IN	_	18	mark	_	SpaceAfter=No
 18	จัดตั้ง	_	VERB	VV	_	11	advcl	_	SpaceAfter=No
 19	เป็น	_	AUX	VC	_	20	cop	_	SpaceAfter=No
-20	สหพันธ์	_	PROPN	NN	_	18	xcomp	_	Proper=True|SpaceAfter=No
-21	สาธารณรัฐ	_	PROPN	NN	_	20	flat:name	_	Proper=True|SpaceAfter=No
+20	สหพันธ์	_	NOUN	NN	_	18	xcomp	_	Proper=True|SpaceAfter=No
+21	สาธารณรัฐ	_	NOUN	NN	_	20	flat:name	_	Proper=True|SpaceAfter=No
 22	แคเมอรูน	_	PROPN	NNP	_	20	flat:name	_	_
 
 # sent_id = w01018101
@@ -10769,8 +10769,8 @@
 1	ข้อ	_	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 2	ค้นพบ	_	VERB	VV	_	1	acl	_	SpaceAfter=No
 3	ของ	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	กรม	_	PROPN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
-5	แรงงาน	_	PROPN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
+4	กรม	_	NOUN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
+5	แรงงาน	_	NOUN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
 6	เกี่ยว	_	VERB	VV	_	8	case	_	SpaceAfter=No
 7	กับ	_	ADP	IN	_	6	fixed	_	SpaceAfter=No
 8	รูปแบบ	_	NOUN	NN	_	1	nmod	_	SpaceAfter=No
@@ -10824,8 +10824,8 @@
 6	กับ	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	ภูมิอากาศ	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 8	ของ	_	ADP	IN	_	9	case	_	SpaceAfter=No
-9	ทะเล	_	PROPN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
-10	ทราย	_	PROPN	NN	_	9	flat:name	_	Proper=True|SpaceAfter=No
+9	ทะเล	_	NOUN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
+10	ทราย	_	NOUN	NN	_	9	flat:name	_	Proper=True|SpaceAfter=No
 11	ซาฮาร่า	_	PROPN	NNP	_	9	flat:name	_	SpaceAfter=No
 12	ที่	_	DET	WDT	_	13	nsubj	_	SpaceAfter=No
 13	อยู่	_	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
@@ -10966,7 +10966,7 @@
 11	ยุค	_	NOUN	NN	_	7	nmod	_	SpaceAfter=No|ToDo=nmod
 12	คลาสสิก	_	ADJ	JJ	_	11	amod	_	SpaceAfter=No
 13	คือ	_	AUX	VC	_	14	cop	_	SpaceAfter=No
-14	นครรัฐ	_	PROPN	NN	_	0	root	_	Proper=True|SpaceAfter=No
+14	นครรัฐ	_	NOUN	NN	_	0	root	_	Proper=True|SpaceAfter=No
 15	กรีก	_	PROPN	NNP	_	14	flat:name	_	SpaceAfter=No
 16	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 17	ฟีนิเชียน	_	PROPN	NNP	_	14	conj	_	_
@@ -10989,15 +10989,15 @@
 2	ภาย	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
 3	หลัง	_	ADJ	JJ	_	2	amod	_	_
 4	เมื่อ	_	ADP	IN	_	7	mark	_	SpaceAfter=No
-5	พระเจ้า	_	PROPN	NN	_	7	nsubj	_	Proper=True|SpaceAfter=No
+5	พระเจ้า	_	NOUN	NN	_	7	nsubj	_	Proper=True|SpaceAfter=No
 6	ออกุสตุส	_	PROPN	NNP	_	5	appos	_	SpaceAfter=No
 7	ก่อตั้ง	_	VERB	VV	_	12	advcl	_	SpaceAfter=No
-8	จักรวรรดิ	_	PROPN	NN	_	7	obj	_	Proper=True|SpaceAfter=No
+8	จักรวรรดิ	_	NOUN	NN	_	7	obj	_	Proper=True|SpaceAfter=No
 9	โรมัน	_	PROPN	NNP	_	8	flat:name	_	_
 10	ชาว	_	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 11	โรมัน	_	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 12	เรียก	_	VERB	VV	_	0	root	_	SpaceAfter=No
-13	ทะเล	_	PROPN	NN	_	12	obj	_	Proper=True|SpaceAfter=No
+13	ทะเล	_	NOUN	NN	_	12	obj	_	Proper=True|SpaceAfter=No
 14	เมดิเตอร์เรเนียน	_	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 15	ว่า	_	VERB	VV	_	12	xcomp	_	_
 16	มาเร	_	PROPN	NNP	_	15	obj	_	_
@@ -11278,8 +11278,8 @@
 3	ที่	_	DET	WDT	_	4	obj	_	SpaceAfter=No
 4	ขนส่ง	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No
 5	ตาม	_	ADP	IN	_	6	case	_	SpaceAfter=No
-6	ลำ	_	PROPN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
-7	น้ำ	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+6	ลำ	_	NOUN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
+7	น้ำ	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
 8	ดานูบ	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 9	เพิ่ม	_	VERB	VV	_	0	root	_	SpaceAfter=No
 10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No
@@ -11301,8 +11301,8 @@
 4	ของ	_	ADP	IN	_	6	case	_	SpaceAfter=No
 5	สาม	_	NUM	CD	_	6	nummod	_	Proper=True|SpaceAfter=No
 6	เหลี่ยม	_	PROPN	NNB	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
-7	ปาก	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
-8	แม่น้ำ	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+7	ปาก	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+8	แม่น้ำ	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
 9	ดานูบ	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 10	อยู่	_	VERB	VV	_	0	root	_	SpaceAfter=No
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No
@@ -11396,13 +11396,13 @@
 4	มา	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No
 5	ก่อน	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
 6	คือ	_	AUX	VC	_	7	cop	_	SpaceAfter=No
-7	แม่น้ำ	_	PROPN	NN	_	0	root	_	Proper=True|SpaceAfter=No
+7	แม่น้ำ	_	NOUN	NN	_	0	root	_	Proper=True|SpaceAfter=No
 8	โอไฮโอ	_	PROPN	NNP	_	7	flat:name	_	_
 9	ซึ่ง	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
 10	ไหล	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
 11	ลง	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No
 12	สู่	_	ADP	IN	_	13	case	_	SpaceAfter=No
-13	แม่น้ำ	_	PROPN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
+13	แม่น้ำ	_	NOUN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
 14	มิสซิสซิปปี	_	PROPN	NNP	_	13	flat:name	_	_
 
 # sent_id = w01028050
@@ -11419,7 +11419,7 @@
 9	จะ	_	VERB	MD	_	10	aux	_	SpaceAfter=No
 10	เข้า	_	VERB	VV	_	7	ccomp	_	SpaceAfter=No
 11	ร่วม	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No
-12	สหภาพ	_	PROPN	NN	_	11	obj	_	Proper=True|SpaceAfter=No
+12	สหภาพ	_	NOUN	NN	_	11	obj	_	Proper=True|SpaceAfter=No
 13	ใน	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	ฐานะ	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 15	รัฐ	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
@@ -11519,16 +11519,16 @@
 19	ปาล์ม	_	NOUN	NN	_	18	compound	_	SpaceAfter=No
 20	ใน	_	ADP	IN	_	21	case	_	SpaceAfter=No
 21	พิธี	_	NOUN	NN	_	13	obl	_	SpaceAfter=No
-22	วัน	_	PROPN	NN	_	21	obl:tmod	_	Proper=True|SpaceAfter=No
-23	อาทิตย์	_	PROPN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
-24	ใบ	_	PROPN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
-25	ปาล์ม	_	PROPN	NN	_	22	flat:name	_	Proper=True
+22	วัน	_	NOUN	NN	_	21	obl:tmod	_	Proper=True|SpaceAfter=No
+23	อาทิตย์	_	NOUN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
+24	ใบ	_	NOUN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
+25	ปาล์ม	_	NOUN	NN	_	22	flat:name	_	Proper=True
 
 # sent_id = w01030092
 # text = เทือกเขาแอลป์ผลิตน้ำดื่ม การชลประทาน และไฟฟ้าพลังน้ำให้แก่ที่ลุ่มยุโรป
 # english_text = The Alps provide lowland Europe with drinking water, irrigation, and hydroelectric power.
-1	เทือก	_	PROPN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
-2	เขา	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+1	เทือก	_	NOUN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
+2	เขา	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 3	แอลป์	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 4	ผลิต	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	น้ำ	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
@@ -11560,8 +11560,8 @@
 11	ดิน	_	NOUN	NN	_	10	compound	_	SpaceAfter=No
 12	ใน	_	ADP	IN	_	13	case	_	SpaceAfter=No
 13	ยุโรป	_	PROPN	NNP	_	10	nmod	_	_
-14	เทือก	_	PROPN	NN	_	17	nsubj	_	Proper=True|SpaceAfter=No
-15	เขา	_	PROPN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
+14	เทือก	_	NOUN	NN	_	17	nsubj	_	Proper=True|SpaceAfter=No
+15	เขา	_	NOUN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
 16	แอลป์	_	PROPN	NNP	_	14	flat:name	_	SpaceAfter=No
 17	ให้	_	VERB	VV	_	0	root	_	SpaceAfter=No
 18	น้ำ	_	NOUN	NN	_	17	obj	_	SpaceAfter=No
@@ -11606,8 +11606,8 @@
 15	ที่	_	DET	WDT	_	16	nsubj	_	SpaceAfter=No
 16	ไหล	_	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
 17	จาก	_	ADP	IN	_	18	case	_	SpaceAfter=No
-18	เทือก	_	PROPN	NN	_	16	obl	_	Proper=True|SpaceAfter=No
-19	เขา	_	PROPN	NN	_	18	flat:name	_	Proper=True|SpaceAfter=No
+18	เทือก	_	NOUN	NN	_	16	obl	_	Proper=True|SpaceAfter=No
+19	เขา	_	NOUN	NN	_	18	flat:name	_	Proper=True|SpaceAfter=No
 20	แอลป์	_	PROPN	NNP	_	18	flat:name	_	_
 
 # sent_id = w01030095
@@ -11648,24 +11648,24 @@
 8	จาก	_	ADP	IN	_	9	case	_	SpaceAfter=No
 9	สวิตเซอร์แลนด์	_	PROPN	NNP	_	7	obl	_	_
 10	เช่น	_	ADP	IN	_	11	case	_	_
-11	แม่น้ำ	_	PROPN	NN	_	1	nmod	_	Proper=True|SpaceAfter=No
+11	แม่น้ำ	_	NOUN	NN	_	1	nmod	_	Proper=True|SpaceAfter=No
 12	ไรน์	_	PROPN	NNP	_	11	flat:name	_	_
-13	แม่น้ำ	_	PROPN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
+13	แม่น้ำ	_	NOUN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
 14	โรห์น	_	PROPN	NNP	_	13	flat:name	_	_
-15	แม่น้ำ	_	PROPN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
+15	แม่น้ำ	_	NOUN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
 16	อินน์	_	PROPN	NNP	_	15	flat:name	_	_
-17	แม่น้ำ	_	PROPN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
+17	แม่น้ำ	_	NOUN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
 18	ติชิโน	_	PROPN	NNP	_	17	flat:name	_	_
 19	และ	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No
-20	แม่น้ำ	_	PROPN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
+20	แม่น้ำ	_	NOUN	NN	_	11	conj	_	Proper=True|SpaceAfter=No
 21	โป	_	PROPN	NNP	_	20	flat:name	_	_
 22	ล้วน	_	ADV	RB	_	23	advmod	_	SpaceAfter=No
 23	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
 24	ต้น	_	NOUN	NN	_	23	obj	_	SpaceAfter=No
 25	น้ำ	_	NOUN	NN	_	24	compound	_	SpaceAfter=No
 26	จาก	_	ADP	IN	_	27	case	_	SpaceAfter=No
-27	เทือก	_	PROPN	NN	_	24	nmod	_	Proper=True|SpaceAfter=No
-28	เขา	_	PROPN	NN	_	27	flat:name	_	Proper=True|SpaceAfter=No
+27	เทือก	_	NOUN	NN	_	24	nmod	_	Proper=True|SpaceAfter=No
+28	เขา	_	NOUN	NN	_	27	flat:name	_	Proper=True|SpaceAfter=No
 29	แอลป์	_	PROPN	NNP	_	27	flat:name	_	SpaceAfter=No
 30	แล้ว	_	ADP	IN	_	31	mark	_	SpaceAfter=No
 31	ไหล	_	VERB	VV	_	23	advcl	_	SpaceAfter=No
@@ -11677,14 +11677,14 @@
 37	ไหล	_	VERB	VV	_	31	acl	_	SpaceAfter=No
 38	ลง	_	PART	RP	_	37	compound:prt	_	SpaceAfter=No
 39	สู่	_	ADP	IN	_	40	case	_	SpaceAfter=No
-40	ทะเล	_	PROPN	NN	_	37	obl	_	Proper=True|SpaceAfter=No
+40	ทะเล	_	NOUN	NN	_	37	obl	_	Proper=True|SpaceAfter=No
 41	เหนือ	_	PROPN	NNP	_	40	flat:name	_	_
-42	ทะเล	_	PROPN	NN	_	40	conj	_	Proper=True|SpaceAfter=No
+42	ทะเล	_	NOUN	NN	_	40	conj	_	Proper=True|SpaceAfter=No
 43	เมดิเตอร์เรเนียน	_	PROPN	NNP	_	42	flat:name	_	_
-44	ทะเล	_	PROPN	NN	_	40	conj	_	Proper=True|SpaceAfter=No
+44	ทะเล	_	NOUN	NN	_	40	conj	_	Proper=True|SpaceAfter=No
 45	เอเดรียติก	_	PROPN	NNP	_	44	flat:name	_	_
 46	และ	_	CCONJ	CC	_	47	cc	_	SpaceAfter=No
-47	ทะเล	_	PROPN	NN	_	40	conj	_	Proper=True|SpaceAfter=No
+47	ทะเล	_	NOUN	NN	_	40	conj	_	Proper=True|SpaceAfter=No
 48	ดำ	_	PROPN	NNP	_	47	flat:name	_	_
 
 # sent_id = w01031003
@@ -12080,7 +12080,7 @@
 3	ล่อง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	เรือ	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ข้าม	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
-6	มหาสมุทร	_	PROPN	NN	_	5	obj	_	Proper=True|SpaceAfter=No
+6	มหาสมุทร	_	NOUN	NN	_	5	obj	_	Proper=True|SpaceAfter=No
 7	แอตแลนติก	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	ไป	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No
 9	ยัง	_	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -12221,7 +12221,7 @@
 # text = เมื่อเมืองบริสเบนขยายตัว สภาพของแม่น้ำก็แย่ลงถึงที่สุดจนไม่ต่างไปจากท่อระบายน้ำแบบเปิดและที่ทิ้งขยะ
 # english_text = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
 1	เมื่อ	_	ADP	IN	_	4	mark	_	SpaceAfter=No
-2	เมือง	_	PROPN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
+2	เมือง	_	NOUN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
 3	บริสเบน	_	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
 4	ขยาย	_	VERB	VV	_	10	advcl	_	SpaceAfter=No
 5	ตัว	_	NOUN	NN	_	4	obj	_	_
@@ -12257,9 +12257,9 @@
 4	ให้	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 5	เป็น	_	AUX	VC	_	7	cop	_	_
 6	"	_	PUNCT	``	_	7	punct	_	SpaceAfter=No
-7	ปี	_	PROPN	NN	_	4	xcomp	_	Proper=True|SpaceAfter=No
+7	ปี	_	NOUN	NN	_	4	xcomp	_	Proper=True|SpaceAfter=No
 8	แห่ง	_	ADP	IN	_	9	case	_	Proper=True|SpaceAfter=No
-9	แม่น้ำ	_	PROPN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
+9	แม่น้ำ	_	NOUN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
 10	"	_	PUNCT	''	_	7	punct	_	_
 11	โดย	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	แซลลีแอนน์	_	PROPN	NNP	_	3	obl	_	_
@@ -12403,7 +12403,7 @@
 3	ก็	_	ADV	RB	_	1	fixed	_	SpaceAfter=No
 4	ตาม	_	ADV	RB	_	1	fixed	_	_
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No
-6	ประเทศ	_	PROPN	NN	_	12	obl	_	Proper=True|SpaceAfter=No
+6	ประเทศ	_	NOUN	NN	_	12	obl	_	Proper=True|SpaceAfter=No
 7	ไทย	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	การกลาย	_	VERB	VV	_	12	csubj	_	SpaceAfter=No
 9	เป็น	_	AUX	VC	_	10	cop	_	SpaceAfter=No
@@ -12474,7 +12474,7 @@
 2	เดียว	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	กัน	_	PRON	PRP	_	2	advmod	_	_
 4	การควบคุม	_	VERB	VV	_	9	csubj	_	SpaceAfter=No
-5	แม่น้ำ	_	PROPN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
+5	แม่น้ำ	_	NOUN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
 6	ไนล์	_	PROPN	NNP	_	5	flat:name	_	SpaceAfter=No
 7	เพิ่มเติม	_	VERB	VV	_	4	acl	_	SpaceAfter=No
 8	ได้	_	PART	AS	Aspect=Perf	9	aux	_	SpaceAfter=No
@@ -12482,7 +12482,7 @@
 10	การพัฒนา	_	VERB	VV	_	9	obj	_	SpaceAfter=No
 11	ภาย	_	NOUN	NN	_	13	case	_	SpaceAfter=No
 12	ใน	_	ADP	IN	_	11	fixed	_	SpaceAfter=No
-13	เกาะ	_	PROPN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
+13	เกาะ	_	NOUN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
 14	เกซีรา	_	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 15	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No|ToDo=ex-adp-child
 16	ตาม	_	ADP	IN	_	17	case	_	SpaceAfter=No|ToDo=ex-adp-child
@@ -12587,7 +12587,7 @@
 28	นี้	_	DET	DT	_	26	det	_	SpaceAfter=No
 29	เอง	_	PRON	PRP	_	26	compound	_	Proper=True
 30	"	_	PUNCT	``	_	31	punct	_	SpaceAfter=No
-31	ทะเล	_	PROPN	NN	_	36	nsubj	_	Proper=True|SpaceAfter=No
+31	ทะเล	_	NOUN	NN	_	36	nsubj	_	Proper=True|SpaceAfter=No
 32	แอนทิลลิส	_	PROPN	NNP	_	31	flat:name	_	SpaceAfter=No
 33	"	_	PUNCT	''	_	31	punct	_	_
 34	จึง	_	ADV	RB	_	36	advmod	_	SpaceAfter=No
@@ -12601,7 +12601,7 @@
 42	หนึ่ง	_	NUM	CD	_	41	nummod	_	SpaceAfter=No
 43	ของ	_	ADP	IN	_	45	case	_	_
 44	"	_	PUNCT	``	_	45	punct	_	SpaceAfter=No
-45	ทะเล	_	PROPN	NN	_	38	nmod:poss	_	Proper=True|SpaceAfter=No
+45	ทะเล	_	NOUN	NN	_	38	nmod:poss	_	Proper=True|SpaceAfter=No
 46	แคริบเบียน	_	PROPN	NNP	_	45	flat:name	_	SpaceAfter=No
 47	"	_	PUNCT	''	_	45	punct	_	_
 48	ใน	_	ADP	IN	_	49	case	_	SpaceAfter=No
@@ -12643,7 +12643,7 @@
 8	ที่	_	DET	WDT	_	9	nsubj	_	SpaceAfter=No
 9	มา	_	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No
 10	ยัง	_	ADP	IN	_	11	case	_	SpaceAfter=No
-11	ภูมิภาค	_	PROPN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
+11	ภูมิภาค	_	NOUN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
 12	แคริบเบียน	_	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No
 13	กำหนด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 14	ให้	_	VERB	VV	_	13	xcomp	_	_
@@ -12651,14 +12651,14 @@
 16	ทะเลใต้	_	PROPN	NNP	_	14	obj	_	SpaceAfter=No
 17	"	_	PUNCT	''	_	16	punct	_	_
 18	(	_	PUNCT	(	_	19	punct	_	SpaceAfter=No
-19	มหาสมุทร	_	PROPN	NN	_	16	appos	_	Proper=True|SpaceAfter=No
+19	มหาสมุทร	_	NOUN	NN	_	16	appos	_	Proper=True|SpaceAfter=No
 20	แปซิฟิก	_	PROPN	NNP	_	19	flat:name	_	SpaceAfter=No
 21	จน	_	ADP	IN	_	23	case	_	SpaceAfter=No
 22	ถึง	_	ADP	IN	_	21	fixed	_	SpaceAfter=No
 23	ด้าน	_	NOUN	NN	_	19	nmod	_	SpaceAfter=No
 24	ใต้	_	NOUN	NN	_	23	compound	_	SpaceAfter=No
 25	ของ	_	ADP	IN	_	26	case	_	SpaceAfter=No
-26	คอ	_	PROPN	NN	_	23	nmod:poss	_	Proper=True|SpaceAfter=No
+26	คอ	_	NOUN	NN	_	23	nmod:poss	_	Proper=True|SpaceAfter=No
 27	คอด	_	VERB	VV	_	26	acl	_	Proper=True|SpaceAfter=No
 28	ปานามา	_	PROPN	NNP	_	26	flat:name	_	SpaceAfter=No
 29	)	_	PUNCT	)	_	19	punct	_	_
@@ -12668,7 +12668,7 @@
 33	ทะเลเหนือ	_	PROPN	NNP	_	30	obl	_	SpaceAfter=No
 34	"	_	PUNCT	''	_	33	punct	_	_
 35	(	_	PUNCT	(	_	36	punct	_	SpaceAfter=No
-36	ทะเล	_	PROPN	NN	_	33	appos	_	Proper=True|SpaceAfter=No
+36	ทะเล	_	NOUN	NN	_	33	appos	_	Proper=True|SpaceAfter=No
 37	แคริบเบียน	_	PROPN	NNP	_	36	flat:name	_	SpaceAfter=No
 38	จน	_	ADP	IN	_	40	case	_	SpaceAfter=No
 39	ถึง	_	ADP	IN	_	38	fixed	_	SpaceAfter=No
@@ -12689,7 +12689,7 @@
 3	ยูเรเชีย	_	PROPN	NNP	_	1	nmod	_	SpaceAfter=No
 4	ไม่	_	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No
 5	รู้จัก	_	VERB	VV	_	0	root	_	SpaceAfter=No
-6	ทะเล	_	PROPN	NN	_	5	obj	_	Proper=True|SpaceAfter=No
+6	ทะเล	_	NOUN	NN	_	5	obj	_	Proper=True|SpaceAfter=No
 7	แคริบเบียน	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	จน	_	ADP	IN	_	10	case	_	SpaceAfter=No
 9	กระทั่ง	_	ADP	IN	_	8	fixed	_	SpaceAfter=No
@@ -12747,7 +12747,7 @@
 3	ของ	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	เคปทาวน์	_	PROPN	NNP	_	1	nmod:poss	_	SpaceAfter=No
 5	คือ	_	AUX	VC	_	6	cop	_	SpaceAfter=No
-6	นคร	_	PROPN	NN	_	0	root	_	Proper=True|SpaceAfter=No
+6	นคร	_	NOUN	NN	_	0	root	_	Proper=True|SpaceAfter=No
 7	เคปทาวน์	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	ซึ่ง	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
 9	เป็น	_	AUX	VC	_	10	cop	_	SpaceAfter=No
@@ -12765,7 +12765,7 @@
 6	ชื่อ	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
 7	ว่า	_	VERB	VV	_	6	acl	_	SpaceAfter=No
 8	ใต้	_	ADP	IN	_	9	case	_	Proper=True|SpaceAfter=No
-9	สมุทร	_	PROPN	NN	_	7	obl	_	Proper=True
+9	สมุทร	_	NOUN	NN	_	7	obl	_	Proper=True
 10	เป็น	_	AUX	VC	_	11	cop	_	SpaceAfter=No
 11	บท	_	NOUN	NN	_	0	root	_	SpaceAfter=No
 12	บรรยาย	_	VERB	VV	_	11	acl	_	SpaceAfter=No
@@ -12857,7 +12857,7 @@
 9	อุตสาหกรรม	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 10	เคมี	_	NOUN	NN	_	9	compound	_	SpaceAfter=No
 11	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No
-12	ล็อบบี้ยิสต์	_	PROPN	NN	_	9	conj	_	Proper=True|SpaceAfter=No
+12	ล็อบบี้ยิสต์	_	NOUN	NN	_	9	conj	_	Proper=True|SpaceAfter=No
 13	รวม	_	VERB	VV	_	15	cc	_	SpaceAfter=No
 14	ถึง	_	ADP	IN	_	13	fixed	_	SpaceAfter=No
 15	ประชาชน	_	NOUN	NN	_	9	conj	_	SpaceAfter=No
@@ -12886,7 +12886,7 @@
 15	รัฐบาล	_	NOUN	NN	_	14	obj	_	SpaceAfter=No
 16	โครยอ	_	PROPN	NNP	_	15	compound	_	SpaceAfter=No
 17	เมื่อ	_	ADP	IN	_	20	mark	_	SpaceAfter=No
-18	ราชวงศ์	_	PROPN	NN	_	20	nsubj	_	Proper=True|SpaceAfter=No
+18	ราชวงศ์	_	NOUN	NN	_	20	nsubj	_	Proper=True|SpaceAfter=No
 19	หยวน	_	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No
 20	เริ่ม	_	VERB	VV	_	10	advcl	_	SpaceAfter=No
 21	ล่มสลาย	_	VERB	VV	_	20	xcomp	_	_
@@ -12937,9 +12937,9 @@
 # sent_id = w01049066
 # text = ราชอุทยานแห่งชาติของออสเตรเลียซึ่งก่อตั้งขึ้นในปี 1879 เป็นอุทยานแห่งชาติที่ก่อตั้งขึ้นอย่างเป็นทางการแห่งที่สองของโลก
 # english_text = Australia's Royal National Park, established in 1879, was the world's second officially established national park.
-1	ราชอุทยาน	_	PROPN	NN	_	13	nsubj	_	Proper=True|SpaceAfter=No
+1	ราชอุทยาน	_	NOUN	NN	_	13	nsubj	_	Proper=True|SpaceAfter=No
 2	แห่ง	_	ADP	IN	_	3	case	_	Proper=True|SpaceAfter=No
-3	ชาติ	_	PROPN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
+3	ชาติ	_	NOUN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
 4	ของ	_	ADP	IN	_	5	case	_	SpaceAfter=No
 5	ออสเตรเลีย	_	PROPN	NNP	_	1	nmod:poss	_	SpaceAfter=No
 6	ซึ่ง	_	DET	WDT	_	7	obj	_	SpaceAfter=No
@@ -13000,14 +13000,14 @@
 4	การนำ	_	VERB	VV	_	1	nmod	_	SpaceAfter=No
 5	ของ	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	โบกด์	_	PROPN	NNP	_	4	obl:poss	_	SpaceAfter=No
-7	ข่าน	_	PROPN	NN	_	6	appos	_	Proper=True|SpaceAfter=No
+7	ข่าน	_	NOUN	NN	_	6	appos	_	Proper=True|SpaceAfter=No
 8	ได้	_	PART	AS	Aspect=Perf	9	aux	_	SpaceAfter=No
 9	ประกาศ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 10	อิสรภาพ	_	NOUN	NN	_	9	obj	_	SpaceAfter=No
 11	หลัง	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	การล่มสลาย	_	VERB	VV	_	9	obl	_	SpaceAfter=No
 13	ของ	_	ADP	IN	_	14	case	_	SpaceAfter=No
-14	ราชวงศ์	_	PROPN	NN	_	12	obl:poss	_	Proper=True|SpaceAfter=No
+14	ราชวงศ์	_	NOUN	NN	_	12	obl:poss	_	Proper=True|SpaceAfter=No
 15	ชิง	_	PROPN	NNP	_	14	flat:name	_	SpaceAfter=No
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No
 17	ปี	_	NOUN	NN	_	12	obl	_	_
@@ -13017,7 +13017,7 @@
 # text = แต่สาธารณรัฐจีนที่ตั้งขึ้นใหม่เห็นว่ามองโกเลียเป็นส่วนหนึ่งของอาณาเขตของตน
 # english_text = But, the newly established Republic of China considered Mongolia to be part of its own territory.
 1	แต่	_	CCONJ	CC	_	8	cc	_	SpaceAfter=No
-2	สาธารณรัฐ	_	PROPN	NN	_	8	nsubj	_	Proper=True|SpaceAfter=No
+2	สาธารณรัฐ	_	NOUN	NN	_	8	nsubj	_	Proper=True|SpaceAfter=No
 3	จีน	_	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
 4	ที่	_	DET	WDT	_	5	obj	_	SpaceAfter=No
 5	ตั้ง	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No
@@ -13041,7 +13041,7 @@
 2	ซื่อไข่	_	PROPN	NNP	_	1	flat:name	_	_
 3	ประธานาธิบดี	_	NOUN	NN	_	1	appos	_	SpaceAfter=No
 4	ของ	_	ADP	IN	_	5	case	_	SpaceAfter=No
-5	สาธารณรัฐ	_	PROPN	NN	_	3	nmod:poss	_	Proper=True|SpaceAfter=No
+5	สาธารณรัฐ	_	NOUN	NN	_	3	nmod:poss	_	Proper=True|SpaceAfter=No
 6	จีน	_	PROPN	NNP	_	5	flat:name	_	_
 7	เห็น	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	ว่า	_	ADP	IN	_	13	mark	_	SpaceAfter=No
@@ -13051,14 +13051,14 @@
 12	เป็น	_	AUX	VC	_	13	cop	_	SpaceAfter=No
 13	การสืบทอด	_	VERB	VV	_	7	ccomp	_	SpaceAfter=No
 14	จาก	_	ADP	IN	_	15	case	_	SpaceAfter=No
-15	ราชวงศ์	_	PROPN	NN	_	13	obl	_	Proper=True|SpaceAfter=No
+15	ราชวงศ์	_	NOUN	NN	_	13	obl	_	Proper=True|SpaceAfter=No
 16	ชิง	_	PROPN	NNP	_	15	flat:name	_	_
 
 # sent_id = w01050070
 # text = โบกด์ข่านกล่าวว่า ทั้งมองโกเลียและจีนถูกปกครองโดยแมนจูในยุคราชวงศ์ชิง และหลังจากที่ราชวงศ์ชิงล่มสลายในปี 1911 สัญญาที่ชาวมองโกลยอมจำนนต่อแมนจูก็เป็นโมฆะไป
 # english_text = Bogd Khaan said that both Mongolia and China had been administered by the Manchu during the Qing, and after the fall of the Qing dynasty in 1911, the contract of Mongolian submission to the Manchu had become invalid.
 1	โบกด์	_	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
-2	ข่าน	_	PROPN	NN	_	1	appos	_	Proper=True|SpaceAfter=No
+2	ข่าน	_	NOUN	NN	_	1	appos	_	Proper=True|SpaceAfter=No
 3	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ว่า	_	ADP	IN	_	10	mark	_	_
 5	ทั้ง	_	DET	DT	_	6	cc:preconj	_	SpaceAfter=No
@@ -13071,13 +13071,13 @@
 12	แมนจู	_	PROPN	NNP	_	10	obl	_	SpaceAfter=No
 13	ใน	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	ยุค	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
-15	ราชวงศ์	_	PROPN	NN	_	14	compound	_	Proper=True|SpaceAfter=No
+15	ราชวงศ์	_	NOUN	NN	_	14	compound	_	Proper=True|SpaceAfter=No
 16	ชิง	_	PROPN	NNP	_	14	compound	_	_
 17	และ	_	CCONJ	CC	_	37	cc	_	SpaceAfter=No
 18	หลัง	_	ADP	IN	_	23	mark	_	SpaceAfter=No
 19	จาก	_	ADP	IN	_	18	fixed	_	SpaceAfter=No
 20	ที่	_	ADP	IN	_	18	fixed	_	SpaceAfter=No
-21	ราชวงศ์	_	PROPN	NN	_	23	nsubj	_	Proper=True|SpaceAfter=No
+21	ราชวงศ์	_	NOUN	NN	_	23	nsubj	_	Proper=True|SpaceAfter=No
 22	ชิง	_	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No
 23	ล่มสลาย	_	VERB	VV	_	37	advcl	_	SpaceAfter=No
 24	ใน	_	ADP	IN	_	25	case	_	SpaceAfter=No
@@ -13102,7 +13102,7 @@
 1	พื้นที่	_	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 2	ที่	_	DET	WDT	_	5	obj	_	SpaceAfter=No
 3	โบกด์	_	PROPN	NNP	_	5	nsubj	_	SpaceAfter=No
-4	ข่าน	_	PROPN	NN	_	3	appos	_	Proper=True|SpaceAfter=No
+4	ข่าน	_	NOUN	NN	_	3	appos	_	Proper=True|SpaceAfter=No
 5	ควบคุม	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No
 6	คือ	_	AUX	VC	_	9	cop	_	SpaceAfter=No
 7	ราว	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
@@ -13112,7 +13112,7 @@
 11	เดิม	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 12	ใน	_	ADP	IN	_	13	case	_	SpaceAfter=No
 13	สมัย	_	NOUN	NN	_	9	nmod	_	SpaceAfter=No|ToDo=nmod
-14	ราชวงศ์	_	PROPN	NN	_	13	compound	_	Proper=True|SpaceAfter=No
+14	ราชวงศ์	_	NOUN	NN	_	13	compound	_	Proper=True|SpaceAfter=No
 15	ชิง	_	PROPN	NNP	_	13	compound	_	_
 
 # sent_id = w01051032
@@ -13126,7 +13126,7 @@
 6	คาเดช	_	PROPN	NNP	_	5	obj	_	_
 7	พระเจ้า	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
 8	แรเมซีส	_	PROPN	NNP	_	7	appos	_	SpaceAfter=No
-9	ที่	_	PROPN	NN	_	7	flat:name	_	Proper=True
+9	ที่	_	NOUN	NN	_	7	flat:name	_	Proper=True
 10	2	_	NUM	CD	_	9	nummod	_	Proper=True
 11	ได้	_	PART	AS	Aspect=Perf	13	aux	_	SpaceAfter=No
 12	ทรง	_	VERB	MD	_	13	aux	_	SpaceAfter=No
@@ -13227,7 +13227,7 @@
 30	ของ	_	ADP	IN	_	31	case	_	SpaceAfter=No
 31	พระเจ้า	_	NOUN	NN	_	29	nmod:poss	_	SpaceAfter=No
 32	ทุตโมส	_	PROPN	NNP	_	31	appos	_	SpaceAfter=No
-33	ที่	_	PROPN	NN	_	31	flat:name	_	Proper=True
+33	ที่	_	NOUN	NN	_	31	flat:name	_	Proper=True
 34	3	_	NUM	CD	_	33	nummod	_	Proper=True
 35	เมื่อ	_	ADP	IN	_	37	case	_	_
 36	120	_	NUM	CD	_	37	nummod	_	_
@@ -13290,7 +13290,7 @@
 3	เฮโรด	_	PROPN	NNP	_	4	nsubj	_	SpaceAfter=No
 4	อยู่	_	VERB	VV	_	12	advcl	_	SpaceAfter=No
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No
-6	กรุง	_	PROPN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
+6	กรุง	_	NOUN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
 7	เยรูซาเลม	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	ขณะ	_	NOUN	NN	_	4	obl:tmod	_	SpaceAfter=No
 9	นั้น	_	DET	DT	_	8	det	_	_
@@ -13307,8 +13307,8 @@
 # text = ตามคัมภีร์พันธสัญญาใหม่ เปาโลใช้เวลาสิบแปดเดือนในโครินธ์ประมาณสิบเจ็ดปีหลังเปลี่ยนศาสนา
 # english_text = According to the New Testament, Paul spent eighteen months in Corinth, approximately seventeen years after his conversion.
 1	ตาม	_	ADP	IN	_	2	case	_	SpaceAfter=No
-2	คัมภีร์	_	PROPN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
-3	พันธสัญญา	_	PROPN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
+2	คัมภีร์	_	NOUN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
+3	พันธสัญญา	_	NOUN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
 4	ใหม่	_	ADJ	JJ	_	3	amod	_	Proper=True
 5	เปาโล	_	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
 6	ใช้	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -13480,8 +13480,8 @@
 19	แรง	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
 20	บันดาลใจ	_	VERB	VV	_	19	acl	_	SpaceAfter=No
 21	จาก	_	ADP	IN	_	22	case	_	SpaceAfter=No
-22	สงคราม	_	PROPN	NN	_	18	obl	_	Proper=True|SpaceAfter=No
-23	กรุง	_	PROPN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
+22	สงคราม	_	NOUN	NN	_	18	obl	_	Proper=True|SpaceAfter=No
+23	กรุง	_	NOUN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
 24	ทรอย	_	PROPN	NNP	_	22	flat:name	_	_
 
 # sent_id = w01057041
@@ -13543,7 +13543,7 @@
 1	เชื่อ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 2	กัน	_	PRON	PRP	_	1	advmod	_	SpaceAfter=No
 3	ว่า	_	ADP	IN	_	8	mark	_	SpaceAfter=No
-4	กีฬา	_	PROPN	NN	_	8	obj	_	Proper=True|SpaceAfter=No
+4	กีฬา	_	NOUN	NN	_	8	obj	_	Proper=True|SpaceAfter=No
 5	โอลิมปิก	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	ครั้ง	_	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 7	สุดท้าย	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No
@@ -13595,7 +13595,7 @@
 15	บ่อ	_	NOUN	NN	_	14	obj	_	SpaceAfter=No
 16	โคลน	_	NOUN	NN	_	15	compound	_	SpaceAfter=No
 17	ใน	_	ADP	IN	_	18	case	_	SpaceAfter=No
-18	คลอง	_	PROPN	NN	_	14	obl	_	Proper=True|SpaceAfter=No
+18	คลอง	_	NOUN	NN	_	14	obl	_	Proper=True|SpaceAfter=No
 19	เปี้ยน	_	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No
 20	นอก	_	ADP	IN	_	21	case	_	SpaceAfter=No
 21	นคร	_	NOUN	NN	_	14	obl	_	SpaceAfter=No
@@ -13649,7 +13649,7 @@
 13	เป็น	_	AUX	VC	_	14	cop	_	SpaceAfter=No
 14	ราชทูต	_	NOUN	NN	_	11	xcomp	_	SpaceAfter=No
 15	ประจำ	_	VERB	VV	_	14	acl	_	SpaceAfter=No
-16	ราชวงศ์	_	PROPN	NN	_	15	obj	_	Proper=True|SpaceAfter=No
+16	ราชวงศ์	_	NOUN	NN	_	15	obj	_	Proper=True|SpaceAfter=No
 17	เหลียว	_	PROPN	NNP	_	16	flat:name	_	SpaceAfter=No
 18	ชี่ตัน	_	PROPN	NNP	_	17	flat:name	_	SpaceAfter=No
 19	ใน	_	ADP	IN	_	20	case	_	SpaceAfter=No
@@ -13691,7 +13691,7 @@
 27	ข้อ	_	NOUN	NN	_	25	obl	_	SpaceAfter=No
 28	เรียกร้อง	_	VERB	VV	_	27	acl	_	SpaceAfter=No
 29	ของ	_	ADP	IN	_	30	case	_	SpaceAfter=No
-30	ราชอาณาจักร	_	PROPN	NN	_	27	nmod:poss	_	Proper=True|SpaceAfter=No
+30	ราชอาณาจักร	_	NOUN	NN	_	27	nmod:poss	_	Proper=True|SpaceAfter=No
 31	เหลียว	_	PROPN	NNP	_	30	flat:name	_	_
 
 # sent_id = w01061050
@@ -14037,7 +14037,7 @@
 2	ของ	_	ADP	IN	_	3	case	_	SpaceAfter=No
 3	เธอ	_	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No
 4	คือ	_	AUX	VC	_	5	cop	_	SpaceAfter=No
-5	วอก	_	PROPN	NN	_	0	root	_	Proper=True
+5	วอก	_	NOUN	NN	_	0	root	_	Proper=True
 6	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 7	ปี	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 8	แซยิด	_	NOUN	NN	_	7	compound	_	SpaceAfter=No
@@ -14202,7 +14202,7 @@
 8	ล่อลวง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	ไป	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No
 10	ยัง	_	ADP	IN	_	11	case	_	SpaceAfter=No
-11	โรง	_	PROPN	NN	_	8	obl	_	Proper=True|SpaceAfter=No
+11	โรง	_	NOUN	NN	_	8	obl	_	Proper=True|SpaceAfter=No
 12	แรม	_	VERB	VV	_	11	acl	_	SpaceAfter=No
 13	เบเวอร์ลีฮิลส์	_	PROPN	NNP	_	11	flat:name	_	_
 14	ด้วย	_	ADP	IN	_	15	case	_	SpaceAfter=No
@@ -14300,7 +14300,7 @@
 11	ร้อง	_	VERB	VV	_	10	acl	_	SpaceAfter=No
 12	ต่อ	_	ADP	IN	_	13	case	_	SpaceAfter=No
 13	ข้าหลวง	_	NOUN	NN	_	9	obl	_	SpaceAfter=No
-14	มาร์กาเร็ต	_	PROPN	NN	_	13	appos	_	Proper=True|SpaceAfter=No
+14	มาร์กาเร็ต	_	NOUN	NN	_	13	appos	_	Proper=True|SpaceAfter=No
 15	แห่ง	_	ADP	IN	_	16	case	_	SpaceAfter=No
 16	ปาร์มา	_	PROPN	NNP	_	13	nmod:poss	_	SpaceAfter=No
 17	ให้	_	VERB	VV	_	9	acl	_	SpaceAfter=No
@@ -14324,7 +14324,7 @@
 3	จักรวรรดิ	_	NOUN	NN	_	1	obl	_	SpaceAfter=No
 4	ออตโตมัน	_	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No
-6	ทะเล	_	PROPN	NN	_	3	nmod	_	Proper=True|SpaceAfter=No
+6	ทะเล	_	NOUN	NN	_	3	nmod	_	Proper=True|SpaceAfter=No
 7	เมดิเตอร์เรเนียน	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	ข้อ	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
@@ -14641,8 +14641,8 @@
 19	กับ	_	ADP	IN	_	20	case	_	SpaceAfter=No
 20	ทริกซ์	_	PROPN	NNP	_	16	obl	_	SpaceAfter=No
 21	ที่	_	ADP	IN	_	22	case	_	SpaceAfter=No
-22	ทะเล	_	PROPN	NN	_	16	obl	_	Proper=True|SpaceAfter=No
-23	ใต้	_	PROPN	NN	_	22	flat:name	_	Proper=True
+22	ทะเล	_	NOUN	NN	_	16	obl	_	Proper=True|SpaceAfter=No
+23	ใต้	_	NOUN	NN	_	22	flat:name	_	Proper=True
 24	(	_	PUNCT	(	_	28	punct	_	SpaceAfter=No
 25	ซึ่ง	_	DET	WDT	_	28	obj	_	SpaceAfter=No
 26	ทริกซ์	_	PROPN	NNP	_	28	nsubj	_	SpaceAfter=No
@@ -14997,7 +14997,7 @@
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	แนว	_	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 16	รบ	_	VERB	VV	_	15	acl	_	SpaceAfter=No
-17	ตะวันออกกลาง	_	PROPN	NN	_	15	compound	_	Proper=True
+17	ตะวันออกกลาง	_	NOUN	NN	_	15	compound	_	Proper=True
 18	ซึ่ง	_	ADP	IN	_	22	cc	_	SpaceAfter=No
 19	ใน	_	ADP	IN	_	20	case	_	SpaceAfter=No
 20	ตอน	_	NOUN	NN	_	22	obl	_	SpaceAfter=No
@@ -15058,8 +15058,8 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ปี	_	NOUN	NN	_	8	obl	_	_
 3	1538	_	NUM	CD	_	2	appos	_	_
-4	ศาล	_	PROPN	NN	_	8	nsubj	_	Proper=True|SpaceAfter=No
-5	ศาสนา	_	PROPN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
+4	ศาล	_	NOUN	NN	_	8	nsubj	_	Proper=True|SpaceAfter=No
+5	ศาสนา	_	NOUN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
 6	สเปน	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 7	ได้	_	PART	AS	Aspect=Perf	8	aux	_	SpaceAfter=No
 8	ตักเตือน	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -15085,7 +15085,7 @@
 7	ต่อ	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	กฎ	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
 9	ของ	_	ADP	IN	_	10	case	_	SpaceAfter=No
-10	ศาสนจักร	_	PROPN	NN	_	8	nmod:poss	_	Proper=True|SpaceAfter=No
+10	ศาสนจักร	_	NOUN	NN	_	8	nmod:poss	_	Proper=True|SpaceAfter=No
 11	คาทอลิก	_	PROPN	NNP	_	10	flat:name	_	_
 12	และ	_	CCONJ	CC	_	30	cc	_	SpaceAfter=No
 13	ใน	_	ADP	IN	_	30	case	_	SpaceAfter=No
@@ -15108,7 +15108,7 @@
 30	กลับ	_	VERB	VV	_	6	conj	_	SpaceAfter=No
 31	ไป	_	PART	RP	_	30	compound:prt	_	SpaceAfter=No
 32	สู่	_	ADP	IN	_	33	case	_	SpaceAfter=No
-33	ศาสนา	_	PROPN	NN	_	30	obl	_	Proper=True|SpaceAfter=No
+33	ศาสนา	_	NOUN	NN	_	30	obl	_	Proper=True|SpaceAfter=No
 34	ยิว	_	PROPN	NNP	_	33	flat:name	_	SpaceAfter=No
 35	ได้	_	VERB	MD	_	30	aux	_	SpaceAfter=No
 36	อย่างถูกต้อง	_	ADJ	JJ	_	30	advmod	_	_
@@ -15168,7 +15168,7 @@
 10	รับ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 11	การคุ้มกัน	_	VERB	VV	_	10	obj	_	SpaceAfter=No
 12	ที่	_	ADP	IN	_	13	case	_	SpaceAfter=No
-13	แม่น้ำ	_	PROPN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
+13	แม่น้ำ	_	NOUN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
 14	เนสทอส	_	PROPN	NNP	_	13	flat:name	_	_
 15	(	_	PUNCT	(	_	16	punct	_	SpaceAfter=No
 16	เมสตา	_	PROPN	NNP	_	13	appos	_	SpaceAfter=No
@@ -15228,8 +15228,8 @@
 7	ไกล	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
 8	จน	_	ADP	IN	_	10	case	_	SpaceAfter=No
 9	ถึง	_	ADP	IN	_	8	fixed	_	SpaceAfter=No
-10	ช่อง	_	PROPN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
-11	เขา	_	PROPN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
+10	ช่อง	_	NOUN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
+11	เขา	_	NOUN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
 12	เทอร์มอพิลี	_	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No
 13	ที่	_	DET	WDT	_	14	nsubj	_	SpaceAfter=No
 14	แยก	_	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
@@ -15316,8 +15316,8 @@
 # english_text = Throughout the war, Pearl Harbor was frequently used in American propaganda.
 1	ตลอด	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	สงคราม	_	NOUN	NN	_	6	obl	_	_
-3	เพิร์ล	_	PROPN	NN	_	6	nsubj:pass	_	Proper=True|SpaceAfter=No
-4	ฮาเบอร์	_	PROPN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
+3	เพิร์ล	_	NOUN	NN	_	6	nsubj:pass	_	Proper=True|SpaceAfter=No
+4	ฮาเบอร์	_	NOUN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
 5	ถูก	_	VERB	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
 6	ใช้	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	เป็น	_	AUX	VC	_	8	cop	_	SpaceAfter=No
@@ -15335,7 +15335,7 @@
 1	วิสัยทัศน์	_	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 2	อุดมคติ	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 3	ของ	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	ราชวงศ์	_	PROPN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
+4	ราชวงศ์	_	NOUN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No
 5	โรมานอฟ	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	ทำให้	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	พระองค์	_	PRON	PRP	Person=3	6	obj	_	SpaceAfter=No
@@ -15351,7 +15351,7 @@
 # sent_id = w01083021
 # text = จักรวรรดิรัสเซียเป็นการรวมตัวกันของกลุ่มชาติพันธุ์หลากหลายที่แสดงให้เห็นถึงสัญญาณที่สำคัญของความแตกแยกในช่วงหลายปีก่อนสงครามโลกครั้งที่ 1
 # english_text = The Russian Empire was an agglomeration of diverse ethnicities that had shown significant signs of disunity in the years before the First World War.
-1	จักรวรรดิ	_	PROPN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
+1	จักรวรรดิ	_	NOUN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
 2	รัสเซีย	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	เป็น	_	AUX	VC	_	4	cop	_	SpaceAfter=No
 4	การรวม	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -15376,10 +15376,10 @@
 23	หลาย	_	DET	DT	_	24	det	_	SpaceAfter=No
 24	ปี	_	NOUN	NNB	_	22	obl:tmod	_	SpaceAfter=No
 25	ก่อน	_	ADP	IN	_	26	case	_	SpaceAfter=No
-26	สงคราม	_	PROPN	NN	_	24	nmod	_	Proper=True|SpaceAfter=No
-27	โลก	_	PROPN	NN	_	26	flat:name	_	Proper=True|SpaceAfter=No
+26	สงคราม	_	NOUN	NN	_	24	nmod	_	Proper=True|SpaceAfter=No
+27	โลก	_	NOUN	NN	_	26	flat:name	_	Proper=True|SpaceAfter=No
 28	ครั้ง	_	PROPN	NNB	_	26	clf	_	Proper=True|SpaceAfter=No
-29	ที่	_	PROPN	NN	_	28	flat:name	_	Proper=True
+29	ที่	_	NOUN	NN	_	28	flat:name	_	Proper=True
 30	1	_	NUM	CD	_	29	nummod	_	Proper=True
 
 # sent_id = w01084085
@@ -15501,7 +15501,7 @@
 # sent_id = w01085007
 # text = สหรัฐฯ ปลดปล่อยคิวบาให้เป็นอิสระ (หลังจากถูกยึดครองโดยกองทัพสหรัฐฯ)
 # english_text = The United States freed Cuba (after an occupation by the U.S. Army).
-1	สหรัฐ	_	PROPN	NN	_	3	nsubj	_	Proper=True|SpaceAfter=No
+1	สหรัฐ	_	NOUN	NN	_	3	nsubj	_	Proper=True|SpaceAfter=No
 2	ฯ	_	PUNCT	...	_	1	punct	_	Proper=True
 3	ปลดปล่อย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	คิวบา	_	PROPN	NNP	_	3	obj	_	SpaceAfter=No
@@ -15514,9 +15514,9 @@
 11	ถูก	_	VERB	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	ยึดครอง	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
 13	โดย	_	ADP	IN	_	14	case	_	SpaceAfter=No
-14	กอง	_	PROPN	NN	_	12	obl	_	Proper=True|SpaceAfter=No
-15	ทัพ	_	PROPN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
-16	สหรัฐ	_	PROPN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
+14	กอง	_	NOUN	NN	_	12	obl	_	Proper=True|SpaceAfter=No
+15	ทัพ	_	NOUN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
+16	สหรัฐ	_	NOUN	NN	_	14	flat:name	_	Proper=True|SpaceAfter=No
 17	ฯ	_	PUNCT	...	_	16	punct	_	Proper=True|SpaceAfter=No
 18	)	_	PUNCT	)	_	12	punct	_	_
 
@@ -15541,7 +15541,7 @@
 16	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 17	ฟิลิปปินส์	_	PROPN	NNP	_	14	conj	_	_
 18	ให้	_	VERB	VV	_	6	acl	_	SpaceAfter=No
-19	สหรัฐ	_	PROPN	NN	_	18	obj	_	Proper=True|SpaceAfter=No
+19	สหรัฐ	_	NOUN	NN	_	18	obj	_	Proper=True|SpaceAfter=No
 20	อเมริกา	_	PROPN	NNP	_	19	flat:name	_	_
 
 # sent_id = w01086012
@@ -15584,9 +15584,9 @@
 # english_text = Education during the Renaissance was mainly composed of ancient literature and history as it was thought that the classics provided moral instruction and an intensive understanding of human behavior.
 1	การศึกษา	_	VERB	VV	_	6	nsubj	_	SpaceAfter=No
 2	ใน	_	ADP	IN	_	3	case	_	SpaceAfter=No
-3	สมัย	_	PROPN	NN	_	1	obl	_	Proper=True|SpaceAfter=No
+3	สมัย	_	NOUN	NN	_	1	obl	_	Proper=True|SpaceAfter=No
 4	ฟื้นฟู	_	VERB	VV	_	3	acl	_	Proper=True|SpaceAfter=No
-5	ศิลปวิทยา	_	PROPN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
+5	ศิลปวิทยา	_	NOUN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
 6	ประกอบ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	ด้วย	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	วรรณกรรม	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
@@ -15825,7 +15825,7 @@
 # text = การปฏิวัติอุตสาหกรรมก่อให้เกิดความต้องการชิ้นส่วนโลหะเพื่อใช้ในเครื่องจักร
 # english_text = The Industrial Revolution created a demand for metal parts used in machinery.
 1	การปฏิวัติ	_	VERB	VV	_	3	csubj	_	Proper=True|SpaceAfter=No
-2	อุตสาหกรรม	_	PROPN	NN	_	1	obj	_	Proper=True|SpaceAfter=No
+2	อุตสาหกรรม	_	NOUN	NN	_	1	obj	_	Proper=True|SpaceAfter=No
 3	ก่อ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ให้	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 5	เกิด	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No
@@ -15842,10 +15842,10 @@
 # text = ในสงครามเมสซาเนียครั้งที่สอง สปาร์ตาตั้งตนเป็นขั้วอำนาจท้องถิ่นในเพโลพอนนีสและส่วนที่เหลือของกรีซ
 # english_text = In the Second Messenian War, Sparta established itself as a local power in Peloponnesus and the rest of Greece.
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
-2	สงคราม	_	PROPN	NN	_	8	obl	_	Proper=True|SpaceAfter=No
+2	สงคราม	_	NOUN	NN	_	8	obl	_	Proper=True|SpaceAfter=No
 3	เมสซาเนีย	_	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
 4	ครั้ง	_	PROPN	NNB	_	2	clf	_	Proper=True|SpaceAfter=No
-5	ที่	_	PROPN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
+5	ที่	_	NOUN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
 6	สอง	_	NUM	CD	_	5	nummod	_	Proper=True
 7	สปาร์ตา	_	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 8	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -15881,10 +15881,10 @@
 13	20	_	NUM	CD	_	12	nummod	_	_
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	งาน	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
-16	รางวัล	_	PROPN	NN	_	15	compound	_	Proper=True|SpaceAfter=No
-17	รถยนต์	_	PROPN	NN	_	15	compound	_	Proper=True|SpaceAfter=No
+16	รางวัล	_	NOUN	NN	_	15	compound	_	Proper=True|SpaceAfter=No
+17	รถยนต์	_	NOUN	NN	_	15	compound	_	Proper=True|SpaceAfter=No
 18	แห่ง	_	ADP	IN	_	19	case	_	Proper=True|SpaceAfter=No
-19	ศตวรรษ	_	PROPN	NN	_	17	nmod:poss	_	Proper=True|SpaceAfter=No
+19	ศตวรรษ	_	NOUN	NN	_	17	nmod:poss	_	Proper=True|SpaceAfter=No
 20	นานา	_	ADJ	JJ	_	21	amod	_	SpaceAfter=No
 21	ชาติ	_	NOUN	NN	_	15	compound	_	_
 
@@ -15978,8 +15978,8 @@
 # ToDoOrigText = ตั้งแต่รัชสมัยจักรพรรดิเมจิ ถือเป็นธรรมเนียมที่ต้องใช้ชื่อยุคสมัยหนึ่งชื่อต่อจักรพรรดิหนึ่งพระองค์ และต้องเปลี่ยนพระนามจักรพรรดิแต่ละพระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์ทรงพระชนม์อยู่
 1	ตั้ง	_	VERB	VV	_	3	case	_	SpaceAfter=No
 2	แต่	_	ADP	IN	_	1	fixed	_	SpaceAfter=No
-3	รัชสมัย	_	PROPN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
-4	จักรพรรดิ	_	PROPN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
+3	รัชสมัย	_	NOUN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
+4	จักรพรรดิ	_	NOUN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
 5	เมจิ	_	PROPN	NNP	_	3	flat:name	_	_
 6	ถือ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	เป็น	_	AUX	VC	_	8	cop	_	SpaceAfter=No
@@ -16019,8 +16019,8 @@
 # text = ก่อนยุคจักรพรรดิเมจิ ชื่อยุคสมัยเปลี่ยนบ่อยมาก และพระนามหลังจากสวรรคตของจักรพรรดิก็เลือกมาจากรูปแบบที่แตกต่างกัน
 # english_text = Prior to Emperor Meiji, the names of the eras were changed more frequently, and the posthumous names of the Emperors were chosen in a different manner.
 1	ก่อน	_	ADP	IN	_	2	case	_	SpaceAfter=No
-2	ยุค	_	PROPN	NN	_	7	obl	_	Proper=True|SpaceAfter=No
-3	จักรพรรดิ	_	PROPN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
+2	ยุค	_	NOUN	NN	_	7	obl	_	Proper=True|SpaceAfter=No
+3	จักรพรรดิ	_	NOUN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
 4	เมจิ	_	PROPN	NNP	_	2	flat:name	_	_
 5	ชื่อ	_	NOUN	NN	_	7	obj	_	SpaceAfter=No
 6	ยุคสมัย	_	NOUN	NN	_	5	compound	_	SpaceAfter=No
@@ -16051,8 +16051,8 @@
 3	เริ่ม	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ตั้ง	_	VERB	VV	_	6	case	_	SpaceAfter=No
 5	แต่	_	ADP	IN	_	4	fixed	_	SpaceAfter=No
-6	สมัย	_	PROPN	NN	_	3	obl	_	Proper=True|SpaceAfter=No
-7	จักรพรรดิ	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+6	สมัย	_	NOUN	NN	_	3	obl	_	Proper=True|SpaceAfter=No
+7	จักรพรรดิ	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
 8	โชวะ	_	PROPN	NNP	_	6	flat:name	_	_
 9	เหล่า	_	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 10	จักรพรรดิ	_	NOUN	NN	_	9	compound	_	SpaceAfter=No
@@ -16154,10 +16154,10 @@
 13	กับ	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	ที่	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
 15	ใน	_	ADP	IN	_	16	case	_	SpaceAfter=No
-16	สงคราม	_	PROPN	NN	_	8	obl	_	Proper=True|SpaceAfter=No
-17	โลก	_	PROPN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
+16	สงคราม	_	NOUN	NN	_	8	obl	_	Proper=True|SpaceAfter=No
+17	โลก	_	NOUN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
 18	ครั้ง	_	PROPN	NNB	_	16	clf	_	Proper=True|SpaceAfter=No
-19	ที่	_	PROPN	NN	_	18	flat:name	_	Proper=True|SpaceAfter=No
+19	ที่	_	NOUN	NN	_	18	flat:name	_	Proper=True|SpaceAfter=No
 20	หนึ่ง	_	NUM	CD	_	19	nummod	_	Proper=True|SpaceAfter=No
 21	มา	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 22	เป็น	_	AUX	VC	_	23	cop	_	SpaceAfter=No
@@ -16325,8 +16325,8 @@
 4	จีน	_	PROPN	NNP	_	5	nsubj	_	SpaceAfter=No
 5	สู้รบ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	ใน	_	ADP	IN	_	7	case	_	SpaceAfter=No
-7	สงคราม	_	PROPN	NN	_	5	obl	_	Proper=True|SpaceAfter=No
-8	ฝิ่น	_	PROPN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No
+7	สงคราม	_	NOUN	NN	_	5	obl	_	Proper=True|SpaceAfter=No
+8	ฝิ่น	_	NOUN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No
 9	ครั้ง	_	PROPN	NNB	_	7	clf	_	Proper=True|SpaceAfter=No
 10	แรก	_	ADJ	JJ	_	9	amod	_	Proper=True|SpaceAfter=No
 11	กับ	_	ADP	IN	_	12	case	_	SpaceAfter=No
@@ -16338,7 +16338,7 @@
 17	เจ๋อสวี	_	PROPN	NNP	_	16	flat:name	_	_
 18	ข้าหลวง	_	NOUN	NN	_	16	appos	_	SpaceAfter=No
 19	ใหญ่	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
-20	มณฑล	_	PROPN	NN	_	18	compound	_	Proper=True|SpaceAfter=No
+20	มณฑล	_	NOUN	NN	_	18	compound	_	Proper=True|SpaceAfter=No
 21	หูหนาน	_	PROPN	NNP	_	20	flat:name	_	SpaceAfter=No
 22	และ	_	CCONJ	CC	_	23	cc	_	SpaceAfter=No
 23	หูเป่ย	_	PROPN	NNP	_	21	conj	_	_
@@ -16367,7 +16367,7 @@
 12	ข้อ	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 13	กำหนด	_	VERB	VV	_	12	acl	_	SpaceAfter=No
 14	ตาม	_	ADP	IN	_	15	case	_	SpaceAfter=No
-15	สนธิสัญญา	_	PROPN	NN	_	12	nmod	_	Proper=True|SpaceAfter=No
+15	สนธิสัญญา	_	NOUN	NN	_	12	nmod	_	Proper=True|SpaceAfter=No
 16	นานกิง	_	PROPN	NNP	_	15	flat:name	_	_
 
 # sent_id = w01100048
@@ -16407,8 +16407,8 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ปี	_	NOUN	NN	_	9	obl	_	_
 3	1856	_	NUM	CD	_	2	appos	_	_
-4	สงคราม	_	PROPN	NN	_	9	nsubj	_	Proper=True|SpaceAfter=No
-5	ฝิ่น	_	PROPN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
+4	สงคราม	_	NOUN	NN	_	9	nsubj	_	Proper=True|SpaceAfter=No
+5	ฝิ่น	_	NOUN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
 6	ครั้ง	_	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 7	ที่	_	NOUN	NN	_	6	compound	_	SpaceAfter=No
 8	สอง	_	NUM	CD	_	7	nummod	_	SpaceAfter=No
@@ -16424,13 +16424,13 @@
 18	บังคับ	_	VERB	VV	_	13	conj	_	SpaceAfter=No
 19	ให้	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No
 20	ยอมรับ	_	VERB	VV	_	19	xcomp	_	SpaceAfter=No
-21	สนธิสัญญา	_	PROPN	NN	_	20	obj	_	Proper=True|SpaceAfter=No
+21	สนธิสัญญา	_	NOUN	NN	_	20	obj	_	Proper=True|SpaceAfter=No
 22	เทียนจิน	_	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No
 23	ใน	_	ADP	IN	_	24	case	_	SpaceAfter=No
 24	ปี	_	NOUN	NN	_	21	nmod	_	_
 25	1858	_	NUM	CD	_	24	appos	_	_
 26	และ	_	CCONJ	CC	_	27	cc	_	SpaceAfter=No
-27	อนุสัญญา	_	PROPN	NN	_	21	conj	_	Proper=True|SpaceAfter=No
+27	อนุสัญญา	_	NOUN	NN	_	21	conj	_	Proper=True|SpaceAfter=No
 28	ปักกิ่ง	_	PROPN	NNP	_	27	flat:name	_	SpaceAfter=No
 29	ใน	_	ADP	IN	_	30	case	_	SpaceAfter=No
 30	ปี	_	NOUN	NN	_	27	nmod	_	_
@@ -16558,11 +16558,11 @@
 7	เอสเอส	_	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 8	และ	_	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	บัญชาการ	_	VERB	VV	_	6	conj	_	SpaceAfter=No
-10	หน่วย	_	PROPN	NN	_	9	obj	_	Proper=True|SpaceAfter=No
-11	กอง	_	PROPN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
-12	กำลัง	_	PROPN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
+10	หน่วย	_	NOUN	NN	_	9	obj	_	Proper=True|SpaceAfter=No
+11	กอง	_	NOUN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
+12	กำลัง	_	NOUN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
 13	กึ่ง	_	ADJ	JJ	_	14	amod	_	Proper=True|SpaceAfter=No
-14	ทหาร	_	PROPN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
+14	ทหาร	_	NOUN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
 15	มิลีซ	_	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No
 16	ที่	_	DET	WDT	_	17	nsubj	_	SpaceAfter=No
 17	ตาม	_	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
@@ -16713,14 +16713,14 @@
 22	เบอร์ลิน	_	PROPN	NNP	_	18	obl	_	SpaceAfter=No
 23	ช่วง	_	NOUN	NN	_	18	obl:tmod	_	SpaceAfter=No
 24	หลัง	_	ADP	IN	_	25	case	_	SpaceAfter=No
-25	สงคราม	_	PROPN	NN	_	23	nmod	_	Proper=True|SpaceAfter=No
-26	โลก	_	PROPN	NN	_	25	flat:name	_	Proper=True
+25	สงคราม	_	NOUN	NN	_	23	nmod	_	Proper=True|SpaceAfter=No
+26	โลก	_	NOUN	NN	_	25	flat:name	_	Proper=True
 27	คือ	_	AUX	VC	_	28	cop	_	_
-28	เครื่อง	_	PROPN	NN	_	0	root	_	Proper=True|SpaceAfter=No
+28	เครื่อง	_	NOUN	NN	_	0	root	_	Proper=True|SpaceAfter=No
 29	ควบคุม	_	VERB	VV	_	28	acl	_	Proper=True|SpaceAfter=No
-30	ภาค	_	PROPN	NN	_	28	flat:name	_	Proper=True|SpaceAfter=No
-31	พื้น	_	PROPN	NN	_	30	flat:name	_	Proper=True|SpaceAfter=No
-32	ดิน	_	PROPN	NN	_	30	flat:name	_	Proper=True
+30	ภาค	_	NOUN	NN	_	28	flat:name	_	Proper=True|SpaceAfter=No
+31	พื้น	_	NOUN	NN	_	30	flat:name	_	Proper=True|SpaceAfter=No
+32	ดิน	_	NOUN	NN	_	30	flat:name	_	Proper=True
 33	(	_	PUNCT	(	_	34	punct	_	SpaceAfter=No
 34	จีซีเอ	_	PROPN	NNP	_	28	appos	_	SpaceAfter=No
 35	)	_	PUNCT	)	_	34	punct	_	_
@@ -16859,13 +16859,13 @@
 # sent_id = w01106052
 # text = สมาชิกพันธมิตรกองกำลังประชาธิปไตยเพื่ออิสรภาพแห่งคองโกจับตัวลูบุมบาชีในเดือนเมษายน 1997
 # english_text = The Alliance of Democratic Forces for the Liberation of Congo rebels captured Lubumbashi in April 1997.
-1	สมาชิก	_	PROPN	NN	_	10	nsubj	_	Proper=True|SpaceAfter=No
-2	พันธมิตร	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
-3	กอง	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
-4	กำลัง	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
-5	ประชาธิปไตย	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+1	สมาชิก	_	NOUN	NN	_	10	nsubj	_	Proper=True|SpaceAfter=No
+2	พันธมิตร	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+3	กอง	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+4	กำลัง	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+5	ประชาธิปไตย	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 6	เพื่อ	_	ADP	IN	_	7	case	_	Proper=True|SpaceAfter=No
-7	อิสรภาพ	_	PROPN	NN	_	1	nmod	_	Proper=True|SpaceAfter=No
+7	อิสรภาพ	_	NOUN	NN	_	1	nmod	_	Proper=True|SpaceAfter=No
 8	แห่ง	_	ADP	IN	_	9	case	_	Proper=True|SpaceAfter=No
 9	คองโก	_	PROPN	NNP	_	1	nmod:poss	_	SpaceAfter=No
 10	จับ	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -17019,8 +17019,8 @@
 10	บวช	_	VERB	VV	_	9	acl	_	SpaceAfter=No
 11	แองกลิกัน	_	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 12	ประจำ	_	VERB	VV	_	9	acl	_	SpaceAfter=No
-13	สถาน	_	PROPN	NN	_	12	obj	_	Proper=True|SpaceAfter=No
-14	ทูต	_	PROPN	NN	_	13	flat:name	_	Proper=True|SpaceAfter=No
+13	สถาน	_	NOUN	NN	_	12	obj	_	Proper=True|SpaceAfter=No
+14	ทูต	_	NOUN	NN	_	13	flat:name	_	Proper=True|SpaceAfter=No
 15	อังกฤษ	_	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 16	ได้	_	PART	AS	Aspect=Perf	17	aux	_	SpaceAfter=No
 17	มา	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -17105,9 +17105,9 @@
 12	เข้า	_	VERB	VV	_	11	xcomp	_	SpaceAfter=No
 13	เรียน	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No
 14	ที่	_	ADP	IN	_	15	case	_	SpaceAfter=No
-15	สถาบัน	_	PROPN	NN	_	13	obl	_	Proper=True|SpaceAfter=No
+15	สถาบัน	_	NOUN	NN	_	13	obl	_	Proper=True|SpaceAfter=No
 16	โคโรนา	_	PROPN	NNP	_	15	flat:name	_	SpaceAfter=No
-17	สเตจ	_	PROPN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
+17	สเตจ	_	NOUN	NN	_	16	flat:name	_	Proper=True|SpaceAfter=No
 18	ใน	_	ADP	IN	_	19	case	_	SpaceAfter=No
 19	แฮมเมอร์สมิธ	_	PROPN	NNP	_	15	nmod	_	_
 
@@ -17125,7 +17125,7 @@
 9	ถ่าย	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
 10	ทำ	_	VERB	VV	_	9	xcomp	_	SpaceAfter=No
 11	ภาพยนตร์	_	NOUN	NN	_	10	obj	_	SpaceAfter=No
-12	คิมหันต์	_	PROPN	NN	_	11	compound	_	Proper=True|SpaceAfter=No
+12	คิมหันต์	_	NOUN	NN	_	11	compound	_	Proper=True|SpaceAfter=No
 13	นั้น	_	DET	DT	_	11	det	_	Proper=True|SpaceAfter=No
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	ปี	_	NOUN	NN	_	9	obl	_	_
@@ -17362,7 +17362,7 @@
 3	เข้า	_	VERB	VV	_	2	xcomp	_	SpaceAfter=No
 4	เรียน	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No
-6	มหาวิทยาลัย	_	PROPN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
+6	มหาวิทยาลัย	_	NOUN	NN	_	4	obl	_	Proper=True|SpaceAfter=No
 7	เอดินบะระ	_	PROPN	NNP	_	6	flat:name	_	_
 8	ซึ่ง	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
 9	เป็น	_	AUX	VC	_	10	cop	_	SpaceAfter=No
@@ -17376,7 +17376,7 @@
 17	ให้	_	VERB	VV	_	13	acl	_	SpaceAfter=No
 18	กับ	_	ADP	IN	_	19	case	_	SpaceAfter=No
 19	เอดินบะระ	_	PROPN	NNP	_	17	obl	_	SpaceAfter=No
-20	อีฟนิ่ง	_	PROPN	NN	_	19	obl:tmod	_	Proper=True|SpaceAfter=No
+20	อีฟนิ่ง	_	NOUN	NN	_	19	obl:tmod	_	Proper=True|SpaceAfter=No
 21	คูรานต์	_	PROPN	NNP	_	19	flat:name	_	_
 
 # sent_id = w01115024
@@ -17424,7 +17424,7 @@
 24	ครึ่ง	_	ADJ	JJ	_	23	amod	_	SpaceAfter=No
 25	ที่	_	ADP	IN	_	26	case	_	SpaceAfter=No
 26	น็อตติงแฮม	_	PROPN	NNP	_	15	obl	_	SpaceAfter=No
-27	เจอร์นัล	_	PROPN	NN	_	26	flat:name	_	Proper=True
+27	เจอร์นัล	_	NOUN	NN	_	26	flat:name	_	Proper=True
 
 # sent_id = w01115026
 # text = จากนั้นเขาก็กลับไปยังคีร์รีมูร์
@@ -17461,15 +17461,15 @@
 6	รวม	_	VERB	VV	_	4	acl	_	SpaceAfter=No
 7	ของ	_	ADP	IN	_	9	case	_	SpaceAfter=No
 8	เดอะ	_	DET	DT	_	9	det	_	Proper=True|SpaceAfter=No
-9	พาวเวอร์	_	PROPN	NN	_	4	nmod:poss	_	Proper=True|SpaceAfter=No
+9	พาวเวอร์	_	NOUN	NN	_	4	nmod:poss	_	Proper=True|SpaceAfter=No
 10	ออฟ	_	ADP	IN	_	11	case	_	Proper=True|SpaceAfter=No
-11	นาว	_	PROPN	NN	_	9	nmod:poss	_	Proper=True|SpaceAfter=No
+11	นาว	_	NOUN	NN	_	9	nmod:poss	_	Proper=True|SpaceAfter=No
 12	และ	_	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 13	อะ	_	DET	DT	_	15	det	_	Proper=True|SpaceAfter=No
 14	นิว	_	ADJ	JJ	_	15	amod	_	Proper=True|SpaceAfter=No
-15	เอิร์ธ	_	PROPN	NN	_	9	conj	_	Proper=True|SpaceAfter=No
+15	เอิร์ธ	_	NOUN	NN	_	9	conj	_	Proper=True|SpaceAfter=No
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No
-17	ทวีป	_	PROPN	NN	_	4	nmod	_	Proper=True|SpaceAfter=No
+17	ทวีป	_	NOUN	NN	_	4	nmod	_	Proper=True|SpaceAfter=No
 18	อเมริกาเหนือ	_	PROPN	NNP	_	17	flat:name	_	SpaceAfter=No
 19	รวม	_	VERB	VV	_	0	root	_	SpaceAfter=No
 20	เป็น	_	AUX	VC	_	22	cop	_	SpaceAfter=No
@@ -17538,7 +17538,7 @@
 9	กับ	_	ADP	IN	_	10	case	_	SpaceAfter=No
 10	มาร์กาเร็ต	_	PROPN	NNP	_	8	obl	_	_
 11	ดักลาส	_	PROPN	NNP	_	10	flat:name	_	_
-12	เคาน์เตส	_	PROPN	NN	_	10	appos	_	Proper=True|SpaceAfter=No
+12	เคาน์เตส	_	NOUN	NN	_	10	appos	_	Proper=True|SpaceAfter=No
 13	แห่ง	_	ADP	IN	_	14	case	_	Proper=True|SpaceAfter=No
 14	เลนน็อกซ์	_	PROPN	NNP	_	12	nmod:poss	_	_
 
@@ -17716,7 +17716,7 @@
 19	ส่วน	_	CCONJ	CC	_	28	cc	_	_
 20	“	_	PUNCT	``	_	22	punct	_	SpaceAfter=No
 21	เชกกี้	_	ADJ	JJ	_	22	amod	_	Proper=True
-22	กราวด์	_	PROPN	NN	_	28	nsubj	_	Proper=True|SpaceAfter=No
+22	กราวด์	_	NOUN	NN	_	28	nsubj	_	Proper=True|SpaceAfter=No
 23	”	_	PUNCT	''	_	22	punct	_	_
 24	ซิงเกิล	_	NOUN	NN	_	22	appos	_	SpaceAfter=No
 25	ที่	_	DET	WDT	_	26	nsubj	_	SpaceAfter=No
@@ -17732,7 +17732,7 @@
 35	เข้า	_	VERB	VV	_	28	conj	_	SpaceAfter=No
 36	มา	_	PART	RP	_	35	compound:prt	_	SpaceAfter=No
 37	ใน	_	ADP	IN	_	38	case	_	SpaceAfter=No
-38	สหรัฐ	_	PROPN	NN	_	35	obl	_	Proper=True|SpaceAfter=No
+38	สหรัฐ	_	NOUN	NN	_	35	obl	_	Proper=True|SpaceAfter=No
 39	ฯ	_	PUNCT	...	_	40	punct	_	Proper=True
 40	แล้ว	_	PART	AS	Aspect=Perf	35	aux	_	_
 
@@ -17837,7 +17837,7 @@
 20	เพลง	_	NOUN	NN	_	19	compound	_	SpaceAfter=No
 21	เรื่อง	_	NOUN	NN	_	19	compound	_	SpaceAfter=No
 22	เดอะ	_	DET	DT	_	23	det	_	Proper=True|SpaceAfter=No
-23	วิซ	_	PROPN	NN	_	19	compound	_	Proper=True
+23	วิซ	_	NOUN	NN	_	19	compound	_	Proper=True
 
 # sent_id = w01125034
 # text = วิลค์สได้รับเลือกตั้งอีกครั้งและถูกขับไล่อีกสองครั้ง ก่อนที่สภาสามัญชนจะประกาศว่าการลงสมัครของเขาเป็นโมฆะและประกาศให้รองอันดับหนึ่งเป็นผู้ชนะ
@@ -17983,7 +17983,7 @@
 # english_text = Her 1981 album Wild West was one of her biggest sellers.
 1	อัลบั้ม	_	NOUN	NN	_	9	nsubj	_	_
 2	ไวลด์	_	ADJ	JJ	_	3	amod	_	Proper=True
-3	เวสต์	_	PROPN	NN	_	1	compound	_	Proper=True
+3	เวสต์	_	NOUN	NN	_	1	compound	_	Proper=True
 4	ปี	_	NOUN	NN	_	1	obl:tmod	_	_
 5	1981	_	NUM	CD	_	4	appos	_	_
 6	ของ	_	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -18136,8 +18136,8 @@
 26	2003	_	NUM	CD	_	27	obl:tmod	_	Proper=True
 27	นาสคาร์	_	PROPN	NNP	_	25	appos	_	_
 28	วินสตัน	_	PROPN	NNP	_	27	flat:name	_	_
-29	คัพ	_	PROPN	NN	_	27	flat:name	_	Proper=True
-30	แชมเปียน	_	PROPN	NN	_	27	flat:name	_	Proper=True
+29	คัพ	_	NOUN	NN	_	27	flat:name	_	Proper=True
+30	แชมเปียน	_	NOUN	NN	_	27	flat:name	_	Proper=True
 31	โดย	_	ADP	IN	_	33	mark	_	SpaceAfter=No
 32	เป็น	_	AUX	VC	_	33	cop	_	SpaceAfter=No
 33	นัก	_	NOUN	NN	_	5	advcl	_	SpaceAfter=No
@@ -18187,10 +18187,10 @@
 # english_text = On a Wing and a Prayer (1992) reunited him with his Stealers Wheel partner Egan on several tracks.
 1	ออน	_	ADP	IN	_	10	csubj	_	Proper=True
 2	อะ	_	DET	DT	_	3	det	_	Proper=True
-3	วิง	_	PROPN	NN	_	1	obj	_	Proper=True|ToDo=pobj
+3	วิง	_	NOUN	NN	_	1	obj	_	Proper=True|ToDo=pobj
 4	แอนด์	_	CCONJ	CC	_	6	cc	_	Proper=True
 5	อะ	_	DET	DT	_	6	det	_	Proper=True
-6	เพรเยอร์	_	PROPN	NN	_	3	conj	_	Proper=True
+6	เพรเยอร์	_	NOUN	NN	_	3	conj	_	Proper=True
 7	(	_	PUNCT	(	_	8	punct	_	SpaceAfter=No
 8	1992	_	NUM	CD	_	1	obl:tmod	_	SpaceAfter=No
 9	)	_	PUNCT	)	_	8	punct	_	_
@@ -18201,8 +18201,8 @@
 14	เพื่อน	_	NOUN	NN	_	13	appos	_	SpaceAfter=No
 15	ร่วม	_	VERB	VV	_	14	acl	_	SpaceAfter=No
 16	วง	_	NOUN	NN	_	15	obj	_	SpaceAfter=No
-17	สตีลเลอร์ส	_	PROPN	NN	_	16	compound	_	Proper=True|SpaceAfter=No
-18	วีล	_	PROPN	NN	_	17	flat:name	_	Proper=True|SpaceAfter=No
+17	สตีลเลอร์ส	_	NOUN	NN	_	16	compound	_	Proper=True|SpaceAfter=No
+18	วีล	_	NOUN	NN	_	17	flat:name	_	Proper=True|SpaceAfter=No
 19	กลับ	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No
 20	มา	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No
 21	ร่วม	_	VERB	VV	_	19	acl	_	SpaceAfter=No
@@ -18241,7 +18241,7 @@
 24	สัญญา	_	NOUN	NN	_	23	obj	_	SpaceAfter=No
 25	กับ	_	ADP	IN	_	26	case	_	SpaceAfter=No
 26	เดคคา	_	PROPN	NNP	_	23	obl	_	_
-27	เรคคอร์ดส์	_	PROPN	NN	_	26	flat:name	_	Proper=True|SpaceAfter=No
+27	เรคคอร์ดส์	_	NOUN	NN	_	26	flat:name	_	Proper=True|SpaceAfter=No
 28	เมื่อ	_	ADP	IN	_	29	case	_	SpaceAfter=No
 29	ทศวรรษ	_	NOUN	NN	_	23	obl	_	SpaceAfter=No
 30	ที่	_	NOUN	NN	_	29	compound	_	_
@@ -18262,7 +18262,7 @@
 10	เขา	_	PRON	PRP	Person=3	7	nmod:poss	_	_
 11	“	_	PUNCT	``	_	15	punct	_	SpaceAfter=No
 12	เฮอร์	_	ADJ	JJ	_	13	amod	_	Proper=True
-13	ฟาเธอร์	_	PROPN	NN	_	15	nsubj	_	Proper=True
+13	ฟาเธอร์	_	NOUN	NN	_	15	nsubj	_	Proper=True
 14	ดินท์	_	VERB	MD	_	15	aux	_	Proper=True
 15	ไลค์	_	VERB	VV	_	7	appos	_	Proper=True
 16	มี	_	PRON	PRP	Person=1	15	obj	_	Proper=True
@@ -18272,7 +18272,7 @@
 20	อัลบั้ม	_	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 21	โอเวอร์	_	ADP	IN	_	20	appos	_	Proper=True
 22	มาย	_	ADJ	JJ	_	23	amod	_	Proper=True
-23	เฮด	_	PROPN	NN	_	21	obj	_	Proper=True|ToDo=pobj
+23	เฮด	_	NOUN	NN	_	21	obj	_	Proper=True|ToDo=pobj
 24	(	_	PUNCT	(	_	25	punct	_	SpaceAfter=No
 25	1994	_	NUM	CD	_	20	obl:tmod	_	SpaceAfter=No
 26	)	_	PUNCT	)	_	25	punct	_	_
@@ -18339,7 +18339,7 @@
 20	ของ	_	ADP	IN	_	21	case	_	SpaceAfter=No
 21	เบเรีย	_	PROPN	NNP	_	18	obl:poss	_	SpaceAfter=No
 22	เหนือ	_	ADP	IN	_	23	case	_	SpaceAfter=No
-23	กระทรวง	_	PROPN	NN	_	18	obl	_	Proper=True|SpaceAfter=No
+23	กระทรวง	_	NOUN	NN	_	18	obl	_	Proper=True|SpaceAfter=No
 24	ต่าง	_	ADJ	JJ	_	23	amod	_	SpaceAfter=No
 25	ๆ	_	SYM	SYM	_	24	dep	_	_
 
@@ -18354,7 +18354,7 @@
 6	โดย	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	ข้อมูล	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 8	จาก	_	ADP	IN	_	9	case	_	SpaceAfter=No
-9	เขต	_	PROPN	NN	_	7	nmod	_	Proper=True|SpaceAfter=No
+9	เขต	_	NOUN	NN	_	7	nmod	_	Proper=True|SpaceAfter=No
 10	เปเต็น	_	PROPN	NNP	_	9	flat:name	_	SpaceAfter=No
 11	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 12	วาชักตุน	_	PROPN	NNP	_	10	conj	_	SpaceAfter=No
@@ -18382,7 +18382,7 @@
 3	ทอมป์สัน	_	PROPN	NNP	_	1	nmod:poss	_	SpaceAfter=No
 4	คาดคะเน	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ว่า	_	ADP	IN	_	9	mark	_	SpaceAfter=No
-6	เผ่า	_	PROPN	NN	_	9	nsubj	_	Proper=True|SpaceAfter=No
+6	เผ่า	_	NOUN	NN	_	9	nsubj	_	Proper=True|SpaceAfter=No
 7	มายา	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	เป็น	_	AUX	VC	_	9	cop	_	SpaceAfter=No
 9	คน	_	NOUN	NN	_	4	ccomp	_	_
@@ -18506,8 +18506,8 @@
 24	ตีพิมพ์	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 25	อิสระ	_	ADV	RB	_	24	advmod	_	SpaceAfter=No
 26	ชื่อ	_	NOUN	NN	_	17	compound	_	SpaceAfter=No
-27	สตาร์	_	PROPN	NN	_	26	compound	_	Proper=True|SpaceAfter=No
-28	รีช	_	PROPN	NN	_	27	flat:name	_	Proper=True
+27	สตาร์	_	NOUN	NN	_	26	compound	_	Proper=True|SpaceAfter=No
+28	รีช	_	NOUN	NN	_	27	flat:name	_	Proper=True
 
 # sent_id = w01134009
 # text = มิชิม่าเป็นทายาทสายตรงของโทคุงาว่า อิเอยะสึ ผ่านทางยาย
@@ -18601,8 +18601,8 @@
 6	ตลก	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 7	อังกฤษ	_	PROPN	NNP	_	5	compound	_	SpaceAfter=No
 8	เรื่อง	_	NOUN	NN	_	5	compound	_	_
-9	แซลมอน	_	PROPN	NN	_	5	appos	_	Proper=True
-10	ฟิชชิง	_	PROPN	NN	_	9	flat:name	_	Proper=True
+9	แซลมอน	_	NOUN	NN	_	5	appos	_	Proper=True
+10	ฟิชชิง	_	NOUN	NN	_	9	flat:name	_	Proper=True
 11	อิน	_	ADP	IN	_	13	case	_	Proper=True
 12	เดอะ	_	DET	DT	_	13	det	_	Proper=True
 13	เยเมน	_	PROPN	NNP	_	9	nmod	_	_
@@ -18644,7 +18644,7 @@
 14	ๆ	_	SYM	SYM	_	13	dep	_	_
 15	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No
 16	เดอะ	_	DET	DT	_	17	det	_	Proper=True
-17	มัพเพ็ตส์	_	PROPN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
+17	มัพเพ็ตส์	_	NOUN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
 18	ของ	_	ADP	IN	_	19	case	_	SpaceAfter=No
 19	ดิสนีย์	_	PROPN	NNP	_	17	nmod:poss	_	_
 20	ใน	_	ADP	IN	_	21	case	_	SpaceAfter=No
@@ -18652,7 +18652,7 @@
 22	พนักงาน	_	NOUN	NN	_	21	compound	_	SpaceAfter=No
 23	ต้อนรับ	_	VERB	VV	_	22	acl	_	SpaceAfter=No
 24	ของ	_	ADP	IN	_	25	case	_	SpaceAfter=No
-25	มิส	_	PROPN	NN	_	22	nmod:poss	_	Proper=True|SpaceAfter=No
+25	มิส	_	NOUN	NN	_	22	nmod:poss	_	Proper=True|SpaceAfter=No
 26	พิกกี้	_	PROPN	NNP	_	25	appos	_	_
 
 # sent_id = w01135037
@@ -18668,7 +18668,7 @@
 8	เดอะ	_	DET	DT	_	11	det	_	Proper=True
 9	ไฟฟ์	_	NUM	CD	_	10	nummod	_	Proper=True
 10	เยียร์	_	PROPN	NNB	_	11	obl:tmod	_	Proper=True
-11	เอนเกจเมนต์	_	PROPN	NN	_	4	appos	_	Proper=True
+11	เอนเกจเมนต์	_	NOUN	NN	_	4	appos	_	Proper=True
 12	ที่	_	DET	WDT	_	13	obj	_	SpaceAfter=No
 13	กำกับ	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
 14	โดย	_	ADP	IN	_	15	case	_	SpaceAfter=No
@@ -18996,7 +18996,7 @@
 23	การแยก	_	VERB	VV	_	22	obj	_	SpaceAfter=No
 24	พอโลเนียม	_	NOUN	NN	_	23	obj	_	SpaceAfter=No
 25	ที่	_	ADP	IN	_	26	case	_	SpaceAfter=No
-26	สถาบัน	_	PROPN	NN	_	22	obl	_	Proper=True|SpaceAfter=No
+26	สถาบัน	_	NOUN	NN	_	22	obl	_	Proper=True|SpaceAfter=No
 27	กูรี	_	PROPN	NNP	_	26	flat:name	_	SpaceAfter=No
 28	ใน	_	ADP	IN	_	29	case	_	SpaceAfter=No
 29	ปารีส	_	PROPN	NNP	_	26	nmod	_	_
@@ -19167,11 +19167,11 @@
 23	รวม	_	VERB	VV	_	25	cc	_	SpaceAfter=No
 24	ถึง	_	ADP	IN	_	23	fixed	_	SpaceAfter=No
 25	เอ็ดเวิร์ด	_	PROPN	NNP	_	18	conj	_	SpaceAfter=No
-26	ที่	_	PROPN	NN	_	25	flat:name	_	Proper=True
+26	ที่	_	NOUN	NN	_	25	flat:name	_	Proper=True
 27	4	_	NUM	CD	_	26	nummod	_	Proper=True
 28	และ	_	CCONJ	CC	_	29	cc	_	SpaceAfter=No
 29	ริชาร์ด	_	PROPN	NNP	_	18	conj	_	SpaceAfter=No
-30	ที่	_	PROPN	NN	_	29	flat:name	_	Proper=True
+30	ที่	_	NOUN	NN	_	29	flat:name	_	Proper=True
 31	3	_	NUM	CD	_	30	nummod	_	Proper=True
 32	โจน	_	PROPN	NNP	_	35	nsubj	_	SpaceAfter=No
 33	จึง	_	ADV	RB	_	35	advmod	_	SpaceAfter=No
@@ -19391,7 +19391,7 @@
 14	กลาย	_	VERB	VV	_	2	advcl	_	SpaceAfter=No
 15	เป็น	_	AUX	VC	_	16	cop	_	SpaceAfter=No
 16	ประธานาธิบดี	_	NOUN	NN	_	14	xcomp	_	SpaceAfter=No
-17	สหรัฐ	_	PROPN	NN	_	16	compound	_	Proper=True|SpaceAfter=No
+17	สหรัฐ	_	NOUN	NN	_	16	compound	_	Proper=True|SpaceAfter=No
 18	ฯ	_	PUNCT	...	_	19	punct	_	Proper=True
 19	คน	_	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 20	แรก	_	ADJ	JJ	_	19	amod	_	SpaceAfter=No
@@ -19496,7 +19496,7 @@
 4	ไป	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No
 5	ที่	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	แนชวิลล์	_	PROPN	NNP	_	2	obl	_	_
-7	รัฐ	_	PROPN	NN	_	6	appos	_	Proper=True|SpaceAfter=No
+7	รัฐ	_	NOUN	NN	_	6	appos	_	Proper=True|SpaceAfter=No
 8	เทนเนสซี	_	PROPN	NNP	_	7	flat:name	_	_
 9	ใน	_	ADP	IN	_	10	case	_	SpaceAfter=No
 10	ปี	_	NOUN	NN	_	2	obl	_	_
@@ -19549,7 +19549,7 @@
 30	มา	_	PART	RP	_	22	compound:prt	_	SpaceAfter=No
 31	ได้	_	VERB	MD	_	22	aux	_	SpaceAfter=No
 32	ผ่าน	_	ADP	IN	_	33	case	_	SpaceAfter=No
-33	สกริตตี	_	PROPN	NN	_	22	obl	_	Proper=True
+33	สกริตตี	_	NOUN	NN	_	22	obl	_	Proper=True
 34	โปลิตตี	_	PROPN	NNP	_	33	flat:name	_	SpaceAfter=No
 35	ที่	_	DET	WDT	_	36	nsubj	_	SpaceAfter=No
 36	ตกลง	_	VERB	VV	_	33	acl:relcl	_	SpaceAfter=No
@@ -19617,14 +19617,14 @@
 2	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 3	ที่	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	พูล	_	PROPN	NNP	_	2	obl	_	_
-5	เมือง	_	PROPN	NN	_	4	appos	_	Proper=True|SpaceAfter=No
+5	เมือง	_	NOUN	NN	_	4	appos	_	Proper=True|SpaceAfter=No
 6	ดอร์เซ็ต	_	PROPN	NNP	_	5	flat:name	_	_
 7	แต่	_	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	ไป	_	VERB	VV	_	2	conj	_	SpaceAfter=No
 9	เติบใหญ่	_	VERB	VV	_	8	xcomp	_	SpaceAfter=No
 10	ที่	_	ADP	IN	_	11	case	_	SpaceAfter=No
 11	เวลส์	_	PROPN	NNP	_	9	obl	_	_
-12	เมือง	_	PROPN	NN	_	11	appos	_	Proper=True|SpaceAfter=No
+12	เมือง	_	NOUN	NN	_	11	appos	_	Proper=True|SpaceAfter=No
 13	ซอเมอร์เซ็ต	_	PROPN	NNP	_	12	flat:name	_	_
 14	เป็น	_	AUX	VC	_	15	cop	_	SpaceAfter=No
 15	ส่วน	_	NOUN	NN	_	9	acl	_	SpaceAfter=No
@@ -19684,16 +19684,16 @@
 16	ภาพยนตร์	_	NOUN	NN	_	12	nmod	_	SpaceAfter=No|ToDo=nmod
 17	เรื่อง	_	NOUN	NN	_	16	compound	_	SpaceAfter=No
 18	รวม	_	VERB	VV	_	16	appos	_	Proper=True|SpaceAfter=No
-19	พล	_	PROPN	NN	_	18	obj	_	Proper=True|SpaceAfter=No
+19	พล	_	NOUN	NN	_	18	obj	_	Proper=True|SpaceAfter=No
 20	เพี้ยน	_	ADJ	JJ	_	19	amod	_	Proper=True|SpaceAfter=No
 21	เขย่า	_	VERB	VV	_	18	xcomp	_	Proper=True|SpaceAfter=No
-22	ต่อม	_	PROPN	NN	_	21	obj	_	Proper=True|SpaceAfter=No
-23	จักรวาล	_	PROPN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
+22	ต่อม	_	NOUN	NN	_	21	obj	_	Proper=True|SpaceAfter=No
+23	จักรวาล	_	NOUN	NN	_	22	flat:name	_	Proper=True|SpaceAfter=No
 24	และ	_	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 25	แรมโบ้	_	PROPN	NNP	_	18	conj	_	SpaceAfter=No
-26	พันธุ์	_	PROPN	NN	_	25	flat:name	_	Proper=True|SpaceAfter=No
+26	พันธุ์	_	NOUN	NN	_	25	flat:name	_	Proper=True|SpaceAfter=No
 27	ใหม่	_	ADJ	JJ	_	26	amod	_	Proper=True|SpaceAfter=No
-28	หัวใจ	_	PROPN	NN	_	29	compound	_	Proper=True|SpaceAfter=No
+28	หัวใจ	_	NOUN	NN	_	29	compound	_	Proper=True|SpaceAfter=No
 29	หัด	_	VERB	VV	_	25	acl	_	Proper=True|SpaceAfter=No
 30	แกร่ง	_	VERB	VV	_	29	xcomp	_	Proper=True
 
@@ -19709,7 +19709,7 @@
 7	เรียกร้อง	_	VERB	VV	_	6	acl	_	SpaceAfter=No
 8	ใน	_	ADP	IN	_	9	case	_	SpaceAfter=No
 9	การรับรอง	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No
-10	ประเทศ	_	PROPN	NN	_	9	obj	_	Proper=True|SpaceAfter=No
+10	ประเทศ	_	NOUN	NN	_	9	obj	_	Proper=True|SpaceAfter=No
 11	แอลเบเนีย	_	PROPN	NNP	_	10	flat:name	_	_
 
 # sent_id = w01150045
@@ -19773,7 +19773,7 @@
 5	ชัดเจน	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 6	แล้ว	_	PART	AS	Aspect=Perf	4	aux	_	SpaceAfter=No
 7	ว่า	_	ADP	IN	_	11	mark	_	SpaceAfter=No
-8	จักรวรรดิ	_	PROPN	NN	_	11	nsubj	_	Proper=True|SpaceAfter=No
+8	จักรวรรดิ	_	NOUN	NN	_	11	nsubj	_	Proper=True|SpaceAfter=No
 9	ออตโตมัน	_	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No
 10	ต้อง	_	VERB	MD	_	11	aux	_	SpaceAfter=No
 11	เสีย	_	VERB	VV	_	4	ccomp	_	SpaceAfter=No
@@ -19804,7 +19804,7 @@
 # sent_id = w01150048
 # text = สนธิสัญญาลอนดอนที่ลงนามเมื่อวันที่ 30 พฤษภาคม 1913 ได้แบ่งแยกดินแดนสำคัญๆ ที่แอลเบเนียอ้างสิทธิ์โดยไม่คำนึงถึงองค์ประกอบของกลุ่มชาติพันธุ์ในนั้นระหว่างกลุ่มพันธมิตรบอลข่านโดยลดขนาดดินแดนแอลเบเนียลงจนเหลือแค่ภูมิภาคกลาง
 # english_text = The Treaty of London, signed on 30 May 1913, partitioned significant part of territory claimed by Albania, regardless its ethnic composition, between the Balkan allies reducing the territory of Albania to its central regions.
-1	สนธิสัญญา	_	PROPN	NN	_	12	nsubj	_	Proper=True|SpaceAfter=No
+1	สนธิสัญญา	_	NOUN	NN	_	12	nsubj	_	Proper=True|SpaceAfter=No
 2	ลอนดอน	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	ที่	_	DET	WDT	_	4	nsubj	_	SpaceAfter=No
 4	ลง	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No
@@ -19837,7 +19837,7 @@
 31	ระหว่าง	_	ADP	IN	_	32	case	_	SpaceAfter=No
 32	กลุ่ม	_	NOUN	NN	_	27	nmod	_	SpaceAfter=No
 33	พันธมิตร	_	NOUN	NN	_	32	compound	_	SpaceAfter=No
-34	บอลข่าน	_	PROPN	NN	_	32	compound	_	Proper=True|SpaceAfter=No
+34	บอลข่าน	_	NOUN	NN	_	32	compound	_	Proper=True|SpaceAfter=No
 35	โดย	_	ADP	IN	_	36	mark	_	SpaceAfter=No
 36	ลด	_	VERB	VV	_	12	advcl	_	SpaceAfter=No
 37	ขนาด	_	NOUN	NN	_	36	obj	_	SpaceAfter=No
@@ -19895,7 +19895,7 @@
 # text = น้ำมัน ทองคำ หรือผลิตภัณฑ์อาหารอย่างข้าวสาลี เป็นทรัพยากรธรรมชาติที่นักลงทุนได้ลงทุนหลายพันล้านทั่วโลก
 # english_text = Oil, gold or food products, such as wheat, are natural resources, in which investors invest billions worldwide.
 1	น้ำมัน	_	NOUN	NN	_	10	nsubj	_	_
-2	ทองคำ	_	PROPN	NN	_	1	conj	_	Proper=True
+2	ทองคำ	_	NOUN	NN	_	1	conj	_	Proper=True
 3	หรือ	_	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 4	ผลิตภัณฑ์	_	NOUN	NN	_	1	conj	_	SpaceAfter=No
 5	อาหาร	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
@@ -20100,9 +20100,9 @@
 3	จาก	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	ปาร์กเกอร์	_	PROPN	NNP	_	2	nmod	_	_
 5	เจ้าหน้าที่	_	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
-6	หน่วย	_	PROPN	NN	_	5	compound	_	Proper=True|SpaceAfter=No
+6	หน่วย	_	NOUN	NN	_	5	compound	_	Proper=True|SpaceAfter=No
 7	สืบ	_	VERB	VV	_	6	acl	_	Proper=True|SpaceAfter=No
-8	ราชการ	_	PROPN	NN	_	7	obj	_	Proper=True|SpaceAfter=No
+8	ราชการ	_	NOUN	NN	_	7	obj	_	Proper=True|SpaceAfter=No
 9	ลับ	_	ADJ	JJ	_	8	amod	_	Proper=True|SpaceAfter=No
 10	ของ	_	ADP	IN	_	11	case	_	Proper=True|SpaceAfter=No
 11	รัสเซีย	_	PROPN	NNP	_	6	nmod:poss	_	SpaceAfter=No
@@ -20152,7 +20152,7 @@
 18	ครั้ง	_	NOUN	NNB	_	15	advmod	_	_
 19	นั่น	_	PRON	PRD	_	20	nsubj	_	SpaceAfter=No
 20	คือ	_	VERB	VC	_	15	acl	_	SpaceAfter=No
-21	สหรัฐ	_	PROPN	NN	_	25	nsubj	_	Proper=True|SpaceAfter=No
+21	สหรัฐ	_	NOUN	NN	_	25	nsubj	_	Proper=True|SpaceAfter=No
 22	อเมริกา	_	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No
 23	จะ	_	VERB	MD	_	25	aux	_	SpaceAfter=No
 24	ต้อง	_	VERB	MD	_	25	aux	_	SpaceAfter=No
@@ -20218,8 +20218,8 @@
 3	ชาว	_	NOUN	NN	_	2	compound	_	SpaceAfter=No
 4	ตุรกี	_	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 5	ลาออก	_	VERB	VV	_	11	advcl	_	Proper=True
-6	สภา	_	PROPN	NN	_	11	nsubj	_	Proper=True|SpaceAfter=No
-7	แรงงาน	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+6	สภา	_	NOUN	NN	_	11	nsubj	_	Proper=True|SpaceAfter=No
+7	แรงงาน	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
 8	ตุรกี	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 9	ก็	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
 10	จะ	_	VERB	MD	_	11	aux	_	SpaceAfter=No
@@ -20258,7 +20258,7 @@
 27	ต่าง	_	ADJ	JJ	_	28	amod	_	SpaceAfter=No
 28	ประเทศ	_	NOUN	NN	_	26	compound	_	SpaceAfter=No
 29	ใน	_	ADP	IN	_	30	case	_	SpaceAfter=No
-30	สหรัฐ	_	PROPN	NN	_	22	nmod	_	Proper=True|SpaceAfter=No
+30	สหรัฐ	_	NOUN	NN	_	22	nmod	_	Proper=True|SpaceAfter=No
 31	อเมริกา	_	PROPN	NNP	_	30	flat:name	_	SpaceAfter=No
 32	อยู่	_	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
 33	ใน	_	ADP	IN	_	34	case	_	SpaceAfter=No
@@ -20312,7 +20312,7 @@
 6	อย่างน้อย	_	ADJ	JJ	_	13	advmod	_	SpaceAfter=No
 7	เมื่อ	_	ADP	IN	_	13	mark	_	SpaceAfter=No
 8	เสียง	_	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
-9	ออร์แกน	_	PROPN	NN	_	8	compound	_	Proper=True|SpaceAfter=No
+9	ออร์แกน	_	NOUN	NN	_	8	compound	_	Proper=True|SpaceAfter=No
 10	ชวน	_	VERB	VV	_	8	acl	_	SpaceAfter=No
 11	ขน	_	NOUN	NN	_	10	obj	_	SpaceAfter=No
 12	ลุก	_	VERB	VV	_	11	acl	_	SpaceAfter=No
@@ -20320,12 +20320,12 @@
 14	เพลง	_	NOUN	NN	_	13	obj	_	SpaceAfter=No
 15	ฮิต	_	ADJ	JJ	_	14	amod	_	SpaceAfter=No
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No
-17	ยุค	_	PROPN	NN	_	14	nmod	_	Proper=True
+17	ยุค	_	NOUN	NN	_	14	nmod	_	Proper=True
 18	60	_	NUM	CD	_	17	nummod	_	Proper=True
 19	อย่าง	_	ADP	IN	_	20	case	_	SpaceAfter=No
 20	เพลง	_	NOUN	NN	_	14	nmod	_	_
-21	Monster	_	PROPN	NN	_	20	compound	_	Proper=True
-22	Mash	_	PROPN	NN	_	21	flat:name	_	Proper=True
+21	Monster	_	NOUN	NN	_	20	compound	_	Proper=True
+22	Mash	_	NOUN	NN	_	21	flat:name	_	Proper=True
 
 # sent_id = n02036018
 # text = ฟอน บอยส์ทให้เหตุผลว่าค่าใช้จ่ายสูงขึ้นเพราะขาดการวางแผนอย่างละเอียด
@@ -20570,7 +20570,7 @@
 1	ตาม	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ความเชื่อ	_	VERB	VV	_	16	nmod	_	SpaceAfter=No|ToDo=nmod
 3	ของ	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	ศาสนา	_	PROPN	NN	_	2	obl:poss	_	Proper=True|SpaceAfter=No
+4	ศาสนา	_	NOUN	NN	_	2	obl:poss	_	Proper=True|SpaceAfter=No
 5	คริสต์	_	PROPN	NNP	_	4	flat:name	_	_
 6	หลุม	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 7	ศพ	_	NOUN	NN	_	6	compound	_	SpaceAfter=No
@@ -20786,7 +20786,7 @@
 6	เข้า	_	VERB	VV	_	5	acl	_	SpaceAfter=No
 7	ชิง	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No
 8	ตำแหน่ง	_	NOUN	NN	_	7	obj	_	SpaceAfter=No
-9	ทำเนียบ	_	PROPN	NN	_	8	compound	_	Proper=True|SpaceAfter=No
+9	ทำเนียบ	_	NOUN	NN	_	8	compound	_	Proper=True|SpaceAfter=No
 10	ขาว	_	ADJ	JJ	_	9	amod	_	Proper=True|SpaceAfter=No
 11	คน	_	NOUN	NNB	_	5	clf	_	SpaceAfter=No
 12	ปัจจุบัน	_	NOUN	NN	_	11	obl:tmod	_	_
@@ -20837,11 +20837,11 @@
 5	อำนวยการ	_	VERB	VV	_	4	acl	_	SpaceAfter=No
 6	ทั่วไป	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 7	ของ	_	ADP	IN	_	8	case	_	SpaceAfter=No
-8	องค์การ	_	PROPN	NN	_	4	nmod:poss	_	Proper=True|SpaceAfter=No
+8	องค์การ	_	NOUN	NN	_	4	nmod:poss	_	Proper=True|SpaceAfter=No
 9	นานา	_	ADJ	JJ	_	10	amod	_	Proper=True|SpaceAfter=No
-10	ชาติ	_	PROPN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
+10	ชาติ	_	NOUN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
 11	เพื่อ	_	ADP	IN	_	12	case	_	Proper=True|SpaceAfter=No
-12	พลังงาน	_	PROPN	NN	_	8	nmod	_	Proper=True|SpaceAfter=No
+12	พลังงาน	_	NOUN	NN	_	8	nmod	_	Proper=True|SpaceAfter=No
 13	หมุนเวียน	_	VERB	VV	_	12	acl	_	Proper=True
 14	(	_	PUNCT	(	_	15	punct	_	SpaceAfter=No
 15	IRENA	_	PROPN	NNP	_	8	appos	_	SpaceAfter=No
@@ -20922,7 +20922,7 @@
 5	ของ	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	ลูคัส	_	PROPN	NNP	_	1	nmod:poss	_	_
 7	ครานัค	_	PROPN	NNP	_	6	flat:name	_	_
-8	ผู้	_	PROPN	NN	_	6	appos	_	Proper=True|SpaceAfter=No
+8	ผู้	_	NOUN	NN	_	6	appos	_	Proper=True|SpaceAfter=No
 9	อาวุโส	_	ADJ	JJ	_	8	amod	_	Proper=True
 10	ที่	_	DET	WDT	_	11	obj	_	SpaceAfter=No
 11	จัด	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No
@@ -20951,8 +20951,8 @@
 14	ตาม	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	ข้อมูล	_	NOUN	NN	_	20	obl	_	SpaceAfter=No
 16	ของ	_	ADP	IN	_	17	case	_	SpaceAfter=No
-17	สำนัก	_	PROPN	NN	_	15	nmod:poss	_	Proper=True|SpaceAfter=No
-18	ข่าว	_	PROPN	NN	_	17	flat:name	_	Proper=True
+17	สำนัก	_	NOUN	NN	_	15	nmod:poss	_	Proper=True|SpaceAfter=No
+18	ข่าว	_	NOUN	NN	_	17	flat:name	_	Proper=True
 19	DPA	_	PROPN	NNP	_	17	flat:name	_	_
 20	ระบุ	_	VERB	VV	_	10	acl	_	SpaceAfter=No
 21	ว่า	_	ADP	IN	_	23	mark	_	SpaceAfter=No
@@ -21033,11 +21033,11 @@
 10	ได้	_	PART	AS	Aspect=Perf	11	aux	_	SpaceAfter=No
 11	จัด	_	VERB	VV	_	2	advcl	_	SpaceAfter=No
 12	ให้	_	VERB	VV	_	11	xcomp	_	SpaceAfter=No
-13	มรดก	_	PROPN	NN	_	12	obj	_	Proper=True|SpaceAfter=No
+13	มรดก	_	NOUN	NN	_	12	obj	_	Proper=True|SpaceAfter=No
 14	ทาง	_	ADP	IN	_	15	case	_	Proper=True|SpaceAfter=No
-15	ธรรมชาติ	_	PROPN	NN	_	13	nmod	_	Proper=True|SpaceAfter=No
+15	ธรรมชาติ	_	NOUN	NN	_	13	nmod	_	Proper=True|SpaceAfter=No
 16	แห่ง	_	ADP	IN	_	17	case	_	Proper=True|SpaceAfter=No
-17	ชาติ	_	PROPN	NN	_	13	nmod:poss	_	Proper=True|SpaceAfter=No
+17	ชาติ	_	NOUN	NN	_	13	nmod:poss	_	Proper=True|SpaceAfter=No
 18	เป็น	_	AUX	VC	_	19	cop	_	SpaceAfter=No
 19	เป้าหมาย	_	NOUN	NN	_	12	xcomp	_	SpaceAfter=No
 20	ระดับ	_	NOUN	NN	_	19	compound	_	SpaceAfter=No
@@ -21092,7 +21092,7 @@
 4	ของ	_	ADP	IN	_	5	case	_	SpaceAfter=No
 5	เขา	_	PRON	PRP	Person=3	2	nmod:poss	_	SpaceAfter=No
 6	จาก	_	ADP	IN	_	7	case	_	SpaceAfter=No
-7	พรรค	_	PROPN	NN	_	2	nmod	_	Proper=True|SpaceAfter=No
+7	พรรค	_	NOUN	NN	_	2	nmod	_	Proper=True|SpaceAfter=No
 8	เดโมแครต	_	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
 9	ได้รับ	_	VERB	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	เลือกตั้ง	_	VERB	VV	_	12	advcl	_	_
@@ -21151,7 +21151,7 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	วัน	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 3	อังคาร	_	NOUN	NN	_	2	appos	_	_
-4	สหรัฐ	_	PROPN	NN	_	7	nsubj	_	Proper=True|SpaceAfter=No
+4	สหรัฐ	_	NOUN	NN	_	7	nsubj	_	Proper=True|SpaceAfter=No
 5	อเมริกา	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	อาจ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
 7	เลือก	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -21199,7 +21199,7 @@
 2	อนุรักษนิยม	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 3	อิสลาม	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No
 4	จาก	_	ADP	IN	_	5	case	_	SpaceAfter=No
-5	พรรค	_	PROPN	NN	_	1	nmod	_	Proper=True
+5	พรรค	_	NOUN	NN	_	1	nmod	_	Proper=True
 6	AKP	_	PROPN	NNP	_	5	flat:name	_	_
 7	ได้	_	PART	AS	Aspect=Perf	8	aux	_	SpaceAfter=No
 8	ถือ	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -21268,7 +21268,7 @@
 10	แซงต์-โกดองส์	_	PROPN	NNP	_	7	nmod:poss	_	_
 11	(	_	PUNCT	(	_	13	punct	_	SpaceAfter=No
 12	ใน	_	ADP	IN	_	13	case	_	SpaceAfter=No
-13	แคว้น	_	PROPN	NN	_	10	nmod	_	Proper=True|SpaceAfter=No
+13	แคว้น	_	NOUN	NN	_	10	nmod	_	Proper=True|SpaceAfter=No
 14	โอต์-การอนน์	_	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 15	)	_	PUNCT	)	_	13	punct	_	_
 16	ตัดสินใจ	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -21297,7 +21297,7 @@
 5	ขั้น	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
 6	ต้น	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 7	ของ	_	ADP	IN	_	8	case	_	SpaceAfter=No
-8	พรรค	_	PROPN	NN	_	4	obl:poss	_	Proper=True|SpaceAfter=No
+8	พรรค	_	NOUN	NN	_	4	obl:poss	_	Proper=True|SpaceAfter=No
 9	รีพับลิกัน	_	PROPN	NNP	_	8	flat:name	_	_
 10	ซึ่ง	_	DET	WDT	_	13	advmod	_	SpaceAfter=No
 11	ราชิดา	_	PROPN	NNP	_	13	nsubj	_	_
@@ -21319,8 +21319,8 @@
 2	ข้อความ	_	NOUN	NN	_	8	obl	_	_
 3	อดีต	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 4	รัฐมนตรี	_	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
-5	กระทรวง	_	PROPN	NN	_	4	compound	_	Proper=True|SpaceAfter=No
-6	ยุติธรรม	_	PROPN	NN	_	4	compound	_	Proper=True|SpaceAfter=No
+5	กระทรวง	_	NOUN	NN	_	4	compound	_	Proper=True|SpaceAfter=No
+6	ยุติธรรม	_	NOUN	NN	_	4	compound	_	Proper=True|SpaceAfter=No
 7	ได้	_	PART	AS	Aspect=Perf	8	aux	_	SpaceAfter=No
 8	กล่าวหา	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	บริซ	_	PROPN	NNP	_	8	obj	_	_
@@ -21336,12 +21336,12 @@
 19	โง่เง่า	_	ADJ	JJ	_	17	amod	_	Proper=True|SpaceAfter=No
 20	)	_	PUNCT	)	_	19	punct	_	_
 21	ของ	_	ADP	IN	_	22	case	_	SpaceAfter=No
-22	กระทรวง	_	PROPN	NN	_	17	nmod:poss	_	Proper=True|SpaceAfter=No
+22	กระทรวง	_	NOUN	NN	_	17	nmod:poss	_	Proper=True|SpaceAfter=No
 23	มหาดไทย	_	PROPN	NNP	_	22	flat:name	_	SpaceAfter=No
 24	’	_	PUNCT	''	_	17	punct	_	_
 25	และ	_	CCONJ	CC	_	27	cc	_	Proper=True
 26	‘	_	PUNCT	``	_	25	punct	_	SpaceAfter=No
-27	อันธพาล	_	PROPN	NN	_	14	conj	_	Proper=True|SpaceAfter=No
+27	อันธพาล	_	NOUN	NN	_	14	conj	_	Proper=True|SpaceAfter=No
 28	’	_	PUNCT	''	_	27	punct	_	_
 
 # sent_id = n03006003
@@ -21407,7 +21407,7 @@
 # sent_id = n03006028
 # text = สหภาพฟอร์ซ อูฟริแยร์เสียดายที่คำพูดของกลุ่มเกี่ยวกับเนื้อหาของคู่มือไม่ได้รวมอยู่ด้วย “จริง ๆ แล้วไม่ได้มีการปรึกษาอะไรกันเลย” นางกิลลาร์ดพูด
 # english_text = The Force Ouvrière union regrets that its remarks on the content of the guide were not included: "There wasn't really any consultation," said Ms. Gillard.
-1	สหภาพ	_	PROPN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
+1	สหภาพ	_	NOUN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
 2	ฟอร์ซ	_	PROPN	NNP	_	1	flat:name	_	_
 3	อูฟริแยร์	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 4	เสียดาย	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -21496,8 +21496,8 @@
 4	ยื่น	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	อุทธรณ์	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
 6	ซึ่ง	_	DET	WDT	_	12	obj	_	SpaceAfter=No
-7	ศาล	_	PROPN	NN	_	12	nsubj	_	Proper=True|SpaceAfter=No
-8	ยุติธรรม	_	PROPN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No
+7	ศาล	_	NOUN	NN	_	12	nsubj	_	Proper=True|SpaceAfter=No
+8	ยุติธรรม	_	NOUN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No
 9	สูง	_	ADJ	JJ	_	7	amod	_	Proper=True|SpaceAfter=No
 10	สุด	_	ADV	RB	_	9	advmod	_	Proper=True|SpaceAfter=No
 11	ไม่	_	PART	NEG	Polarity=Neg	12	advmod	_	SpaceAfter=No
@@ -21608,7 +21608,7 @@
 # sent_id = n03009011
 # text = สภาดิจิทัลฝรั่งเศสซึ่งให้คำแนะนำในการร่างกฎหมายที่สอดคล้องกับคำถามเกี่ยวกับเทคโนโลยีดิจิทัล ก็สามารถตรวจสอบได้เช่นกัน
 # english_text = The French Digital Council, which advises on bills in line with questions of digital technology, could also scrutinise it.
-1	สภา	_	PROPN	NN	_	22	nsubj	_	Proper=True|SpaceAfter=No
+1	สภา	_	NOUN	NN	_	22	nsubj	_	Proper=True|SpaceAfter=No
 2	ดิจิทัล	_	ADJ	JJ	_	1	amod	_	Proper=True|SpaceAfter=No
 3	ฝรั่งเศส	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 4	ซึ่ง	_	DET	WDT	_	5	nsubj	_	SpaceAfter=No
@@ -21695,7 +21695,7 @@
 15	ครอบครัว	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
 16	คาทอลิก	_	PROPN	NNP	_	15	compound	_	SpaceAfter=No
 17	ต่อต้าน	_	VERB	VV	_	16	acl	_	SpaceAfter=No
-18	ลัทธิ	_	PROPN	NN	_	17	obj	_	Proper=True|SpaceAfter=No
+18	ลัทธิ	_	NOUN	NN	_	17	obj	_	Proper=True|SpaceAfter=No
 19	ฟาสซิสม์	_	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No
 20	ที่	_	DET	WDT	_	22	nsubj:pass	_	SpaceAfter=No
 21	ถูก	_	VERB	MD	Voice=Pass	22	aux:pass	_	SpaceAfter=No
@@ -21721,7 +21721,7 @@
 5	ได้	_	PART	AS	Aspect=Perf	6	aux	_	SpaceAfter=No
 6	ใกล้ชิด	_	ADJ	JJ	_	2	acl:relcl	_	SpaceAfter=No
 7	กับ	_	ADP	IN	_	8	case	_	SpaceAfter=No
-8	สภา	_	PROPN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
+8	สภา	_	NOUN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
 9	คาทอลิก	_	PROPN	NNP	_	8	flat:name	_	_
 10	ทีนา	_	PROPN	NNP	_	12	nsubj	_	_
 11	อันเซลมี	_	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No
@@ -21911,7 +21911,7 @@
 8	สูง	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 9	สุด	_	ADV	RB	_	8	advmod	_	SpaceAfter=No
 10	ของ	_	ADP	IN	_	11	case	_	SpaceAfter=No
-11	สหภาพ	_	PROPN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
+11	สหภาพ	_	NOUN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
 12	ยุโรป	_	PROPN	NNP	_	11	flat:name	_	_
 
 # sent_id = n04006014
@@ -22021,8 +22021,8 @@
 7	อำนาจ	_	NOUN	NN	_	0	root	_	SpaceAfter=No
 8	พิเศษ	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 9	ของ	_	ADP	IN	_	10	case	_	SpaceAfter=No
-10	ธนาคาร	_	PROPN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
-11	กลาง	_	PROPN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
+10	ธนาคาร	_	NOUN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
+11	กลาง	_	NOUN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
 12	ยุโรป	_	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No
 13	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 14	คง	_	VERB	MD	_	16	aux	_	SpaceAfter=No
@@ -22095,7 +22095,7 @@
 1	นัก	_	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 2	ศึกษา	_	VERB	VV	_	1	acl	_	SpaceAfter=No
 3	จาก	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	มหาวิทยาลัย	_	PROPN	NN	_	1	nmod	_	Proper=True
+4	มหาวิทยาลัย	_	NOUN	NN	_	1	nmod	_	Proper=True
 5	LUISS	_	PROPN	NNP	_	4	flat:name	_	_
 6	ได้	_	PART	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 7	รับทราบ	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -22138,7 +22138,7 @@
 3	สี่	_	NUM	CD	_	4	nummod	_	SpaceAfter=No
 4	คน	_	NOUN	NNB	_	1	clf	_	SpaceAfter=No
 5	จาก	_	ADP	IN	_	6	case	_	SpaceAfter=No
-6	มหาวิทยาลัย	_	PROPN	NN	_	1	nmod	_	Proper=True|SpaceAfter=No
+6	มหาวิทยาลัย	_	NOUN	NN	_	1	nmod	_	Proper=True|SpaceAfter=No
 7	โรม่า	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	เตร	_	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
 9	ได้	_	PART	AS	Aspect=Perf	10	aux	_	SpaceAfter=No
@@ -22295,7 +22295,7 @@
 19	เหนือ	_	ADP	IN	_	18	fixed	_	SpaceAfter=No
 20	จาก	_	ADP	IN	_	18	fixed	_	SpaceAfter=No
 21	เมาเทนวิว	_	PROPN	NNP	_	16	nmod	_	SpaceAfter=No
-22	ซัมมิท	_	PROPN	NN	_	21	flat:name	_	Proper=True
+22	ซัมมิท	_	NOUN	NN	_	21	flat:name	_	Proper=True
 
 # sent_id = n05001005
 # text = คริสตินา ซิฟูเอ็นเตส ประธานของชุมชนมาดริด เป็นตัวแทนความอนุรักษ์นิยมอย่างที่สุด ในขณะที่บรรดาผู้นำของพรรคอย่างรองปลัดกระทรวง คาเบียร์ มาโรโต เป็นตัวแทนหัวก้าวหน้าอย่างที่สุด
@@ -22304,7 +22304,7 @@
 2	ซิฟูเอ็นเตส	_	PROPN	NNP	_	1	flat:name	_	_
 3	ประธาน	_	NOUN	NN	_	1	appos	_	SpaceAfter=No
 4	ของ	_	ADP	IN	_	5	case	_	SpaceAfter=No
-5	ชุมชน	_	PROPN	NN	_	3	nmod:poss	_	Proper=True|SpaceAfter=No
+5	ชุมชน	_	NOUN	NN	_	3	nmod:poss	_	Proper=True|SpaceAfter=No
 6	มาดริด	_	PROPN	NNP	_	5	flat:name	_	_
 7	เป็น	_	AUX	VC	_	8	cop	_	SpaceAfter=No
 8	ตัว	_	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -22404,7 +22404,7 @@
 # sent_id = n05002017
 # text = สหภาพต่างๆ ได้ต่อสู้อย่างหนัก และหลายครั้งก็เรียกร้องการยกเลิกการออกกฎหมายที่ฟาติมา บาเยซมีความภูมิใจเป็นที่สุด
 # english_text = The unions have been very combative and on several occasions have called for the repeal of the legislation that Fátima Báñez is proudest of.
-1	สหภาพ	_	PROPN	NN	_	5	nsubj	_	Proper=True|SpaceAfter=No
+1	สหภาพ	_	NOUN	NN	_	5	nsubj	_	Proper=True|SpaceAfter=No
 2	ต่าง	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	ๆ	_	SYM	SYM	_	2	dep	_	_
 4	ได้	_	PART	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
@@ -22463,8 +22463,8 @@
 1	รัฐมนตรี	_	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 2	ว่า	_	VERB	VV	_	1	acl	_	SpaceAfter=No
 3	การ	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
-4	กระทรวง	_	PROPN	NN	_	1	compound	_	Proper=True|SpaceAfter=No
-5	กลาโหม	_	PROPN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
+4	กระทรวง	_	NOUN	NN	_	1	compound	_	Proper=True|SpaceAfter=No
+5	กลาโหม	_	NOUN	NN	_	4	flat:name	_	Proper=True|SpaceAfter=No
 6	ได้	_	PART	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 7	อนุญาต	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	ให้	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No
@@ -23053,7 +23053,7 @@
 18	การสิ้นสุด	_	VERB	VV	_	16	obl	_	SpaceAfter=No
 19	ของ	_	ADP	IN	_	20	case	_	SpaceAfter=No
 20	สงคราม	_	NOUN	NN	_	18	obl:poss	_	SpaceAfter=No
-21	โลก	_	PROPN	NN	_	20	compound	_	Proper=True|SpaceAfter=No
+21	โลก	_	NOUN	NN	_	20	compound	_	Proper=True|SpaceAfter=No
 22	ครั้ง	_	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 23	ที่	_	NOUN	NN	_	22	compound	_	SpaceAfter=No
 24	สอง	_	NUM	CD	_	23	nummod	_	_
@@ -23077,7 +23077,7 @@
 14	จอร์จ	_	PROPN	NNP	_	10	appos	_	_
 15	ไรเคนบาค	_	PROPN	NNP	_	10	flat:name	_	_
 16	โดย	_	ADP	IN	_	17	case	_	SpaceAfter=No
-17	รัฐ	_	PROPN	NN	_	7	obl	_	Proper=True|SpaceAfter=No
+17	รัฐ	_	NOUN	NN	_	7	obl	_	Proper=True|SpaceAfter=No
 18	เวือร์ทเทมแบร์ก	_	PROPN	NNP	_	17	flat:name	_	_
 19	พร้อม	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 20	ข้อ	_	NOUN	NN	_	7	conj	_	SpaceAfter=No
@@ -23125,11 +23125,11 @@
 5	อาราม	_	NOUN	NN	_	0	root	_	SpaceAfter=No
 6	เก่า	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 7	จาก	_	ADP	IN	_	8	case	_	SpaceAfter=No
-8	โบสถ์	_	PROPN	NN	_	5	nmod	_	Proper=True|SpaceAfter=No|ToDo=nmod
-9	เซนต์	_	PROPN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
+8	โบสถ์	_	NOUN	NN	_	5	nmod	_	Proper=True|SpaceAfter=No|ToDo=nmod
+9	เซนต์	_	NOUN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No
 10	ปีเตอร์	_	PROPN	NNP	_	9	appos	_	SpaceAfter=No
 11	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No
-12	เซนต์	_	PROPN	NN	_	9	conj	_	Proper=True|SpaceAfter=No
+12	เซนต์	_	NOUN	NN	_	9	conj	_	Proper=True|SpaceAfter=No
 13	ปอล	_	PROPN	NNP	_	12	appos	_	_
 
 # sent_id = w02004021
@@ -23154,7 +23154,7 @@
 17	การตกแต่ง	_	VERB	VV	_	16	obj	_	SpaceAfter=No
 18	ใหม่	_	ADJ	JJ	_	17	amod	_	SpaceAfter=No
 19	หลัง	_	ADP	IN	_	20	case	_	SpaceAfter=No
-20	สงคราม	_	PROPN	NN	_	16	obl	_	Proper=True|SpaceAfter=No
+20	สงคราม	_	NOUN	NN	_	16	obl	_	Proper=True|SpaceAfter=No
 21	สาม	_	NUM	CD	_	22	nummod	_	Proper=True|SpaceAfter=No
 22	สิบ	_	NUM	CD	_	23	nummod	_	Proper=True|SpaceAfter=No
 23	ปี	_	PROPN	NNB	_	20	obl:tmod	_	Proper=True
@@ -23180,7 +23180,7 @@
 1	สวน	_	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 2	สาธารณะ	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	โกลเด้น	_	ADJ	JJ	_	4	amod	_	Proper=True|SpaceAfter=No
-4	เกต	_	PROPN	NN	_	1	compound	_	Proper=True|SpaceAfter=No
+4	เกต	_	NOUN	NN	_	1	compound	_	Proper=True|SpaceAfter=No
 5	ซึ่ง	_	DET	WDT	_	6	nsubj	_	SpaceAfter=No
 6	มี	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No
 7	ความยาว	_	ADJ	JJ	_	6	obj	_	SpaceAfter=No
@@ -23273,8 +23273,8 @@
 3	ทั่วไป	_	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	ปี	_	NOUN	NN	_	2	obl:tmod	_	_
 5	2010	_	NUM	CD	_	4	appos	_	_
-6	พรรค	_	PROPN	NN	_	9	nsubj	_	Proper=True|SpaceAfter=No
-7	แรงงาน	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+6	พรรค	_	NOUN	NN	_	9	nsubj	_	Proper=True|SpaceAfter=No
+7	แรงงาน	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
 8	สามารถ	_	VERB	MD	_	9	aux	_	SpaceAfter=No
 9	เอาชนะ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 10	ได้	_	VERB	MD	_	9	aux	_	SpaceAfter=No
@@ -23322,7 +23322,7 @@
 18	บอสฟอรัส	_	PROPN	NNP	_	17	obj	_	SpaceAfter=No
 19	โดย	_	ADP	IN	_	20	mark	_	SpaceAfter=No
 20	สร้าง	_	VERB	VV	_	17	advcl	_	SpaceAfter=No
-21	คลอง	_	PROPN	NN	_	20	obj	_	Proper=True|SpaceAfter=No
+21	คลอง	_	NOUN	NN	_	20	obj	_	Proper=True|SpaceAfter=No
 22	อิสตันบูล	_	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No
 23	ขนาน	_	VERB	VV	_	20	acl	_	SpaceAfter=No
 24	ไป	_	PART	RP	_	23	compound:prt	_	SpaceAfter=No
@@ -23356,7 +23356,7 @@
 # sent_id = w02007074
 # text = จักรวรรดิออตโตมันและรัสเซียไม่ได้รับอนุญาตให้แล่นเรือรบเดินสมุทรของพวกเขาในทะเลดำ
 # english_text = The Ottoman Empire and Russia were denied permission to keep their war fleet in the Black Sea.
-1	จักรวรรดิ	_	PROPN	NN	_	7	nsubj:pass	_	Proper=True|SpaceAfter=No
+1	จักรวรรดิ	_	NOUN	NN	_	7	nsubj:pass	_	Proper=True|SpaceAfter=No
 2	ออตโตมัน	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	และ	_	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 4	รัสเซีย	_	PROPN	NNP	_	1	conj	_	SpaceAfter=No
@@ -23442,8 +23442,8 @@
 8	รู้จัก	_	VERB	VV	_	7	acl	_	SpaceAfter=No
 9	ที่สุด	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
 10	จาก	_	ADP	IN	_	11	case	_	SpaceAfter=No
-11	ยุค	_	PROPN	NN	_	4	nmod	_	Proper=True|SpaceAfter=No
-12	ทองแดง	_	PROPN	NN	_	11	flat:name	_	Proper=True|SpaceAfter=No
+11	ยุค	_	NOUN	NN	_	4	nmod	_	Proper=True|SpaceAfter=No
+12	ทองแดง	_	NOUN	NN	_	11	flat:name	_	Proper=True|SpaceAfter=No
 13	คือ	_	AUX	VC	_	14	cop	_	SpaceAfter=No
 14	เอิตซี	_	PROPN	NNP	_	1	ccomp	_	_
 15	มัมมี่	_	NOUN	NN	_	14	appos	_	SpaceAfter=No
@@ -23504,11 +23504,11 @@
 9	ที่	_	PRON	PRP	_	0	root	_	SpaceAfter=No
 10	ตื่นตระหนก	_	VERB	VV	_	9	acl	_	SpaceAfter=No
 11	ต่อ	_	ADP	IN	_	12	case	_	SpaceAfter=No
-12	ศาล	_	PROPN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
+12	ศาล	_	NOUN	NN	_	10	obl	_	Proper=True|SpaceAfter=No
 13	และ	_	CCONJ	CC	_	14	cc	_	Proper=True|SpaceAfter=No
-14	สมัชชา	_	PROPN	NN	_	12	conj	_	Proper=True|SpaceAfter=No
+14	สมัชชา	_	NOUN	NN	_	12	conj	_	Proper=True|SpaceAfter=No
 15	แห่ง	_	ADP	IN	_	16	case	_	Proper=True|SpaceAfter=No
-16	ชาติ	_	PROPN	NN	_	12	nmod:poss	_	Proper=True|SpaceAfter=No
+16	ชาติ	_	NOUN	NN	_	12	nmod:poss	_	Proper=True|SpaceAfter=No
 17	ใน	_	ADP	IN	_	18	case	_	SpaceAfter=No
 18	แวร์ซาย	_	PROPN	NNP	_	12	nmod	_	_
 
@@ -23611,10 +23611,10 @@
 # sent_id = w02012042
 # text = สงครามโลกครั้งที่ 1 ได้นำมาซึ่งความเปลี่ยนแปลงและการพัฒนาใหม่ๆในการเมืองยุคอาณานิคม
 # english_text = The First World War brought about shifts and new developments in colonial politics.
-1	สงคราม	_	PROPN	NN	_	7	nsubj	_	Proper=True|SpaceAfter=No
-2	โลก	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+1	สงคราม	_	NOUN	NN	_	7	nsubj	_	Proper=True|SpaceAfter=No
+2	โลก	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 3	ครั้ง	_	PROPN	NNB	_	1	clf	_	Proper=True|SpaceAfter=No
-4	ที่	_	PROPN	NN	_	3	flat:name	_	Proper=True
+4	ที่	_	NOUN	NN	_	3	flat:name	_	Proper=True
 5	1	_	NUM	CD	_	4	nummod	_	_
 6	ได้	_	PART	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 7	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -23635,7 +23635,7 @@
 # text = การปฏิวัติอุตสาหกรรมเกิดขึ้นในบริเตนใหญ่ก่อนประเทศอื่นๆ
 # english_text = The Industrial Revolution took place in Great Britain earlier than in any other country.
 1	การปฏิวัติ	_	VERB	VV	_	3	csubj	_	Proper=True|SpaceAfter=No
-2	อุตสาหกรรม	_	PROPN	NN	_	1	obj	_	Proper=True|SpaceAfter=No
+2	อุตสาหกรรม	_	NOUN	NN	_	1	obj	_	Proper=True|SpaceAfter=No
 3	เกิด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ขึ้น	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No
@@ -23648,7 +23648,7 @@
 # sent_id = w02013033
 # text = วิกฤตการณ์สุเอซได้แสดงให้เห็นถึงขอบเขตของอำนาจอาณานิคมเก่าอย่างบริเตนใหญ่และฝรั่งเศสในโลกที่กำลังเปลี่ยนแปลง
 # english_text = The Suez Crisis showed the limits of the old colonial powers such as Great Britain and France in a changing world.
-1	วิกฤตการณ์	_	PROPN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
+1	วิกฤตการณ์	_	NOUN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
 2	สุเอซ	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	ได้	_	PART	AS	Aspect=Perf	4	aux	_	SpaceAfter=No
 4	แสดง	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -23678,10 +23678,10 @@
 3	การยึด	_	VERB	VV	_	14	xcomp	_	SpaceAfter=No
 4	อำนาจ	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	โดย	_	ADP	IN	_	6	case	_	SpaceAfter=No
-6	พรรค	_	PROPN	NN	_	3	obl	_	Proper=True|SpaceAfter=No
-7	สังคมนิยม	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+6	พรรค	_	NOUN	NN	_	3	obl	_	Proper=True|SpaceAfter=No
+7	สังคมนิยม	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
 8	แห่ง	_	ADP	IN	_	9	case	_	Proper=True|SpaceAfter=No
-9	ชาติ	_	PROPN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
+9	ชาติ	_	NOUN	NN	_	7	nmod:poss	_	Proper=True|SpaceAfter=No
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No
 11	ปี	_	NOUN	NN	_	3	obl	_	_
 12	1933	_	NUM	CD	_	11	appos	_	_
@@ -23761,7 +23761,7 @@
 7	กษัตริย์	_	NOUN	NN	_	5	conj	_	SpaceAfter=No
 8	ฟรานซ์	_	PROPN	NNP	_	7	appos	_	_
 9	โยเซฟ	_	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
-10	ที่	_	PROPN	NN	_	7	flat:name	_	Proper=True
+10	ที่	_	NOUN	NN	_	7	flat:name	_	Proper=True
 11	1	_	NUM	CD	_	10	nummod	_	Proper=True
 12	ทรง	_	VERB	MD	_	13	aux	_	SpaceAfter=No
 13	ดูแล	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -23781,8 +23781,8 @@
 # sent_id = w02015084
 # text = สำนักสงฆ์ดิซีโบเดนเบิร์กถูกทุบและถล่มลงมาเป็นซากปรักหักพังเนื่องจากการปฏิรูป
 # english_text = The Disibodenberg cloister was disbanded and fell into ruin as a result of the Reformation.
-1	สำนัก	_	PROPN	NN	_	5	nsubj:pass	_	Proper=True|SpaceAfter=No
-2	สงฆ์	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+1	สำนัก	_	NOUN	NN	_	5	nsubj:pass	_	Proper=True|SpaceAfter=No
+2	สงฆ์	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 3	ดิซีโบเดนเบิร์ก	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 4	ถูก	_	VERB	MD	Voice=Pass	5	aux:pass	_	SpaceAfter=No
 5	ทุบ	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -23820,16 +23820,16 @@
 # sent_id = w02015086
 # text = สำนักสงฆ์รูเพิร์ตสเบิร์กถูกทำลายระหว่างสงครามสามสิบปีในปี 1632 โดยกองทหารสวีเดน
 # english_text = The Rupertsberg cloister was destroyed during the Thirty Years' War in 1632 by Swedish troops.
-1	สำนัก	_	PROPN	NN	_	5	nsubj:pass	_	Proper=True|SpaceAfter=No
-2	สงฆ์	_	PROPN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
+1	สำนัก	_	NOUN	NN	_	5	nsubj:pass	_	Proper=True|SpaceAfter=No
+2	สงฆ์	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 3	รูเพิร์ตสเบิร์ก	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 4	ถูก	_	VERB	MD	Voice=Pass	5	aux:pass	_	SpaceAfter=No
 5	ทำลาย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	ระหว่าง	_	ADP	IN	_	7	case	_	SpaceAfter=No
-7	สงคราม	_	PROPN	NN	_	5	obl	_	Proper=True|SpaceAfter=No
+7	สงคราม	_	NOUN	NN	_	5	obl	_	Proper=True|SpaceAfter=No
 8	สาม	_	NUM	CD	_	9	nummod	_	Proper=True|SpaceAfter=No
 9	สิบ	_	NUM	CD	_	10	nummod	_	Proper=True|SpaceAfter=No
-10	ปี	_	PROPN	NN	_	7	obl:tmod	_	Proper=True|SpaceAfter=No
+10	ปี	_	NOUN	NN	_	7	obl:tmod	_	Proper=True|SpaceAfter=No
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	ปี	_	NOUN	NN	_	5	obl	_	_
 13	1632	_	NUM	CD	_	12	appos	_	_
@@ -23850,8 +23850,8 @@
 7	เข้า	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 8	ไป	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 9	ที่	_	ADP	IN	_	10	case	_	SpaceAfter=No
-10	สำนัก	_	PROPN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
-11	สงฆ์	_	PROPN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
+10	สำนัก	_	NOUN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
+11	สงฆ์	_	NOUN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No
 12	ไอบิงเงิน	_	PROPN	NNP	_	10	flat:name	_	_
 
 # sent_id = w02015088
@@ -23881,7 +23881,7 @@
 8	เซ็น	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	สัญญา	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	กับ	_	ADP	IN	_	11	case	_	SpaceAfter=No
-11	ทีม	_	PROPN	NN	_	8	obl	_	Proper=True|SpaceAfter=No
+11	ทีม	_	NOUN	NN	_	8	obl	_	Proper=True|SpaceAfter=No
 12	เทเลคอม	_	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No
 13	และ	_	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	ย้าย	_	VERB	VV	_	8	conj	_	SpaceAfter=No
@@ -23909,7 +23909,7 @@
 # text = ในกีฬาโอลิมปิกปี 2004 ที่เอเธนส์ อุลริชผู้ชนะการแข่งรถได้ไล่ตามเป้าหมายที่จะครองเหรียญทองเหรียญที่สอง
 # english_text = At the Olympic Games in 2004 in Athens, Ulrich, as winner of the street race, pursued the goal of winning his second gold medal.
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
-2	กีฬา	_	PROPN	NN	_	14	obl	_	Proper=True|SpaceAfter=No
+2	กีฬา	_	NOUN	NN	_	14	obl	_	Proper=True|SpaceAfter=No
 3	โอลิมปิก	_	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
 4	ปี	_	NOUN	NN	_	2	obl:tmod	_	_
 5	2004	_	NUM	CD	_	4	appos	_	_
@@ -23999,7 +23999,7 @@
 7	รางวัล	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
 8	วรรณกรรม	_	NOUN	NN	_	7	compound	_	SpaceAfter=No
 9	จาก	_	ADP	IN	_	10	case	_	SpaceAfter=No
-10	เมือง	_	PROPN	NN	_	7	nmod	_	Proper=True|SpaceAfter=No
+10	เมือง	_	NOUN	NN	_	7	nmod	_	Proper=True|SpaceAfter=No
 11	โคโลญจ์	_	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No
 12	และ	_	CCONJ	CC	_	13	cc	_	SpaceAfter=No
 13	เบรเมน	_	PROPN	NNP	_	11	conj	_	_
@@ -24050,11 +24050,11 @@
 7	เขา	_	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No
 8	ได้	_	PART	AS	Aspect=Perf	9	aux	_	SpaceAfter=No
 9	รับ	_	VERB	VV	_	0	root	_	SpaceAfter=No
-10	เหรียญ	_	PROPN	NN	_	9	obj	_	Proper=True|SpaceAfter=No
+10	เหรียญ	_	NOUN	NN	_	9	obj	_	Proper=True|SpaceAfter=No
 11	เชิดชู	_	VERB	VV	_	10	acl	_	Proper=True|SpaceAfter=No
-12	เกียรติ	_	PROPN	NN	_	11	obj	_	Proper=True
+12	เกียรติ	_	NOUN	NN	_	11	obj	_	Proper=True
 13	อเมริกัน	_	PROPN	NNP	_	10	appos	_	_
-14	เฟรนด์ชิพ	_	PROPN	NN	_	13	flat:name	_	Proper=True
+14	เฟรนด์ชิพ	_	NOUN	NN	_	13	flat:name	_	Proper=True
 15	สำหรับ	_	ADP	IN	_	17	case	_	SpaceAfter=No
 16	ความเป็น	_	AUX	VC	_	17	cop	_	SpaceAfter=No
 17	กันเอง	_	ADJ	JJ	_	9	obl	_	SpaceAfter=No
@@ -24139,7 +24139,7 @@
 # sent_id = w03002055
 # text = องค์การนิรโทษกรรมสากลอ้างอิงบทความหนังสือพิมพ์ปี 2008 ว่ามีการฆาตกรรมกว่าห้าสิบคนจากการถูกกล่าวหาว่าเป็นแม่มด
 # english_text = Amnesty International cites newspaper articles from 2008 describing the murder of fifty people accused of witchcraft.
-1	องค์การ	_	PROPN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
+1	องค์การ	_	NOUN	NN	_	4	nsubj	_	Proper=True|SpaceAfter=No
 2	นิรโทษกรรม	_	VERB	VV	_	1	acl	_	Proper=True|SpaceAfter=No
 3	สากล	_	ADJ	JJ	_	1	amod	_	Proper=True|SpaceAfter=No
 4	อ้างอิง	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -24168,7 +24168,7 @@
 2	เบลลิงส์เฮาเซน	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	มอง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	เห็น	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
-5	ทวีป	_	PROPN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
+5	ทวีป	_	NOUN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
 6	แอนตาร์กติกา	_	PROPN	NNP	_	5	flat:name	_	SpaceAfter=No
 7	ครั้ง	_	NOUN	NNB	_	4	advmod	_	SpaceAfter=No
 8	แรก	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No
@@ -24248,7 +24248,7 @@
 10	ต่าง	_	ADJ	JJ	_	9	amod	_	SpaceAfter=No
 11	ๆ	_	SYM	SYM	_	10	dep	_	_
 12	ของ	_	ADP	IN	_	13	case	_	SpaceAfter=No
-13	สาธารณรัฐ	_	PROPN	NN	_	9	nmod:poss	_	Proper=True|SpaceAfter=No
+13	สาธารณรัฐ	_	NOUN	NN	_	9	nmod:poss	_	Proper=True|SpaceAfter=No
 14	โรมัน	_	PROPN	NNP	_	13	flat:name	_	_
 15	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 16	มอส	_	PROPN	NNP	_	7	conj	_	SpaceAfter=No
@@ -24291,7 +24291,7 @@
 9	ถือกำเนิด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 11	จาก	_	ADP	IN	_	12	case	_	SpaceAfter=No
-12	ยุค	_	PROPN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
+12	ยุค	_	NOUN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
 13	มืด	_	ADJ	JJ	_	12	amod	_	Proper=True|SpaceAfter=No
 14	หลัง	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	การล่มสลาย	_	VERB	VV	_	9	obl	_	SpaceAfter=No
@@ -24426,7 +24426,7 @@
 # english_text = In the Middle Ages, most Christians did not have access to the Bible in their mother tongue.
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ช่วง	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
-3	ยุค	_	PROPN	NN	_	2	compound	_	Proper=True|SpaceAfter=No
+3	ยุค	_	NOUN	NN	_	2	compound	_	Proper=True|SpaceAfter=No
 4	กลาง	_	ADJ	JJ	_	3	amod	_	Proper=True
 5	ชาว	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 6	คริสต์	_	PROPN	NNP	_	5	compound	_	SpaceAfter=No
@@ -24489,7 +24489,7 @@
 11	พาณิชย์	_	NOUN	NN	_	10	compound	_	SpaceAfter=No
 12	ตลอด	_	ADP	IN	_	13	case	_	SpaceAfter=No
 13	แนว	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
-14	ทะเล	_	PROPN	NN	_	13	compound	_	Proper=True|SpaceAfter=No
+14	ทะเล	_	NOUN	NN	_	13	compound	_	Proper=True|SpaceAfter=No
 15	เมดิเตอร์เรเนียน	_	PROPN	NNP	_	13	compound	_	_
 16	ซึ่ง	_	DET	WDT	_	18	nsubj	_	SpaceAfter=No
 17	เป็น	_	AUX	VC	_	18	cop	_	SpaceAfter=No
@@ -24543,7 +24543,7 @@
 13	การลด	_	VERB	VV	_	20	xcomp	_	SpaceAfter=No
 14	ความกดดัน	_	VERB	VV	_	13	obj	_	SpaceAfter=No
 15	ใน	_	ADP	IN	_	16	case	_	SpaceAfter=No
-16	ยุคสมัย	_	PROPN	NN	_	14	obl	_	Proper=True|SpaceAfter=No
+16	ยุคสมัย	_	NOUN	NN	_	14	obl	_	Proper=True|SpaceAfter=No
 17	แห่ง	_	ADP	IN	_	18	case	_	Proper=True|SpaceAfter=No
 18	ความน่าสะพรึงกลัว	_	VERB	VV	_	16	nmod:poss	_	Proper=True
 19	เขา	_	PRON	PRP	Person=3	20	nsubj	_	SpaceAfter=No
@@ -24634,7 +24634,7 @@
 4	จาก	_	ADP	IN	_	6	case	_	SpaceAfter=No
 5	ทุก	_	DET	DT	_	6	det	_	SpaceAfter=No
 6	สิ่ง	_	NOUN	NNB	_	2	obl	_	_
-7	ตระกูล	_	PROPN	NN	_	10	nsubj	_	Proper=True|SpaceAfter=No
+7	ตระกูล	_	NOUN	NN	_	10	nsubj	_	Proper=True|SpaceAfter=No
 8	เรอมิส	_	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
 9	จึง	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
 10	ไป	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -24839,7 +24839,7 @@
 2	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 3	อยู่	_	PART	AS	Aspect=Prog	2	aux	_	SpaceAfter=No
 4	บน	_	ADP	IN	_	5	case	_	SpaceAfter=No
-5	รอย	_	PROPN	NN	_	2	obl	_	Proper=True|SpaceAfter=No
+5	รอย	_	NOUN	NN	_	2	obl	_	Proper=True|SpaceAfter=No
 6	เลื่อน	_	VERB	VV	_	5	acl	_	Proper=True|SpaceAfter=No
 7	อินโด-ออสเตรเลียน	_	PROPN	NNP	_	5	flat:name	_	_
 8	ซึ่ง	_	ADP	IN	_	12	mark	_	SpaceAfter=No
@@ -24854,8 +24854,8 @@
 17	การปะทะ	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No
 18	กัน	_	PRON	PRP	_	17	obj	_	SpaceAfter=No
 19	ระหว่าง	_	ADP	IN	_	20	case	_	SpaceAfter=No
-20	แผ่น	_	PROPN	NN	_	17	obl	_	Proper=True|SpaceAfter=No
-21	เปลือก	_	PROPN	NN	_	20	flat:name	_	Proper=True|SpaceAfter=No
+20	แผ่น	_	NOUN	NN	_	17	obl	_	Proper=True|SpaceAfter=No
+21	เปลือก	_	NOUN	NN	_	20	flat:name	_	Proper=True|SpaceAfter=No
 22	โลก	_	PROPN	NNP	_	20	flat:name	_	SpaceAfter=No
 23	อินเดีย	_	PROPN	NNP	_	20	flat:name	_	SpaceAfter=No
 24	กับ	_	CCONJ	CC	_	25	cc	_	SpaceAfter=No
@@ -24883,7 +24883,7 @@
 17	เป็น	_	AUX	VC	_	18	cop	_	SpaceAfter=No
 18	สัน	_	NOUN	NN	_	16	acl	_	SpaceAfter=No
 19	ที่	_	ADP	IN	_	20	case	_	SpaceAfter=No
-20	วิลล่า	_	PROPN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
+20	วิลล่า	_	NOUN	NN	_	9	obl	_	Proper=True|SpaceAfter=No
 21	เปลุกก้า	_	PROPN	NNP	_	20	flat:name	_	SpaceAfter=No
 22	ใน	_	ADP	IN	_	23	case	_	SpaceAfter=No
 23	เซสโต้ซานจิโอวานนี	_	PROPN	NNP	_	20	nmod	_	_
@@ -24962,7 +24962,7 @@
 5	พระ	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 6	สันตะปาปา	_	NOUN	NN	_	5	compound	_	SpaceAfter=No
 7	พอล	_	PROPN	NNP	_	5	appos	_	SpaceAfter=No
-8	ที่	_	PROPN	NN	_	5	flat:name	_	Proper=True|SpaceAfter=No
+8	ที่	_	NOUN	NN	_	5	flat:name	_	Proper=True|SpaceAfter=No
 9	หก	_	NUM	CD	_	8	nummod	_	Proper=True|SpaceAfter=No
 10	ได้	_	PART	AS	Aspect=Perf	11	aux	_	SpaceAfter=No
 11	ถอด	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -25059,8 +25059,8 @@
 # english_text = The second Apulian and Calabrian Royal Region was then established, also including Samnium, parts of Molise and the oriental Basilicata.
 1	จาก	_	CCONJ	CC	_	13	cc	_	SpaceAfter=No
 2	นั้น	_	PRON	PRD	_	1	fixed	_	SpaceAfter=No
-3	เขต	_	PROPN	NN	_	13	nsubj	_	Proper=True|SpaceAfter=No
-4	พระราชฐาน	_	PROPN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
+3	เขต	_	NOUN	NN	_	13	nsubj	_	Proper=True|SpaceAfter=No
+4	พระราชฐาน	_	NOUN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
 5	อะปูเลีย	_	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	7	cc	_	Proper=True|SpaceAfter=No
 7	กาลาเบรีย	_	PROPN	NNP	_	5	conj	_	SpaceAfter=No
@@ -25109,7 +25109,7 @@
 21	ตอน	_	NOUN	NN	_	20	compound	_	SpaceAfter=No
 22	ใต้	_	NOUN	NN	_	20	compound	_	SpaceAfter=No
 23	ของ	_	ADP	IN	_	24	case	_	SpaceAfter=No
-24	คาบสมุทร	_	PROPN	NN	_	20	nmod:poss	_	Proper=True|SpaceAfter=No
+24	คาบสมุทร	_	NOUN	NN	_	20	nmod:poss	_	Proper=True|SpaceAfter=No
 25	อิตาลี	_	PROPN	NNP	_	24	flat:name	_	_
 
 # sent_id = w04006023
@@ -25178,7 +25178,7 @@
 # text = ช่วงสงครามสัมพันธมิตรครั้งที่หนึ่ง นโปเลียน โบนาปาร์ต นายทหารปืนใหญ่หนุ่มชาวคอร์ซิกาเริ่มเป็นที่จับตามองอย่างรวดเร็วหลังจากการปฏิวัติฝรั่งเศส
 # english_text = During the War of the First Coalition, light quickly began to be shed upon a young Corsican artillery officer, following the French Revolution: Napoleon Bonaparte.
 1	ช่วง	_	NOUN	NN	_	16	obl:tmod	_	SpaceAfter=No
-2	สงคราม	_	PROPN	NN	_	1	compound	_	Proper=True|SpaceAfter=No
+2	สงคราม	_	NOUN	NN	_	1	compound	_	Proper=True|SpaceAfter=No
 3	สัมพันธมิตร	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No
 4	ครั้ง	_	NOUN	NNB	_	1	clf	_	SpaceAfter=No
 5	ที่	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
@@ -25221,7 +25221,7 @@
 13	ของ	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	ฝรั่งเศส	_	PROPN	NNP	_	12	nmod:poss	_	SpaceAfter=No
 15	ใน	_	ADP	IN	_	16	case	_	SpaceAfter=No
-16	ศึก	_	PROPN	NN	_	12	nmod	_	Proper=True|SpaceAfter=No
+16	ศึก	_	NOUN	NN	_	12	nmod	_	Proper=True|SpaceAfter=No
 17	มาเรนโก	_	PROPN	NNP	_	16	flat:name	_	SpaceAfter=No
 18	ก็	_	ADV	RB	_	19	advmod	_	SpaceAfter=No
 19	บีบบังคับ	_	VERB	VV	_	4	conj	_	SpaceAfter=No
@@ -25258,7 +25258,7 @@
 15	แผนการ	_	NOUN	NN	_	14	obj	_	SpaceAfter=No
 16	เข้า	_	VERB	VV	_	14	acl	_	SpaceAfter=No
 17	รุกราน	_	VERB	VV	_	16	xcomp	_	SpaceAfter=No
-18	เกาะ	_	PROPN	NN	_	17	obj	_	Proper=True|SpaceAfter=No
+18	เกาะ	_	NOUN	NN	_	17	obj	_	Proper=True|SpaceAfter=No
 19	อังกฤษ	_	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No
 20	ไป	_	PART	RP	_	14	compound:prt	_	_
 21	ทั้ง	_	ADP	IN	_	27	mark	_	SpaceAfter=No
@@ -25339,14 +25339,14 @@
 9	การศึกษา	_	VERB	VV	_	8	obj	_	SpaceAfter=No
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No
 11	แบบ	_	NOUN	NN	_	9	obl	_	SpaceAfter=No
-12	คริสตจักร	_	PROPN	NN	_	11	compound	_	Proper=True|SpaceAfter=No
+12	คริสตจักร	_	NOUN	NN	_	11	compound	_	Proper=True|SpaceAfter=No
 13	อีพิสโคปาล	_	PROPN	NNP	_	11	compound	_	_
 14	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 15	ยังคง	_	PART	AS	Aspect=Prog	17	aux	_	SpaceAfter=No
 16	เป็น	_	AUX	VC	_	17	cop	_	SpaceAfter=No
 17	สมาชิก	_	NOUN	NN	_	8	conj	_	SpaceAfter=No
 18	ของ	_	ADP	IN	_	19	case	_	SpaceAfter=No
-19	คริสตจักร	_	PROPN	NN	_	17	nmod:poss	_	Proper=True|SpaceAfter=No
+19	คริสตจักร	_	NOUN	NN	_	17	nmod:poss	_	Proper=True|SpaceAfter=No
 20	โปรเตสแตนต์	_	PROPN	NNP	_	19	flat:name	_	SpaceAfter=No
 21	ตลอด	_	ADP	IN	_	23	case	_	SpaceAfter=No
 22	ทั้ง	_	DET	DT	_	23	det	_	SpaceAfter=No
@@ -25416,12 +25416,12 @@
 12	พบ	_	VERB	VV	_	11	acl	_	SpaceAfter=No
 13	กัน	_	PRON	PRP	_	12	obj	_	SpaceAfter=No
 14	ที่	_	ADP	IN	_	15	case	_	SpaceAfter=No
-15	โรง	_	PROPN	NN	_	12	obl	_	Proper=True|SpaceAfter=No
+15	โรง	_	NOUN	NN	_	12	obl	_	Proper=True|SpaceAfter=No
 16	เรียน	_	VERB	VV	_	15	acl	_	Proper=True|SpaceAfter=No
-17	ดนตรี	_	PROPN	NN	_	15	flat:name	_	Proper=True|SpaceAfter=No
-18	ซานตา	_	PROPN	NN	_	15	flat:name	_	Proper=True
+17	ดนตรี	_	NOUN	NN	_	15	flat:name	_	Proper=True|SpaceAfter=No
+18	ซานตา	_	NOUN	NN	_	15	flat:name	_	Proper=True
 19	(	_	PUNCT	(	_	20	punct	_	SpaceAfter=No
-20	เซนต์	_	PROPN	NN	_	18	appos	_	Proper=True|SpaceAfter=No
+20	เซนต์	_	NOUN	NN	_	18	appos	_	Proper=True|SpaceAfter=No
 21	)	_	PUNCT	)	_	20	punct	_	_
 22	ซิซิเลีย	_	PROPN	NNP	_	18	appos	_	_
 
@@ -25624,8 +25624,8 @@
 # text = ก่อนเทือกเขาแอนดีสก่อตัว ส่วนขอบตะวันตกของอเมริกาใต้มีบริเวณของการก่อเทือกเขาอยู่หลายจุดอยู่แล้ว
 # english_text = Before the Andes were formed, the western margin of South America had already been the site of several orogenies.
 1	ก่อน	_	ADP	IN	_	5	mark	_	SpaceAfter=No
-2	เทือก	_	PROPN	NN	_	5	nsubj	_	Proper=True|SpaceAfter=No
-3	เขา	_	PROPN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
+2	เทือก	_	NOUN	NN	_	5	nsubj	_	Proper=True|SpaceAfter=No
+3	เขา	_	NOUN	NN	_	2	flat:name	_	Proper=True|SpaceAfter=No
 4	แอนดีส	_	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
 5	ก่อ	_	VERB	VV	_	13	advcl	_	SpaceAfter=No
 6	ตัว	_	NOUN	NN	_	5	obj	_	_
@@ -25837,7 +25837,7 @@
 27	ตอน	_	NOUN	NN	_	26	compound	_	SpaceAfter=No
 28	เหนือ	_	ADJ	JJ	_	27	amod	_	SpaceAfter=No
 29	ของ	_	ADP	IN	_	30	case	_	SpaceAfter=No
-30	รัฐ	_	PROPN	NN	_	27	nmod:poss	_	Proper=True|SpaceAfter=No
+30	รัฐ	_	NOUN	NN	_	27	nmod:poss	_	Proper=True|SpaceAfter=No
 31	นิวยอร์ก	_	PROPN	NNP	_	30	flat:name	_	_
 
 # sent_id = w05005084
@@ -25933,22 +25933,22 @@
 15	ฟรีแมน	_	PROPN	NNP	_	12	obl	_	_
 16	ติด	_	VERB	VV	_	15	acl	_	SpaceAfter=No
 17	กับ	_	ADP	IN	_	18	case	_	SpaceAfter=No
-18	แม่น้ำ	_	PROPN	NN	_	16	obl	_	Proper=True|SpaceAfter=No
+18	แม่น้ำ	_	NOUN	NN	_	16	obl	_	Proper=True|SpaceAfter=No
 19	ฮัดสัน	_	PROPN	NNP	_	18	flat:name	_	_
 
 # sent_id = w05006024
 # text = ภาษาสเปนยุคทองหรือภาษาสเปนสมัยใหม่ตอนต้นนั้นเป็นรูปแบบหนึ่งของภาษาที่อยู่ในช่วงเปลี่ยนผ่านจากภาษาสเปนยุคกลางเป็นภาษาสเปนสมัยใหม่
 # english_text = Golden Age Spanish or Early Modern Spanish is the variant of the language that constitutes the transition from Medieval Spanish to Modern Spanish.
-1	ภาษา	_	PROPN	NN	_	14	nsubj	_	Proper=True|SpaceAfter=No
+1	ภาษา	_	NOUN	NN	_	14	nsubj	_	Proper=True|SpaceAfter=No
 2	สเปน	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
-3	ยุค	_	PROPN	NN	_	1	obl:tmod	_	Proper=True|SpaceAfter=No
-4	ทอง	_	PROPN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
+3	ยุค	_	NOUN	NN	_	1	obl:tmod	_	Proper=True|SpaceAfter=No
+4	ทอง	_	NOUN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
 5	หรือ	_	CCONJ	CC	_	6	cc	_	SpaceAfter=No
-6	ภาษา	_	PROPN	NN	_	1	conj	_	Proper=True|SpaceAfter=No
+6	ภาษา	_	NOUN	NN	_	1	conj	_	Proper=True|SpaceAfter=No
 7	สเปน	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
-8	สมัย	_	PROPN	NN	_	6	obl:tmod	_	Proper=True|SpaceAfter=No
+8	สมัย	_	NOUN	NN	_	6	obl:tmod	_	Proper=True|SpaceAfter=No
 9	ใหม่	_	ADJ	JJ	_	8	amod	_	Proper=True|SpaceAfter=No
-10	ตอน	_	PROPN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
+10	ตอน	_	NOUN	NN	_	6	flat:name	_	Proper=True|SpaceAfter=No
 11	ต้น	_	ADJ	JJ	_	10	amod	_	Proper=True|SpaceAfter=No
 12	นั้น	_	DET	DT	_	1	det	_	SpaceAfter=No
 13	เป็น	_	AUX	VC	_	14	cop	_	SpaceAfter=No
@@ -25962,14 +25962,14 @@
 21	ช่วง	_	NOUN	NN	_	19	obl	_	SpaceAfter=No
 22	เปลี่ยนผ่าน	_	VERB	VV	_	21	acl	_	SpaceAfter=No
 23	จาก	_	ADP	IN	_	24	case	_	SpaceAfter=No
-24	ภาษา	_	PROPN	NN	_	22	obl	_	Proper=True|SpaceAfter=No
+24	ภาษา	_	NOUN	NN	_	22	obl	_	Proper=True|SpaceAfter=No
 25	สเปน	_	PROPN	NNP	_	24	flat:name	_	SpaceAfter=No
-26	ยุค	_	PROPN	NN	_	24	obl:tmod	_	Proper=True|SpaceAfter=No
+26	ยุค	_	NOUN	NN	_	24	obl:tmod	_	Proper=True|SpaceAfter=No
 27	กลาง	_	ADJ	JJ	_	26	amod	_	Proper=True|SpaceAfter=No
 28	เป็น	_	AUX	VC	_	29	cop	_	SpaceAfter=No
-29	ภาษา	_	PROPN	NN	_	22	xcomp	_	Proper=True|SpaceAfter=No
+29	ภาษา	_	NOUN	NN	_	22	xcomp	_	Proper=True|SpaceAfter=No
 30	สเปน	_	PROPN	NNP	_	29	flat:name	_	SpaceAfter=No
-31	สมัย	_	PROPN	NN	_	29	obl:tmod	_	Proper=True|SpaceAfter=No
+31	สมัย	_	NOUN	NN	_	29	obl:tmod	_	Proper=True|SpaceAfter=No
 32	ใหม่	_	ADJ	JJ	_	31	amod	_	Proper=True
 
 # sent_id = w05006058
@@ -26018,16 +26018,16 @@
 11	ของ	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	พระเจ้า	_	NOUN	NN	_	10	nmod:poss	_	SpaceAfter=No
 13	หลุยส์	_	PROPN	NNP	_	12	appos	_	SpaceAfter=No
-14	ที่	_	PROPN	NN	_	12	flat:name	_	Proper=True
+14	ที่	_	NOUN	NN	_	12	flat:name	_	Proper=True
 15	10	_	NUM	CD	_	14	nummod	_	Proper=True
 16	พระเจ้า	_	NOUN	NN	_	12	conj	_	SpaceAfter=No
 17	เฟลิเป	_	PROPN	NNP	_	16	appos	_	SpaceAfter=No
-18	ที่	_	PROPN	NN	_	16	flat:name	_	Proper=True
+18	ที่	_	NOUN	NN	_	16	flat:name	_	Proper=True
 19	5	_	NUM	CD	_	18	nummod	_	Proper=True
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 21	พระเจ้า	_	NOUN	NN	_	12	conj	_	SpaceAfter=No
 22	คาร์ลอส	_	PROPN	NNP	_	21	appos	_	SpaceAfter=No
-23	ที่	_	PROPN	NN	_	21	flat:name	_	Proper=True
+23	ที่	_	NOUN	NN	_	21	flat:name	_	Proper=True
 24	4	_	NUM	CD	_	23	nummod	_	Proper=True
 25	จะ	_	VERB	MD	_	26	aux	_	SpaceAfter=No
 26	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -26070,7 +26070,7 @@
 23	เขา	_	PRON	PRP	Person=3	21	nmod:poss	_	SpaceAfter=No
 24	:	_	PUNCT	:	_	25	punct	_	_
 25	การรุกราน	_	VERB	VV	_	21	appos	_	SpaceAfter=No
-26	ราชอาณาจักร	_	PROPN	NN	_	25	obj	_	Proper=True|SpaceAfter=No
+26	ราชอาณาจักร	_	NOUN	NN	_	25	obj	_	Proper=True|SpaceAfter=No
 27	ฝรั่งเศส	_	PROPN	NNP	_	26	flat:name	_	_
 
 # sent_id = w05008107
@@ -26084,7 +26084,7 @@
 6	เป็น	_	AUX	VC	_	7	cop	_	SpaceAfter=No
 7	สหพันธรัฐ	_	NOUN	NN	_	5	xcomp	_	SpaceAfter=No
 8	ของ	_	ADP	IN	_	9	case	_	SpaceAfter=No
-9	เมือง	_	PROPN	NN	_	5	obl:poss	_	Proper=True|SpaceAfter=No
+9	เมือง	_	NOUN	NN	_	5	obl:poss	_	Proper=True|SpaceAfter=No
 10	บัวโนส	_	PROPN	NNP	_	9	flat:name	_	_
 11	ไอเรส	_	PROPN	_	_	10	goeswith	_	_
 12	การขยาย	_	VERB	VV	_	5	conj	_	SpaceAfter=No
@@ -26123,9 +26123,9 @@
 16	ของ	_	ADP	IN	_	17	case	_	SpaceAfter=No
 17	เขา	_	PRON	PRP	Person=3	14	nmod:poss	_	_
 18	เดอะ	_	DET	DT	_	19	det	_	Proper=True
-19	ร็อกเก็ต	_	PROPN	NN	_	14	appos	_	Proper=True
-20	เรคคอร์ด	_	PROPN	NN	_	19	flat:name	_	Proper=True
-21	คอมพานี	_	PROPN	NN	_	19	flat:name	_	Proper=True
+19	ร็อกเก็ต	_	NOUN	NN	_	14	appos	_	Proper=True
+20	เรคคอร์ด	_	NOUN	NN	_	19	flat:name	_	Proper=True
+21	คอมพานี	_	NOUN	NN	_	19	flat:name	_	Proper=True
 22	เพื่อ	_	ADP	IN	_	23	mark	_	SpaceAfter=No
 23	อัด	_	VERB	VV	_	5	advcl	_	SpaceAfter=No
 24	สิ่ง	_	NOUN	NN	_	23	obj	_	SpaceAfter=No
@@ -26142,7 +26142,7 @@
 35	โก	_	VERB	VV	_	24	appos	_	Proper=True
 36	เบรกกิง	_	VERB	VV	_	35	acl	_	Proper=True
 37	มาย	_	ADJ	JJ	_	38	amod	_	Proper=True
-38	ฮาร์ต	_	PROPN	NN	_	36	obj	_	Proper=True|SpaceAfter=No
+38	ฮาร์ต	_	NOUN	NN	_	36	obj	_	Proper=True|SpaceAfter=No
 39	”	_	PUNCT	''	_	35	punct	_	_
 
 # sent_id = w05010023
