@@ -18,11 +18,11 @@
     <tag name="AUX">432</tag><!-- _ -->
     <tag name="CCONJ">592</tag><!-- _ -->
     <tag name="DET">1040</tag><!-- _ -->
-    <tag name="NOUN">5521</tag><!-- _ -->
+    <tag name="NOUN">6052</tag><!-- _ -->
     <tag name="NUM">581</tag><!-- _ -->
     <tag name="PART">1009</tag><!-- _ -->
     <tag name="PRON">683</tag><!-- _ -->
-    <tag name="PROPN">2026</tag><!-- _ -->
+    <tag name="PROPN">1495</tag><!-- _ -->
     <tag name="PUNCT">272</tag><!-- _ -->
     <tag name="SCONJ">1</tag><!-- _ -->
     <tag name="SYM">134</tag><!-- _ -->
