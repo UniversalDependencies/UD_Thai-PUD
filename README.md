@@ -97,6 +97,13 @@ Fernando Pereira, Hans Uszkoreit, Aljoscha Burchardt, Vivien Macketanz,
 Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
 
 
+# Changelog
+
+* 2018-07-01 v2.2
+  * First official release after it was used as a surprise dataset in the
+    CoNLL 2018 shared task.
+
+
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.2
