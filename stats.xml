@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>1000</sentences><tokens>22322</tokens><words>22322</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1000</sentences><tokens>22322</tokens><words>22322</words><fused>0</fused></test>
   </size>
   <lemmas unique="0" /><!--  -->
   <forms unique="4047" /><!-- ที่, ใน, ของ, และ, เป็น, ได้, มี, ว่า, จะ, จาก, กับ, ไม่, เขา, ก็, ไป -->
