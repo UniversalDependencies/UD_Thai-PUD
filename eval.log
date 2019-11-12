@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Thai-PUD:
-commit e38a17b74507cee859154f2a8ac585cf890dba9c
-Merge: 736f6f4 36e89e1
+commit e04d566f2cd56099634576c35e60b3571dab6e7f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 21:45:55 2019 +0200
 Size: counted 22322 of 22322 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.21114547846705.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,8 +23,20 @@ Udapi: found 7827 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 22322 words.
 Genres: found 2 out of 17 known.
 validate.py --lang th --max-err=10 UD_Thai-PUD/th_pud-ud-test.conllu
-*** PASSED ***
-Validity: 1
+[Line 16 Sent n01001011 Node 13]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 18 Sent n01001011 Node 15]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 25 Sent n01001011 Node 22]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 61 Sent n01001013 Node 12]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 92 Sent n01002017 Node 24]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 98 Sent n01002017 Node 30]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
+[Line 99 Sent n01002017 Node 31]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 107 Sent n01002017 Node 39]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 121 Sent n01002032 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+...suppressing further errors regarding Syntax
+Syntax errors: 1285
+*** FAILED *** with 1285 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
@@ -33,6 +45,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.735135135135135) = 0.0565488565488566
-(TOTAL score=0.274917196240012) * (availability=1) * (validity=1) = 0.274917196240012
-STARS = 1.5
-UD_Thai-PUD	0.274917196240012	1.5
+(TOTAL score=0.274917196240012) * (availability=1) * (validity=0.01) = 0.00274917196240012
+STARS = 0
+UD_Thai-PUD	0.00274917196240012	0
