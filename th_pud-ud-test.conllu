@@ -22240,7 +22240,7 @@
 16	ยิ่ง	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
 17	กว่า	_	ADP	IN	_	19	case	_	SpaceAfter=No
 18	ที่	_	PRON	PRP	_	19	nsubj	_	SpaceAfter=No
-19	เคย	_	PART	AS	Aspect=Perf	16	xcomp	_	_
+19	เคย	_	AUX	AS	Aspect=Perf	16	xcomp	_	_
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 21	มาก	_	ADV	RB	_	9	conj	_	SpaceAfter=No
 22	กว่า	_	ADP	IN	_	21	case	_	SpaceAfter=No
