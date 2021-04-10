@@ -14153,7 +14153,7 @@
 6	สิบ	_	NUM	CD	_	7	nummod	_	SpaceAfter=No
 7	ห้า	_	NUM	CD	_	8	nummod	_	SpaceAfter=No
 8	ปี	_	NOUN	NNB	_	3	clf	_	_
-9	ซึ่ง	_	DET	WDT	_	10	mark	_	SpaceAfter=No
+9	ซึ่ง	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
 10	พบ	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
 11	หลักฐาน	_	NOUN	NN	_	10	obj	_	SpaceAfter=No
 12	จาก	_	ADP	IN	_	13	case	_	SpaceAfter=No
