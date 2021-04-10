@@ -18,7 +18,7 @@
     <tag name="ADJ">969</tag><!-- _ -->
     <tag name="ADP">3134</tag><!-- _ -->
     <tag name="ADV">951</tag><!-- _ -->
-    <tag name="AUX">1361</tag><!-- _ -->
+    <tag name="AUX">1448</tag><!-- _ -->
     <tag name="CCONJ">592</tag><!-- _ -->
     <tag name="DET">1040</tag><!-- _ -->
     <tag name="NOUN">6052</tag><!-- _ -->
@@ -29,7 +29,7 @@
     <tag name="PUNCT">272</tag><!-- _ -->
     <tag name="SCONJ">1</tag><!-- _ -->
     <tag name="SYM">134</tag><!-- _ -->
-    <tag name="VERB">4448</tag><!-- _ -->
+    <tag name="VERB">4361</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="9">
@@ -41,7 +41,7 @@
     <feat name="Person" value="3" upos="PRON">324</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์ -->
     <feat name="Polarity" value="Neg" upos="PART">205</feat><!-- ไม่, ความไม่, มิ, อย่างไม่, การไม่ -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">15</feat><!-- หรือเปล่า, หรือไม่, อะไร, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
-    <feat name="Voice" value="Pass" upos="AUX,VERB">90</feat><!-- ถูก, ได้รับ, ต้อง, การถูก -->
+    <feat name="Voice" value="Pass" upos="AUX">90</feat><!-- ถูก, ได้รับ, ต้อง, การถูก -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="43">
