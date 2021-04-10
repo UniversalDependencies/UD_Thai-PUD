@@ -423,7 +423,7 @@
 6	เหยื่อ	_	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 7	ทำร้าย	_	VERB	VV	_	2	ccomp	_	SpaceAfter=No
 8	ผู้	_	NOUN	NN	_	7	obj	_	SpaceAfter=No
-9	ต้อง	_	VERB	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
+9	ต้อง	_	AUX	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	สงสัย	_	VERB	VV	_	8	acl	_	SpaceAfter=No
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	เดือน	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
@@ -572,7 +572,7 @@
 # text = เธอถูกตั้งข้อหาฐานพยายามฆ่าบุตรสาววัย 2 ขวบของเธอด้วย
 # text_en = She has also been charged with trying to kill her two-year-old daughter.
 1	เธอ	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ข้อหา	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ฐาน	_	ADP	IN	_	6	mark	_	SpaceAfter=No
@@ -641,7 +641,7 @@
 5	ฉัน	_	PRON	PRP	Person=1	9	nsubj:pass	_	SpaceAfter=No
 6	ก็	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
 7	ต้อง	_	AUX	MD	_	9	aux	_	SpaceAfter=No
-8	ถูก	_	VERB	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
+8	ถูก	_	AUX	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
 9	ส่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 10	ไป	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 11	เข้า	_	VERB	VV	_	9	acl	_	SpaceAfter=No
@@ -691,7 +691,7 @@
 13	อเมริกา	_	PROPN	NNP	_	9	compound	_	_
 14	หลัง	_	ADP	IN	_	17	mark	_	SpaceAfter=No
 15	จาก	_	ADP	IN	_	14	fixed	_	SpaceAfter=No
-16	ถูก	_	VERB	MD	Voice=Pass	17	aux:pass	_	SpaceAfter=No
+16	ถูก	_	AUX	MD	Voice=Pass	17	aux:pass	_	SpaceAfter=No
 17	ไล่ออก	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
 18	เมื่อ	_	ADP	IN	_	19	case	_	SpaceAfter=No
 19	เดือน	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
@@ -1216,7 +1216,7 @@
 29	ส่วน	_	NOUN	NN	_	33	nsubj:pass	_	SpaceAfter=No
 30	นั้น	_	DET	DT	_	29	det	_	SpaceAfter=No
 31	จึง	_	ADP	IN	_	33	mark	_	SpaceAfter=No
-32	ถูก	_	VERB	MD	Voice=Pass	33	aux:pass	_	SpaceAfter=No
+32	ถูก	_	AUX	MD	Voice=Pass	33	aux:pass	_	SpaceAfter=No
 33	ปิด	_	VERB	VV	_	25	ccomp	_	_
 
 # sent_id = n01021011
@@ -1671,7 +1671,7 @@
 6	เส้น	_	NOUN	NN	_	10	nsubj:pass	_	SpaceAfter=No
 7	ผม	_	NOUN	NN	_	6	compound	_	SpaceAfter=No
 8	จะ	_	AUX	MD	_	10	aux	_	SpaceAfter=No
-9	ถูก	_	VERB	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
+9	ถูก	_	AUX	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	แช่	_	VERB	VV	_	21	ccomp	_	SpaceAfter=No
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	สาร	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
@@ -1997,7 +1997,7 @@
 8	รางวัล	_	NOUN	NN	_	7	obj	_	SpaceAfter=No
 9	ออสการ์	_	PROPN	NNP	_	8	compound	_	_
 10	กราวิตี้	_	PROPN	NNP	_	4	appos	_	_
-11	ถูก	_	VERB	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+11	ถูก	_	AUX	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	รายงาน	_	VERB	VV	_	0	root	_	SpaceAfter=No
 13	ว่า	_	ADP	IN	_	16	mark	_	SpaceAfter=No
 14	ไม่	_	PART	NEG	Polarity=Neg	15	advmod	_	SpaceAfter=No
@@ -2360,7 +2360,7 @@
 32	ไร้	_	VERB	VV	_	31	acl	_	SpaceAfter=No
 33	บ้าน	_	NOUN	NN	_	32	obj	_	SpaceAfter=No
 34	ซึ่ง	_	DET	WDT	_	36	nsubj:pass	_	SpaceAfter=No
-35	ถูก	_	VERB	MD	Voice=Pass	36	aux:pass	_	SpaceAfter=No
+35	ถูก	_	AUX	MD	Voice=Pass	36	aux:pass	_	SpaceAfter=No
 36	ตั้ง	_	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No
 37	ข้อหา	_	NOUN	NN	_	36	obj	_	SpaceAfter=No
 38	ว่า	_	ADP	IN	_	39	mark	_	SpaceAfter=No
@@ -2418,7 +2418,7 @@
 3	คิด	_	VERB	VV	_	26	ccomp	_	SpaceAfter=No
 4	ว่า	_	ADP	IN	_	8	mark	_	SpaceAfter=No
 5	ผู้	_	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
-6	ต้อง	_	VERB	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
+6	ต้อง	_	AUX	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
 7	สงสัย	_	VERB	VV	_	5	acl	_	SpaceAfter=No
 8	มี	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No
 9	ความเกี่ยวโยง	_	VERB	VV	_	8	obj	_	SpaceAfter=No
@@ -3111,7 +3111,7 @@
 19	อย่างน้อย	_	ADJ	JJ	_	20	advmod	_	_
 20	6	_	NUM	CD	_	21	nummod	_	_
 21	คน	_	NOUN	NNB	_	15	clf	_	_
-22	ถูก	_	VERB	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No
+22	ถูก	_	AUX	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No
 23	เพ่งเล็ง	_	VERB	VV	_	2	ccomp	_	SpaceAfter=No
 24	ใน	_	ADP	IN	_	25	case	_	SpaceAfter=No
 25	ปฏิบัติการ	_	VERB	VV	_	23	xcomp	_	SpaceAfter=No
@@ -3498,7 +3498,7 @@
 14	จาก	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	พลาโน	_	PROPN	NNP	_	9	nmod	_	_
 16	เท็กซัส	_	PROPN	NNP	_	15	appos	_	_
-17	ได้รับ	_	VERB	MD	Voice=Pass	18	aux:pass	_	SpaceAfter=No
+17	ได้รับ	_	AUX	MD	Voice=Pass	18	aux:pass	_	SpaceAfter=No
 18	แจ้ง	_	VERB	VV	_	5	advcl	_	SpaceAfter=No
 19	ให้	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No
 20	ทราบ	_	VERB	VV	_	19	xcomp	_	SpaceAfter=No
@@ -3693,7 +3693,7 @@
 5	ฉลอง	_	VERB	VV	_	3	acl	_	SpaceAfter=No
 6	อย่างเป็น	_	AUX	VC	_	7	cop	_	SpaceAfter=No
 7	ทางการ	_	ADJ	JJ	_	3	advmod	_	SpaceAfter=No
-8	ถูก	_	VERB	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
+8	ถูก	_	AUX	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
 9	เผยแพร่	_	VERB	VV	_	15	advcl	_	SpaceAfter=No
 10	ออก	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 11	ไป	_	PART	RP	_	9	compound:prt	_	_
@@ -3832,7 +3832,7 @@
 12	ของ	_	ADP	IN	_	13	case	_	SpaceAfter=No
 13	โลก	_	NOUN	NN	_	10	nmod:poss	_	_
 14	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No
-15	ถูก	_	VERB	MD	Voice=Pass	16	aux:pass	_	SpaceAfter=No
+15	ถูก	_	AUX	MD	Voice=Pass	16	aux:pass	_	SpaceAfter=No
 16	ดึง	_	VERB	VV	_	4	conj	_	SpaceAfter=No
 17	เข้า	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No
 18	มา	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No
@@ -5870,7 +5870,7 @@
 6	สั้น	_	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 7	ๆ	_	SYM	SYM	_	6	dep	_	_
 8	และ	_	CCONJ	CC	_	10	cc	_	SpaceAfter=No
-9	ถูก	_	VERB	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
+9	ถูก	_	AUX	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	ถ่าย	_	VERB	VV	_	3	conj	_	SpaceAfter=No
 11	วิดีโอ	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 12	ให้	_	VERB	VV	_	10	acl	_	SpaceAfter=No
@@ -6235,7 +6235,7 @@
 5	“	_	PUNCT	``	_	9	punct	_	SpaceAfter=No
 6	อโกรา	_	PROPN	NNP	_	9	nsubj:pass	_	SpaceAfter=No
 7	ต้อง	_	AUX	MD	_	9	aux	_	SpaceAfter=No
-8	ได้รับ	_	VERB	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
+8	ได้รับ	_	AUX	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
 9	เชิญ	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No
 10	เท่านั้น	_	ADV	RB	_	9	advmod	_	_
 11	แต่	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No
@@ -6884,7 +6884,7 @@
 13	ไม่	_	PART	NEG	Polarity=Neg	14	advmod	_	SpaceAfter=No
 14	ควร	_	AUX	MD	_	17	aux	_	SpaceAfter=No
 15	จะ	_	AUX	MD	_	17	aux	_	SpaceAfter=No
-16	ถูก	_	VERB	MD	Voice=Pass	17	aux:pass	_	SpaceAfter=No
+16	ถูก	_	AUX	MD	Voice=Pass	17	aux:pass	_	SpaceAfter=No
 17	ละเลย	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No
 18	”	_	PUNCT	''	_	17	punct	_	_
 
@@ -6988,7 +6988,7 @@
 # text = เขาได้รับเลื่อนตำแหน่งให้เป็นประธานในเดือนตุลาคม 2015 ซึ่งเป็นเดือนถัดมาหลังจากที่เรื่องอื้อฉาวปรากฏขึ้น
 # text_en = He was promoted to chairman in October 2015, the month after the scandal was unearthed.
 1	เขา	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No
-2	ได้รับ	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ได้รับ	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	เลื่อน	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ตำแหน่ง	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ให้	_	VERB	VV	_	3	acl	_	SpaceAfter=No
@@ -8137,7 +8137,7 @@
 8	อายุ	_	NOUN	NN	_	4	acl:relcl	_	_
 9	31	_	NUM	CD	_	10	nummod	_	_
 10	ปี	_	NOUN	NNB	_	8	obl	_	_
-11	ถูก	_	VERB	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+11	ถูก	_	AUX	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	ดำเนิน	_	VERB	VV	_	0	root	_	SpaceAfter=No
 13	คดี	_	NOUN	NN	_	12	obj	_	SpaceAfter=No
 14	ที่	_	ADP	IN	_	15	case	_	SpaceAfter=No
@@ -9306,7 +9306,7 @@
 24	มัน	_	PRON	PRP	Person=3	26	nsubj	_	SpaceAfter=No
 25	ไม่	_	PART	NEG	Polarity=Neg	26	advmod	_	SpaceAfter=No
 26	อยาก	_	VERB	VV	_	16	ccomp	_	SpaceAfter=No
-27	ถูก	_	VERB	MD	Voice=Pass	28	aux:pass	_	SpaceAfter=No
+27	ถูก	_	AUX	MD	Voice=Pass	28	aux:pass	_	SpaceAfter=No
 28	ขาย	_	VERB	VV	_	26	xcomp	_	_
 
 # sent_id = n01144038
@@ -11150,7 +11150,7 @@
 25	ใต้	_	NOUN	NN	_	24	compound	_	SpaceAfter=No
 26	ของ	_	ADP	IN	_	27	case	_	SpaceAfter=No
 27	เดนนีเวิร์ก	_	PROPN	NNP	_	24	nmod:poss	_	SpaceAfter=No
-28	ถูก	_	VERB	MD	Voice=Pass	29	aux:pass	_	SpaceAfter=No
+28	ถูก	_	AUX	MD	Voice=Pass	29	aux:pass	_	SpaceAfter=No
 29	พิชิต	_	VERB	VV	_	10	conj	_	SpaceAfter=No
 30	โดย	_	ADP	IN	_	31	case	_	SpaceAfter=No
 31	กอง	_	NOUN	NN	_	29	obl	_	SpaceAfter=No
@@ -11248,7 +11248,7 @@
 20	พล	_	NOUN	NN	_	19	compound	_	SpaceAfter=No
 21	เดอเมซา	_	PROPN	NNP	_	19	appos	_	SpaceAfter=No
 22	ก็	_	ADV	RB	_	24	advmod	_	SpaceAfter=No
-23	ถูก	_	VERB	MD	Voice=Pass	24	aux:pass	_	SpaceAfter=No
+23	ถูก	_	AUX	MD	Voice=Pass	24	aux:pass	_	SpaceAfter=No
 24	ปลด	_	VERB	VV	_	3	conj	_	SpaceAfter=No
 25	ออก	_	PART	RP	_	24	compound:prt	_	SpaceAfter=No
 26	จาก	_	ADP	IN	_	27	case	_	SpaceAfter=No
@@ -12015,7 +12015,7 @@
 14	ถิ่น	_	NOUN	NN	_	18	nsubj:pass	_	SpaceAfter=No
 15	ที่	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
 16	อยู่	_	VERB	VV	_	15	acl	_	SpaceAfter=No
-17	ถูก	_	VERB	MD	Voice=Pass	18	aux:pass	_	SpaceAfter=No
+17	ถูก	_	AUX	MD	Voice=Pass	18	aux:pass	_	SpaceAfter=No
 18	ทำลาย	_	VERB	VV	_	3	advcl	_	_
 
 # sent_id = w01036044
@@ -12321,7 +12321,7 @@
 20	ซึ่ง	_	DET	WDT	_	24	advmod	_	SpaceAfter=No
 21	อณู	_	NOUN	NN	_	24	nsubj:pass	_	SpaceAfter=No
 22	ละเอียด	_	ADJ	JJ	_	21	amod	_	SpaceAfter=No
-23	ถูก	_	VERB	MD	Voice=Pass	24	aux:pass	_	SpaceAfter=No
+23	ถูก	_	AUX	MD	Voice=Pass	24	aux:pass	_	SpaceAfter=No
 24	พัด	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 25	ปลิว	_	VERB	VV	_	24	acl	_	SpaceAfter=No
 26	ไป	_	PART	RP	_	24	compound:prt	_	SpaceAfter=No
@@ -13065,7 +13065,7 @@
 6	มองโกเลีย	_	PROPN	NNP	_	10	nsubj:pass	_	SpaceAfter=No
 7	และ	_	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	จีน	_	PROPN	NNP	_	6	conj	_	SpaceAfter=No
-9	ถูก	_	VERB	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
+9	ถูก	_	AUX	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	ปกครอง	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No
 11	โดย	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	แมนจู	_	PROPN	NNP	_	10	obl	_	SpaceAfter=No
@@ -13375,7 +13375,7 @@
 17	ที่แล้ว	_	ADJ	JJ	_	16	amod	_	_
 18	หาก	_	ADP	IN	_	21	mark	_	SpaceAfter=No
 19	ไม่	_	PART	NEG	Polarity=Neg	21	advmod	_	SpaceAfter=No
-20	ถูก	_	VERB	MD	Voice=Pass	21	aux:pass	_	SpaceAfter=No
+20	ถูก	_	AUX	MD	Voice=Pass	21	aux:pass	_	SpaceAfter=No
 21	บดบัง	_	VERB	VV	_	5	advcl	_	SpaceAfter=No
 22	ด้วย	_	ADP	IN	_	23	case	_	SpaceAfter=No
 23	เมฆ	_	NOUN	NN	_	21	obl	_	SpaceAfter=No
@@ -13529,7 +13529,7 @@
 7	ตาลปัตร	_	NOUN	NN	_	6	obj	_	SpaceAfter=No
 8	เมื่อ	_	ADP	IN	_	11	mark	_	SpaceAfter=No
 9	จูเลียน	_	PROPN	NNP	_	11	nsubj:pass	_	SpaceAfter=No
-10	ถูก	_	VERB	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No
+10	ถูก	_	AUX	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No
 11	สังหาร	_	VERB	VV	_	6	advcl	_	SpaceAfter=No
 12	ใน	_	ADP	IN	_	13	case	_	SpaceAfter=No
 13	การรบ	_	VERB	VV	_	11	obl	_	SpaceAfter=No
@@ -13582,7 +13582,7 @@
 2	ปี	_	NOUN	NN	_	6	obl	_	_
 3	1072	_	NUM	CD	_	2	appos	_	_
 4	เฉิน	_	PROPN	NNP	_	6	nsubj:pass	_	SpaceAfter=No
-5	ถูก	_	VERB	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
+5	ถูก	_	AUX	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
 6	ส่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	ไป	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 8	ดูแล	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No
@@ -13643,7 +13643,7 @@
 7	มาก	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
 8	ขึ้น	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	เมื่อ	_	ADP	IN	_	11	mark	_	SpaceAfter=No
-10	ถูก	_	VERB	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No
+10	ถูก	_	AUX	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No
 11	ส่ง	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
 12	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No
 13	เป็น	_	AUX	VC	_	14	cop	_	SpaceAfter=No
@@ -13925,7 +13925,7 @@
 # text_en = The Canaanite city was destroyed in a fire, presumably in the wake of a campaign by the Egyptian pharaoh Thutmose III.
 1	เมือง	_	NOUN	NN	_	4	nsubj:pass	_	SpaceAfter=No
 2	คานาอัน	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No
-3	ถูก	_	VERB	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
+3	ถูก	_	AUX	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
 4	ทำลาย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ด้วย	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	ไฟ	_	NOUN	NN	_	4	obl	_	_
@@ -14198,7 +14198,7 @@
 4	กันยายน	_	NOUN	NN	_	2	obl:tmod	_	_
 5	2002	_	NUM	CD	_	4	obl:tmod	_	_
 6	อัลดริน	_	PROPN	NNP	_	8	nsubj:pass	_	SpaceAfter=No
-7	ถูก	_	VERB	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No
+7	ถูก	_	AUX	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No
 8	ล่อลวง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	ไป	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No
 10	ยัง	_	ADP	IN	_	11	case	_	SpaceAfter=No
@@ -14272,7 +14272,7 @@
 7	พระเจ้า	_	NOUN	NN	_	11	nsubj:pass	_	SpaceAfter=No
 8	ชาร์ลส์	_	PROPN	NNP	_	7	appos	_	SpaceAfter=No
 9	ก็	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
-10	ถูก	_	VERB	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No
+10	ถูก	_	AUX	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No
 11	มอง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 12	ว่า	_	ADP	IN	_	14	mark	_	SpaceAfter=No
 13	เป็น	_	AUX	VC	_	14	cop	_	SpaceAfter=No
@@ -14478,7 +14478,7 @@
 8	ที่	_	NOUN	NN	_	7	compound	_	SpaceAfter=No
 9	สาม	_	NUM	CD	_	8	nummod	_	SpaceAfter=No
 10	ได้	_	PART	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
-11	ถูก	_	VERB	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+11	ถูก	_	AUX	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 13	มา	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No
 14	ใช้	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No
@@ -14551,7 +14551,7 @@
 6	เป็น	_	AUX	VC	_	7	cop	_	SpaceAfter=No
 7	โรมัน	_	PROPN	NNP	_	5	xcomp	_	_
 8	คาบสมุทร	_	NOUN	NN	_	10	nsubj:pass	_	SpaceAfter=No
-9	ถูก	_	VERB	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
+9	ถูก	_	AUX	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	แบ่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 11	เป็น	_	AUX	VC	_	12	cop	_	SpaceAfter=No
 12	สอง	_	NUM	CD	_	10	acl	_	SpaceAfter=No
@@ -15096,7 +15096,7 @@
 18	ใด	_	DET	WDT	_	17	det	_	SpaceAfter=No
 19	ก็ตาม	_	ADJ	JJ	_	17	amod	_	SpaceAfter=No
 20	ที่	_	DET	WDT	_	22	nsubj:pass	_	SpaceAfter=No
-21	ถูก	_	VERB	MD	Voice=Pass	22	aux:pass	_	SpaceAfter=No
+21	ถูก	_	AUX	MD	Voice=Pass	22	aux:pass	_	SpaceAfter=No
 22	บังคับ	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 23	ให้	_	VERB	VV	_	22	xcomp	_	SpaceAfter=No
 24	เข้า	_	VERB	VV	_	23	xcomp	_	SpaceAfter=No
@@ -15318,7 +15318,7 @@
 2	สงคราม	_	NOUN	NN	_	6	obl	_	_
 3	เพิร์ล	_	NOUN	NN	_	6	nsubj:pass	_	Proper=True|SpaceAfter=No
 4	ฮาเบอร์	_	NOUN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No
-5	ถูก	_	VERB	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
+5	ถูก	_	AUX	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
 6	ใช้	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	เป็น	_	AUX	VC	_	8	cop	_	SpaceAfter=No
 8	โฆษณา	_	NOUN	NN	_	6	xcomp	_	SpaceAfter=No
@@ -15511,7 +15511,7 @@
 8	(	_	PUNCT	(	_	12	punct	_	SpaceAfter=No
 9	หลัง	_	ADP	IN	_	12	mark	_	SpaceAfter=No
 10	จาก	_	ADP	IN	_	9	fixed	_	SpaceAfter=No
-11	ถูก	_	VERB	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+11	ถูก	_	AUX	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	ยึดครอง	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
 13	โดย	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	กอง	_	NOUN	NN	_	12	obl	_	Proper=True|SpaceAfter=No
@@ -16104,7 +16104,7 @@
 23	ล้าน	_	NUM	CD	_	24	nummod	_	SpaceAfter=No
 24	คน	_	NOUN	NNB	_	18	clf	_	SpaceAfter=No
 25	)	_	PUNCT	)	_	24	punct	_	_
-26	ถูก	_	VERB	MD	Voice=Pass	27	aux:pass	_	SpaceAfter=No
+26	ถูก	_	AUX	MD	Voice=Pass	27	aux:pass	_	SpaceAfter=No
 27	สังหาร	_	VERB	VV	_	0	root	_	SpaceAfter=No
 28	โดย	_	ADP	IN	_	29	case	_	SpaceAfter=No
 29	กอง	_	NOUN	NN	_	27	obl	_	SpaceAfter=No
@@ -16208,7 +16208,7 @@
 15	อังกฤษ	_	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 16	ติด	_	VERB	VV	_	12	acl	_	SpaceAfter=No
 17	อาวุธ	_	NOUN	NN	_	16	obj	_	SpaceAfter=No
-18	ถูก	_	VERB	MD	Voice=Pass	19	aux:pass	_	SpaceAfter=No
+18	ถูก	_	AUX	MD	Voice=Pass	19	aux:pass	_	SpaceAfter=No
 19	ทำลาย	_	VERB	VV	_	10	ccomp	_	SpaceAfter=No
 20	ใน	_	ADP	IN	_	21	case	_	SpaceAfter=No
 21	ฐานะ	_	NOUN	NN	_	19	obl	_	SpaceAfter=No
@@ -16284,7 +16284,7 @@
 11	กับ	_	ADP	IN	_	10	case	_	SpaceAfter=No
 12	ว่า	_	ADP	IN	_	15	mark	_	SpaceAfter=No
 13	ดนตรี	_	NOUN	NN	_	15	nsubj:pass	_	SpaceAfter=No
-14	ถูก	_	VERB	MD	Voice=Pass	15	aux:pass	_	SpaceAfter=No
+14	ถูก	_	AUX	MD	Voice=Pass	15	aux:pass	_	SpaceAfter=No
 15	นิยาม	_	VERB	VV	_	9	ccomp	_	SpaceAfter=No
 16	ว่า	_	VERB	VV	_	15	xcomp	_	SpaceAfter=No
 17	อย่างไร	_	ADV	WRB	_	16	advmod	_	_
@@ -16375,7 +16375,7 @@
 # text_en = Hong Kong Island was ceded to Britain, and certain ports, including Shanghai and Guangzhou, were opened to British trade and residence.
 1	เกาะ	_	NOUN	NN	_	4	nsubj:pass	_	SpaceAfter=No
 2	ฮ่องกง	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No
-3	ถูก	_	VERB	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
+3	ถูก	_	AUX	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
 4	ยึด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No
 6	โดย	_	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -16390,7 +16390,7 @@
 15	เซี่ยงไฮ้	_	PROPN	NNP	_	9	conj	_	SpaceAfter=No
 16	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 17	กวางโจว	_	PROPN	NNP	_	15	conj	_	SpaceAfter=No
-18	ถูก	_	VERB	MD	Voice=Pass	19	aux:pass	_	SpaceAfter=No
+18	ถูก	_	AUX	MD	Voice=Pass	19	aux:pass	_	SpaceAfter=No
 19	เปิด	_	VERB	VV	_	4	conj	_	SpaceAfter=No
 20	เป็น	_	AUX	VC	_	21	cop	_	SpaceAfter=No
 21	แหล่ง	_	NOUN	NN	_	19	xcomp	_	SpaceAfter=No
@@ -16420,7 +16420,7 @@
 14	อีก	_	DET	DT	_	15	det	_	SpaceAfter=No
 15	ครั้ง	_	NOUN	NNB	_	13	obl	_	SpaceAfter=No
 16	และ	_	CCONJ	CC	_	18	cc	_	SpaceAfter=No
-17	ถูก	_	VERB	MD	Voice=Pass	18	aux:pass	_	SpaceAfter=No
+17	ถูก	_	AUX	MD	Voice=Pass	18	aux:pass	_	SpaceAfter=No
 18	บังคับ	_	VERB	VV	_	13	conj	_	SpaceAfter=No
 19	ให้	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No
 20	ยอมรับ	_	VERB	VV	_	19	xcomp	_	SpaceAfter=No
@@ -16526,7 +16526,7 @@
 # text = เธอถูกทาบทามหลายบทบาท โฆษณาโทรทัศน์ และละครเวที แต่ไม่มีอะไรเลยที่กระตุ้นความสนใจของเธอ
 # text_en = She was offered several scripts, television commercials, and stage projects, but none piqued her interest.
 1	เธอ	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	ทาบทาม	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	หลาย	_	DET	DT	_	5	det	_	SpaceAfter=No
 5	บทบาท	_	NOUN	NNB	_	3	obj	_	_
@@ -16570,7 +16570,7 @@
 19	สมาชิก	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
 20	กลุ่ม	_	NOUN	NN	_	19	compound	_	SpaceAfter=No
 21	ต่อต้าน	_	VERB	VV	_	20	acl	_	SpaceAfter=No
-22	ถูก	_	VERB	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No
+22	ถูก	_	AUX	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No
 23	ประหาร	_	VERB	VV	_	0	root	_	SpaceAfter=No
 24	เมื่อ	_	ADP	IN	_	25	case	_	SpaceAfter=No
 25	เดือน	_	NOUN	NN	_	23	obl	_	SpaceAfter=No
@@ -16852,7 +16852,7 @@
 7	พื้นเมือง	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No
 8	ใหม่	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No
 9	ขึ้น	_	ADV	RB	_	8	advmod	_	SpaceAfter=No
-10	ถูก	_	VERB	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No
+10	ถูก	_	AUX	MD	Voice=Pass	11	aux:pass	_	SpaceAfter=No
 11	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 12	ขึ้น	_	PART	RP	_	11	compound:prt	_	_
 
@@ -17135,7 +17135,7 @@
 # text = วินสโตนถูกประกาศให้เป็นบุคคลล้มละลายเมื่อวันที่ 4 ตุลาคม 1988 และอีกครั้งเมื่อวันที่ 19 มีนาคม 1993
 # text_en = Winstone was declared bankrupt on 4 October 1988 and again on 19 March 1993.
 1	วินสโตน	_	PROPN	NNP	_	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	ประกาศ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ให้	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No
 5	เป็น	_	AUX	VC	_	6	cop	_	SpaceAfter=No
@@ -17817,7 +17817,7 @@
 # text_en = Following her dismissal, Peniston took playing as Glinda the Good Witch in a theatrical production of musical play The Wiz.
 1	หลัง	_	ADP	IN	_	4	mark	_	SpaceAfter=No
 2	จาก	_	ADP	IN	_	1	fixed	_	SpaceAfter=No
-3	ถูก	_	VERB	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
+3	ถูก	_	AUX	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
 4	ไล่	_	VERB	VV	_	7	advcl	_	SpaceAfter=No
 5	ออก	_	PART	RP	_	4	compound:prt	_	_
 6	เพนิสตัน	_	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No
@@ -17843,12 +17843,12 @@
 # text = วิลค์สได้รับเลือกตั้งอีกครั้งและถูกขับไล่อีกสองครั้ง ก่อนที่สภาสามัญชนจะประกาศว่าการลงสมัครของเขาเป็นโมฆะและประกาศให้รองอันดับหนึ่งเป็นผู้ชนะ
 # text_en = Wilkes was re-elected and expelled twice more, before the House of Commons resolved that his candidature was invalid and declared the runner-up as the victor.
 1	วิลค์ส	_	PROPN	NNP	_	3	nsubj:pass	_	SpaceAfter=No
-2	ได้รับ	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ได้รับ	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	เลือกตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	อีก	_	DET	DT	_	5	det	_	SpaceAfter=No
 5	ครั้ง	_	NOUN	NNB	_	3	obl	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	8	cc	_	SpaceAfter=No
-7	ถูก	_	VERB	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No
+7	ถูก	_	AUX	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No
 8	ขับไล่	_	VERB	VV	_	3	conj	_	SpaceAfter=No
 9	อีก	_	DET	DT	_	11	det	_	SpaceAfter=No
 10	สอง	_	NUM	CD	_	11	nummod	_	SpaceAfter=No
@@ -17958,7 +17958,7 @@
 9	ดยุก	_	NOUN	NN	_	4	appos	_	SpaceAfter=No
 10	แห่ง	_	ADP	IN	_	11	case	_	SpaceAfter=No
 11	คัมเบอร์แลนด์	_	PROPN	NNP	_	9	nmod:poss	_	_
-12	ถูก	_	VERB	MD	Voice=Pass	13	aux:pass	_	SpaceAfter=No
+12	ถูก	_	AUX	MD	Voice=Pass	13	aux:pass	_	SpaceAfter=No
 13	เปิดโปง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 14	ว่า	_	ADP	IN	_	15	mark	_	SpaceAfter=No
 15	ประพฤติ	_	VERB	VV	_	13	ccomp	_	SpaceAfter=No
@@ -18861,7 +18861,7 @@
 3	ระหว่าง	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	นี้	_	PRON	PRD	_	2	nmod	_	_
 5	มาร์เซล	_	PROPN	NNP	_	7	nsubj:pass	_	SpaceAfter=No
-6	ถูก	_	VERB	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
+6	ถูก	_	AUX	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
 7	ทิ้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	ไว้	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	ใน	_	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -18896,7 +18896,7 @@
 3	นี้	_	DET	DT	_	2	det	_	SpaceAfter=No
 4	เกือบ	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
 5	จะ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
-6	ถูก	_	VERB	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
+6	ถูก	_	AUX	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
 7	ลืมเลือน	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No
 9	เสีย	_	PART	EP	_	7	discourse	_	SpaceAfter=No
@@ -19206,7 +19206,7 @@
 # text_en = The knight Lyvet was released and his follower thrown into the Tower.
 1	อัศวิน	_	NOUN	NN	_	4	nsubj:pass	_	SpaceAfter=No
 2	ไลเว็ต	_	PROPN	NNP	_	1	appos	_	SpaceAfter=No
-3	ถูก	_	VERB	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
+3	ถูก	_	AUX	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
 4	ปล่อย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ตัว	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	13	cc	_	SpaceAfter=No
@@ -19215,7 +19215,7 @@
 9	ของ	_	ADP	IN	_	10	case	_	SpaceAfter=No
 10	เขา	_	PRON	PRP	Person=3	7	nmod:poss	_	SpaceAfter=No
 11	ก็	_	ADV	RB	_	13	advmod	_	SpaceAfter=No
-12	ถูก	_	VERB	MD	Voice=Pass	13	aux:pass	_	SpaceAfter=No
+12	ถูก	_	AUX	MD	Voice=Pass	13	aux:pass	_	SpaceAfter=No
 13	โยน	_	VERB	VV	_	4	conj	_	SpaceAfter=No
 14	เข้า	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No
 15	ไป	_	PART	RP	_	13	compound:prt	_	SpaceAfter=No
@@ -19986,7 +19986,7 @@
 10	อาจ	_	AUX	MD	_	14	aux	_	SpaceAfter=No
 11	จะ	_	AUX	MD	_	14	aux	_	SpaceAfter=No
 12	ต้อง	_	AUX	MD	_	14	aux	_	SpaceAfter=No
-13	ถูก	_	VERB	MD	Voice=Pass	14	aux:pass	_	SpaceAfter=No
+13	ถูก	_	AUX	MD	Voice=Pass	14	aux:pass	_	SpaceAfter=No
 14	สอบสวน	_	VERB	VV	_	5	ccomp	_	SpaceAfter=No
 15	ด้วย	_	ADV	RB	_	14	advmod	_	_
 
@@ -20606,7 +20606,7 @@
 # text = ข้าพเจ้าถูกเจ้าหน้าที่ถามด้วยท่าทีที่โง่เง่าแบบไม่สามารถลอกเลียนแบบได้ว่าข้าพเจ้ารู้จักนักเขียนชื่อกุนเธอร์ เดอ บรอยน์หรือไม่ และเราเกี่ยวข้องกันทางความคิดหรือเปล่า
 # text_en = I was asked by the officers, in their inimitably dumb way, whether I knew the writer Günter de Bruyn and whether we are intellectual relatives.
 1	ข้าพเจ้า	_	PRON	PRP	Person=1	4	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
 3	เจ้าหน้าที่	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 4	ถาม	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ด้วย	_	ADP	IN	_	6	case	_	SpaceAfter=No
@@ -21094,7 +21094,7 @@
 6	จาก	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	พรรค	_	NOUN	NN	_	2	nmod	_	Proper=True|SpaceAfter=No
 8	เดโมแครต	_	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
-9	ได้รับ	_	VERB	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
+9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	เลือกตั้ง	_	VERB	VV	_	12	advcl	_	_
 11	เขา	_	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No
 12	ยืนยัน	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -21103,7 +21103,7 @@
 15	จะ	_	AUX	MD	_	19	aux	_	SpaceAfter=No
 16	ต้อง	_	AUX	MD	_	19	aux	_	_
 17	‘	_	PUNCT	``	_	16	punct	_	SpaceAfter=No
-18	ถูก	_	VERB	MD	Voice=Pass	19	aux:pass	_	SpaceAfter=No
+18	ถูก	_	AUX	MD	Voice=Pass	19	aux:pass	_	SpaceAfter=No
 19	สืบสวน	_	VERB	VV	_	12	ccomp	_	SpaceAfter=No
 20	เป็น	_	AUX	VC	_	21	cop	_	SpaceAfter=No
 21	ปี	_	NOUN	NN	_	19	xcomp	_	SpaceAfter=No
@@ -21391,7 +21391,7 @@
 # text_en = Are workers allowed to keep religious objects on their desks?
 1	คน	_	NOUN	NN	_	4	nsubj:pass	_	SpaceAfter=No
 2	งาน	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
-3	ได้รับ	_	VERB	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
+3	ได้รับ	_	AUX	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No
 4	อนุญาต	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ให้	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No
 6	วาง	_	VERB	VV	_	5	xcomp	_	SpaceAfter=No
@@ -21698,7 +21698,7 @@
 18	ลัทธิ	_	NOUN	NN	_	17	obj	_	Proper=True|SpaceAfter=No
 19	ฟาสซิสม์	_	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No
 20	ที่	_	DET	WDT	_	22	nsubj:pass	_	SpaceAfter=No
-21	ถูก	_	VERB	MD	Voice=Pass	22	aux:pass	_	SpaceAfter=No
+21	ถูก	_	AUX	MD	Voice=Pass	22	aux:pass	_	SpaceAfter=No
 22	หมายหัว	_	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
 23	เนื่อง	_	ADP	IN	_	29	mark	_	SpaceAfter=No
 24	จาก	_	ADP	IN	_	23	fixed	_	SpaceAfter=No
@@ -21843,7 +21843,7 @@
 1	บัตร	_	NOUN	NN	_	5	nsubj:pass	_	SpaceAfter=No
 2	กำนัล	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 3	จะ	_	AUX	MD	_	5	aux	_	SpaceAfter=No
-4	ถูก	_	VERB	MD	Voice=Pass	5	aux:pass	_	SpaceAfter=No
+4	ถูก	_	AUX	MD	Voice=Pass	5	aux:pass	_	SpaceAfter=No
 5	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	ขึ้น	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No
 7	ซึ่ง	_	ADP	IN	_	9	mark	_	SpaceAfter=No
@@ -23016,7 +23016,7 @@
 10	เก่า	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No
 11	ซึ่ง	_	DET	WDT	_	14	nsubj:pass	_	SpaceAfter=No
 12	ได้	_	PART	AS	Aspect=Perf	14	aux	_	SpaceAfter=No
-13	ถูก	_	VERB	MD	Voice=Pass	14	aux:pass	_	SpaceAfter=No
+13	ถูก	_	AUX	MD	Voice=Pass	14	aux:pass	_	SpaceAfter=No
 14	ทิ้ง	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
 15	ให้	_	VERB	VV	_	14	xcomp	_	SpaceAfter=No
 16	ชุมชน	_	NOUN	NN	_	15	obj	_	SpaceAfter=No
@@ -23047,7 +23047,7 @@
 12	ที่	_	DET	WDT	_	13	nsubj	_	SpaceAfter=No
 13	รอด	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
 14	จาก	_	ADP	IN	_	16	case	_	SpaceAfter=No
-15	การถูก	_	VERB	MD	Voice=Pass	16	aux:pass	_	SpaceAfter=No
+15	การถูก	_	AUX	MD	Voice=Pass	16	aux:pass	_	SpaceAfter=No
 16	ทำลาย	_	VERB	VV	_	13	obl	_	SpaceAfter=No
 17	ก่อน	_	ADP	IN	_	18	case	_	SpaceAfter=No
 18	การสิ้นสุด	_	VERB	VV	_	16	obl	_	SpaceAfter=No
@@ -23066,7 +23066,7 @@
 3	1832	_	NUM	CD	_	2	appos	_	_
 4	อาราม	_	NOUN	NN	_	7	nsubj:pass	_	SpaceAfter=No
 5	เก่า	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
-6	ถูก	_	VERB	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
+6	ถูก	_	AUX	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
 7	ขาย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	ให้	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No
 9	กับ	_	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -23339,7 +23339,7 @@
 5	ไม่	_	PART	NEG	Polarity=Neg	6	advmod	_	SpaceAfter=No
 6	ให้	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No
 7	ธัญพืช	_	NOUN	NN	_	6	obj	_	SpaceAfter=No
-8	ถูก	_	VERB	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
+8	ถูก	_	AUX	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
 9	ส่ง	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No
 10	ต่อ	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
 11	ออก	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No
@@ -23784,7 +23784,7 @@
 1	สำนัก	_	NOUN	NN	_	5	nsubj:pass	_	Proper=True|SpaceAfter=No
 2	สงฆ์	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 3	ดิซีโบเดนเบิร์ก	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
-4	ถูก	_	VERB	MD	Voice=Pass	5	aux:pass	_	SpaceAfter=No
+4	ถูก	_	AUX	MD	Voice=Pass	5	aux:pass	_	SpaceAfter=No
 5	ทุบ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	ถล่ม	_	VERB	VV	_	5	conj	_	SpaceAfter=No
@@ -23823,7 +23823,7 @@
 1	สำนัก	_	NOUN	NN	_	5	nsubj:pass	_	Proper=True|SpaceAfter=No
 2	สงฆ์	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 3	รูเพิร์ตสเบิร์ก	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
-4	ถูก	_	VERB	MD	Voice=Pass	5	aux:pass	_	SpaceAfter=No
+4	ถูก	_	AUX	MD	Voice=Pass	5	aux:pass	_	SpaceAfter=No
 5	ทำลาย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	ระหว่าง	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	สงคราม	_	NOUN	NN	_	5	obl	_	Proper=True|SpaceAfter=No
@@ -23845,7 +23845,7 @@
 2	ชี	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 3	พลัด	_	VERB	VV	_	2	acl	_	SpaceAfter=No
 4	ถิ่น	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
-5	ถูก	_	VERB	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
+5	ถูก	_	AUX	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
 6	ย้าย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	เข้า	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 8	ไป	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
@@ -23861,7 +23861,7 @@
 2	ปรัก	_	VERB	VV	_	1	acl	_	SpaceAfter=No
 3	หัก	_	VERB	VV	_	2	conj	_	SpaceAfter=No
 4	พัง	_	VERB	VV	_	2	conj	_	SpaceAfter=No
-5	ถูก	_	VERB	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
+5	ถูก	_	AUX	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
 6	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	ขึ้น	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 8	มา	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
@@ -23976,7 +23976,7 @@
 8	ที่	_	DET	WDT	_	12	advmod	_	SpaceAfter=No
 9	พวก	_	NOUN	NN	_	12	nsubj:pass	_	SpaceAfter=No
 10	เขา	_	PRON	PRP	Person=3	9	compound	_	SpaceAfter=No
-11	ได้รับ	_	VERB	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+11	ได้รับ	_	AUX	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	รายงาน	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
 13	จาก	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	รายงาน	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
@@ -24033,7 +24033,7 @@
 # text = กระท่อมถูกเผาวอดวายหมด
 # text_en = The chalet burned completely down.
 1	กระท่อม	_	NOUN	NN	_	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	เผา	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	วอดวาย	_	VERB	VV	_	3	acl	_	SpaceAfter=No
 5	หมด	_	ADV	RB	_	3	advmod	_	_
@@ -24155,7 +24155,7 @@
 14	สิบ	_	NUM	CD	_	15	nummod	_	SpaceAfter=No
 15	คน	_	NOUN	NNB	_	11	clf	_	SpaceAfter=No
 16	จาก	_	ADP	IN	_	18	case	_	SpaceAfter=No
-17	การถูก	_	VERB	MD	Voice=Pass	18	aux:pass	_	SpaceAfter=No
+17	การถูก	_	AUX	MD	Voice=Pass	18	aux:pass	_	SpaceAfter=No
 18	กล่าวหา	_	VERB	VV	_	11	xcomp	_	SpaceAfter=No
 19	ว่า	_	ADP	IN	_	21	mark	_	SpaceAfter=No
 20	เป็น	_	AUX	VC	_	21	cop	_	SpaceAfter=No
@@ -24262,7 +24262,7 @@
 3	ก็	_	ADV	RB	_	1	fixed	_	SpaceAfter=No
 4	ตาม	_	ADV	RB	_	1	fixed	_	_
 5	พิรัส	_	PROPN	NNP	_	7	nsubj:pass	_	SpaceAfter=No
-6	ถูก	_	VERB	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
+6	ถูก	_	AUX	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
 7	บังคับ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	ให้	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No
 9	ออก	_	VERB	VV	_	8	xcomp	_	SpaceAfter=No
@@ -24310,7 +24310,7 @@
 6	อักขระ	_	NOUN	NN	_	10	nsubj:pass	_	SpaceAfter=No
 7	ไมซีเนียน	_	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 8	ก็	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
-9	ถูก	_	VERB	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
+9	ถูก	_	AUX	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	ลืม	_	VERB	VV	_	3	conj	_	_
 11	แต่	_	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 12	ชาว	_	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
@@ -24349,7 +24349,7 @@
 # text = กรีซถูกแบ่งเป็นชุมชนเล็กๆ ปกครองตนเองหลายแห่ง ซึ่งเป็นรูปแบบที่ปกครองตามภูมิศาสตร์กรีซ โดยทุกเกาะ ทุกหุบเขา ทุกที่ราบถูกตัดออกจากเพื่อนบ้านด้วยทะเลหรือแนวเขา
 # text_en = Greece was divided into many small, self-governing communities, a pattern largely dictated by Greek geography: every island, valley and plain is cut off from its neighbours by the sea or mountain ranges.
 1	กรีซ	_	PROPN	NNP	_	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	แบ่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	เป็น	_	AUX	VC	_	5	cop	_	SpaceAfter=No
 5	ชุมชน	_	NOUN	NN	_	3	xcomp	_	SpaceAfter=No
@@ -24376,7 +24376,7 @@
 26	ทุก	_	DET	DT	_	27	det	_	SpaceAfter=No
 27	ที่	_	NOUN	NNB	_	22	conj	_	SpaceAfter=No
 28	ราบ	_	ADJ	JJ	_	27	amod	_	SpaceAfter=No
-29	ถูก	_	VERB	MD	Voice=Pass	30	aux:pass	_	SpaceAfter=No
+29	ถูก	_	AUX	MD	Voice=Pass	30	aux:pass	_	SpaceAfter=No
 30	ตัด	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
 31	ออก	_	PART	RP	_	30	compound:prt	_	SpaceAfter=No
 32	จาก	_	ADP	IN	_	33	case	_	SpaceAfter=No
@@ -24469,7 +24469,7 @@
 19	ข้าม	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No
 20	ทะเล	_	NOUN	NN	_	19	obj	_	SpaceAfter=No
 21	ได้	_	PART	AS	Aspect=Perf	23	aux	_	SpaceAfter=No
-22	ถูก	_	VERB	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No
+22	ถูก	_	AUX	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No
 23	สร้าง	_	VERB	VV	_	10	advcl	_	SpaceAfter=No
 24	ขึ้น	_	PART	RP	_	23	compound:prt	_	_
 
@@ -24555,7 +24555,7 @@
 25	ปล่อย	_	VERB	VV	_	20	xcomp	_	SpaceAfter=No
 26	ตัว	_	NOUN	NN	_	25	obj	_	SpaceAfter=No
 27	ผู้	_	NOUN	NN	_	26	compound	_	SpaceAfter=No
-28	ต้อง	_	VERB	MD	Voice=Pass	29	aux:pass	_	SpaceAfter=No
+28	ต้อง	_	AUX	MD	Voice=Pass	29	aux:pass	_	SpaceAfter=No
 29	สงสัย	_	VERB	VV	_	27	acl	_	_
 
 # sent_id = w03009029
@@ -24588,7 +24588,7 @@
 25	1994	_	NUM	CD	_	24	appos	_	_
 26	เมื่อ	_	ADP	IN	_	29	mark	_	SpaceAfter=No
 27	เขา	_	PRON	PRP	Person=3	29	nsubj:pass	_	SpaceAfter=No
-28	ถูก	_	VERB	MD	Voice=Pass	29	aux:pass	_	SpaceAfter=No
+28	ถูก	_	AUX	MD	Voice=Pass	29	aux:pass	_	SpaceAfter=No
 29	ประกาศ	_	VERB	VV	_	20	advcl	_	SpaceAfter=No
 30	ว่า	_	ADP	IN	_	31	mark	_	SpaceAfter=No
 31	ล้มละลาย	_	VERB	VV	_	29	ccomp	_	_
@@ -24898,7 +24898,7 @@
 5	กอล์ฟ	_	NOUN	NN	_	4	compound	_	_
 6	90	_	NUM	CD	_	7	nummod	_	_
 7	เฮกตาร์	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
-8	ถูก	_	VERB	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
+8	ถูก	_	AUX	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No
 9	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 10	ขึ้น	_	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No
@@ -24943,7 +24943,7 @@
 24	ภาย	_	NOUN	NN	_	28	obl:tmod	_	SpaceAfter=No
 25	หลัง	_	ADJ	JJ	_	24	amod	_	SpaceAfter=No
 26	ได้	_	PART	AS	Aspect=Perf	28	aux	_	SpaceAfter=No
-27	ถูก	_	VERB	MD	Voice=Pass	28	aux:pass	_	SpaceAfter=No
+27	ถูก	_	AUX	MD	Voice=Pass	28	aux:pass	_	SpaceAfter=No
 28	รื้อถอน	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 29	ไป	_	PART	RP	_	28	compound:prt	_	SpaceAfter=No
 30	พร้อม	_	VERB	VV	_	28	xcomp	_	SpaceAfter=No
@@ -25601,7 +25601,7 @@
 3	ไว้	_	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	ว่า	_	ADP	IN	_	7	mark	_	SpaceAfter=No
 5	รูปแบบ	_	NOUN	NN	_	7	nsubj:pass	_	SpaceAfter=No
-6	ถูก	_	VERB	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
+6	ถูก	_	AUX	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
 7	กำหนด	_	VERB	VV	_	2	ccomp	_	SpaceAfter=No
 8	อย่างตั้งใจ	_	VERB	VV	_	7	advcl	_	SpaceAfter=No
 9	เนื่อง	_	ADP	IN	_	11	mark	_	SpaceAfter=No
@@ -25732,9 +25732,9 @@
 19	กฎหมาย	_	NOUN	NN	_	18	obl	_	_
 20	ผู้	_	NOUN	NN	_	25	nsubj:pass	_	SpaceAfter=No
 21	ที่	_	DET	WDT	_	23	nsubj:pass	_	SpaceAfter=No
-22	ถูก	_	VERB	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No
+22	ถูก	_	AUX	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No
 23	เนรเทศ	_	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
-24	ได้รับ	_	VERB	MD	Voice=Pass	25	aux:pass	_	SpaceAfter=No
+24	ได้รับ	_	AUX	MD	Voice=Pass	25	aux:pass	_	SpaceAfter=No
 25	อนุญาต	_	VERB	VV	_	11	conj	_	SpaceAfter=No
 26	ให้	_	VERB	VV	_	25	xcomp	_	SpaceAfter=No
 27	กลับ	_	VERB	VV	_	26	xcomp	_	SpaceAfter=No
@@ -25744,7 +25744,7 @@
 31	ทาง	_	ADP	IN	_	32	case	_	SpaceAfter=No
 32	การ	_	NOUN	NN	_	30	nmod	_	SpaceAfter=No
 33	เมือง	_	NOUN	NN	_	32	compound	_	SpaceAfter=No
-34	ถูก	_	VERB	MD	Voice=Pass	35	aux:pass	_	SpaceAfter=No
+34	ถูก	_	AUX	MD	Voice=Pass	35	aux:pass	_	SpaceAfter=No
 35	ปล่อย	_	VERB	VV	_	11	conj	_	SpaceAfter=No
 36	ตัว	_	NOUN	NN	_	35	obj	_	_
 
@@ -25922,7 +25922,7 @@
 4	ตาม	_	ADV	RB	_	1	fixed	_	_
 5	พวก	_	NOUN	NN	_	8	nsubj:pass	_	SpaceAfter=No
 6	เขา	_	PRON	PRP	Person=3	5	compound	_	SpaceAfter=No
-7	ถูก	_	VERB	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No
+7	ถูก	_	AUX	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No
 8	สกัด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	ไว้	_	ADV	RB	_	8	advmod	_	SpaceAfter=No
 10	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No
@@ -26183,7 +26183,7 @@
 # text = ซีซาร์ได้รับแจ้งถึงการกระทำของปอมปีย์จากคิวริโอผู้ซึ่งหมดวาระในขณะนั้น
 # text_en = César was personally informed of Pompey's actions by Curio, who at that time had finished his term in office.
 1	ซีซาร์	_	PROPN	NNP	_	3	nsubj:pass	_	SpaceAfter=No
-2	ได้รับ	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ได้รับ	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	แจ้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ถึง	_	ADP	IN	_	5	case	_	SpaceAfter=No
 5	การกระทำ	_	VERB	VV	_	3	obl	_	SpaceAfter=No
