@@ -22,7 +22,7 @@
 19	ฯ	_	PUNCT	...	_	18	punct	_	Proper=True
 20	การเปลี่ยนผ่าน	_	VERB	VV	_	27	csubj	_	SpaceAfter=No
 21	อำนาจ	_	NOUN	NN	_	20	obj	_	SpaceAfter=No
-22	อย่างสันติ	_	NOUN	NN	_	20	advmod	_	SpaceAfter=No
+22	อย่างสันติ	_	NOUN	NN	_	20	obl	_	SpaceAfter=No
 23	นั้น	_	DET	DT	_	20	det	_	SpaceAfter=No
 24	ก็	_	ADV	RB	_	27	advmod	_	SpaceAfter=No
 25	ไม่	_	PART	NEG	Polarity=Neg	27	advmod	_	SpaceAfter=No
@@ -96,7 +96,7 @@
 28	เข้า	_	VERB	VV	_	27	acl	_	SpaceAfter=No
 29	เมือง	_	NOUN	NN	_	28	obj	_	SpaceAfter=No
 30	โดยถูก	_	VERB	VV	_	28	advmod	_	SpaceAfter=No
-31	กฎหมาย	_	NOUN	NN	_	30	advmod	_	_
+31	กฎหมาย	_	NOUN	NN	_	30	obl	_	_
 32	“	_	PUNCT	``	_	33	punct	_	SpaceAfter=No
 33	จำนวน	_	NOUN	NN	_	27	compound	_	SpaceAfter=No
 34	มาก	_	ADJ	JJ	_	33	amod	_	SpaceAfter=No
@@ -184,9 +184,9 @@
 11	ทำ	_	VERB	VV	_	7	acl:relcl	_	_
 12	มัน	_	PRON	PRP	Person=3	16	reparandum	_	_
 13	—	_	PUNCT	-	_	12	punct	_	_
-14	ที่	_	PRON	PRP	_	18	advmod	_	SpaceAfter=No
+14	ที่	_	PRON	PRP	_	18	obl	_	SpaceAfter=No
 15	จริง	_	ADJ	JJ	_	14	amod	_	_
-16	มัน	_	PRON	PRP	Person=3	18	advmod	_	SpaceAfter=No
+16	มัน	_	PRON	PRP	Person=3	18	obl	_	SpaceAfter=No
 17	ไม่	_	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No
 18	น่าเชื่อ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 19	เลย	_	ADV	RB	_	18	advmod	_	_
@@ -218,7 +218,7 @@
 8	ใช้	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	สถานที่	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	เดียว	_	ADJ	JJ	_	9	amod	_	SpaceAfter=No
-11	กัน	_	PRON	PRP	_	10	advmod	_	SpaceAfter=No
+11	กัน	_	PRON	PRP	_	10	obl	_	SpaceAfter=No
 12	นั้น	_	DET	DT	_	9	det	_	SpaceAfter=No
 13	เพื่อ	_	ADP	IN	_	14	mark	_	SpaceAfter=No
 14	พบปะ	_	VERB	VV	_	8	advcl	_	SpaceAfter=No
@@ -270,7 +270,7 @@
 20	ไป	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No
 21	ไม่	_	PART	NEG	Polarity=Neg	22	advmod	_	SpaceAfter=No
 22	กี่	_	ADJ	JJ	_	23	amod	_	SpaceAfter=No
-23	ช่วง	_	NOUN	NN	_	19	advmod	_	SpaceAfter=No
+23	ช่วง	_	NOUN	NN	_	19	obl	_	SpaceAfter=No
 24	ตึก	_	NOUN	NN	_	23	compound	_	_
 
 # sent_id = n01003013
@@ -283,7 +283,7 @@
 5	กาย	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
 6	อาจ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
 7	ล้า	_	VERB	VV	_	0	root	_	SpaceAfter=No
-8	สมัย	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No
+8	สมัย	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 9	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No
 10	หน่อย	_	ADV	RB	_	7	advmod	_	_
 
@@ -468,9 +468,9 @@
 15	สิทธิ	_	NOUN	NN	_	14	obj	_	SpaceAfter=No
 16	เลือกตั้ง	_	VERB	VV	_	15	acl	_	SpaceAfter=No
 17	ล่วง	_	VERB	VV	_	16	acl	_	SpaceAfter=No
-18	หน้า	_	NOUN	NN	_	17	advmod	_	SpaceAfter=No
+18	หน้า	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
 19	เพียง	_	ADV	RB	_	12	advmod	_	SpaceAfter=No
-20	ร้อยละ	_	NOUN	NN	_	12	advmod	_	_
+20	ร้อยละ	_	NOUN	NN	_	12	obl	_	_
 21	11	_	NUM	CD	_	20	nummod	_	_
 22	จาก	_	ADP	IN	_	23	case	_	SpaceAfter=No
 23	ผู้	_	NOUN	NN	_	20	nmod	_	SpaceAfter=No
@@ -620,7 +620,7 @@
 28	ทำ	_	VERB	VV	_	27	xcomp	_	SpaceAfter=No
 29	แบบ	_	NOUN	NN	_	28	obj	_	SpaceAfter=No
 30	เดียว	_	ADJ	JJ	_	29	amod	_	SpaceAfter=No
-31	กัน	_	PRON	PRP	_	30	advmod	_	SpaceAfter=No
+31	กัน	_	PRON	PRP	_	30	obl	_	SpaceAfter=No
 32	นั้น	_	DET	DT	_	29	det	_	SpaceAfter=No
 33	กับ	_	ADP	IN	_	34	case	_	SpaceAfter=No
 34	แองเจิล	_	PROPN	NNP	_	28	obl	_	_
@@ -836,7 +836,7 @@
 43	คีร่า	_	PROPN	NNP	_	41	obl	_	SpaceAfter=No
 44	ถึง	_	ADV	RB	_	45	advmod	_	SpaceAfter=No
 45	สาม	_	NUM	CD	_	46	nummod	_	SpaceAfter=No
-46	เท่า	_	NOUN	NNB	_	41	advmod	_	_
+46	เท่า	_	NOUN	NNB	_	41	obl	_	_
 
 # sent_id = n01016014
 # text = ตอนแรกบริษัทเกาหลีใต้คิดว่าสาเหตุคือความบกพร่องของแบตเตอรี่ จึงเปลี่ยนจากการใช้ส่วนประกอบของตัวเองเป็นเซลล์ไฟฟ้าจากบุคคลภายนอก
@@ -1198,7 +1198,7 @@
 11	เหม็น	_	ADJ	JJ	_	5	acl:relcl	_	SpaceAfter=No
 12	ไป	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
 13	ทั้ง	_	DET	DT	_	14	det	_	SpaceAfter=No
-14	ข้อง	_	NOUN	NN	_	11	advmod	_	_
+14	ข้อง	_	NOUN	NN	_	11	obl	_	_
 15	เจสซี่	_	PROPN	NNP	_	22	nsubj	_	_
 16	ลาบร็อคค่า	_	PROPN	NNP	_	15	flat:name	_	_
 17	ผู้	_	NOUN	NN	_	15	appos	_	SpaceAfter=No
@@ -1211,7 +1211,7 @@
 24	ข้อความ	_	NOUN	NN	_	22	obl	_	SpaceAfter=No
 25	อธิบาย	_	VERB	VV	_	22	acl	_	SpaceAfter=No
 26	ว่า	_	ADP	IN	_	33	mark	_	SpaceAfter=No
-27	เหตุ	_	NOUN	NN	_	33	advmod	_	SpaceAfter=No
+27	เหตุ	_	NOUN	NN	_	33	obl	_	SpaceAfter=No
 28	ใด	_	DET	WDT	_	27	det	_	SpaceAfter=No
 29	ส่วน	_	NOUN	NN	_	33	nsubj:pass	_	SpaceAfter=No
 30	นั้น	_	DET	DT	_	29	det	_	SpaceAfter=No
@@ -1228,7 +1228,7 @@
 4	ไม่	_	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No
 5	นาน	_	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No
 6	มา	_	PART	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
-7	นี้	_	PRON	PRD	_	5	advmod	_	SpaceAfter=No
+7	นี้	_	PRON	PRD	_	5	obl	_	SpaceAfter=No
 8	”	_	PUNCT	''	_	2	punct	_	_
 9	น่า	_	VERB	MD	_	12	aux	_	SpaceAfter=No
 10	จะ	_	VERB	MD	_	12	aux	_	SpaceAfter=No
@@ -1348,7 +1348,7 @@
 3	เดิน	_	VERB	VV	_	42	ccomp	_	SpaceAfter=No
 4	มา	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No
 5	ถูก	_	VERB	VV	_	3	acl	_	SpaceAfter=No
-6	ทาง	_	NOUN	NN	_	5	advmod	_	SpaceAfter=No
+6	ทาง	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 7	:	_	PUNCT	:	_	11	punct	_	_
 8	ความตกลง	_	VERB	VV	_	11	nsubj	_	Proper=True|SpaceAfter=No
 9	ปารีส	_	PROPN	NNP	_	8	compound	_	SpaceAfter=No
@@ -1359,7 +1359,7 @@
 14	ภูมิอากาศ	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
 15	ช้า	_	ADJ	JJ	_	11	xcomp	_	SpaceAfter=No
 16	ลง	_	ADV	RB	_	15	advmod	_	_
-17	เช่น	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+17	เช่น	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 18	เดียว	_	ADJ	JJ	_	17	amod	_	SpaceAfter=No
 19	กับ	_	ADP	IN	_	30	case	_	SpaceAfter=No
 20	ที่	_	ADP	IN	_	30	mark	_	SpaceAfter=No
@@ -1370,7 +1370,7 @@
 25	ไม่	_	PART	NEG	Polarity=Neg	26	advmod	_	SpaceAfter=No
 26	นาน	_	ADJ	JJ	_	21	xcomp	_	SpaceAfter=No
 27	มา	_	PART	AS	Aspect=Perf	26	aux	_	SpaceAfter=No
-28	นี้	_	PRON	PRD	_	26	advmod	_	SpaceAfter=No
+28	นี้	_	PRON	PRD	_	26	obl	_	SpaceAfter=No
 29	จะ	_	VERB	MD	_	30	aux	_	SpaceAfter=No
 30	ลด	_	VERB	VV	_	17	xcomp	_	SpaceAfter=No
 31	การปล่อย	_	VERB	VV	_	30	obj	_	SpaceAfter=No
@@ -1429,7 +1429,7 @@
 18	ไม่	_	PART	NEG	Polarity=Neg	19	advmod	_	SpaceAfter=No
 19	ใกล้เคียง	_	VERB	VV	_	6	conj	_	_
 20	1.5	_	NUM	CD	_	21	nummod	_	_
-21	องศา	_	NOUN	NNB	_	19	advmod	_	SpaceAfter=No
+21	องศา	_	NOUN	NNB	_	19	obl	_	SpaceAfter=No
 22	เลย	_	ADV	RB	_	19	advmod	_	_
 
 # sent_id = n01023020
@@ -1486,7 +1486,7 @@
 31	สายพันธุ์	_	NOUN	NNB	_	26	clf	_	_
 32	ไม่	_	PART	NEG	Polarity=Neg	33	advmod	_	SpaceAfter=No
 33	เพียงแค่	_	ADV	RB	_	26	advmod	_	SpaceAfter=No
-34	ไดโนเสาร์	_	NOUN	NN	_	33	advmod	_	_
+34	ไดโนเสาร์	_	NOUN	NN	_	33	obl	_	_
 
 # sent_id = n01023043
 # text = สิ่งที่จะบ่งให้เห็นถึงการปรากฏอยู่ของวัตถุจากอุกกาบาตนี้น่าจะเป็นการที่มีธาตุอิริเดียมเจือปนอยู่สูง
@@ -1826,7 +1826,7 @@
 10	ประมาณ	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
 11	ว่า	_	ADP	IN	_	16	mark	_	_
 12	‘	_	PUNCT	``	_	11	punct	_	Proper=True|SpaceAfter=No
-13	นี่	_	PRON	PRD	_	16	advmod	_	_
+13	นี่	_	PRON	PRD	_	16	obl	_	_
 14	พวก	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 15	นาย	_	PRON	PRP	Person=2	14	compound	_	SpaceAfter=No
 16	เห็น	_	VERB	VV	_	9	ccomp	_	SpaceAfter=No
@@ -1845,7 +1845,7 @@
 4	พาดหัว	_	NOUN	NN	_	2	obl	_	SpaceAfter=No
 5	ข่าว	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
 6	อีก	_	DET	DT	_	7	det	_	SpaceAfter=No
-7	ครั้ง	_	NOUN	NNB	_	2	advmod	_	SpaceAfter=No
+7	ครั้ง	_	NOUN	NNB	_	2	obl	_	SpaceAfter=No
 8	เมื่อ	_	ADP	IN	_	9	mark	_	SpaceAfter=No
 9	พูด	_	VERB	VV	_	2	advcl	_	SpaceAfter=No
 10	ถึง	_	ADP	IN	_	11	case	_	SpaceAfter=No
@@ -1875,14 +1875,14 @@
 2	กีตาร์	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 3	ผู้	_	DET	WDT	_	4	nsubj	_	SpaceAfter=No
 4	กระตือรือร้น	_	VERB	VV	_	1	acl:relcl	_	_
-5	เขา	_	PRON	PRP	Person=3	7	advmod	_	SpaceAfter=No
+5	เขา	_	PRON	PRP	Person=3	7	obl	_	SpaceAfter=No
 6	ได้	_	PART	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 7	แสดง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	คอนเสิร์ต	_	NOUN	NN	_	7	obj	_	SpaceAfter=No
 9	ใน	_	ADP	IN	_	10	case	_	SpaceAfter=No
 10	ปี	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 11	เดียว	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
-12	กัน	_	PRON	PRP	_	11	advmod	_	SpaceAfter=No
+12	กัน	_	PRON	PRP	_	11	obl	_	SpaceAfter=No
 13	นั้นเอง	_	DET	DT	_	10	det	_	_
 
 # sent_id = n01029011
@@ -1908,7 +1908,7 @@
 18	ไป	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No
 19	รัสเซีย	_	PROPN	NNP	_	17	obj	_	SpaceAfter=No
 20	หลาย	_	DET	DT	_	21	det	_	SpaceAfter=No
-21	ครั้ง	_	NOUN	NNB	_	17	advmod	_	SpaceAfter=No
+21	ครั้ง	_	NOUN	NNB	_	17	obl	_	SpaceAfter=No
 22	ใน	_	ADP	IN	_	23	case	_	SpaceAfter=No
 23	ช่วง	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
 24	ไม่	_	PART	NEG	Polarity=Neg	25	advmod	_	SpaceAfter=No
@@ -1972,7 +1972,7 @@
 10	ปะทะ	_	VERB	VV	_	8	obj	_	SpaceAfter=No
 11	คารม	_	NOUN	NN	_	10	obj	_	SpaceAfter=No
 12	”	_	PUNCT	''	_	13	punct	_	_
-13	กัน	_	PRON	PRP	_	10	advmod	_	_
+13	กัน	_	PRON	PRP	_	10	obl	_	_
 14	ตาม	_	VERB	VV	_	8	acl	_	SpaceAfter=No
 15	ด้วย	_	ADP	IN	_	17	case	_	_
 16	“	_	PUNCT	``	_	17	punct	_	SpaceAfter=No
@@ -2198,7 +2198,7 @@
 8	พบ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	รูปแบบ	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	เดียว	_	ADJ	JJ	_	9	amod	_	SpaceAfter=No
-11	กัน	_	PRON	PRP	_	10	advmod	_	SpaceAfter=No
+11	กัน	_	PRON	PRP	_	10	obl	_	SpaceAfter=No
 12	นี้	_	DET	DT	_	9	det	_	SpaceAfter=No
 13	ใน	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	เนื้อเยื่อ	_	NOUN	NN	_	8	obl	_	SpaceAfter=No
@@ -2280,7 +2280,7 @@
 19	ที่	_	DET	WDT	_	20	obj	_	SpaceAfter=No
 20	มี	_	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
 21	ร่วม	_	VERB	VV	_	20	acl	_	SpaceAfter=No
-22	กัน	_	PRON	PRP	_	21	advmod	_	_
+22	กัน	_	PRON	PRP	_	21	obl	_	_
 23	เพื่อ	_	ADP	IN	_	24	mark	_	SpaceAfter=No
 24	ให้	_	VERB	VV	_	11	advcl	_	SpaceAfter=No
 25	มั่นใจ	_	VERB	VV	_	24	xcomp	_	SpaceAfter=No
@@ -2384,7 +2384,7 @@
 3	บริติชโคลัมเบีย	_	PROPN	NNP	_	1	nmod	_	SpaceAfter=No
 4	แถลง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ก่อนหน้า	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
-6	นี้	_	PRON	PRD	_	5	advmod	_	SpaceAfter=No
+6	นี้	_	PRON	PRD	_	5	obl	_	SpaceAfter=No
 7	ว่า	_	ADP	IN	_	9	mark	_	_
 8	ไม่	_	PART	NEG	Polarity=Neg	9	advmod	_	SpaceAfter=No
 9	ปรากฏ	_	VERB	VV	_	4	ccomp	_	SpaceAfter=No
@@ -2408,7 +2408,7 @@
 27	เมื่อ	_	ADP	IN	_	28	mark	_	SpaceAfter=No
 28	เร็ว	_	ADV	RB	_	25	advcl	_	SpaceAfter=No
 29	ๆ	_	SYM	SYM	_	28	dep	_	_
-30	นี้	_	PRON	PRD	_	28	advmod	_	_
+30	นี้	_	PRON	PRD	_	28	obl	_	_
 
 # sent_id = n01035025
 # text = เราไม่คิดว่าผู้ต้องสงสัยมีความเกี่ยวโยงกับโรงเรียนนี้หรือกับเด็กสาวทั้งสองหรือกับเขตแอบบอทส์ฟอร์ดโดยเฉพาะ เธอกล่าว
@@ -2501,7 +2501,7 @@
 23	กับ	_	ADP	IN	_	24	case	_	SpaceAfter=No
 24	การประพฤติ	_	VERB	VV	_	22	obl	_	SpaceAfter=No
 25	ผิด	_	VERB	VV	_	24	acl	_	SpaceAfter=No
-26	จรรยาบรรณ	_	NOUN	NN	_	25	advmod	_	_
+26	จรรยาบรรณ	_	NOUN	NN	_	25	obl	_	_
 
 # sent_id = n01036020
 # text = เขากล่าวเพิ่มเติมว่าอยากเห็นอำนาจบังคับและสืบสวนมากขึ้นให้สภาอสังหาริมทรัพย์แห่งรัฐออนทาริโอ (อาร์อีซีโอ) ซึ่งมีหน้าที่กำกับดูแลตัวแทนในจังหวัด
@@ -2671,7 +2671,7 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ขณะ	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 3	เดียว	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No
-4	กัน	_	PRON	PRP	_	3	advmod	_	_
+4	กัน	_	PRON	PRP	_	3	obl	_	_
 5	คลินตัน	_	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	พันธมิตร	_	NOUN	NN	_	5	conj	_	SpaceAfter=No
@@ -2960,10 +2960,10 @@
 35	หรือ	_	CCONJ	CC	_	36	cc	_	SpaceAfter=No
 36	เฉลี่ย	_	ADJ	JJ	_	31	conj	_	SpaceAfter=No
 37	ประมาณ	_	ADV	RB	_	36	advmod	_	SpaceAfter=No
-38	คน	_	NOUN	NN	_	36	advmod	_	SpaceAfter=No
+38	คน	_	NOUN	NN	_	36	obl	_	SpaceAfter=No
 39	ละ	_	DET	DT	_	38	det	_	_
 40	15,000	_	NUM	CD	_	41	nummod	_	_
-41	ดอลลาร์	_	NOUN	NNB	_	36	advmod	_	_
+41	ดอลลาร์	_	NOUN	NNB	_	36	obl	_	_
 
 # sent_id = n01043014
 # text = งบประมาณประจำปีมากกว่า 1.4 พันล้านดอลลาร์และจ้างงานกว่า 6,000 คน
@@ -3018,7 +3018,7 @@
 29	ล้าสมัย	_	VERB	VV	_	24	conj	_	SpaceAfter=No|ToDo=ex-adp-child
 30	ไป	_	PART	RP	_	29	compound:prt	_	SpaceAfter=No
 31	สอง	_	NUM	CD	_	32	nummod	_	SpaceAfter=No
-32	ปี	_	NOUN	NNB	_	29	advmod	_	SpaceAfter=No
+32	ปี	_	NOUN	NNB	_	29	obl	_	SpaceAfter=No
 33	แล้ว	_	PART	AS	Aspect=Perf	29	aux	_	_
 
 # sent_id = n01043027
@@ -3039,9 +3039,9 @@
 13	ล้าน	_	NUM	CD	_	14	nummod	_	SpaceAfter=No
 14	ดอลลาร์	_	NOUN	NNB	_	0	root	_	_
 15	ประมาณ	_	ADV	RB	_	14	advmod	_	SpaceAfter=No
-16	ระดับ	_	NOUN	NN	_	15	advmod	_	SpaceAfter=No
+16	ระดับ	_	NOUN	NN	_	15	obl	_	SpaceAfter=No
 17	เดียว	_	ADJ	JJ	_	16	amod	_	SpaceAfter=No
-18	กัน	_	PRON	PRP	_	17	advmod	_	SpaceAfter=No
+18	กัน	_	PRON	PRP	_	17	obl	_	SpaceAfter=No
 19	กับ	_	ADP	IN	_	20	case	_	SpaceAfter=No
 20	ปี	_	NOUN	NN	_	17	nmod	_	ToDo=nmod
 21	2015	_	NUM	CD	_	20	appos	_	SpaceAfter=No
@@ -3172,7 +3172,7 @@
 7	และ	_	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	การทำ	_	VERB	VV	_	6	conj	_	SpaceAfter=No
 9	ผิด	_	VERB	VV	_	8	xcomp	_	SpaceAfter=No
-10	หน้าที่	_	NOUN	NN	_	9	advmod	_	SpaceAfter=No
+10	หน้าที่	_	NOUN	NN	_	9	obl	_	SpaceAfter=No
 11	ที่	_	DET	WDT	_	13	nsubj	_	SpaceAfter=No
 12	ได้รับ	_	VERB	MD	Voice=Pass	13	aux	_	SpaceAfter=No
 13	มอบหมาย	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No
@@ -3356,7 +3356,7 @@
 33	การจำหน่าย	_	VERB	VV	_	32	obj	_	SpaceAfter=No
 34	กัญชา	_	NOUN	NN	_	33	obj	_	SpaceAfter=No
 35	อย่างถูก	_	VERB	VV	_	33	advmod	_	SpaceAfter=No
-36	กฎหมาย	_	NOUN	NN	_	35	advmod	_	_
+36	กฎหมาย	_	NOUN	NN	_	35	obl	_	_
 37	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
 38	ไว้	_	VERB	VV	_	37	acl	_	_
 
@@ -3577,7 +3577,7 @@
 1	เธอ	_	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	อายุ	_	NOUN	NN	_	0	root	_	_
 3	84	_	NUM	CD	_	4	nummod	_	_
-4	ปี	_	NOUN	NNB	_	2	advmod	_	_
+4	ปี	_	NOUN	NNB	_	2	obl	_	_
 
 # sent_id = n01052006
 # text = เขาบรรยายว่าเธอเป็นผู้หญิงที่ “พิเศษ” และ “เปี่ยมด้วยรักและแสนมหัศจรรย์ ซึ่งได้ทิ้งร่องรอยไว้ในโลกวรรณกรรมด้วยเรื่องราวของเธอ
@@ -3635,7 +3635,7 @@
 17	ไม่	_	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No
 18	นาน	_	ADJ	JJ	_	15	xcomp	_	SpaceAfter=No
 19	มา	_	PART	AS	Aspect=Perf	18	aux	_	SpaceAfter=No
-20	นี้	_	PRON	PRD	_	18	advmod	_	_
+20	นี้	_	PRON	PRD	_	18	obl	_	_
 
 # sent_id = n01053036
 # text = ด้วยอายุเพียง 20 ปี เธอเป็นกระบอกเสียงต่อต้านการข่มเหงรังแก และเป็นตัวอย่างที่ดีในการช่วยให้เด็กสาวยอมรับความงามแบบของตนเอง
@@ -3677,7 +3677,7 @@
 4	ส่ง	_	VERB	VV	_	11	ccomp	_	SpaceAfter=No
 5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No
 6	ทั่ว	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No
-7	โลก	_	NOUN	NN	_	4	advmod	_	SpaceAfter=No
+7	โลก	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
 8	จริง	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
 9	ๆ	_	SYM	SYM	_	8	dep	_	Proper=True
 10	ลีฟ	_	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
@@ -3781,7 +3781,7 @@
 12	มี	_	VERB	VV	_	4	conj	_	SpaceAfter=No
 13	ผล	_	NOUN	NN	_	12	obj	_	SpaceAfter=No
 14	อย่างเท่าเทียม	_	ADJ	JJ	_	12	advmod	_	SpaceAfter=No
-15	กัน	_	PRON	PRP	_	14	advmod	_	SpaceAfter=No
+15	กัน	_	PRON	PRP	_	14	obl	_	SpaceAfter=No
 16	ต่อ	_	ADP	IN	_	17	case	_	SpaceAfter=No
 17	การศึกษา	_	VERB	VV	_	12	obl	_	_
 18	การวิจัย	_	VERB	VV	_	17	conj	_	SpaceAfter=No
@@ -3837,7 +3837,7 @@
 17	เข้า	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No
 18	มา	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No
 19	รวม	_	VERB	VV	_	16	acl	_	SpaceAfter=No
-20	กัน	_	PRON	PRP	_	19	advmod	_	SpaceAfter=No
+20	กัน	_	PRON	PRP	_	19	obl	_	SpaceAfter=No
 21	ด้วย	_	ADP	IN	_	22	case	_	SpaceAfter=No
 22	แรง	_	NOUN	NN	_	16	obl	_	SpaceAfter=No
 23	โน้ม	_	VERB	VV	_	22	acl	_	SpaceAfter=No
@@ -3975,7 +3975,7 @@
 # text_en = This discordance between economic data and political rhetoric is familiar, or should be.
 1	ความไม่	_	PART	NEG	Polarity=Neg	2	advmod	_	SpaceAfter=No
 2	สอดคล้อง	_	VERB	VV	_	14	csubj	_	SpaceAfter=No
-3	กัน	_	PRON	PRP	_	2	advmod	_	SpaceAfter=No
+3	กัน	_	PRON	PRP	_	2	obl	_	SpaceAfter=No
 4	ระหว่าง	_	ADP	IN	_	5	case	_	SpaceAfter=No
 5	ข้อมูล	_	NOUN	NN	_	2	obl	_	SpaceAfter=No
 6	ทาง	_	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -3989,7 +3989,7 @@
 14	สิ่ง	_	NOUN	NN	_	0	root	_	SpaceAfter=No
 15	ที่	_	DET	WDT	_	16	nsubj	_	SpaceAfter=No
 16	คุ้นเคย	_	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
-17	กัน	_	PRON	PRP	_	16	advmod	_	SpaceAfter=No
+17	กัน	_	PRON	PRP	_	16	obl	_	SpaceAfter=No
 18	ดี	_	ADV	RB	_	16	advmod	_	_
 19	หรือ	_	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 20	ควร	_	VERB	MD	_	22	aux	_	SpaceAfter=No
@@ -4285,7 +4285,7 @@
 4	ไม่	_	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No
 5	นาน	_	ADV	RB	_	2	xcomp	_	SpaceAfter=No
 6	มา	_	PART	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
-7	นี้	_	PRON	PRD	_	5	advmod	_	_
+7	นี้	_	PRON	PRD	_	5	obl	_	_
 8	เซย์	_	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
 9	และ	_	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	เซเยี่ยน	_	PROPN	NNP	_	8	conj	_	SpaceAfter=No
@@ -4721,7 +4721,7 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ขณะ	_	NOUN	NN	_	15	obl	_	SpaceAfter=No
 3	เดียว	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No
-4	กัน	_	PRON	PRP	_	3	advmod	_	_
+4	กัน	_	PRON	PRP	_	3	obl	_	_
 5	ภรรยา	_	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 6	ผู้	_	DET	WDT	_	7	nsubj	_	SpaceAfter=No
 7	เหินห่าง	_	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
@@ -4817,7 +4817,7 @@
 10	ตะวัน	_	NOUN	NN	_	8	obl	_	SpaceAfter=No
 11	ออก	_	VERB	VV	_	10	acl	_	SpaceAfter=No
 12	เฉียง	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
-13	ใต้	_	NOUN	NN	_	12	advmod	_	SpaceAfter=No
+13	ใต้	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
 14	ของ	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	เดลี	_	PROPN	NNP	_	10	nmod:poss	_	SpaceAfter=No
 16	จะ	_	VERB	MD	_	17	aux	_	SpaceAfter=No
@@ -5016,7 +5016,7 @@
 10	เรา	_	PRON	PRP	Person=1	9	obj	_	SpaceAfter=No
 11	ก้าว	_	VERB	VV	_	9	xcomp	_	SpaceAfter=No
 12	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No
-13	ข้าง	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+13	ข้าง	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 14	หน้า	_	ADJ	JJ	_	13	amod	_	_
 
 # sent_id = n01074030
@@ -5075,7 +5075,7 @@
 7	เมื่อ	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	เร็ว	_	ADV	RB	_	6	xcomp	_	SpaceAfter=No
 9	ๆ	_	SYM	SYM	_	8	dep	_	_
-10	นี้	_	PRON	PRD	_	8	advmod	_	SpaceAfter=No
+10	นี้	_	PRON	PRD	_	8	obl	_	SpaceAfter=No
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	รักบี้	_	NOUN	NN	_	6	obl	_	Proper=True|SpaceAfter=No
 13	แชมเปี้ยนชิป	_	NOUN	NN	_	12	flat:name	_	Proper=True|SpaceAfter=No
@@ -5168,7 +5168,7 @@
 5	สิ่ง	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
 6	ที่	_	DET	WDT	_	7	obj	_	SpaceAfter=No
 7	เรียก	_	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
-8	กัน	_	PRON	PRP	_	7	advmod	_	SpaceAfter=No
+8	กัน	_	PRON	PRP	_	7	obl	_	SpaceAfter=No
 9	ว่า	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No
 10	เรื่อง	_	NOUN	NN	_	9	obj	_	SpaceAfter=No
 11	จริง	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
@@ -5256,7 +5256,7 @@
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No
 17	ที่	_	NOUN	NN	_	13	obl	_	SpaceAfter=No
 18	เดียว	_	ADJ	JJ	_	17	amod	_	SpaceAfter=No
-19	กัน	_	PRON	PRP	_	18	advmod	_	SpaceAfter=No
+19	กัน	_	PRON	PRP	_	18	obl	_	SpaceAfter=No
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 21	ละวาง	_	VERB	VV	_	13	conj	_	SpaceAfter=No
 22	ความต่าง	_	ADJ	JJ	_	21	obj	_	SpaceAfter=No
@@ -5482,7 +5482,7 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ขณะ	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 3	เดียว	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No
-4	กัน	_	PRON	PRP	_	3	advmod	_	_
+4	กัน	_	PRON	PRP	_	3	obl	_	_
 5	ลูกค้า	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 6	ของ	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	ธนาคาร	_	NOUN	NN	_	5	nmod:poss	_	Proper=True|SpaceAfter=No
@@ -5699,7 +5699,7 @@
 # sent_id = n01086031
 # text = นี่มันน่าสยดสยองทีเดียว
 # text_en = That’s just legitimately horrendous.
-1	นี่	_	PRON	PRD	_	3	advmod	_	SpaceAfter=No
+1	นี่	_	PRON	PRD	_	3	obl	_	SpaceAfter=No
 2	มัน	_	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
 3	น่าสยดสยอง	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
 4	ทีเดียว	_	ADV	RB	_	3	advmod	_	_
@@ -5754,7 +5754,7 @@
 2	ย้าย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 3	กลับ	_	VERB	VV	_	2	acl	_	SpaceAfter=No
 4	ไป	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No
-5	แถว	_	NOUN	NN	_	2	advmod	_	SpaceAfter=No
+5	แถว	_	NOUN	NN	_	2	obl	_	SpaceAfter=No
 6	นั้น	_	DET	DT	_	5	det	_	SpaceAfter=No
 7	หลัง	_	ADP	IN	_	10	mark	_	SpaceAfter=No
 8	จาก	_	ADP	IN	_	7	fixed	_	SpaceAfter=No
@@ -5872,7 +5872,7 @@
 8	และ	_	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 9	ถูก	_	VERB	MD	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	ถ่าย	_	VERB	VV	_	3	conj	_	SpaceAfter=No
-11	วิดีโอ	_	NOUN	NN	_	10	advmod	_	SpaceAfter=No
+11	วิดีโอ	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 12	ให้	_	VERB	VV	_	10	acl	_	SpaceAfter=No
 13	เห็น	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No
 14	ว่า	_	ADP	IN	_	16	mark	_	SpaceAfter=No
@@ -5981,7 +5981,7 @@
 20	หลุด	_	VERB	VV	_	14	xcomp	_	SpaceAfter=No
 21	ไป	_	PART	RP	_	20	compound:prt	_	SpaceAfter=No
 22	อีก	_	DET	DT	_	23	det	_	SpaceAfter=No
-23	ครั้ง	_	NOUN	NNB	_	20	advmod	_	_
+23	ครั้ง	_	NOUN	NNB	_	20	obl	_	_
 
 # sent_id = n01091017
 # text = เจฟฟ์ นอตต์ หัวหน้าฝ่ายนโยบายธรรมชาติของพวกเขากล่าวว่า “ผมจะประหลาดใจถ้ามีการห้ามหรือการต้องมีใบอนุญาตโผล่มาจากนี้”
@@ -6409,7 +6409,7 @@
 10	อินเทอร์เน็ต	_	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 11	ที่	_	DET	WDT	_	12	nsubj	_	SpaceAfter=No
 12	คุย	_	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No
-13	กัน	_	PRON	PRP	_	12	advmod	_	SpaceAfter=No
+13	กัน	_	PRON	PRP	_	12	obl	_	SpaceAfter=No
 14	ใน	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	ประเด็น	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
 16	นี้	_	DET	DT	_	15	det	_	_
@@ -6523,7 +6523,7 @@
 3	นั้น	_	PRON	PRD	_	1	fixed	_	_
 4	ไป	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	เดิน	_	VERB	VV	_	4	acl	_	SpaceAfter=No
-6	ตลาด	_	NOUN	NN	_	5	advmod	_	SpaceAfter=No
+6	ตลาด	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 7	เช้า	_	NOUN	NN	_	6	obl:tmod	_	_
 8	(	_	PUNCT	(	_	12	punct	_	SpaceAfter=No
 9	6.30	_	NUM	CD	_	12	nummod	_	SpaceAfter=No
@@ -6532,7 +6532,7 @@
 12	น.	_	NOUN	NNB	_	7	appos	_	SpaceAfter=No
 13	)	_	PUNCT	)	_	12	punct	_	SpaceAfter=No
 14	:	_	PUNCT	:	_	15	punct	_	_
-15	ข้าว	_	NOUN	NN	_	4	advmod	_	SpaceAfter=No
+15	ข้าว	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
 16	พอง	_	VERB	VV	_	15	acl	_	SpaceAfter=No
 17	,	_	PUNCT	,	_	18	punct	_	_
 18	รัง	_	NOUN	NN	_	15	conj	_	SpaceAfter=No
@@ -6676,7 +6676,7 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ขณะ	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 3	เดียว	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No
-4	กัน	_	PRON	PRP	_	3	advmod	_	_
+4	กัน	_	PRON	PRP	_	3	obl	_	_
 5	ฮ่องกง	_	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No
 6	ก็	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
 7	ดู	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -6751,9 +6751,9 @@
 18	เช่น	_	NOUN	NN	_	25	advcl	_	SpaceAfter=No
 19	นั้น	_	DET	DT	_	18	det	_	SpaceAfter=No
 20	ติดต่อ	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No
-21	กัน	_	PRON	PRP	_	20	advmod	_	SpaceAfter=No
+21	กัน	_	PRON	PRP	_	20	obl	_	SpaceAfter=No
 22	สาม	_	NUM	CD	_	23	nummod	_	SpaceAfter=No
-23	ครั้ง	_	NOUN	NNB	_	20	advmod	_	SpaceAfter=No
+23	ครั้ง	_	NOUN	NNB	_	20	obl	_	SpaceAfter=No
 24	ก็	_	ADV	RB	_	25	advmod	_	SpaceAfter=No
 25	แสดง	_	VERB	VV	_	9	conj	_	SpaceAfter=No
 26	ให้	_	VERB	VV	_	25	xcomp	_	SpaceAfter=No
@@ -6808,7 +6808,7 @@
 2	ตอน	_	NOUN	NN	_	7	obl:tmod	_	SpaceAfter=No
 3	นี้	_	DET	DT	_	2	det	_	SpaceAfter=No
 4	อะไร	_	PRON	WP	_	7	nsubj	_	Proper=True|SpaceAfter=No
-5	มัน	_	PRON	PRP	Person=3	7	advmod	_	SpaceAfter=No
+5	มัน	_	PRON	PRP	Person=3	7	obl	_	SpaceAfter=No
 6	ก็	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
 7	ดู	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	ผิด	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No
@@ -6911,7 +6911,7 @@
 18	หลาย	_	DET	DT	_	21	det	_	SpaceAfter=No
 19	หมื่น	_	NUM	CD	_	20	nummod	_	SpaceAfter=No
 20	ล้าน	_	NUM	CD	_	21	nummod	_	SpaceAfter=No
-21	ยูโร	_	NOUN	NNB	_	15	advmod	_	_
+21	ยูโร	_	NOUN	NNB	_	15	obl	_	_
 22	และ	_	CCONJ	CC	_	23	cc	_	SpaceAfter=No
 23	ทำให้	_	VERB	VV	_	11	conj	_	SpaceAfter=No
 24	ซีอีโอ	_	NOUN	NN	_	23	obj	_	_
@@ -7034,7 +7034,7 @@
 19	คะแนน	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
 20	เบร็กซิต	_	PROPN	NNP	_	19	compound	_	_
 21	แต่	_	CCONJ	CC	_	27	cc	_	SpaceAfter=No
-22	ที่	_	PRON	PRP	_	27	advmod	_	SpaceAfter=No
+22	ที่	_	PRON	PRP	_	27	obl	_	SpaceAfter=No
 23	จริง	_	ADJ	JJ	_	22	amod	_	SpaceAfter=No
 24	การจัด	_	VERB	VV	_	27	nsubj	_	SpaceAfter=No
 25	จ้าง	_	VERB	VV	_	24	xcomp	_	SpaceAfter=No
@@ -7063,7 +7063,7 @@
 15	ช็อป	_	VERB	VV	_	14	acl	_	SpaceAfter=No
 16	ยังคง	_	PART	AS	Aspect=Prog	17	aux	_	SpaceAfter=No
 17	จับจ่าย	_	VERB	VV	_	10	advcl	_	SpaceAfter=No
-18	กัน	_	PRON	PRP	_	17	advmod	_	SpaceAfter=No
+18	กัน	_	PRON	PRP	_	17	obl	_	SpaceAfter=No
 19	คึกคัก	_	ADV	RB	_	17	advmod	_	_
 20	และ	_	CCONJ	CC	_	30	cc	_	SpaceAfter=No
 21	บริษัท	_	NOUN	NN	_	30	nsubj	_	SpaceAfter=No
@@ -7073,7 +7073,7 @@
 25	กับ	_	ADP	IN	_	26	case	_	SpaceAfter=No
 26	ผู้	_	NOUN	NN	_	23	obl	_	SpaceAfter=No
 27	บริโภค	_	VERB	VV	_	26	acl	_	SpaceAfter=No
-28	ต่าง	_	PRON	PRP	_	30	advmod	_	SpaceAfter=No
+28	ต่าง	_	PRON	PRP	_	30	obl	_	SpaceAfter=No
 29	ก็	_	ADV	RB	_	30	advmod	_	SpaceAfter=No
 30	โต	_	VERB	VV	_	17	conj	_	SpaceAfter=No
 31	ตาม	_	ADV	RB	_	30	advmod	_	SpaceAfter=No
@@ -7098,7 +7098,7 @@
 13	ยังคง	_	PART	AS	Aspect=Prog	14	aux	_	SpaceAfter=No
 14	ดำเนิน	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
 15	งบประมาณ	_	NOUN	NN	_	14	obj	_	SpaceAfter=No
-16	แบบ	_	NOUN	NN	_	14	advmod	_	SpaceAfter=No
+16	แบบ	_	NOUN	NN	_	14	obl	_	SpaceAfter=No
 17	ขาด	_	VERB	VV	_	16	acl	_	SpaceAfter=No
 18	ดุล	_	NOUN	NN	_	17	obj	_	SpaceAfter=No
 19	อยู่	_	PART	AS	Aspect=Prog	14	aux	_	_
@@ -7236,7 +7236,7 @@
 20	จะ	_	VERB	MD	_	22	aux	_	SpaceAfter=No
 21	ไม่	_	PART	NEG	Polarity=Neg	22	advmod	_	SpaceAfter=No
 22	ต่าง	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
-23	อะไร	_	PRON	WP	_	22	advmod	_	SpaceAfter=No
+23	อะไร	_	PRON	WP	_	22	obl	_	SpaceAfter=No
 24	กับ	_	ADP	IN	_	25	case	_	SpaceAfter=No
 25	บัญชี	_	NOUN	NN	_	22	obl	_	SpaceAfter=No
 26	ออม	_	VERB	VV	_	25	acl	_	SpaceAfter=No
@@ -7295,7 +7295,7 @@
 7	ทุน	_	NOUN	NN	_	6	obj	_	SpaceAfter=No
 8	หยุด	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No
 9	แห่	_	VERB	VV	_	8	xcomp	_	SpaceAfter=No
-10	กัน	_	PRON	PRP	_	9	advmod	_	SpaceAfter=No
+10	กัน	_	PRON	PRP	_	9	obl	_	SpaceAfter=No
 11	เอา	_	VERB	VV	_	9	acl	_	SpaceAfter=No
 12	เงิน	_	NOUN	NN	_	11	obj	_	SpaceAfter=No
 13	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No
@@ -7343,7 +7343,7 @@
 34	2	_	NUM	CD	_	35	nummod	_	_
 35	พัน	_	NUM	CD	_	36	nummod	_	SpaceAfter=No
 36	ล้าน	_	NUM	CD	_	37	nummod	_	SpaceAfter=No
-37	ปอนด์	_	NOUN	NNB	_	31	advmod	_	_
+37	ปอนด์	_	NOUN	NNB	_	31	obl	_	_
 38	และ	_	CCONJ	CC	_	42	cc	_	_
 39	1.4	_	NUM	CD	_	40	nummod	_	_
 40	พัน	_	NUM	CD	_	41	nummod	_	SpaceAfter=No
@@ -7398,7 +7398,7 @@
 13	ลอย	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
 14	อยู่	_	PART	AS	Aspect=Prog	13	aux	_	SpaceAfter=No
 15	ทั่ว	_	ADJ	JJ	_	16	amod	_	SpaceAfter=No
-16	โลก	_	NOUN	NN	_	13	advmod	_	SpaceAfter=No
+16	โลก	_	NOUN	NN	_	13	obl	_	SpaceAfter=No
 17	มา	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No
 18	ทำ	_	VERB	VV	_	10	acl	_	SpaceAfter=No
 19	รองเท้า	_	NOUN	NN	_	18	obj	_	_
@@ -7622,7 +7622,7 @@
 5	มา	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	จาก	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	ไหน	_	PRON	WP	PronType=Int	5	obl	_	SpaceAfter=No
-8	กัน	_	PRON	PRP	_	5	advmod	_	_
+8	กัน	_	PRON	PRP	_	5	obl	_	_
 9	หรือ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 10	จะ	_	VERB	MD	_	12	aux	_	SpaceAfter=No
 11	เป็น	_	AUX	VC	_	12	cop	_	SpaceAfter=No
@@ -7649,7 +7649,7 @@
 3	เธอ	_	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No
 4	ยื่น	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No
-6	ข้าง	_	NOUN	NN	_	4	advmod	_	SpaceAfter=No
+6	ข้าง	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
 7	หน้า	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No
 8	โดย	_	ADP	IN	_	9	mark	_	SpaceAfter=No
 9	มี	_	VERB	VV	_	4	advcl	_	SpaceAfter=No
@@ -7673,7 +7673,7 @@
 4	ได้	_	VERB	MD	_	3	aux	_	SpaceAfter=No
 5	ยอด	_	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	เยี่ยม	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
-7	ขนาด	_	NOUN	NN	_	6	advmod	_	SpaceAfter=No
+7	ขนาด	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
 8	นั้น	_	DET	DT	_	7	det	_	_
 9	ใคร	_	PRON	WP	_	11	nsubj	_	SpaceAfter=No
 10	จะ	_	VERB	MD	_	11	aux	_	SpaceAfter=No
@@ -7687,7 +7687,7 @@
 1	เขา	_	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	ทำ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 3	งาน	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
-4	ด้าน	_	NOUN	NN	_	2	advmod	_	SpaceAfter=No
+4	ด้าน	_	NOUN	NN	_	2	obl	_	SpaceAfter=No
 5	ข่าว	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	สถานการณ์	_	NOUN	NN	_	4	conj	_	SpaceAfter=No
@@ -7802,7 +7802,7 @@
 6	ก็	_	ADV	RB	_	8	advmod	_	SpaceAfter=No
 7	ดู	_	AUX	VV	_	8	cop	_	SpaceAfter=No
 8	อบอุ่น	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
-9	หัวใจ	_	NOUN	NN	_	8	advmod	_	SpaceAfter=No
+9	หัวใจ	_	NOUN	NN	_	8	obl	_	SpaceAfter=No
 10	ไม่	_	PART	NEG	Polarity=Neg	11	advmod	_	SpaceAfter=No
 11	เสแสร้ง	_	VERB	VV	_	8	conj	_	SpaceAfter=No
 12	แถม	_	CCONJ	CC	_	13	cc	_	SpaceAfter=No
@@ -7867,7 +7867,7 @@
 12	ประสบการณ์	_	NOUN	NN	_	11	obj	_	SpaceAfter=No
 13	ใน	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	การรบ	_	VERB	VV	_	12	nmod	_	SpaceAfter=No
-15	แนว	_	NOUN	NN	_	14	advmod	_	SpaceAfter=No
+15	แนว	_	NOUN	NN	_	14	obl	_	SpaceAfter=No
 16	หน้า	_	ADJ	JJ	_	15	amod	_	_
 17	และ	_	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 18	การกระทำ	_	VERB	VV	_	22	obj	_	SpaceAfter=No
@@ -8075,7 +8075,7 @@
 19	ได้	_	PART	AS	Aspect=Perf	20	aux	_	SpaceAfter=No
 20	โบยบิน	_	VERB	VV	_	4	conj	_	SpaceAfter=No
 21	อีก	_	DET	DT	_	22	det	_	SpaceAfter=No
-22	ครั้ง	_	NOUN	NNB	_	20	advmod	_	_
+22	ครั้ง	_	NOUN	NNB	_	20	obl	_	_
 
 # sent_id = n01125016
 # text = เซาท์แบงค์ทาวเวอร์ แลนด์มาร์กของลอนดอนได้ให้นักออกแบบภายใน ราเชล วินแฮมมาเป็นผู้ออกแบบอพาร์ตเมนต์สำหรับจัดแสดง
@@ -8136,7 +8136,7 @@
 7	นี้	_	DET	DT	_	6	det	_	SpaceAfter=No
 8	อายุ	_	NOUN	NN	_	4	acl:relcl	_	_
 9	31	_	NUM	CD	_	10	nummod	_	_
-10	ปี	_	NOUN	NNB	_	8	advmod	_	_
+10	ปี	_	NOUN	NNB	_	8	obl	_	_
 11	ถูก	_	VERB	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	ดำเนิน	_	VERB	VV	_	0	root	_	SpaceAfter=No
 13	คดี	_	NOUN	NN	_	12	obj	_	SpaceAfter=No
@@ -8158,7 +8158,7 @@
 29	สมควร	_	ADJ	JJ	_	24	advcl	_	SpaceAfter=No
 30	อีก	_	DET	DT	_	32	det	_	SpaceAfter=No
 31	หนึ่ง	_	NUM	CD	_	32	nummod	_	SpaceAfter=No
-32	คดี	_	NOUN	NNB	_	24	advmod	_	_
+32	คดี	_	NOUN	NNB	_	24	obl	_	_
 
 # sent_id = n01127089
 # text = ผมก็ไม่รู้เหมือนกันว่าทำไมผมถึงเลือกเธอ...
@@ -8199,7 +8199,7 @@
 # sent_id = n01128017
 # text = ท้ายที่สุดแล้ว ผลการดำเนินงานขององค์กรแทบไม่ได้วัดจากการดูว่าเราปลอดภัยแค่ไหนหรือเราทำตามกฎกี่ข้อ
 # text_en = After all, our organizational performance is seldom measured in terms of how safe we are or how many rules we follow.
-1	ท้าย	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+1	ท้าย	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 2	ที่สุด	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	แล้ว	_	ADV	RB	_	2	advmod	_	_
 4	ผล	_	NOUN	NN	_	11	obj	_	SpaceAfter=No
@@ -8217,7 +8217,7 @@
 16	ปลอด	_	VERB	VV	_	13	ccomp	_	SpaceAfter=No
 17	ภัย	_	NOUN	NN	_	16	obj	_	SpaceAfter=No
 18	แค่	_	ADJ	JJ	_	19	amod	_	SpaceAfter=No
-19	ไหน	_	PRON	WP	_	16	advmod	_	SpaceAfter=No
+19	ไหน	_	PRON	WP	_	16	obl	_	SpaceAfter=No
 20	หรือ	_	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 21	เรา	_	PRON	PRP	Person=1	22	nsubj	_	SpaceAfter=No
 22	ทำ	_	VERB	VV	_	16	conj	_	SpaceAfter=No
@@ -8258,7 +8258,7 @@
 # sent_id = n01128025
 # text = อย่างแรก เราต้องให้ความรู้คนว่าจะให้ป้องกันตัวเองในโลกออนไลน์ให้ดีขึ้นอย่างไร
 # text_en = First, we must educate people on how to protect themselves better online.
-1	อย่าง	_	NOUN	NN	_	5	advmod	_	SpaceAfter=No
+1	อย่าง	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 2	แรก	_	ADJ	JJ	_	1	amod	_	_
 3	เรา	_	PRON	PRP	Person=1	5	nsubj	_	SpaceAfter=No
 4	ต้อง	_	VERB	MD	_	5	aux	_	SpaceAfter=No
@@ -8492,7 +8492,7 @@
 29	ราว	_	ADV	RB	_	31	advmod	_	SpaceAfter=No
 30	ๆ	_	SYM	SYM	_	29	dep	_	_
 31	16,500	_	NUM	CD	_	32	nummod	_	_
-32	คะแนน	_	NOUN	NNB	_	26	advmod	_	SpaceAfter=No
+32	คะแนน	_	NOUN	NNB	_	26	obl	_	SpaceAfter=No
 33	เสียง	_	NOUN	NN	_	32	compound	_	SpaceAfter=No
 34	เมื่อ	_	ADP	IN	_	35	case	_	SpaceAfter=No
 35	ต้น	_	NOUN	NN	_	26	obl	_	SpaceAfter=No
@@ -8793,7 +8793,7 @@
 8	มิลเดร็ด	_	PROPN	NNP	_	6	conj	_	SpaceAfter=No
 9	เป็น	_	AUX	VC	_	10	cop	_	SpaceAfter=No
 10	แฟน	_	NOUN	NN	_	4	acl:relcl	_	SpaceAfter=No
-11	กัน	_	PRON	PRP	_	10	advmod	_	SpaceAfter=No
+11	กัน	_	PRON	PRP	_	10	obl	_	SpaceAfter=No
 12	แล้ว	_	PART	AS	Aspect=Perf	10	aux	_	_
 13	โดย	_	ADP	IN	_	14	mark	_	SpaceAfter=No
 14	ข้าม	_	VERB	VV	_	2	advcl	_	SpaceAfter=No
@@ -8832,7 +8832,7 @@
 11	ล้วน	_	ADV	RB	_	12	advmod	_	SpaceAfter=No
 12	แต่ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 13	ตัว	_	NOUN	NN	_	12	obj	_	SpaceAfter=No
-14	แบบ	_	NOUN	NN	_	12	advmod	_	SpaceAfter=No
+14	แบบ	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
 15	ตัว	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
 16	ละคร	_	NOUN	NN	_	15	compound	_	_
 17	"	_	PUNCT	``	_	18	punct	_	SpaceAfter=No
@@ -8885,7 +8885,7 @@
 17	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
 18	เสรีภาพ	_	NOUN	NN	_	17	obj	_	SpaceAfter=No
 19	ได้	_	VERB	MD	_	17	aux	_	SpaceAfter=No
-20	ระดับ	_	NOUN	NN	_	17	advmod	_	SpaceAfter=No
+20	ระดับ	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
 21	หนึ่ง	_	NUM	CD	_	20	nummod	_	_
 
 # sent_id = n01138017
@@ -8962,7 +8962,7 @@
 # text_en = The Internet effort was said to be the main driver of capital expenditures for the unit.
 1	เคย	_	PART	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
 2	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
-3	กัน	_	PRON	PRP	_	2	advmod	_	SpaceAfter=No
+3	กัน	_	PRON	PRP	_	2	obl	_	SpaceAfter=No
 4	ว่า	_	ADP	IN	_	9	mark	_	SpaceAfter=No
 5	ความพยายาม	_	VERB	VV	_	9	nsubj	_	SpaceAfter=No
 6	ด้าน	_	NOUN	NN	_	5	compound	_	SpaceAfter=No
@@ -8987,7 +8987,7 @@
 3	นี้	_	DET	DT	_	2	det	_	_
 4	นัก	_	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 5	วิเคราะห์	_	VERB	VV	_	4	acl	_	SpaceAfter=No
-6	ต่าง	_	PRON	PRP	_	8	advmod	_	SpaceAfter=No
+6	ต่าง	_	PRON	PRP	_	8	obl	_	SpaceAfter=No
 7	ก็	_	ADV	RB	_	8	advmod	_	SpaceAfter=No
 8	ลังเล	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	ว่า	_	ADP	IN	_	11	mark	_	SpaceAfter=No
@@ -9510,7 +9510,7 @@
 9	ใน	_	ADP	IN	_	10	case	_	SpaceAfter=No
 10	วัน	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
 11	เดียว	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
-12	กัน	_	PRON	PRP	_	11	advmod	_	_
+12	กัน	_	PRON	PRP	_	11	obl	_	_
 
 # sent_id = n01147085
 # text = เว็บไซต์ยาสมาริน่าเซอร์กิตมาได้เวลาพอดี
@@ -9613,7 +9613,7 @@
 19	ไป	_	ADV	RB	_	17	advmod	_	SpaceAfter=No
 20	ถึง	_	ADV	RB	_	21	advmod	_	_
 21	100	_	NUM	CD	_	22	nummod	_	_
-22	เมตร	_	NOUN	NNB	_	17	advmod	_	_
+22	เมตร	_	NOUN	NNB	_	17	obl	_	_
 23	(	_	PUNCT	(	_	25	punct	_	SpaceAfter=No
 24	328	_	NUM	CD	_	25	nummod	_	_
 25	ฟุต	_	NOUN	NNB	_	22	appos	_	SpaceAfter=No
@@ -9804,7 +9804,7 @@
 3	ตะวัน	_	NOUN	NN	_	2	compound	_	SpaceAfter=No
 4	ตก	_	VERB	VV	_	3	acl	_	SpaceAfter=No
 5	เฉียง	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
-6	เหนือ	_	NOUN	NN	_	5	advmod	_	SpaceAfter=No
+6	เหนือ	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 7	อัน	_	DET	WDT	_	8	nsubj	_	SpaceAfter=No
 8	ไกล	_	ADJ	JJ	_	2	acl:relcl	_	SpaceAfter=No
 9	โพ้น	_	ADV	RB	_	8	advmod	_	_
@@ -10017,7 +10017,7 @@
 7	อะคีเมนิด	_	PROPN	NNP	_	1	nmod:poss	_	SpaceAfter=No
 8	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	ทหาร	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
-10	จำนวน	_	NOUN	NN	_	8	advmod	_	SpaceAfter=No
+10	จำนวน	_	NOUN	NN	_	8	obl	_	SpaceAfter=No
 11	มาก	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 12	จาก	_	ADP	IN	_	13	case	_	SpaceAfter=No
 13	บอลข่าน	_	PROPN	NNP	_	8	obl	_	_
@@ -10317,7 +10317,7 @@
 13	ตะวัน	_	NOUN	NN	_	12	compound	_	SpaceAfter=No
 14	ออก	_	VERB	VV	_	13	acl	_	SpaceAfter=No
 15	เฉียง	_	ADV	RB	_	14	advmod	_	SpaceAfter=No
-16	ใต้	_	NOUN	NN	_	15	advmod	_	SpaceAfter=No
+16	ใต้	_	NOUN	NN	_	15	obl	_	SpaceAfter=No
 17	ของ	_	ADP	IN	_	18	case	_	SpaceAfter=No
 18	โมราเวีย	_	PROPN	NNP	_	12	nmod:poss	_	_
 19	ซาโฮรี	_	PROPN	NNP	_	12	conj	_	SpaceAfter=No
@@ -10325,7 +10325,7 @@
 21	ตะวัน	_	NOUN	NN	_	19	nmod	_	SpaceAfter=No
 22	ตก	_	VERB	VV	_	21	acl	_	SpaceAfter=No
 23	เฉียง	_	ADV	RB	_	22	advmod	_	SpaceAfter=No
-24	ใต้	_	NOUN	NN	_	23	advmod	_	SpaceAfter=No
+24	ใต้	_	NOUN	NN	_	23	obl	_	SpaceAfter=No
 25	ของ	_	ADP	IN	_	26	case	_	SpaceAfter=No
 26	สโลวาเกีย	_	PROPN	NNP	_	21	nmod:poss	_	_
 27	และ	_	CCONJ	CC	_	29	cc	_	SpaceAfter=No
@@ -10614,7 +10614,7 @@
 6	เมื่อ	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	เร็ว	_	ADV	RB	_	1	xcomp	_	SpaceAfter=No
 8	ๆ	_	SYM	SYM	_	7	dep	_	_
-9	นี้	_	PRON	PRD	_	7	advmod	_	_
+9	นี้	_	PRON	PRD	_	7	obl	_	_
 10	คือ	_	AUX	VC	_	11	cop	_	_
 11	การเตรียม	_	VERB	VV	_	0	root	_	SpaceAfter=No
 12	พร้อม	_	VERB	VV	_	11	xcomp	_	SpaceAfter=No
@@ -10673,7 +10673,7 @@
 # sent_id = w01017046
 # text = ส่วนหลังยังได้เผยแผ่ศาสนาอิสลามไปยังเขตชายฝั่ง แต่เผ่าบันตูส่วนมากไม่เคยสัมผัสศาสนาอิสลามและยังคงนับถือศาสนาตามประเพณีดั้งเดิมของแอฟริกา
 # text_en = The latter also spread Islam to the coastal belt, but most Bantu never had contact with Islam and remained African Traditional Religion adherents.
-1	ส่วน	_	NOUN	NN	_	5	advmod	_	SpaceAfter=No
+1	ส่วน	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 2	หลัง	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	ยัง	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
 4	ได้	_	PART	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
@@ -11058,7 +11058,7 @@
 # sent_id = w01022092
 # text = เช่นเดียวกับฟยอร์ด ทะเลสาบน้ำจืดมักจะลึก
 # text_en = Like fjords, freshwater lakes are often deep.
-1	เช่น	_	NOUN	NN	_	10	advmod	_	SpaceAfter=No
+1	เช่น	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 2	เดียว	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	กับ	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	ฟยอร์ด	_	PROPN	NNP	_	1	nmod	_	_
@@ -11384,7 +11384,7 @@
 8	มี	_	VERB	VV	_	3	conj	_	SpaceAfter=No
 9	ภูมิอากาศ	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	อบอุ่น	_	ADJ	JJ	_	9	amod	_	SpaceAfter=No
-11	แบบ	_	NOUN	NN	_	9	advmod	_	SpaceAfter=No
+11	แบบ	_	NOUN	NN	_	9	obl	_	SpaceAfter=No
 12	เมดิเตอร์เรเนียน	_	PROPN	NNP	_	11	compound	_	_
 
 # sent_id = w01028004
@@ -11448,7 +11448,7 @@
 15	ได้	_	PART	AS	Aspect=Perf	16	aux	_	SpaceAfter=No
 16	แตกแยก	_	VERB	VV	_	12	ccomp	_	SpaceAfter=No
 17	มาก	_	ADV	RB	_	16	advmod	_	SpaceAfter=No
-18	ขนาด	_	NOUN	NN	_	17	advmod	_	SpaceAfter=No
+18	ขนาด	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
 19	ไหน	_	DET	WDT	_	18	det	_	_
 
 # sent_id = w01029015
@@ -11467,12 +11467,12 @@
 11	เขียว	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 12	จาก	_	ADP	IN	_	13	case	_	SpaceAfter=No
 13	ออก	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No
-14	เหลือง	_	NOUN	NN	_	13	advmod	_	SpaceAfter=No
+14	เหลือง	_	NOUN	NN	_	13	obl	_	SpaceAfter=No
 15	ไป	_	VERB	VV	_	13	acl	_	SpaceAfter=No
 16	จน	_	ADP	IN	_	18	mark	_	SpaceAfter=No
 17	ถึง	_	ADP	IN	_	16	fixed	_	SpaceAfter=No
 18	อม	_	VERB	VV	_	15	advcl	_	SpaceAfter=No
-19	น้ำเงิน	_	NOUN	NN	_	18	advmod	_	_
+19	น้ำเงิน	_	NOUN	NN	_	18	obl	_	_
 
 # sent_id = w01029049
 # text = ชาวอเมริกันพื้นเมืองทั่วอเมริกาพึ่งพามันในฐานะที่เป็นส่วนสำคัญของยารักษาโรค
@@ -11505,7 +11505,7 @@
 5	ตะวัน	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
 6	ตก	_	VERB	VV	_	5	acl	_	SpaceAfter=No
 7	เฉียง	_	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	เหนือ	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No
+8	เหนือ	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 9	และ	_	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	ยูเครน	_	PROPN	NNP	_	4	conj	_	SpaceAfter=No
 11	มัก	_	ADV	RB	_	13	advmod	_	SpaceAfter=No
@@ -11633,7 +11633,7 @@
 18	มาก	_	ADV	RB	_	15	advmod	_	SpaceAfter=No
 19	ถึง	_	ADV	RB	_	20	advmod	_	_
 20	2900	_	NUM	CD	_	21	nummod	_	_
-21	กิโลวัตต์	_	NOUN	NNB	_	18	advmod	_	_
+21	กิโลวัตต์	_	NOUN	NNB	_	18	obl	_	_
 
 # sent_id = w01030096
 # text = แม่น้ำสายหลักของยุโรปที่ไหลจากสวิตเซอร์แลนด์ เช่น แม่น้ำไรน์ แม่น้ำโรห์น แม่น้ำอินน์ แม่น้ำติชิโน และแม่น้ำโป ล้วนมีต้นน้ำจากเทือกเขาแอลป์แล้วไหลสู่ประเทศข้างเคียง สุดท้ายก็ไหลลงสู่ทะเลเหนือ ทะเลเมดิเตอร์เรเนียน ทะเลเอเดรียติก และทะเลดำ
@@ -11698,7 +11698,7 @@
 6	volcanology	_	NOUN	NN	_	5	obj	_	_
 7	ซึ่ง	_	DET	WDT	_	10	obj	_	SpaceAfter=No
 8	บาง	_	DET	DT	_	9	det	_	SpaceAfter=No
-9	ครั้ง	_	NOUN	NNB	_	10	advmod	_	SpaceAfter=No
+9	ครั้ง	_	NOUN	NNB	_	10	obl	_	SpaceAfter=No
 10	สะกด	_	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No
 11	ว่า	_	VERB	VV	_	10	xcomp	_	_
 12	vulcanology	_	NOUN	NN	_	11	obj	_	_
@@ -11749,7 +11749,7 @@
 4	จะ	_	VERB	MD	_	6	aux	_	SpaceAfter=No
 5	ไม่	_	PART	NEG	Polarity=Neg	6	advmod	_	SpaceAfter=No
 6	ระเบิด	_	VERB	VV	_	0	root	_	SpaceAfter=No
-7	แบบ	_	NOUN	NN	_	6	advmod	_	SpaceAfter=No
+7	แบบ	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
 8	ทำลายล้าง	_	VERB	VV	_	7	acl	_	_
 
 # sent_id = w01032139
@@ -11830,7 +11830,7 @@
 15	ออก	_	VERB	VV	_	14	acl	_	SpaceAfter=No
 16	เดินทาง	_	VERB	VV	_	5	advcl	_	SpaceAfter=No
 17	ขึ้น	_	VERB	VV	_	16	acl	_	SpaceAfter=No
-18	เหนือ	_	NOUN	NN	_	17	advmod	_	_
+18	เหนือ	_	NOUN	NN	_	17	obl	_	_
 
 # sent_id = w01034023
 # text = ในช่วงปีที่ครอบครัวอาศัยในเคนทักกีและอินเดียนา โทมัส ลินคอล์นทำงานเป็นเกษตรกร ช่างต่อตู้ และช่างไม้
@@ -12035,7 +12035,7 @@
 12	ที่สุด	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
 13	ใน	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	โลก	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
-15	ด้าน	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+15	ด้าน	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 16	ความรุนแรง	_	ADJ	JJ	_	15	compound	_	SpaceAfter=No
 17	ทาง	_	ADP	IN	_	18	case	_	SpaceAfter=No
 18	เพศ	_	NOUN	NN	_	16	nmod	_	ToDo=nmod
@@ -12064,7 +12064,7 @@
 6	เป็น	_	AUX	VC	_	8	cop	_	SpaceAfter=No
 7	คนละ	_	DET	DT	_	8	det	_	SpaceAfter=No
 8	ทวีป	_	NOUN	NNB	_	4	ccomp	_	SpaceAfter=No
-9	กัน	_	PRON	PRP	_	8	advmod	_	SpaceAfter=No
+9	กัน	_	PRON	PRP	_	8	obl	_	SpaceAfter=No
 10	ตาม	_	ADP	IN	_	11	case	_	SpaceAfter=No
 11	แบบ	_	NOUN	NN	_	8	nmod	_	SpaceAfter=No|ToDo=nmod
 12	จำลอง	_	ADJ	JJ	_	11	amod	_	SpaceAfter=No
@@ -12305,7 +12305,7 @@
 4	จะ	_	VERB	MD	_	5	aux	_	SpaceAfter=No
 5	ก่อ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	ตัว	_	NOUN	NN	_	5	obj	_	SpaceAfter=No
-7	บริเวณ	_	NOUN	NN	_	5	advmod	_	SpaceAfter=No
+7	บริเวณ	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 8	แนว	_	NOUN	NN	_	7	compound	_	SpaceAfter=No
 9	รอบ	_	ADP	IN	_	10	case	_	SpaceAfter=No
 10	ทะเล	_	NOUN	NN	_	8	nmod	_	SpaceAfter=No
@@ -12372,7 +12372,7 @@
 1	เมื่อ	_	ADP	IN	_	2	mark	_	SpaceAfter=No
 2	ตก	_	VERB	VV	_	7	advcl	_	SpaceAfter=No
 3	ลง	_	PART	RP	_	2	compound:prt	_	SpaceAfter=No
-4	พื้น	_	NOUN	NN	_	2	advmod	_	SpaceAfter=No
+4	พื้น	_	NOUN	NN	_	2	obl	_	SpaceAfter=No
 5	ก็	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
 6	จะ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
 7	กระทบ	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -12472,7 +12472,7 @@
 # text_en = Meanwhile, additional controls of the Nile fostered development within Gezira Island and along the city's waterfront.
 1	ขณะ	_	NOUN	NN	_	9	obl:tmod	_	SpaceAfter=No
 2	เดียว	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
-3	กัน	_	PRON	PRP	_	2	advmod	_	_
+3	กัน	_	PRON	PRP	_	2	obl	_	_
 4	การควบคุม	_	VERB	VV	_	9	csubj	_	SpaceAfter=No
 5	แม่น้ำ	_	NOUN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
 6	ไนล์	_	PROPN	NNP	_	5	flat:name	_	SpaceAfter=No
@@ -12678,7 +12678,7 @@
 43	คอ	_	NOUN	NN	_	40	nmod:poss	_	SpaceAfter=No
 44	คอด	_	VERB	VV	_	43	acl	_	SpaceAfter=No
 45	เดียว	_	ADJ	JJ	_	43	amod	_	SpaceAfter=No
-46	กัน	_	PRON	PRP	_	45	advmod	_	SpaceAfter=No
+46	กัน	_	PRON	PRP	_	45	obl	_	SpaceAfter=No
 47	)	_	PUNCT	)	_	36	punct	_	_
 
 # sent_id = w01045006
@@ -12710,7 +12710,7 @@
 24	เส้น	_	NOUN	NN	_	23	obj	_	SpaceAfter=No
 25	ทาง	_	NOUN	NN	_	24	compound	_	SpaceAfter=No
 26	เดิน	_	VERB	VV	_	24	acl	_	SpaceAfter=No
-27	สมุทร	_	NOUN	NN	_	26	advmod	_	SpaceAfter=No
+27	สมุทร	_	NOUN	NN	_	26	obl	_	SpaceAfter=No
 28	ไป	_	VERB	VV	_	26	acl	_	SpaceAfter=No
 29	ยัง	_	ADP	IN	_	30	case	_	SpaceAfter=No
 30	เอเชีย	_	PROPN	NNP	_	28	obl	_	_
@@ -12816,7 +12816,7 @@
 9	แก้	_	VERB	VV	_	8	xcomp	_	SpaceAfter=No
 10	เสร็จ	_	VERB	VV	_	9	acl	_	SpaceAfter=No
 11	ไป	_	PART	RP	_	10	compound:prt	_	SpaceAfter=No
-12	ส่วน	_	NOUN	NN	_	10	advmod	_	SpaceAfter=No
+12	ส่วน	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 13	ใหญ่	_	ADJ	JJ	_	12	amod	_	SpaceAfter=No
 14	แล้ว	_	PART	AS	Aspect=Perf	10	aux	_	_
 15	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No
@@ -12909,7 +12909,7 @@
 13	เศรษฐกิจ	_	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 14	ก็	_	ADV	RB	_	15	advmod	_	SpaceAfter=No
 15	เปลี่ยนแปลง	_	VERB	VV	_	8	conj	_	SpaceAfter=No
-16	ครั้ง	_	NOUN	NN	_	15	advmod	_	SpaceAfter=No
+16	ครั้ง	_	NOUN	NN	_	15	obl	_	SpaceAfter=No
 17	ใหญ่	_	ADJ	JJ	_	16	amod	_	_
 
 # sent_id = w01049051
@@ -12957,7 +12957,7 @@
 18	ขึ้น	_	PART	RP	_	17	compound:prt	_	SpaceAfter=No
 19	อย่างเป็น	_	AUX	VC	_	20	cop	_	SpaceAfter=No
 20	ทางการ	_	ADJ	JJ	_	17	advmod	_	SpaceAfter=No
-21	แห่ง	_	NOUN	NNB	_	17	advmod	_	SpaceAfter=No
+21	แห่ง	_	NOUN	NNB	_	17	obl	_	SpaceAfter=No
 22	ที่	_	NOUN	NN	_	21	compound	_	SpaceAfter=No
 23	สอง	_	NUM	CD	_	22	nummod	_	SpaceAfter=No
 24	ของ	_	ADP	IN	_	25	case	_	SpaceAfter=No
@@ -13140,7 +13140,7 @@
 # sent_id = w01051080
 # text = ที่จริงแล้ว รายงานเชิงวิชาการเกี่ยวกับการรบฉบับแรกโดยเจมส์ เฮนรี่ เบรสเต็ด ในปี 1903 กล่าวยกย่องแหล่งข้อมูลที่ให้มีการสร้างการรบใหม่ด้วยความแน่ใจ
 # text_en = Indeed, the first scholarly report on the battle, by James Henry Breasted in 1903, praised the sources that allowed the reconstruction the battle with certainty.
-1	ที่	_	PRON	PRP	_	19	advmod	_	SpaceAfter=No
+1	ที่	_	PRON	PRP	_	19	obl	_	SpaceAfter=No
 2	จริง	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	แล้ว	_	ADV	RB	_	1	advmod	_	_
 4	รายงาน	_	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
@@ -13276,7 +13276,7 @@
 11	เป็น	_	AUX	VC	_	12	cop	_	SpaceAfter=No
 12	ที่	_	PRON	PRP	_	0	root	_	SpaceAfter=No
 13	ถกเถียง	_	VERB	VV	_	12	acl	_	SpaceAfter=No
-14	กัน	_	PRON	PRP	_	13	advmod	_	SpaceAfter=No
+14	กัน	_	PRON	PRP	_	13	obl	_	SpaceAfter=No
 15	ใน	_	ADP	IN	_	16	case	_	SpaceAfter=No
 16	หมู่	_	NOUN	NN	_	13	obl	_	SpaceAfter=No
 17	นัก	_	NOUN	NN	_	16	compound	_	SpaceAfter=No
@@ -13426,7 +13426,7 @@
 18	ใช้	_	VERB	VV	_	16	acl	_	SpaceAfter=No
 19	ได้	_	VERB	MD	_	18	aux	_	SpaceAfter=No
 20	ทั่ว	_	ADJ	JJ	_	21	amod	_	SpaceAfter=No
-21	เมดิเตอร์เรเนียน	_	PROPN	NNP	_	18	advmod	_	SpaceAfter=No
+21	เมดิเตอร์เรเนียน	_	PROPN	NNP	_	18	obl	_	SpaceAfter=No
 22	เช่น	_	NOUN	NN	_	25	case	_	SpaceAfter=No
 23	เดียว	_	ADJ	JJ	_	22	fixed	_	SpaceAfter=No
 24	กับ	_	ADP	IN	_	22	fixed	_	SpaceAfter=No
@@ -13541,7 +13541,7 @@
 # text = เชื่อกันว่ากีฬาโอลิมปิกครั้งสุดท้ายจัดขึ้นในปี 393
 # text_en = The last Olympic Games are believed to have been held in 393.
 1	เชื่อ	_	VERB	VV	_	0	root	_	SpaceAfter=No
-2	กัน	_	PRON	PRP	_	1	advmod	_	SpaceAfter=No
+2	กัน	_	PRON	PRP	_	1	obl	_	SpaceAfter=No
 3	ว่า	_	ADP	IN	_	8	mark	_	SpaceAfter=No
 4	กีฬา	_	NOUN	NN	_	8	obj	_	Proper=True|SpaceAfter=No
 5	โอลิมปิก	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
@@ -13739,7 +13739,7 @@
 11	สู่	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	โรม	_	PROPN	NNP	_	10	obl	_	SpaceAfter=No
 13	หลาย	_	DET	DT	_	14	det	_	SpaceAfter=No
-14	ครั้ง	_	NOUN	NNB	_	8	advmod	_	_
+14	ครั้ง	_	NOUN	NNB	_	8	obl	_	_
 15	แต่	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 16	เอากุสตุส	_	PROPN	NNP	_	17	nsubj	_	SpaceAfter=No
 17	ปฏิเสธ	_	VERB	VV	_	4	conj	_	SpaceAfter=No
@@ -13747,7 +13747,7 @@
 19	ร้อง	_	VERB	VV	_	18	acl	_	SpaceAfter=No
 20	นั้น	_	DET	DT	_	18	det	_	SpaceAfter=No
 21	ทุก	_	DET	DT	_	22	det	_	SpaceAfter=No
-22	ครั้ง	_	NOUN	NNB	_	17	advmod	_	_
+22	ครั้ง	_	NOUN	NNB	_	17	obl	_	_
 
 # sent_id = w01062063
 # text = เขาดูคาดหวังจะให้วุฒิสภาและรัฐดำเนินการโดยปราศจากเขา และคำสั่งโดยตรงของเขาก็ค่อนข้างไม่ชัดเจน ก่อให้เกิดการอภิปรายว่าเขาต้องการสื่ออะไรมากไปกว่าการผ่านกฎหมาย
@@ -14079,7 +14079,7 @@
 23	วัน	_	NOUN	NNB	_	21	obj	_	SpaceAfter=No
 24	ที่	_	DET	WDT	_	25	nsubj	_	SpaceAfter=No
 25	สัมพันธ์	_	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
-26	กัน	_	PRON	PRP	_	25	advmod	_	_
+26	กัน	_	PRON	PRP	_	25	obl	_	_
 
 # sent_id = w01066040
 # text = ตรุษจีนและเทศกาลฉลองอื่นๆ ของชาวไทยเชื้อสายจีนเปลี่ยนแปลงไปตามทั้งสองอย่าง เพราะทั้งหมดนี้คำนวณตามปฏิทินจีน
@@ -14230,7 +14230,7 @@
 3	มา	_	PART	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
 4	แล้ว	_	PART	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
 5	สาม	_	NUM	CD	_	6	nummod	_	SpaceAfter=No
-6	ครั้ง	_	NOUN	NNB	_	2	advmod	_	_
+6	ครั้ง	_	NOUN	NNB	_	2	obl	_	_
 
 # sent_id = w01069007
 # text = ในปี 1519 พระองค์ทรงกลายเป็นผู้ปกครองจักรวรรดิฮับสบูร์ก และพระองค์ทรงได้รับพระอิสริยยศจักรพรรดิโรมันอันศักดิ์สิทธิ์ในปี 1530
@@ -14415,7 +14415,7 @@
 16	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 17	วิษุวัติ	_	NOUN	NN	_	14	conj	_	_
 18	2	_	NUM	CD	_	19	nummod	_	_
-19	ครั้ง	_	NOUN	NNB	_	5	advmod	_	_
+19	ครั้ง	_	NOUN	NNB	_	5	obl	_	_
 
 # sent_id = w01070034
 # text = อีกสี่บอกเดคลิเนชันสูงสุดและต่ำสุดของพระจันทร์เต็มดวง: ในฤดูร้อนและในฤดูหนาว
@@ -14837,7 +14837,7 @@
 1	การศึกษา	_	VERB	VV	_	3	nsubj	_	SpaceAfter=No
 2	นี้	_	DET	DT	_	1	det	_	SpaceAfter=No
 3	ตี	_	VERB	VV	_	0	root	_	SpaceAfter=No
-4	ความ	_	NOUN	NN	_	3	advmod	_	SpaceAfter=No
+4	ความ	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
 5	ปัจจัย	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 6	สาม	_	NUM	CD	_	7	nummod	_	SpaceAfter=No
 7	อย่าง	_	NOUN	NNB	_	5	clf	_	SpaceAfter=No
@@ -14974,7 +14974,7 @@
 17	สถานที่	_	NOUN	NN	_	15	xcomp	_	SpaceAfter=No
 18	ที่	_	DET	WDT	_	19	nsubj	_	SpaceAfter=No
 19	ปรองดอง	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
-20	กัน	_	PRON	PRP	_	19	advmod	_	SpaceAfter=No
+20	กัน	_	PRON	PRP	_	19	obl	_	SpaceAfter=No
 21	มาก	_	ADV	RB	_	19	advmod	_	SpaceAfter=No
 22	ขึ้น	_	ADV	RB	_	21	advmod	_	_
 
@@ -15307,9 +15307,9 @@
 6	ทรง	_	VERB	MD	_	7	aux	_	SpaceAfter=No
 7	พอพระทัย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	มาก	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
-9	เช่น	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No
+9	เช่น	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 10	เดียว	_	ADJ	JJ	_	9	amod	_	SpaceAfter=No
-11	กัน	_	PRON	PRP	_	10	advmod	_	_
+11	กัน	_	PRON	PRP	_	10	obl	_	_
 
 # sent_id = w01082055
 # text = ตลอดสงคราม เพิร์ลฮาเบอร์ถูกใช้เป็นโฆษณาชวนเชื่อของอเมริกามาอย่างถี่ยิบ
@@ -15356,7 +15356,7 @@
 3	เป็น	_	AUX	VC	_	4	cop	_	SpaceAfter=No
 4	การรวม	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ตัว	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
-6	กัน	_	PRON	PRP	_	4	advmod	_	SpaceAfter=No
+6	กัน	_	PRON	PRP	_	4	obl	_	SpaceAfter=No
 7	ของ	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	กลุ่ม	_	NOUN	NN	_	4	obl:poss	_	SpaceAfter=No
 9	ชาติพันธุ์	_	NOUN	NN	_	8	compound	_	SpaceAfter=No
@@ -15597,7 +15597,7 @@
 13	หลัก	_	NOUN	NN	_	6	xcomp	_	_
 14	เพราะ	_	ADP	IN	_	15	mark	_	SpaceAfter=No
 15	คิด	_	VERB	VV	_	6	advcl	_	SpaceAfter=No
-16	กัน	_	PRON	PRP	_	15	advmod	_	SpaceAfter=No
+16	กัน	_	PRON	PRP	_	15	obl	_	SpaceAfter=No
 17	ว่า	_	ADP	IN	_	21	mark	_	SpaceAfter=No
 18	วรรณกรรม	_	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
 19	คลาสสิก	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
@@ -15673,7 +15673,7 @@
 19	ของ	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
 20	ใช้	_	VERB	VV	_	19	acl	_	SpaceAfter=No
 21	ไว้	_	ADV	RB	_	18	advmod	_	SpaceAfter=No
-22	ข้าง	_	NOUN	NN	_	18	advmod	_	SpaceAfter=No
+22	ข้าง	_	NOUN	NN	_	18	obl	_	SpaceAfter=No
 23	ใน	_	ADJ	JJ	_	22	amod	_	_
 
 # sent_id = w01089040
@@ -15751,7 +15751,7 @@
 5	นำ	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No
 6	มา	_	PART	RP	_	5	compound:prt	_	SpaceAfter=No
 7	ปลูก	_	VERB	VV	_	5	acl	_	SpaceAfter=No
-8	ครั้ง	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No
+8	ครั้ง	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 9	แรก	_	ADJ	JJ	_	8	amod	_	SpaceAfter=No
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No
 11	เอเชียตะวันออกเฉียงใต้	_	PROPN	NNP	_	7	obl	_	SpaceAfter=No
@@ -15765,7 +15765,7 @@
 19	มา	_	PART	RP	_	18	compound:prt	_	SpaceAfter=No
 20	ปลูก	_	VERB	VV	_	18	acl	_	SpaceAfter=No
 21	อีก	_	DET	DT	_	22	det	_	SpaceAfter=No
-22	ครั้ง	_	NOUN	NNB	_	20	advmod	_	SpaceAfter=No
+22	ครั้ง	_	NOUN	NNB	_	20	obl	_	SpaceAfter=No
 23	ใน	_	ADP	IN	_	24	case	_	SpaceAfter=No
 24	แอฟริกา	_	PROPN	NNP	_	20	obl	_	SpaceAfter=No
 25	ซึ่ง	_	ADP	IN	_	28	mark	_	SpaceAfter=No
@@ -16041,7 +16041,7 @@
 21	รูปแบบ	_	NOUN	NN	_	18	obl	_	SpaceAfter=No
 22	ที่	_	DET	WDT	_	23	nsubj	_	SpaceAfter=No
 23	แตกต่าง	_	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No
-24	กัน	_	PRON	PRP	_	23	advmod	_	_
+24	กัน	_	PRON	PRP	_	23	obl	_	_
 
 # sent_id = w01095093
 # text = นอกญี่ปุ่น เริ่มตั้งแต่สมัยจักรพรรดิโชวะ เหล่าจักรพรรดิมักได้รับการขนานพระนามด้วยชื่อตัวทั้งที่ยังทรงพระชนม์ชีพและหลังจากสวรรคตไปแล้ว
@@ -16131,7 +16131,7 @@
 12	ได้เปรียบ	_	VERB	VV	_	11	acl	_	SpaceAfter=No
 13	อย่างมาก	_	ADJ	JJ	_	10	advmod	_	SpaceAfter=No
 14	ทั้ง	_	DET	DT	_	15	cc:preconj	_	SpaceAfter=No
-15	ด้าน	_	NOUN	NN	_	10	advmod	_	SpaceAfter=No
+15	ด้าน	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 16	ประชากร	_	NOUN	NN	_	15	compound	_	SpaceAfter=No
 17	และ	_	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 18	เศรษฐกิจ	_	NOUN	NN	_	15	conj	_	_
@@ -16184,7 +16184,7 @@
 8	ควบ	_	VERB	VV	_	7	xcomp	_	SpaceAfter=No
 9	ม้า	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	ฟัน	_	VERB	VV	_	8	conj	_	SpaceAfter=No
-11	ดาบ	_	NOUN	NN	_	10	advmod	_	SpaceAfter=No
+11	ดาบ	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 12	อย่างเยี่ยมยอด	_	ADJ	JJ	_	7	advmod	_	SpaceAfter=No
 13	ด้วย	_	ADV	RB	_	6	advmod	_	_
 
@@ -16266,7 +16266,7 @@
 26	ตะวัน	_	NOUN	NN	_	25	compound	_	SpaceAfter=No
 27	ตก	_	VERB	VV	_	26	acl	_	SpaceAfter=No
 28	เฉียง	_	ADV	RB	_	27	advmod	_	SpaceAfter=No
-29	เหนือ	_	NOUN	NN	_	28	advmod	_	_
+29	เหนือ	_	NOUN	NN	_	28	obl	_	_
 
 # sent_id = w01099012
 # text = คำอธิบายถึงจุดกำเนิดของดนตรีนั้นขึ้นอยู่กับว่าดนตรีถูกนิยามว่าอย่างไร
@@ -16299,7 +16299,7 @@
 5	ชาย	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	หญิง	_	NOUN	NN	_	5	conj	_	SpaceAfter=No
-8	ต่าง	_	PRON	PRP	Person=3	11	advmod	_	SpaceAfter=No
+8	ต่าง	_	PRON	PRP	Person=3	11	obl	_	SpaceAfter=No
 9	ก็	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
 10	เป็น	_	AUX	VC	_	11	cop	_	SpaceAfter=No
 11	นัก	_	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -16309,7 +16309,7 @@
 15	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 16	การทำ	_	VERB	VV	_	21	csubj	_	SpaceAfter=No
 17	ดนตรี	_	NOUN	NN	_	16	obj	_	SpaceAfter=No
-18	ส่วน	_	NOUN	NN	_	21	advmod	_	SpaceAfter=No
+18	ส่วน	_	NOUN	NN	_	21	obl	_	SpaceAfter=No
 19	ใหญ่	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
 20	เป็น	_	AUX	VC	_	21	cop	_	SpaceAfter=No
 21	กิจกรรม	_	NOUN	NN	_	11	conj	_	SpaceAfter=No
@@ -16418,7 +16418,7 @@
 12	จีน	_	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
 13	พ่ายแพ้	_	VERB	VV	_	9	advcl	_	SpaceAfter=No
 14	อีก	_	DET	DT	_	15	det	_	SpaceAfter=No
-15	ครั้ง	_	NOUN	NNB	_	13	advmod	_	SpaceAfter=No
+15	ครั้ง	_	NOUN	NNB	_	13	obl	_	SpaceAfter=No
 16	และ	_	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 17	ถูก	_	VERB	MD	Voice=Pass	18	aux:pass	_	SpaceAfter=No
 18	บังคับ	_	VERB	VV	_	13	conj	_	SpaceAfter=No
@@ -16456,7 +16456,7 @@
 15	เดินทาง	_	VERB	VV	_	11	xcomp	_	SpaceAfter=No
 16	เข้า	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No
 17	มา	_	PART	RP	_	15	compound:prt	_	SpaceAfter=No
-18	ข้าง	_	NOUN	NN	_	15	advmod	_	SpaceAfter=No
+18	ข้าง	_	NOUN	NN	_	15	obl	_	SpaceAfter=No
 19	ใน	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
 20	ได้	_	VERB	MD	_	15	aux	_	_
 
@@ -16869,7 +16869,7 @@
 8	แห่ง	_	ADP	IN	_	9	case	_	Proper=True|SpaceAfter=No
 9	คองโก	_	PROPN	NNP	_	1	nmod:poss	_	SpaceAfter=No
 10	จับ	_	VERB	VV	_	0	root	_	SpaceAfter=No
-11	ตัว	_	NOUN	NN	_	10	advmod	_	SpaceAfter=No
+11	ตัว	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 12	ลูบุมบาชี	_	PROPN	NNP	_	10	obj	_	SpaceAfter=No
 13	ใน	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	เดือน	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
@@ -16924,7 +16924,7 @@
 1	ภาพยนตร์	_	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 2	ฮิตช์ค็อก	_	PROPN	NNP	_	1	compound	_	SpaceAfter=No
 3	บาง	_	DET	DT	_	4	det	_	SpaceAfter=No
-4	ครั้ง	_	NOUN	NNB	_	5	advmod	_	SpaceAfter=No
+4	ครั้ง	_	NOUN	NNB	_	5	obl	_	SpaceAfter=No
 5	ประกอบ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	ด้วย	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	ตัว	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
@@ -17067,7 +17067,7 @@
 # sent_id = w01109120
 # text = ครั้งหนึ่ง บอกเป็นนัยๆ ได้ว่าเขาเป็นสายลับนอกเครื่องแบบโดยมีเป้าหมายคือโฮเมอร์
 # text_en = On one occasion, it is implied he is an undercover agent whose target is Homer.
-1	ครั้ง	_	NOUN	NN	_	3	advmod	_	SpaceAfter=No
+1	ครั้ง	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
 2	หนึ่ง	_	NUM	CD	_	1	nummod	_	_
 3	บอก	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	เป็น	_	AUX	VC	_	5	cop	_	SpaceAfter=No
@@ -17846,13 +17846,13 @@
 2	ได้รับ	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	เลือกตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	อีก	_	DET	DT	_	5	det	_	SpaceAfter=No
-5	ครั้ง	_	NOUN	NNB	_	3	advmod	_	SpaceAfter=No
+5	ครั้ง	_	NOUN	NNB	_	3	obl	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 7	ถูก	_	VERB	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No
 8	ขับไล่	_	VERB	VV	_	3	conj	_	SpaceAfter=No
 9	อีก	_	DET	DT	_	11	det	_	SpaceAfter=No
 10	สอง	_	NUM	CD	_	11	nummod	_	SpaceAfter=No
-11	ครั้ง	_	NOUN	NNB	_	8	advmod	_	_
+11	ครั้ง	_	NOUN	NNB	_	8	obl	_	_
 12	ก่อน	_	ADP	IN	_	17	mark	_	SpaceAfter=No
 13	ที่	_	ADP	IN	_	12	fixed	_	SpaceAfter=No
 14	สภา	_	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
@@ -18170,7 +18170,7 @@
 15	โรบินสัน	_	PROPN	NNP	_	12	flat:name	_	SpaceAfter=No
 16	ได้	_	PART	AS	Aspect=Perf	17	aux	_	SpaceAfter=No
 17	กล่าว	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
-18	ภาย	_	NOUN	NN	_	17	advmod	_	SpaceAfter=No
+18	ภาย	_	NOUN	NN	_	17	obl	_	SpaceAfter=No
 19	หลัง	_	ADJ	JJ	_	18	fixed	_	SpaceAfter=No
 20	ว่า	_	ADP	IN	_	21	mark	_	SpaceAfter=No
 21	เป็น	_	VERB	VC	_	17	ccomp	_	_
@@ -18207,10 +18207,10 @@
 20	มา	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No
 21	ร่วม	_	VERB	VV	_	19	acl	_	SpaceAfter=No
 22	งาน	_	NOUN	NN	_	21	obj	_	SpaceAfter=No
-23	กัน	_	PRON	PRP	_	21	advmod	_	SpaceAfter=No
+23	กัน	_	PRON	PRP	_	21	obl	_	SpaceAfter=No
 24	อีก	_	DET	DT	_	26	det:predet	_	SpaceAfter=No
 25	หลาย	_	DET	DT	_	26	det	_	SpaceAfter=No
-26	เพลง	_	NOUN	NNB	_	21	advmod	_	_
+26	เพลง	_	NOUN	NNB	_	21	obl	_	_
 
 # sent_id = w01130101
 # text = ประกอบไปด้วยสามเพลงที่ร่วมแต่งกับจิม น้องชายของราฟเฟอร์ตี้ ซึ่งเป็นนักร้องนักแต่งเพลงที่เซ็นสัญญากับเดคคา เรคคอร์ดส์เมื่อทศวรรษที่ 1970
@@ -18631,7 +18631,7 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ปี	_	NOUN	NN	_	9	obl	_	SpaceAfter=No
 3	เดียว	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No
-4	กัน	_	PRON	PRP	_	3	advmod	_	SpaceAfter=No
+4	กัน	_	PRON	PRP	_	3	obl	_	SpaceAfter=No
 5	นั้น	_	DET	DT	_	2	det	_	SpaceAfter=No
 6	เอง	_	PRON	PRP	_	5	compound	_	_
 7	เธอ	_	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No
@@ -18790,7 +18790,7 @@
 21	หลาย	_	DET	DT	_	22	det	_	SpaceAfter=No
 22	นาย	_	NOUN	NNB	_	18	clf	_	SpaceAfter=No
 23	ด้วย	_	ADV	RB	_	15	advmod	_	SpaceAfter=No
-24	กัน	_	PRON	PRP	_	23	advmod	_	_
+24	กัน	_	PRON	PRP	_	23	obl	_	_
 
 # sent_id = w01137068
 # text = ในการกล่าวอย่างสั้นๆ ต่อคณะรัฐมนตรีหลังจากที่กองกำลังเยอรมันได้ข้ามชายแดนแล้ว แชมเบอร์เลนกล่าวตำหนิทั้งเยอรมนีและออสเตรีย
@@ -18870,7 +18870,7 @@
 12	ลำพัง	_	ADV	RB	_	7	xcomp	_	SpaceAfter=No
 13	อยู่	_	PART	AS	Aspect=Prog	7	aux	_	SpaceAfter=No
 14	บ่อย	_	ADJ	JJ	_	15	amod	_	SpaceAfter=No
-15	ครั้ง	_	NOUN	NNB	_	7	advmod	_	_
+15	ครั้ง	_	NOUN	NNB	_	7	obl	_	_
 16	ใน	_	ADP	IN	_	17	case	_	SpaceAfter=No
 17	ขณะ	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 18	ที่	_	DET	WDT	_	22	obl:tmod	_	SpaceAfter=No
@@ -19229,7 +19229,7 @@
 2	ไม่	_	PART	NEG	Polarity=Neg	3	advmod	_	SpaceAfter=No
 3	นาน	_	ADV	RB	_	8	xcomp	_	SpaceAfter=No
 4	มา	_	PART	AS	Aspect=Perf	3	aux	_	SpaceAfter=No
-5	นี้	_	PRON	PRD	_	3	advmod	_	_
+5	นี้	_	PRON	PRD	_	3	obl	_	_
 6	เขา	_	PRON	PRP	Person=3	8	nsubj	_	SpaceAfter=No
 7	ได้	_	PART	AS	Aspect=Perf	8	aux	_	SpaceAfter=No
 8	หย่า	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -19402,7 +19402,7 @@
 25	ตำแหน่ง	_	NOUN	NN	_	23	obl	_	SpaceAfter=No
 26	แล้ว	_	ADP	IN	_	27	mark	_	SpaceAfter=No
 27	รอด	_	VERB	VV	_	23	advcl	_	SpaceAfter=No
-28	ชีวิต	_	NOUN	NN	_	27	advmod	_	SpaceAfter=No
+28	ชีวิต	_	NOUN	NN	_	27	obl	_	SpaceAfter=No
 29	จาก	_	ADP	IN	_	30	case	_	SpaceAfter=No
 30	ความพยายาม	_	VERB	VV	_	27	obl	_	SpaceAfter=No
 31	ลอบ	_	VERB	VV	_	30	xcomp	_	SpaceAfter=No
@@ -19446,7 +19446,7 @@
 9	เป็น	_	AUX	VC	_	10	cop	_	SpaceAfter=No
 10	หลักการ	_	NOUN	NN	_	7	acl:relcl	_	SpaceAfter=No
 11	นำ	_	VERB	VV	_	10	acl	_	SpaceAfter=No
-12	ทาง	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+12	ทาง	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 13	ใน	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	ลัทธิ	_	NOUN	NN	_	10	nmod	_	SpaceAfter=No|ToDo=nmod
 15	มาร์กซิสม์	_	PROPN	NNP	_	14	compound	_	SpaceAfter=No
@@ -19527,13 +19527,13 @@
 8	สตีเฟน	_	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 9	”	_	PUNCT	''	_	8	punct	_	_
 10	ด้วย	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
-11	กัน	_	PRON	PRP	_	10	advmod	_	SpaceAfter=No
+11	กัน	_	PRON	PRP	_	10	obl	_	SpaceAfter=No
 12	ตอน	_	NOUN	NN	_	5	obl:tmod	_	SpaceAfter=No
 13	ที่	_	DET	WDT	_	15	obl:tmod	_	SpaceAfter=No
 14	เคชา	_	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No
 15	อายุ	_	NOUN	NN	_	12	acl:relcl	_	_
 16	16	_	NUM	CD	_	17	nummod	_	_
-17	ปี	_	NOUN	NNB	_	15	advmod	_	_
+17	ปี	_	NOUN	NNB	_	15	obl	_	_
 18	จาก	_	ADP	IN	_	22	mark	_	SpaceAfter=No
 19	นั้น	_	PRON	PRD	_	18	fixed	_	SpaceAfter=No
 20	เคชา	_	PROPN	NNP	_	22	nsubj	_	SpaceAfter=No
@@ -19587,7 +19587,7 @@
 # sent_id = w01148068
 # text = ครั้งนี้เรื่องไปถึงเขา แต่เขาก็ปฏิเสธที่จะเชื่อว่าเธอไม่อยากแต่งงานกับเขาอีกแล้ว
 # text_en = This time it reached him, but he refused to believe that she no longer wanted to be married to him.
-1	ครั้ง	_	NOUN	NNB	_	4	advmod	_	SpaceAfter=No
+1	ครั้ง	_	NOUN	NNB	_	4	obl	_	SpaceAfter=No
 2	นี้	_	DET	DT	_	1	det	_	SpaceAfter=No
 3	เรื่อง	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 4	ไป	_	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -19789,7 +19789,7 @@
 21	แอลเบเนีย	_	PROPN	NNP	_	19	obl	_	_
 22	ชาติ	_	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
 23	มหาอำนาจ	_	NOUN	NN	_	22	compound	_	SpaceAfter=No
-24	ต่าง	_	PRON	PRP	_	25	advmod	_	SpaceAfter=No
+24	ต่าง	_	PRON	PRP	_	25	obl	_	SpaceAfter=No
 25	คิด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 26	ได้	_	VERB	MD	_	25	aux	_	SpaceAfter=No
 27	ว่า	_	ADP	IN	_	31	mark	_	SpaceAfter=No
@@ -19877,7 +19877,7 @@
 2	ซาลามาน	_	PROPN	NNP	_	1	appos	_	SpaceAfter=No
 3	ทรง	_	VERB	MD	_	4	aux	_	SpaceAfter=No
 4	เปลี่ยน	_	VERB	VV	_	0	root	_	SpaceAfter=No
-5	ตัว	_	NOUN	NN	_	4	advmod	_	SpaceAfter=No
+5	ตัว	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
 6	สิงห์	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
 7	การ	_	NOUN	NN	_	6	compound	_	SpaceAfter=No
 8	เมือง	_	NOUN	NN	_	6	compound	_	SpaceAfter=No
@@ -19916,7 +19916,7 @@
 20	พัน	_	NUM	CD	_	21	nummod	_	SpaceAfter=No
 21	ล้าน	_	NUM	CD	_	17	advmod	_	SpaceAfter=No
 22	ทั่ว	_	ADJ	JJ	_	23	amod	_	SpaceAfter=No
-23	โลก	_	NOUN	NN	_	17	advmod	_	_
+23	โลก	_	NOUN	NN	_	17	obl	_	_
 
 # sent_id = n02007010
 # text = ด้วยการยิงประตู 71 ครั้งในนัดระดับนานาชาติ 137 นัด เขาได้ทำลายสถิติการยิงประตูใน DFB
@@ -20149,7 +20149,7 @@
 15	มี	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No
 16	ผล	_	NOUN	NN	_	15	obj	_	SpaceAfter=No
 17	อีก	_	DET	DT	_	18	det	_	SpaceAfter=No
-18	ครั้ง	_	NOUN	NNB	_	15	advmod	_	_
+18	ครั้ง	_	NOUN	NNB	_	15	obl	_	_
 19	นั่น	_	PRON	PRD	_	20	nsubj	_	SpaceAfter=No
 20	คือ	_	VERB	VC	_	15	acl	_	SpaceAfter=No
 21	สหรัฐ	_	NOUN	NN	_	25	nsubj	_	Proper=True|SpaceAfter=No
@@ -20195,7 +20195,7 @@
 2	ที่	_	ADP	IN	_	1	fixed	_	SpaceAfter=No
 3	เขา	_	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No
 4	ว่า	_	VERB	VV	_	0	root	_	SpaceAfter=No
-5	กัน	_	PRON	PRP	_	4	advmod	_	SpaceAfter=No
+5	กัน	_	PRON	PRP	_	4	obl	_	SpaceAfter=No
 6	ว่า	_	ADP	IN	_	8	mark	_	SpaceAfter=No
 7	เป็น	_	AUX	VC	_	8	cop	_	SpaceAfter=No
 8	กระบวนการ	_	NOUN	NN	_	4	ccomp	_	SpaceAfter=No
@@ -20359,7 +20359,7 @@
 10	โทรม	_	ADJ	JJ	_	9	conj	_	SpaceAfter=No
 11	ชวน	_	AUX	VV	_	12	cop	_	SpaceAfter=No
 12	สยอง	_	ADJ	JJ	_	9	conj	_	SpaceAfter=No
-13	คน	_	NOUN	NN	_	3	advmod	_	SpaceAfter=No
+13	คน	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
 14	เดียว	_	ADJ	JJ	_	13	amod	_	_
 
 # sent_id = n02040023
@@ -20416,10 +20416,10 @@
 2	รุ่น	_	NOUN	NNB	_	1	compound	_	SpaceAfter=No
 3	นี้	_	DET	DT	_	1	det	_	SpaceAfter=No
 4	ได้	_	VERB	VV	_	0	root	_	SpaceAfter=No
-5	แอป	_	NOUN	NN	_	4	advmod	_	SpaceAfter=No
+5	แอป	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
 6	ที่	_	DET	WDT	_	7	nsubj	_	SpaceAfter=No
 7	เหมาะ	_	ADJ	JJ	_	5	acl:relcl	_	SpaceAfter=No
-8	กัน	_	PRON	PRP	_	7	advmod	_	_
+8	กัน	_	PRON	PRP	_	7	obl	_	_
 9	ซึ่ง	_	ADP	IN	_	22	mark	_	SpaceAfter=No
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No
 11	กรณี	_	NOUN	NN	_	22	obl	_	SpaceAfter=No
@@ -20767,11 +20767,11 @@
 17	ซึ่ง	_	DET	WDT	_	19	nsubj	_	SpaceAfter=No
 18	เป็น	_	AUX	VC	_	19	cop	_	SpaceAfter=No
 19	ศัตรู	_	NOUN	NN	_	12	acl:relcl	_	SpaceAfter=No
-20	กัน	_	PRON	PRP	_	19	advmod	_	SpaceAfter=No
+20	กัน	_	PRON	PRP	_	19	obl	_	SpaceAfter=No
 21	ให้	_	VERB	VV	_	11	acl	_	SpaceAfter=No
 22	มา	_	VERB	VV	_	21	xcomp	_	SpaceAfter=No
 23	ใกล้ชิด	_	ADJ	JJ	_	22	xcomp	_	SpaceAfter=No
-24	กัน	_	PRON	PRP	_	23	advmod	_	SpaceAfter=No
+24	กัน	_	PRON	PRP	_	23	obl	_	SpaceAfter=No
 25	ยิ่ง	_	ADV	RB	_	23	advmod	_	SpaceAfter=No
 26	ขึ้น	_	ADV	RB	_	25	advmod	_	_
 
@@ -21061,7 +21061,7 @@
 38	ข้อ	_	NOUN	NN	_	33	obl	_	SpaceAfter=No
 39	สัญญา	_	NOUN	NN	_	38	compound	_	SpaceAfter=No
 40	ร่วม	_	VERB	VV	_	38	acl	_	SpaceAfter=No
-41	กัน	_	PRON	PRP	_	40	advmod	_	_
+41	กัน	_	PRON	PRP	_	40	obl	_	_
 
 # sent_id = n03001007
 # text = ไม่เหมือนเมื่อครั้ง 28 ตุลาคม จดหมายของนายโคมีย์แทบไม่ได้รับการเอ่ยถึง
@@ -21114,7 +21114,7 @@
 # text = “คนที่จัดการบัญชีทวิตเตอร์ยังไม่ได้ ก็จัดการโค้ดนิวเคลียร์ไม่ได้หรอก” โอบามาถากถาง
 # text_en = "If somebody can't handle a Twitter account, they can't handle the nuclear codes," Obama mocked.
 1	“	_	PUNCT	``	_	11	punct	_	SpaceAfter=No
-2	คน	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+2	คน	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 3	ที่	_	DET	WDT	_	4	nsubj	_	SpaceAfter=No
 4	จัดการ	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No
 5	บัญชี	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
@@ -21435,7 +21435,7 @@
 26	มี	_	VERB	VV	_	34	ccomp	_	SpaceAfter=No
 27	การปรึกษา	_	VERB	VV	_	26	obj	_	SpaceAfter=No
 28	อะไร	_	PRON	WP	_	27	obj	_	SpaceAfter=No
-29	กัน	_	PRON	PRP	_	27	advmod	_	SpaceAfter=No
+29	กัน	_	PRON	PRP	_	27	obl	_	SpaceAfter=No
 30	เลย	_	ADV	RB	_	26	advmod	_	SpaceAfter=No
 31	”	_	PUNCT	''	_	26	punct	_	_
 32	นาง	_	NOUN	NN	_	34	nsubj	_	SpaceAfter=No
@@ -21973,7 +21973,7 @@
 15	ค่า	_	NOUN	NN	_	14	obj	_	SpaceAfter=No
 16	เงิน	_	NOUN	NN	_	15	compound	_	SpaceAfter=No
 17	เดียว	_	ADJ	JJ	_	15	amod	_	SpaceAfter=No
-18	กัน	_	PRON	PRP	_	17	advmod	_	SpaceAfter=No
+18	กัน	_	PRON	PRP	_	17	obl	_	SpaceAfter=No
 19	อย่างชัดเจน	_	ADJ	JJ	_	8	advmod	_	_
 20	ซึ่ง	_	DET	WDT	_	21	nsubj	_	SpaceAfter=No
 21	เท่า	_	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
@@ -22412,7 +22412,7 @@
 6	อย่างหนัก	_	ADJ	JJ	_	5	advmod	_	_
 7	และ	_	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 8	หลาย	_	DET	DT	_	9	det	_	SpaceAfter=No
-9	ครั้ง	_	NOUN	NNB	_	11	advmod	_	SpaceAfter=No
+9	ครั้ง	_	NOUN	NNB	_	11	obl	_	SpaceAfter=No
 10	ก็	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
 11	เรียกร้อง	_	VERB	VV	_	5	conj	_	SpaceAfter=No
 12	การยกเลิก	_	VERB	VV	_	11	obj	_	SpaceAfter=No
@@ -22544,7 +22544,7 @@
 # sent_id = n05004020
 # text = เช่นเดียวกับนักสังคมนิยมอีกหลายคน เปโดร ซานเชส กล่าวในรายการ Évole ว่าสเปนเป็นชาติของประชาชาติ
 # text_en = Pedro Sánchez, like many other socialists, said in the programme Évole that Spain is a nation of nations.
-1	เช่น	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+1	เช่น	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 2	เดียว	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	กับ	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	นัก	_	NOUN	NN	_	1	nmod	_	SpaceAfter=No
@@ -22590,7 +22590,7 @@
 2	เฟลลินี	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ไว้	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
-5	ครั้ง	_	NOUN	NN	_	3	advmod	_	SpaceAfter=No
+5	ครั้ง	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
 6	หนึ่ง	_	NUM	CD	_	5	nummod	_	SpaceAfter=No
 7	ว่า	_	ADP	IN	_	11	mark	_	_
 8	"	_	PUNCT	``	_	7	punct	_	SpaceAfter=No
@@ -22616,14 +22616,14 @@
 1	เขา	_	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	ยืน	_	VERB	VV	_	0	root	_	SpaceAfter=No
 3	อยู่	_	PART	AS	Aspect=Prog	2	aux	_	SpaceAfter=No
-4	คน	_	NOUN	NN	_	2	advmod	_	SpaceAfter=No
+4	คน	_	NOUN	NN	_	2	obl	_	SpaceAfter=No
 5	เดียว	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 6	ต่อ	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	หน้า	_	NOUN	NN	_	2	obl	_	SpaceAfter=No
 8	ผู้	_	NOUN	NN	_	7	compound	_	SpaceAfter=No
 9	ฟัง	_	VERB	VV	_	8	acl	_	_
 10	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No
-11	ท้าย	_	NOUN	NN	_	16	advmod	_	SpaceAfter=No
+11	ท้าย	_	NOUN	NN	_	16	obl	_	SpaceAfter=No
 12	ที่สุด	_	ADJ	JJ	_	11	amod	_	SpaceAfter=No
 13	แล้ว	_	ADV	RB	_	12	advmod	_	SpaceAfter=No
 14	เขา	_	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No
@@ -22733,7 +22733,7 @@
 # text = บางทีนั่นอาจเป็นเหตุผลที่ทำให้น้ำตาเอ่อจนดวงตาของเขาพร่ามัวเมื่อห้วงเวลาทำให้เห็นพืชผลงอกเงยขึ้นมาและทำให้ความลับของเขาจำนนอยู่ในสายน้ำนิ่ง
 # text_en = Perhaps that's why a surge of tears clouds his pupils while the syllable of time unearths his crop and surrenders his mystery to the bound waters.
 1	บาง	_	DET	DT	_	2	det	_	SpaceAfter=No
-2	ที	_	NOUN	NNB	_	6	advmod	_	SpaceAfter=No
+2	ที	_	NOUN	NNB	_	6	obl	_	SpaceAfter=No
 3	นั่น	_	PRON	PRD	_	6	nsubj	_	SpaceAfter=No
 4	อาจ	_	VERB	MD	_	6	aux	_	SpaceAfter=No
 5	เป็น	_	AUX	VC	_	6	cop	_	SpaceAfter=No
@@ -22993,7 +22993,7 @@
 8	ติด	_	VERB	VV	_	6	acl	_	SpaceAfter=No
 9	สัญญาณ	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	เตือน	_	VERB	VV	_	9	acl	_	SpaceAfter=No
-11	ไฟ	_	NOUN	NN	_	10	advmod	_	SpaceAfter=No
+11	ไฟ	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 12	ไหม้	_	VERB	VV	_	11	acl	_	_
 13	34	_	NUM	CD	_	14	nummod	_	_
 14	ตัว	_	NOUN	NNB	_	9	clf	_	SpaceAfter=No
@@ -23166,7 +23166,7 @@
 2	ทฤษฎี	_	NOUN	NN	_	1	obj	_	SpaceAfter=No
 3	ที่	_	DET	WDT	_	4	nsubj	_	SpaceAfter=No
 4	แตกต่าง	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No
-5	กัน	_	PRON	PRP	_	4	advmod	_	SpaceAfter=No
+5	กัน	_	PRON	PRP	_	4	obl	_	SpaceAfter=No
 6	เกี่ยว	_	VERB	VV	_	8	case	_	SpaceAfter=No
 7	กับ	_	ADP	IN	_	6	fixed	_	SpaceAfter=No
 8	เหตุผล	_	NOUN	NN	_	2	nmod	_	SpaceAfter=No
@@ -23268,7 +23268,7 @@
 # sent_id = w02006081
 # text = ช่วงเลือกตั้งทั่วไปปี 2010 พรรคแรงงานสามารถเอาชนะได้ทั้ง 7 เขตเลือกตั้ง
 # text_en = During the 2010 general election, the Labor Party was able to win all seven voting districts.
-1	ช่วง	_	NOUN	NN	_	9	advmod	_	SpaceAfter=No
+1	ช่วง	_	NOUN	NN	_	9	obl	_	SpaceAfter=No
 2	เลือกตั้ง	_	VERB	VV	_	1	acl	_	SpaceAfter=No
 3	ทั่วไป	_	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	ปี	_	NOUN	NN	_	2	obl:tmod	_	_
@@ -23280,7 +23280,7 @@
 10	ได้	_	VERB	MD	_	9	aux	_	SpaceAfter=No
 11	ทั้ง	_	DET	DT	_	13	det	_	_
 12	7	_	NUM	CD	_	13	nummod	_	_
-13	เขต	_	NOUN	NNB	_	9	advmod	_	SpaceAfter=No
+13	เขต	_	NOUN	NNB	_	9	obl	_	SpaceAfter=No
 14	เลือกตั้ง	_	VERB	VV	_	13	acl	_	_
 
 # sent_id = w02007008
@@ -23296,7 +23296,7 @@
 8	นี้	_	DET	DT	_	7	det	_	SpaceAfter=No
 9	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
 10	การถกเถียง	_	VERB	VV	_	9	obj	_	SpaceAfter=No
-11	กัน	_	PRON	PRP	_	10	advmod	_	SpaceAfter=No
+11	กัน	_	PRON	PRP	_	10	obl	_	SpaceAfter=No
 12	อย่างเอาจริงเอาจัง	_	ADJ	JJ	_	10	advmod	_	_
 
 # sent_id = w02007032
@@ -23407,7 +23407,7 @@
 # sent_id = w02008028
 # text = เช่นเดียวกับพื้นที่ส่วนใหญ่ในยุโรปตอนใต้ การค้นหาย้อนไปในช่วงต้นศตวรรษที่ 5 ก่อนคริสตกาล
 # text_en = Like the majority of sites in southern Europe, the finding dates back to the early 5th century BC.
-1	เช่น	_	NOUN	NN	_	12	advmod	_	SpaceAfter=No
+1	เช่น	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
 2	เดียว	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	กับ	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	พื้นที่	_	NOUN	NN	_	1	nmod	_	SpaceAfter=No
@@ -23463,7 +23463,7 @@
 # sent_id = w02008055
 # text = ส่วนใหญ่พวกเขาอยู่บนเนินเขา
 # text_en = They were primarily on hills.
-1	ส่วน	_	NOUN	NN	_	5	advmod	_	SpaceAfter=No
+1	ส่วน	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 2	ใหญ่	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	พวก	_	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 4	เขา	_	PRON	PRP	Person=3	3	compound	_	SpaceAfter=No
@@ -23520,7 +23520,7 @@
 3	เป็น	_	AUX	VC	_	4	cop	_	SpaceAfter=No
 4	ที่	_	PRON	PRP	_	0	root	_	SpaceAfter=No
 5	รู้	_	VERB	VV	_	4	acl	_	SpaceAfter=No
-6	กัน	_	PRON	PRP	_	5	advmod	_	SpaceAfter=No
+6	กัน	_	PRON	PRP	_	5	obl	_	SpaceAfter=No
 7	ใน	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	ปารีส	_	PROPN	NNP	_	5	obl	_	SpaceAfter=No
 9	และ	_	CCONJ	CC	_	11	cc	_	SpaceAfter=No
@@ -23565,7 +23565,7 @@
 14	จดจำ	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No
 15	ได้	_	VERB	MD	_	14	aux	_	SpaceAfter=No
 16	หลาย	_	DET	DT	_	17	det	_	SpaceAfter=No
-17	ต่อ	_	NOUN	NNB	_	14	advmod	_	SpaceAfter=No
+17	ต่อ	_	NOUN	NNB	_	14	obl	_	SpaceAfter=No
 18	หลาย	_	DET	DT	_	19	det	_	SpaceAfter=No
 19	ครั้ง	_	NOUN	NNB	_	17	compound	_	SpaceAfter=No
 20	ช่วง	_	NOUN	NN	_	12	obl:tmod	_	SpaceAfter=No
@@ -23776,7 +23776,7 @@
 22	ของ	_	ADP	IN	_	23	case	_	SpaceAfter=No
 23	พระองค์	_	PRON	PRP	Person=3	19	nmod:poss	_	SpaceAfter=No
 24	อย่างเท่าเทียม	_	ADJ	JJ	_	17	advmod	_	SpaceAfter=No
-25	กัน	_	PRON	PRP	_	24	advmod	_	_
+25	กัน	_	PRON	PRP	_	24	obl	_	_
 
 # sent_id = w02015084
 # text = สำนักสงฆ์ดิซีโบเดนเบิร์กถูกทุบและถล่มลงมาเป็นซากปรักหักพังเนื่องจากการปฏิรูป
@@ -23844,7 +23844,7 @@
 1	แม่	_	NOUN	NN	_	6	nsubj:pass	_	SpaceAfter=No
 2	ชี	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 3	พลัด	_	VERB	VV	_	2	acl	_	SpaceAfter=No
-4	ถิ่น	_	NOUN	NN	_	3	advmod	_	SpaceAfter=No
+4	ถิ่น	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
 5	ถูก	_	VERB	MD	Voice=Pass	6	aux:pass	_	SpaceAfter=No
 6	ย้าย	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	เข้า	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
@@ -23865,7 +23865,7 @@
 6	สร้าง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	ขึ้น	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 8	มา	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
-9	ภาย	_	NOUN	NN	_	6	advmod	_	SpaceAfter=No
+9	ภาย	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
 10	หลัง	_	ADJ	JJ	_	9	amod	_	_
 
 # sent_id = w02016015
@@ -23919,7 +23919,7 @@
 9	ผู้	_	NOUN	NN	_	8	appos	_	SpaceAfter=No
 10	ชนะ	_	VERB	VV	_	9	acl	_	SpaceAfter=No
 11	การแข่ง	_	VERB	VV	_	10	obj	_	SpaceAfter=No
-12	รถ	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+12	รถ	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 13	ได้	_	PART	AS	Aspect=Perf	14	aux	_	SpaceAfter=No
 14	ไล่	_	VERB	VV	_	0	root	_	SpaceAfter=No
 15	ตาม	_	VERB	VV	_	14	xcomp	_	SpaceAfter=No
@@ -24022,9 +24022,9 @@
 13	ยัง	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	อิสราเอล	_	PROPN	NNP	_	11	obl	_	SpaceAfter=No
 15	หลาย	_	DET	DT	_	16	det	_	SpaceAfter=No
-16	ครั้ง	_	NOUN	NNB	_	11	advmod	_	SpaceAfter=No
+16	ครั้ง	_	NOUN	NNB	_	11	obl	_	SpaceAfter=No
 17	ทั้ง	_	DET	DT	_	18	cc:preconj	_	SpaceAfter=No
-18	แบบ	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+18	แบบ	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 19	ส่วนตัว	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 21	เปิดเผย	_	VERB	VV	_	19	conj	_	_
@@ -24170,7 +24170,7 @@
 4	เห็น	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 5	ทวีป	_	NOUN	NN	_	4	obj	_	Proper=True|SpaceAfter=No
 6	แอนตาร์กติกา	_	PROPN	NNP	_	5	flat:name	_	SpaceAfter=No
-7	ครั้ง	_	NOUN	NNB	_	4	advmod	_	SpaceAfter=No
+7	ครั้ง	_	NOUN	NNB	_	4	obl	_	SpaceAfter=No
 8	แรก	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 9	เมื่อ	_	ADP	IN	_	10	case	_	SpaceAfter=No
 10	วันที่	_	NOUN	NN	_	7	nmod	_	_
@@ -24611,7 +24611,7 @@
 13	สิ่ง	_	NOUN	NN	_	11	conj	_	SpaceAfter=No
 14	ทอ	_	VERB	VV	_	13	acl	_	SpaceAfter=No
 15	ทั่ว	_	ADJ	JJ	_	16	amod	_	SpaceAfter=No
-16	โลก	_	NOUN	NN	_	10	advmod	_	_
+16	โลก	_	NOUN	NN	_	10	obl	_	_
 17	แต่	_	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 18	บริษัท	_	NOUN	NN	_	22	nsubj	_	SpaceAfter=No
 19	เยอรมัน	_	PROPN	NNP	_	18	compound	_	SpaceAfter=No
@@ -24877,7 +24877,7 @@
 11	หลวง	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 12	เลี้ยง	_	VERB	VV	_	10	acl	_	SpaceAfter=No
 13	ม้า	_	NOUN	NN	_	12	obj	_	SpaceAfter=No
-14	กัน	_	PRON	PRP	_	9	advmod	_	SpaceAfter=No
+14	กัน	_	PRON	PRP	_	9	obl	_	SpaceAfter=No
 15	อย่างเป็น	_	AUX	VC	_	16	cop	_	SpaceAfter=No
 16	ล่ำ	_	ADJ	JJ	_	9	advmod	_	SpaceAfter=No
 17	เป็น	_	AUX	VC	_	18	cop	_	SpaceAfter=No
@@ -24906,7 +24906,7 @@
 13	ตะวัน	_	NOUN	NN	_	12	compound	_	SpaceAfter=No
 14	ออก	_	VERB	VV	_	13	acl	_	SpaceAfter=No
 15	เฉียง	_	ADV	RB	_	14	advmod	_	SpaceAfter=No
-16	เหนือ	_	NOUN	NN	_	15	advmod	_	SpaceAfter=No
+16	เหนือ	_	NOUN	NN	_	15	obl	_	SpaceAfter=No
 17	ของ	_	ADP	IN	_	18	case	_	SpaceAfter=No
 18	สวน	_	NOUN	NN	_	12	nmod:poss	_	SpaceAfter=No
 19	ติด	_	VERB	VV	_	9	xcomp	_	SpaceAfter=No
@@ -25323,7 +25323,7 @@
 45	ทำ	_	VERB	VV	_	36	conj	_	SpaceAfter=No
 46	แบบ	_	NOUN	NN	_	45	obj	_	SpaceAfter=No
 47	เดียว	_	ADJ	JJ	_	46	amod	_	SpaceAfter=No
-48	กัน	_	PRON	PRP	_	47	advmod	_	_
+48	กัน	_	PRON	PRP	_	47	obl	_	_
 
 # sent_id = w04008006
 # text = ในแง่วัตรปฏิบัติทางศาสนา ฟิโอเรลโลได้รับการศึกษาในแบบคริสตจักรอีพิสโคปาล และยังคงเป็นสมาชิกของคริสตจักรโปรเตสแตนต์ตลอดทั้งชีวิตของเขา
@@ -25478,7 +25478,7 @@
 28	ก็	_	ADV	RB	_	29	advmod	_	SpaceAfter=No
 29	แต่ง	_	VERB	VV	_	2	advcl	_	SpaceAfter=No
 30	ร่วม	_	VERB	VV	_	29	xcomp	_	SpaceAfter=No
-31	กัน	_	PRON	PRP	_	30	advmod	_	_
+31	กัน	_	PRON	PRP	_	30	obl	_	_
 
 # sent_id = w04010030
 # text = อย่างไรก็ตาม มิตรภาพก็ต้องจบลงเนื่องจากการร่วมมือกันอย่างไม่เป็นทางการระหว่างทั้งสองซึ่งนำไปสู่ข้อขัดแย้งทางกฎหมาย
@@ -25495,7 +25495,7 @@
 10	เนื่อง	_	ADP	IN	_	12	case	_	SpaceAfter=No
 11	จาก	_	ADP	IN	_	10	fixed	_	SpaceAfter=No
 12	การร่วมมือ	_	VERB	VV	_	8	obl	_	SpaceAfter=No
-13	กัน	_	PRON	PRP	_	12	advmod	_	SpaceAfter=No
+13	กัน	_	PRON	PRP	_	12	obl	_	SpaceAfter=No
 14	อย่างไม่	_	PART	NEG	Polarity=Neg	16	advmod	_	SpaceAfter=No
 15	เป็น	_	AUX	VC	_	16	cop	_	SpaceAfter=No
 16	ทางการ	_	NOUN	NN	_	12	amod	_	SpaceAfter=No
@@ -25577,7 +25577,7 @@
 3	สวด	_	VERB	VV	_	2	acl	_	SpaceAfter=No
 4	มนต์	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ขนาน	_	VERB	VV	_	1	xcomp	_	SpaceAfter=No
-6	กัน	_	PRON	PRP	_	5	advmod	_	SpaceAfter=No
+6	กัน	_	PRON	PRP	_	5	obl	_	SpaceAfter=No
 7	สาม	_	NUM	CD	_	8	nummod	_	SpaceAfter=No
 8	ห้อง	_	NOUN	NNB	_	2	clf	_	SpaceAfter=No
 9	ที่	_	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -25729,7 +25729,7 @@
 16	ก่อตั้ง	_	VERB	VV	_	11	conj	_	SpaceAfter=No
 17	ได้	_	VERB	MD	_	16	aux	_	SpaceAfter=No
 18	อย่างถูก	_	VERB	VV	_	16	advmod	_	SpaceAfter=No
-19	กฎหมาย	_	NOUN	NN	_	18	advmod	_	_
+19	กฎหมาย	_	NOUN	NN	_	18	obl	_	_
 20	ผู้	_	NOUN	NN	_	25	nsubj:pass	_	SpaceAfter=No
 21	ที่	_	DET	WDT	_	23	nsubj:pass	_	SpaceAfter=No
 22	ถูก	_	VERB	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No
@@ -25988,7 +25988,7 @@
 11	ของ	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	ผู้	_	NOUN	NN	_	10	nmod:poss	_	SpaceAfter=No
 13	พูด	_	VERB	VV	_	12	acl	_	SpaceAfter=No
-14	ภาษา	_	NOUN	NN	_	13	advmod	_	SpaceAfter=No
+14	ภาษา	_	NOUN	NN	_	13	obl	_	SpaceAfter=No
 15	สเปน	_	PROPN	NNP	_	14	compound	_	_
 16	การเปลี่ยนแปลง	_	VERB	VV	_	10	conj	_	SpaceAfter=No
 17	เชิง	_	NOUN	NN	_	16	compound	_	SpaceAfter=No
@@ -26163,7 +26163,7 @@
 13	ทหาร	_	NOUN	NN	_	12	obj	_	SpaceAfter=No
 14	อย่างไม่	_	PART	NEG	Polarity=Neg	16	advmod	_	SpaceAfter=No
 15	เป็น	_	AUX	VC	_	16	cop	_	SpaceAfter=No
-16	ธรรม	_	NOUN	NN	_	12	advmod	_	_
+16	ธรรม	_	NOUN	NN	_	12	obl	_	_
 17	อัน	_	ADP	IN	_	19	mark	_	SpaceAfter=No
 18	เป็น	_	AUX	VC	_	19	cop	_	SpaceAfter=No
 19	การกระทำ	_	VERB	VV	_	11	advcl	_	SpaceAfter=No
@@ -26205,7 +26205,7 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ขณะ	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 3	เดียว	_	ADJ	JJ	_	2	amod	_	SpaceAfter=No
-4	กัน	_	PRON	PRP	_	3	advmod	_	_
+4	กัน	_	PRON	PRP	_	3	obl	_	_
 5	ตำแหน่ง	_	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 6	ของ	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	เขา	_	PRON	PRP	Person=3	5	nmod:poss	_	SpaceAfter=No

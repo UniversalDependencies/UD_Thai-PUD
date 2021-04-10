@@ -38,7 +38,7 @@
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- ห้าม -->
     <feat name="Person" value="1" upos="PRON">103</feat><!-- เรา, ฉัน, ผม, ข้าพเจ้า, มี -->
     <feat name="Person" value="2" upos="PRON">19</feat><!-- คุณ, 'Ya, You, นาย, ยู -->
-    <feat name="Person" value="3" upos="PRON">324</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พ​ร​ะ​อ​ง​ค​์​ภ​า​ย​ห​ล​ั​ง​ก​า​ร​ส​ว​ร​ร​ค​ต​โ​ด​ย​ใ​ช​้​ช​ื​่​อ​ย​ุ​ค​ท​ี​่​พ​ร​ะ​อ​ง​ค​์ -->
+    <feat name="Person" value="3" upos="PRON">324</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์ -->
     <feat name="Polarity" value="Neg" upos="PART">205</feat><!-- ไม่, ความไม่, มิ, อย่างไม่, การไม่ -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">15</feat><!-- หรือเปล่า, หรือไม่, อะไร, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
     <feat name="Voice" value="Pass" upos="VERB">90</feat><!-- ถูก, ได้รับ, ต้อง, การถูก -->
@@ -48,7 +48,7 @@
     <dep name="acl">975</dep>
     <dep name="acl:relcl">613</dep>
     <dep name="advcl">321</dep>
-    <dep name="advmod">1422</dep>
+    <dep name="advmod">1213</dep>
     <dep name="amod">654</dep>
     <dep name="appos">362</dep>
     <dep name="aux">929</dep>
@@ -79,7 +79,7 @@
     <dep name="nsubj:pass">70</dep>
     <dep name="nummod">372</dep>
     <dep name="obj">1734</dep>
-    <dep name="obl">1204</dep>
+    <dep name="obl">1413</dep>
     <dep name="obl:poss">91</dep>
     <dep name="obl:tmod">252</dep>
     <dep name="parataxis">5</dep>
