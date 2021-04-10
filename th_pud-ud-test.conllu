@@ -1250,7 +1250,7 @@
 26	สปอตติฟาย	_	PROPN	NNP	_	23	conj	_	_
 27	รวม	_	VERB	VV	_	31	cc	_	SpaceAfter=No
 28	ถึง	_	ADP	IN	_	27	fixed	_	SpaceAfter=No
-29	อีก	_	DET	DT	_	31	det:predet	_	SpaceAfter=No
+29	อีก	_	DET	DT	_	31	det	_	SpaceAfter=No
 30	หลาย	_	DET	DT	_	31	det	_	SpaceAfter=No
 31	เว็บไซต์	_	NOUN	NNB	_	23	conj	_	SpaceAfter=No
 32	ล่ม	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No
@@ -6423,7 +6423,7 @@
 24	ใหญ่โต	_	ADV	RB	_	22	advmod	_	SpaceAfter=No
 25	และ	_	CCONJ	CC	_	26	cc	_	SpaceAfter=No
 26	ครอบคลุม	_	VERB	VV	_	22	conj	_	SpaceAfter=No
-27	เกือบ	_	DET	DT	_	29	det:predet	_	SpaceAfter=No
+27	เกือบ	_	DET	DT	_	29	det	_	SpaceAfter=No
 28	ทุก	_	DET	DT	_	29	det	_	SpaceAfter=No
 29	รัฐ	_	NOUN	NNB	_	26	obj	_	SpaceAfter=No
 30	ใน	_	ADP	IN	_	31	case	_	SpaceAfter=No
@@ -11179,7 +11179,7 @@
 13	กอง	_	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
 14	ทัพ	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
 15	เดนมาร์ก	_	PROPN	NNP	_	13	compound	_	SpaceAfter=No
-16	เกือบ	_	DET	DT	_	17	det:predet	_	SpaceAfter=No
+16	เกือบ	_	DET	DT	_	17	det	_	SpaceAfter=No
 17	ทั้งหมด	_	DET	DT	_	13	det	_	SpaceAfter=No
 18	ประสบ	_	VERB	VV	_	4	conj	_	SpaceAfter=No
 19	ความสำเร็จ	_	VERB	VV	_	18	obj	_	SpaceAfter=No
@@ -18208,7 +18208,7 @@
 21	ร่วม	_	VERB	VV	_	19	acl	_	SpaceAfter=No
 22	งาน	_	NOUN	NN	_	21	obj	_	SpaceAfter=No
 23	กัน	_	PRON	PRP	_	21	obl	_	SpaceAfter=No
-24	อีก	_	DET	DT	_	26	det:predet	_	SpaceAfter=No
+24	อีก	_	DET	DT	_	26	det	_	SpaceAfter=No
 25	หลาย	_	DET	DT	_	26	det	_	SpaceAfter=No
 26	เพลง	_	NOUN	NNB	_	21	obl	_	_
 
@@ -19078,7 +19078,7 @@
 21	มา	_	PART	RP	_	19	compound:prt	_	SpaceAfter=No
 22	ของ	_	ADP	IN	_	23	case	_	SpaceAfter=No
 23	สถาบัน	_	NOUN	NN	_	17	nmod:poss	_	SpaceAfter=No
-24	อีก	_	DET	DT	_	26	det:predet	_	SpaceAfter=No
+24	อีก	_	DET	DT	_	26	det	_	SpaceAfter=No
 25	หลาย	_	DET	DT	_	26	det	_	SpaceAfter=No
 26	งาน	_	NOUN	NNB	_	17	clf	_	_
 
@@ -22549,7 +22549,7 @@
 3	กับ	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	นัก	_	NOUN	NN	_	1	nmod	_	SpaceAfter=No
 5	สังคมนิยม	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
-6	อีก	_	DET	DT	_	8	det:predet	_	SpaceAfter=No
+6	อีก	_	DET	DT	_	8	det	_	SpaceAfter=No
 7	หลาย	_	DET	DT	_	8	det	_	SpaceAfter=No
 8	คน	_	NOUN	NNB	_	4	clf	_	_
 9	เปโดร	_	PROPN	NNP	_	11	nsubj	_	_

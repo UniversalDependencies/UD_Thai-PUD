@@ -44,7 +44,7 @@
     <feat name="Voice" value="Pass" upos="AUX">90</feat><!-- ถูก, ได้รับ, ต้อง, การถูก -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="43">
+  <deps unique="42">
     <dep name="acl">975</dep>
     <dep name="acl:relcl">613</dep>
     <dep name="advcl">341</dep>
@@ -64,8 +64,7 @@
     <dep name="cop">432</dep>
     <dep name="csubj">49</dep>
     <dep name="dep">117</dep>
-    <dep name="det">407</dep>
-    <dep name="det:predet">6</dep>
+    <dep name="det">413</dep>
     <dep name="discourse">29</dep>
     <dep name="dislocated">2</dep>
     <dep name="fixed">333</dep>

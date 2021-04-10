@@ -103,6 +103,7 @@ Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
   * Adverbially used nominals are now 'obl', not 'advmod'.
   * Adverbially used verbs are now 'advcl', not 'advmod'.
   * Auxiliary verbs are now 'AUX', not 'VERB'.
+  * Relation 'det:predet' changed to just 'det'.
 * 2018-07-01 v2.2
   * First official release after it was used as a surprise dataset in the
     CoNLL 2018 shared task.
