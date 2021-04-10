@@ -47,8 +47,8 @@
   <deps unique="43">
     <dep name="acl">975</dep>
     <dep name="acl:relcl">613</dep>
-    <dep name="advcl">321</dep>
-    <dep name="advmod">1213</dep>
+    <dep name="advcl">341</dep>
+    <dep name="advmod">1193</dep>
     <dep name="amod">654</dep>
     <dep name="appos">362</dep>
     <dep name="aux">929</dep>

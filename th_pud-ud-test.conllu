@@ -95,7 +95,7 @@
 27	ผู้	_	NOUN	NN	_	36	nsubj	_	SpaceAfter=No
 28	เข้า	_	VERB	VV	_	27	acl	_	SpaceAfter=No
 29	เมือง	_	NOUN	NN	_	28	obj	_	SpaceAfter=No
-30	โดยถูก	_	VERB	VV	_	28	advmod	_	SpaceAfter=No
+30	โดยถูก	_	VERB	VV	_	28	advcl	_	SpaceAfter=No
 31	กฎหมาย	_	NOUN	NN	_	30	obl	_	_
 32	“	_	PUNCT	``	_	33	punct	_	SpaceAfter=No
 33	จำนวน	_	NOUN	NN	_	27	compound	_	SpaceAfter=No
@@ -454,7 +454,7 @@
 1	จำนวน	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 2	นั้น	_	DET	DT	_	1	det	_	SpaceAfter=No
 3	เพิ่ม	_	VERB	VV	_	0	root	_	SpaceAfter=No
-4	อย่างคง	_	VERB	VV	_	3	advmod	_	SpaceAfter=No
+4	อย่างคง	_	VERB	VV	_	3	advcl	_	SpaceAfter=No
 5	ที่	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
 6	มา	_	PART	RP	_	3	compound:prt	_	SpaceAfter=No
 7	เรื่อย	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
@@ -3002,7 +3002,7 @@
 13	สำหรับ	_	ADP	IN	_	15	case	_	SpaceAfter=No
 14	แต่ละ	_	DET	DT	_	15	det	_	SpaceAfter=No
 15	แผนก	_	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
-16	อย่างต่อเนื่อง	_	VERB	VV	_	4	advmod	_	_
+16	อย่างต่อเนื่อง	_	VERB	VV	_	4	advcl	_	_
 17	แต่	_	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 18	การโพสต์	_	VERB	VV	_	4	conj	_	SpaceAfter=No
 19	ล่าสุด	_	ADV	RB	_	18	advmod	_	SpaceAfter=No
@@ -3355,7 +3355,7 @@
 32	มี	_	VERB	VV	_	27	acl:relcl	_	SpaceAfter=No
 33	การจำหน่าย	_	VERB	VV	_	32	obj	_	SpaceAfter=No
 34	กัญชา	_	NOUN	NN	_	33	obj	_	SpaceAfter=No
-35	อย่างถูก	_	VERB	VV	_	33	advmod	_	SpaceAfter=No
+35	อย่างถูก	_	VERB	VV	_	33	advcl	_	SpaceAfter=No
 36	กฎหมาย	_	NOUN	NN	_	35	obl	_	_
 37	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
 38	ไว้	_	VERB	VV	_	37	acl	_	_
@@ -4472,7 +4472,7 @@
 6	ที่	_	DET	WDT	_	8	nsubj	_	SpaceAfter=No
 7	เป็น	_	AUX	VC	_	8	cop	_	SpaceAfter=No
 8	ศิลปะ	_	NOUN	NN	_	4	acl:relcl	_	SpaceAfter=No
-9	อย่างเห็น	_	VERB	VV	_	8	advmod	_	SpaceAfter=No
+9	อย่างเห็น	_	VERB	VV	_	8	advcl	_	SpaceAfter=No
 10	ได้	_	VERB	MD	_	9	aux	_	SpaceAfter=No
 11	ชัด	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
 12	เกี่ยว	_	VERB	VV	_	14	case	_	SpaceAfter=No
@@ -4557,7 +4557,7 @@
 10	ของ	_	ADP	IN	_	11	case	_	SpaceAfter=No
 11	เขา	_	PRON	PRP	Person=3	9	nmod:poss	_	SpaceAfter=No
 12	เอง	_	PRON	PRP	_	11	compound	_	SpaceAfter=No
-13	โดยสิ้นเชิง	_	VERB	VV	_	8	advmod	_	SpaceAfter=No
+13	โดยสิ้นเชิง	_	VERB	VV	_	8	advcl	_	SpaceAfter=No
 14	”	_	PUNCT	''	_	8	punct	_	_
 
 # sent_id = n01067014
@@ -5576,7 +5576,7 @@
 6	สำคัญ	_	ADJ	JJ	_	3	acl:relcl	_	SpaceAfter=No
 7	ต่อ	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	การเจริญเติบโต	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No
-9	อย่างมี	_	VERB	VV	_	8	advmod	_	SpaceAfter=No
+9	อย่างมี	_	VERB	VV	_	8	advcl	_	SpaceAfter=No
 10	สุขภาพ	_	NOUN	NN	_	9	obj	_	SpaceAfter=No
 11	ดี	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 12	ของ	_	ADP	IN	_	13	case	_	SpaceAfter=No
@@ -7833,7 +7833,7 @@
 6	เป็น	_	AUX	VC	_	7	cop	_	SpaceAfter=No
 7	แหล่ง	_	NOUN	NN	_	4	acl:relcl	_	SpaceAfter=No
 8	ความฮา	_	ADJ	JJ	_	7	compound	_	SpaceAfter=No
-9	อย่างต่อเนื่อง	_	VERB	VV	_	8	advmod	_	_
+9	อย่างต่อเนื่อง	_	VERB	VV	_	8	advcl	_	_
 
 # sent_id = n01119019
 # text = แล้วผลก็ออกมาแทบจะไม่ยอดเยี่ยมเลย
@@ -8488,7 +8488,7 @@
 25	ก็	_	ADV	RB	_	26	advmod	_	SpaceAfter=No
 26	นำ	_	VERB	VV	_	6	conj	_	SpaceAfter=No
 27	อยู่	_	PART	AS	Aspect=Prog	26	aux	_	SpaceAfter=No
-28	โดยรวม	_	VERB	VV	_	26	advmod	_	SpaceAfter=No
+28	โดยรวม	_	VERB	VV	_	26	advcl	_	SpaceAfter=No
 29	ราว	_	ADV	RB	_	31	advmod	_	SpaceAfter=No
 30	ๆ	_	SYM	SYM	_	29	dep	_	_
 31	16,500	_	NUM	CD	_	32	nummod	_	_
@@ -14918,7 +14918,7 @@
 40	คาด	_	VERB	VV	_	32	conj	_	SpaceAfter=No
 41	การณ์	_	NOUN	NN	_	40	obj	_	SpaceAfter=No
 42	ได้	_	VERB	MD	_	40	aux	_	SpaceAfter=No
-43	อย่างสม	_	VERB	VV	_	40	advmod	_	SpaceAfter=No
+43	อย่างสม	_	VERB	VV	_	40	advcl	_	SpaceAfter=No
 44	เหตุ	_	NOUN	NN	_	43	obj	_	SpaceAfter=No
 45	สม	_	VERB	VV	_	43	acl	_	SpaceAfter=No
 46	ผล	_	NOUN	NN	_	45	obj	_	SpaceAfter=No
@@ -15080,7 +15080,7 @@
 2	ศีล	_	NOUN	NN	_	1	obj	_	SpaceAfter=No
 3	ล้าง	_	VERB	VV	_	2	acl	_	SpaceAfter=No
 4	บาป	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
-5	โดยบังคับ	_	VERB	VV	_	1	advmod	_	SpaceAfter=No
+5	โดยบังคับ	_	VERB	VV	_	1	advcl	_	SpaceAfter=No
 6	ขัด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	ต่อ	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	กฎ	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
@@ -18011,7 +18011,7 @@
 9	ทุน	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	ที่	_	DET	WDT	_	11	nsubj	_	SpaceAfter=No
 11	ผิดพลาด	_	ADJ	JJ	_	8	acl:relcl	_	SpaceAfter=No
-12	อย่างต่อเนื่อง	_	VERB	VV	_	8	advmod	_	SpaceAfter=No
+12	อย่างต่อเนื่อง	_	VERB	VV	_	8	advcl	_	SpaceAfter=No
 13	โดย	_	ADP	IN	_	14	case	_	SpaceAfter=No
 14	นาย	_	NOUN	NN	_	8	obl	_	SpaceAfter=No
 15	ทุน	_	NOUN	NN	_	14	compound	_	SpaceAfter=No
@@ -20391,7 +20391,7 @@
 5	ได้	_	PART	AS	Aspect=Perf	6	aux	_	SpaceAfter=No
 6	หยุด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 7	ลง	_	PART	RP	_	6	compound:prt	_	SpaceAfter=No
-8	โดยสิ้นเชิง	_	VERB	VV	_	6	advmod	_	_
+8	โดยสิ้นเชิง	_	VERB	VV	_	6	advcl	_	_
 
 # sent_id = n02042005
 # text = เป็นวันที่ 30 สิงหาคม 2015 ตอนที่กองทัพเป็ดยึดครองอินเทอร์เน็ต
@@ -21225,7 +21225,7 @@
 7	พรรค	_	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 8	ที่	_	NOUN	NN	_	7	compound	_	SpaceAfter=No
 9	สาม	_	NUM	CD	_	8	nummod	_	_
-10	โดยเจาะจง	_	VERB	VV	_	11	advmod	_	Proper=True|SpaceAfter=No
+10	โดยเจาะจง	_	VERB	VV	_	11	advcl	_	Proper=True|SpaceAfter=No
 11	คือ	_	VERB	VC	_	2	acl	_	SpaceAfter=No
 12	ต้อง	_	VERB	MD	_	13	aux	_	SpaceAfter=No
 13	ได้	_	VERB	VV	_	11	ccomp	_	SpaceAfter=No
@@ -21735,7 +21735,7 @@
 19	ทอ	_	VERB	VV	_	18	acl	_	SpaceAfter=No
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 21	ครู	_	NOUN	NN	_	16	conj	_	SpaceAfter=No
-22	อย่างเจาะจง	_	VERB	VV	_	12	advmod	_	_
+22	อย่างเจาะจง	_	VERB	VV	_	12	advcl	_	_
 
 # sent_id = n04002020
 # text = เป็นเรื่องยากที่จะคิดว่าอิตาลีมีจำนวนกิโลเมตรของเส้นทางรถไฟใต้ดินสั้นกว่าในมาดริด
@@ -21779,7 +21779,7 @@
 12	ที่	_	DET	WDT	_	13	nsubj	_	SpaceAfter=No
 13	ต่อต้าน	_	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
 14	อิตาลี	_	PROPN	NNP	_	13	obj	_	SpaceAfter=No
-15	โดยสิ้นเชิง	_	VERB	VV	_	13	advmod	_	SpaceAfter=No
+15	โดยสิ้นเชิง	_	VERB	VV	_	13	advcl	_	SpaceAfter=No
 16	ได้	_	VERB	MD	_	7	aux	_	SpaceAfter=No
 17	อย่างแน่นอน	_	ADV	RB	_	7	advmod	_	_
 
@@ -21999,7 +21999,7 @@
 11	ของ	_	ADP	IN	_	12	case	_	SpaceAfter=No
 12	การปิด	_	VERB	VV	_	10	nmod:poss	_	SpaceAfter=No
 13	อภิปราย	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No
-14	โดยรวม	_	VERB	VV	_	12	advmod	_	SpaceAfter=No
+14	โดยรวม	_	VERB	VV	_	12	advcl	_	SpaceAfter=No
 15	ที่	_	DET	WDT	_	18	obj	_	SpaceAfter=No
 16	ธนาคาร	_	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
 17	ได้	_	PART	AS	Aspect=Perf	18	aux	_	SpaceAfter=No
@@ -22920,7 +22920,7 @@
 10	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 11	ไม่	_	PART	NEG	Polarity=Neg	12	advmod	_	SpaceAfter=No
 12	ตอบ	_	VERB	VV	_	9	conj	_	SpaceAfter=No
-13	อย่างเปิดเผย	_	VERB	VV	_	12	advmod	_	SpaceAfter=No
+13	อย่างเปิดเผย	_	VERB	VV	_	12	advcl	_	SpaceAfter=No
 14	ต่อ	_	ADP	IN	_	15	case	_	SpaceAfter=No
 15	สื่อ	_	NOUN	NN	_	12	obl	_	SpaceAfter=No
 16	หลัง	_	ADP	IN	_	18	mark	_	SpaceAfter=No
@@ -25603,7 +25603,7 @@
 5	รูปแบบ	_	NOUN	NN	_	7	nsubj:pass	_	SpaceAfter=No
 6	ถูก	_	VERB	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No
 7	กำหนด	_	VERB	VV	_	2	ccomp	_	SpaceAfter=No
-8	อย่างตั้งใจ	_	VERB	VV	_	7	advmod	_	SpaceAfter=No
+8	อย่างตั้งใจ	_	VERB	VV	_	7	advcl	_	SpaceAfter=No
 9	เนื่อง	_	ADP	IN	_	11	mark	_	SpaceAfter=No
 10	จาก	_	ADP	IN	_	9	fixed	_	SpaceAfter=No
 11	มี	_	VERB	VV	_	7	advcl	_	SpaceAfter=No
@@ -25728,7 +25728,7 @@
 15	เมือง	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
 16	ก่อตั้ง	_	VERB	VV	_	11	conj	_	SpaceAfter=No
 17	ได้	_	VERB	MD	_	16	aux	_	SpaceAfter=No
-18	อย่างถูก	_	VERB	VV	_	16	advmod	_	SpaceAfter=No
+18	อย่างถูก	_	VERB	VV	_	16	advcl	_	SpaceAfter=No
 19	กฎหมาย	_	NOUN	NN	_	18	obl	_	_
 20	ผู้	_	NOUN	NN	_	25	nsubj:pass	_	SpaceAfter=No
 21	ที่	_	DET	WDT	_	23	nsubj:pass	_	SpaceAfter=No
