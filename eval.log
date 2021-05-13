@@ -1,11 +1,11 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_Thai-PUD:
-commit 549d6644c80bbfbc51a1b25a0e8ce8f858cdf603
+commit 2e98f660b7bed727c028c820ae2556d19d030dc2
+Merge: 96ff177 a1b4793
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 10 18:47:26 2020 +0200
 Size: counted 22322 of 22322 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.21114547846705.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,22 +19,24 @@ Features: 1158 out of 22322 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 7827 bugs.
+Udapi:
+               TOTAL       7211
+Udapi: found 7211 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 22322 words.
 Genres: found 2 out of 17 known.
 validate.py --lang th --max-err=10 UD_Thai-PUD/th_pud-ud-test.conllu
-[Line 16 Sent n01001011 Node 13]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
-[Line 18 Sent n01001011 Node 15]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
-[Line 25 Sent n01001011 Node 22]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 61 Sent n01001013 Node 12]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 92 Sent n01002017 Node 24]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 98 Sent n01002017 Node 30]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
-[Line 99 Sent n01002017 Node 31]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 107 Sent n01002017 Node 39]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 121 Sent n01002032 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 1534 Sent n01024010 Node 10]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (10:จาก:case --> 12:โลก:nmod)
+[Line 5309 Sent n01080039 Node 7]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (7:ได้:aux --> 6:ก็:advmod)
+[Line 5428 Sent n01083013 Node 18]: [L3 Syntax rel-upos-cc] 'cc' should not be 'DET'
+[Line 5454 Sent n01084008 Node 1]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (1:ใน:case --> 3:ทฤษฎี:nmod)
+[Line 5519 Sent n01084036 Node 1]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (1:ใน:case --> 3:ทฤษฎี:nmod)
+[Line 5716 Sent n01087005 Node 7]: [L3 Syntax rel-upos-cc] 'cc' should not be 'DET'
+[Line 5943 Sent n01090037 Node 17]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (17:กับ:case --> 19:ใบปลิว:nmod)
+[Line 7049 Sent n01108005 Node 1]: [L3 Syntax rel-upos-cc] 'cc' should not be 'DET'
+[Line 7708 Sent n01117014 Node 1]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (1:ใน:case --> 3:ทฤษฎี:nmod)
 ...suppressing further errors regarding Syntax
-Syntax errors: 1285
-*** FAILED *** with 1285 errors
+Syntax errors: 40
+*** FAILED *** with 40 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
