@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Thai-PUD:
-commit 70734d222eb827ee566b4a55ca322d7fa9ba1524
+commit ddc53ef9a2e814b4af4714a85ea995b384354a8e
+Merge: 1676797 98eaf79
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 09:59:59 2021 +0200
 Size: counted 22322 of 22322 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.21114547846705.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -35,8 +35,17 @@ validate.py --lang th --max-err=10 UD_Thai-PUD/th_pud-ud-test.conllu
 [Line 7049 Sent n01108005 Node 1]: [L3 Syntax rel-upos-cc] 'cc' should not be 'DET'
 [Line 7708 Sent n01117014 Node 1]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (1:ใน:case --> 3:ทฤษฎี:nmod)
 ...suppressing further errors regarding Syntax
+[Line 11003 Sent w01020020 Node 16]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 11004 Sent w01020020 Node 17]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 18039 Sent w01128053 Node 8]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 18040 Sent w01128053 Node 9]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 18046 Sent w01128053 Node 15]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 18047 Sent w01128053 Node 16]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 26088 Sent w05008107 Node 10]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 26089 Sent w05008107 Node 11]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+Morpho errors: 8
 Syntax errors: 40
-*** FAILED *** with 40 errors
+*** FAILED *** with 48 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
