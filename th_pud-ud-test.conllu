@@ -16010,7 +16010,7 @@
 32	ชื่อ	_	NOUN	NN	_	31	obj	_	SpaceAfter=No
 33	ยุค	_	NOUN	NN	_	32	obl:tmod	_	SpaceAfter=No
 34	ที่	_	DET	WDT	_	36	obl:tmod	_	SpaceAfter=No
-35	พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์	_	PRON	PRP	Person=3	36	nsubj	_	OrigForm=พระองค์
+35	พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์	_	PRON	PRP	Person=3	36	nsubj	_	_
 36	ทรง	_	VERB	VV	_	33	acl:relcl	_	_
 37	พระชนม์	_	NOUN	NN	_	36	obj	_	_
 38	อยู่	_	AUX	AS	Aspect=Prog	36	aux	_	_
