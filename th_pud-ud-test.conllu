@@ -5425,7 +5425,7 @@
 15	เป็น	_	AUX	VC	_	16	cop	_	SpaceAfter=No
 16	อันตราย	_	NOUN	NN	_	6	advcl	_	SpaceAfter=No
 17	ต่อ	_	ADP	IN	_	19	case	_	SpaceAfter=No
-18	ทั้ง	_	DET	DT	_	19	cc:preconj	_	SpaceAfter=No
+18	ทั้ง	_	CCONJ	DT	_	19	cc:preconj	_	SpaceAfter=No
 19	งาน	_	NOUN	NN	_	16	nmod	_	SpaceAfter=No|ToDo=nmod
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 21	มาตรฐาน	_	NOUN	NN	_	19	conj	_	SpaceAfter=No
@@ -5713,7 +5713,7 @@
 4	ว่า	_	ADP	IN	_	8	mark	_	SpaceAfter=No
 5	ร็อคโค่	_	PROPN	NNP	_	8	nsubj	_	_
 6	คาตาลาโน่	_	PROPN	NNP	_	5	flat:name	_	_
-7	ทั้ง	_	DET	DT	_	8	cc:preconj	_	SpaceAfter=No
+7	ทั้ง	_	CCONJ	DT	_	8	cc:preconj	_	SpaceAfter=No
 8	ทำ	_	VERB	VV	_	1	ccomp	_	SpaceAfter=No
 9	งาน	_	NOUN	NN	_	8	obj	_	_
 10	ใช้	_	VERB	VV	_	8	conj	_	SpaceAfter=No
@@ -7046,7 +7046,7 @@
 # sent_id = n01108005
 # text = ทั้งธุรกิจค้าปลีกและค้าส่งก็ได้ขยายตัวเมื่อบรรดานักช็อปยังคงจับจ่ายกันคึกคัก และบริษัทที่ให้บริการกับผู้บริโภคต่างก็โตตามไปด้วย
 # text_en = Retail and wholesale businesses expanded as shoppers remained upbeat, and consumer services companies also grew.
-1	ทั้ง	_	DET	DT	_	2	cc:preconj	_	SpaceAfter=No
+1	ทั้ง	_	CCONJ	DT	_	2	cc:preconj	_	SpaceAfter=No
 2	ธุรกิจ	_	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 3	ค้า	_	VERB	VV	_	2	acl	_	SpaceAfter=No
 4	ปลีก	_	VERB	VV	_	3	acl	_	SpaceAfter=No
@@ -7940,7 +7940,7 @@
 15	โอดี้	_	PROPN	NNP	_	14	obj	_	SpaceAfter=No
 16	ผู้	_	DET	WDT	_	17	nsubj	_	SpaceAfter=No
 17	มี	_	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
-18	ทั้ง	_	DET	DT	_	19	cc:preconj	_	SpaceAfter=No
+18	ทั้ง	_	CCONJ	DT	_	19	cc:preconj	_	SpaceAfter=No
 19	ความผิดพลาด	_	ADJ	JJ	_	17	obj	_	SpaceAfter=No
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 21	ความบิดเบี้ยว	_	ADJ	JJ	_	19	conj	_	SpaceAfter=No
@@ -8819,7 +8819,7 @@
 # sent_id = n01137003
 # text = ทั้งคนดัง แฟนๆ และกระทั่งนักข่าวซีเอ็นเอ็น ล้วนแต่งตัวแบบตัวละคร "สเตรนเจอร์ธิงส์" ในวันหยุดนี้
 # text_en = Celebrities, fans and even CNN reporters are dressing up like "Stranger Things" characters this holiday.
-1	ทั้ง	_	DET	DT	_	2	cc:preconj	_	SpaceAfter=No
+1	ทั้ง	_	CCONJ	DT	_	2	cc:preconj	_	SpaceAfter=No
 2	คน	_	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 3	ดัง	_	ADJ	JJ	_	2	amod	_	_
 4	แฟน	_	NOUN	NN	_	2	conj	_	SpaceAfter=No
@@ -10508,7 +10508,7 @@
 6	ที่	_	DET	WDT	_	7	obj	_	SpaceAfter=No
 7	พบ	_	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
 8	ได้	_	AUX	MD	_	7	aux	_	SpaceAfter=No
-9	ทั้ง	_	DET	DT	_	11	cc:preconj	_	SpaceAfter=No|ToDo=ex-adp-child
+9	ทั้ง	_	CCONJ	DT	_	11	cc:preconj	_	SpaceAfter=No|ToDo=ex-adp-child
 10	ใน	_	ADP	IN	_	11	case	_	SpaceAfter=No
 11	ภาษา	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 12	ฟินแลนด์	_	PROPN	NNP	_	11	compound	_	SpaceAfter=No
@@ -13061,7 +13061,7 @@
 2	ข่าน	_	NOUN	NN	_	1	appos	_	Proper=True|SpaceAfter=No
 3	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ว่า	_	ADP	IN	_	10	mark	_	_
-5	ทั้ง	_	DET	DT	_	6	cc:preconj	_	SpaceAfter=No
+5	ทั้ง	_	CCONJ	DT	_	6	cc:preconj	_	SpaceAfter=No
 6	มองโกเลีย	_	PROPN	NNP	_	10	nsubj:pass	_	SpaceAfter=No
 7	และ	_	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	จีน	_	PROPN	NNP	_	6	conj	_	SpaceAfter=No
@@ -14122,8 +14122,8 @@
 7	การป้องกัน	_	VERB	VV	_	6	obj	_	SpaceAfter=No
 8	ระหว่าง	_	ADP	IN	_	9	case	_	SpaceAfter=No
 9	อียิปต์	_	PROPN	NNP	_	7	obl	_	SpaceAfter=No
-10	กับ	_	CCONJ	CC	_	9	conj	_	SpaceAfter=No
-11	เอเชีย	_	PROPN	NNP	_	9	cc	_	ToDo=cc-after-conj
+10	กับ	_	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+11	เอเชีย	_	PROPN	NNP	_	9	conj	_	_
 12	โดย	_	ADP	IN	_	13	mark	_	SpaceAfter=No
 13	สร้าง	_	VERB	VV	_	6	advcl	_	SpaceAfter=No
 14	กำแพง	_	NOUN	NN	_	13	obj	_	SpaceAfter=No
@@ -16130,7 +16130,7 @@
 11	ข้อ	_	NOUN	NN	_	10	obj	_	SpaceAfter=No
 12	ได้เปรียบ	_	VERB	VV	_	11	acl	_	SpaceAfter=No
 13	อย่างมาก	_	ADJ	JJ	_	10	advmod	_	SpaceAfter=No
-14	ทั้ง	_	DET	DT	_	15	cc:preconj	_	SpaceAfter=No
+14	ทั้ง	_	CCONJ	DT	_	15	cc:preconj	_	SpaceAfter=No
 15	ด้าน	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 16	ประชากร	_	NOUN	NN	_	15	compound	_	SpaceAfter=No
 17	และ	_	CCONJ	CC	_	18	cc	_	SpaceAfter=No
@@ -16295,7 +16295,7 @@
 1	ใน	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	หมู่	_	NOUN	NN	_	11	nmod	_	SpaceAfter=No|ToDo=nmod
 3	มนุษย์	_	NOUN	NN	_	2	compound	_	_
-4	ทั้ง	_	DET	DT	_	5	cc:preconj	_	SpaceAfter=No
+4	ทั้ง	_	CCONJ	DT	_	5	cc:preconj	_	SpaceAfter=No
 5	ชาย	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	หญิง	_	NOUN	NN	_	5	conj	_	SpaceAfter=No
@@ -18816,7 +18816,7 @@
 19	แชมเบอร์เลน	_	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
 20	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
 21	ตำหนิ	_	VERB	VV	_	20	xcomp	_	SpaceAfter=No
-22	ทั้ง	_	DET	DT	_	23	cc:preconj	_	SpaceAfter=No
+22	ทั้ง	_	CCONJ	DT	_	23	cc:preconj	_	SpaceAfter=No
 23	เยอรมนี	_	PROPN	NNP	_	21	obj	_	SpaceAfter=No
 24	และ	_	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 25	ออสเตรีย	_	PROPN	NNP	_	23	conj	_	_
@@ -21596,7 +21596,7 @@
 16	สู่	_	ADP	IN	_	17	case	_	SpaceAfter=No
 17	ผล	_	NOUN	NN	_	14	obl	_	SpaceAfter=No
 18	ที่	_	DET	WDT	_	20	nsubj	_	SpaceAfter=No
-19	ทั้ง	_	DET	DT	_	20	cc:preconj	_	SpaceAfter=No
+19	ทั้ง	_	CCONJ	DT	_	20	cc:preconj	_	SpaceAfter=No
 20	เป็นไป	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 21	ได้	_	AUX	MD	_	20	aux	_	SpaceAfter=No
 22	และ	_	CCONJ	CC	_	23	cc	_	SpaceAfter=No
@@ -23189,7 +23189,7 @@
 10	สี่	_	NUM	CD	_	11	nummod	_	SpaceAfter=No
 11	กิโลเมตร	_	NOUN	NNB	_	8	obl	_	_
 12	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
-13	ทั้ง	_	DET	DT	_	14	cc:preconj	_	SpaceAfter=No
+13	ทั้ง	_	CCONJ	DT	_	14	cc:preconj	_	SpaceAfter=No
 14	สวน	_	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	พฤกษศาสตร์	_	NOUN	NN	_	14	compound	_	_
 16	ท้องฟ้า	_	NOUN	NN	_	14	conj	_	SpaceAfter=No
@@ -23286,7 +23286,7 @@
 # sent_id = w02007008
 # text = ทั้งเวลาและลำดับเหตุการณ์ของสถานการณ์นี้มีการถกเถียงกันอย่างเอาจริงเอาจัง
 # text_en = Both the time and the sequence of events of this incident were vigorously discussed.
-1	ทั้ง	_	DET	DT	_	2	cc:preconj	_	SpaceAfter=No
+1	ทั้ง	_	CCONJ	DT	_	2	cc:preconj	_	SpaceAfter=No
 2	เวลา	_	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 3	และ	_	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 4	ลำดับ	_	NOUN	NN	_	2	conj	_	SpaceAfter=No
@@ -24023,7 +24023,7 @@
 14	อิสราเอล	_	PROPN	NNP	_	11	obl	_	SpaceAfter=No
 15	หลาย	_	DET	DT	_	16	det	_	SpaceAfter=No
 16	ครั้ง	_	NOUN	NNB	_	11	obl	_	SpaceAfter=No
-17	ทั้ง	_	DET	DT	_	18	cc:preconj	_	SpaceAfter=No
+17	ทั้ง	_	CCONJ	DT	_	18	cc:preconj	_	SpaceAfter=No
 18	แบบ	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 19	ส่วนตัว	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
 20	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
