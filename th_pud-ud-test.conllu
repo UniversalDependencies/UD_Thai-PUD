@@ -13120,7 +13120,7 @@
 # text_en = In his haste to capture Kadesh, Ramesses II committed a major tactical error.
 1	ด้วย	_	ADP	IN	_	2	case	_	SpaceAfter=No
 2	ความเร่งรีบ	_	VERB	VV	_	13	obl	_	SpaceAfter=No
-3	ที่	_	ADP	IN	_	5	advmod	_	SpaceAfter=No
+3	ที่	_	ADP	IN	_	5	mark	_	SpaceAfter=No
 4	จะ	_	AUX	MD	_	5	aux	_	SpaceAfter=No
 5	ยึดครอง	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No
 6	คาเดช	_	PROPN	NNP	_	5	obj	_	_
@@ -19914,7 +19914,7 @@
 18	ทุน	_	NOUN	NN	_	17	obj	_	SpaceAfter=No
 19	หลาย	_	ADV	RB	_	21	advmod	_	SpaceAfter=No
 20	พัน	_	NUM	CD	_	21	nummod	_	SpaceAfter=No
-21	ล้าน	_	NUM	CD	_	17	advmod	_	SpaceAfter=No
+21	ล้าน	_	NUM	CD	_	17	obl	_	SpaceAfter=No
 22	ทั่ว	_	ADJ	JJ	_	23	amod	_	SpaceAfter=No
 23	โลก	_	NOUN	NN	_	17	obl	_	_
 
@@ -23082,7 +23082,7 @@
 19	พร้อม	_	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 20	ข้อ	_	NOUN	NN	_	7	conj	_	SpaceAfter=No
 21	ตกลง	_	VERB	VV	_	20	acl	_	SpaceAfter=No
-22	ที่	_	ADP	IN	_	24	advmod	_	SpaceAfter=No
+22	ที่	_	ADP	IN	_	24	mark	_	SpaceAfter=No
 23	จะ	_	AUX	MD	_	24	aux	_	SpaceAfter=No
 24	สร้าง	_	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
 25	โรง	_	NOUN	NN	_	24	obj	_	SpaceAfter=No
