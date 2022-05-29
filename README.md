@@ -99,6 +99,8 @@ Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Fixed validation errors.
 * 2021-05-15 v2.8
   * Adverbially used nominals are now 'obl', not 'advmod'.
   * Adverbially used verbs are now 'advcl', not 'advmod'.

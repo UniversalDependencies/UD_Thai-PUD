@@ -1531,7 +1531,7 @@
 9	เมล็ด	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 10	จาก	_	ADP	IN	_	9	case	_	SpaceAfter=No
 11	บน	_	ADP	IN	_	12	case	_	SpaceAfter=No
-12	โลก	_	NOUN	NN	_	10	nmod	_	SpaceAfter=No|ToDo=nmod
+12	โลก	_	NOUN	NN	_	9	nmod	_	SpaceAfter=No|ToDo=nmod
 13	ยังคง	_	AUX	AS	Aspect=Prog	14	aux	_	SpaceAfter=No
 14	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
 15	ชีวิต	_	NOUN	NN	_	14	obj	_	SpaceAfter=No
@@ -5451,7 +5451,7 @@
 # text_en = Theoretically, a couple could open four Tesco accounts and earn 3% on £12,000 – £360.
 1	ใน	_	ADP	IN	_	7	case	_	SpaceAfter=No
 2	ทาง	_	ADP	IN	_	3	case	_	SpaceAfter=No
-3	ทฤษฎี	_	NOUN	NN	_	1	nmod	_	ToDo=nmod
+3	ทฤษฎี	_	NOUN	NN	_	7	nmod	_	ToDo=nmod
 4	คู่	_	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 5	สามีภรรยา	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
 6	สามารถ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
@@ -5516,7 +5516,7 @@
 # text_en = With this, in theory, you are able to access your money whenever you like.
 1	ใน	_	ADP	IN	_	9	case	_	SpaceAfter=No
 2	ทาง	_	ADP	IN	_	3	case	_	SpaceAfter=No
-3	ทฤษฎี	_	NOUN	NN	_	1	nmod	_	ToDo=nmod
+3	ทฤษฎี	_	NOUN	NN	_	9	nmod	_	ToDo=nmod
 4	ด้วย	_	ADP	IN	_	5	case	_	SpaceAfter=No
 5	สิ่ง	_	NOUN	NN	_	9	obl	_	SpaceAfter=No
 6	นี้	_	DET	DT	_	5	det	_	SpaceAfter=No
@@ -5940,7 +5940,7 @@
 16	เหมือน	_	VERB	VC	_	14	acl:relcl	_	SpaceAfter=No
 17	กับ	_	ADP	IN	_	16	case	_	SpaceAfter=No
 18	ใน	_	ADP	IN	_	19	case	_	SpaceAfter=No
-19	ใบปลิว	_	NOUN	NN	_	17	nmod	_	SpaceAfter=No|ToDo=nmod
+19	ใบปลิว	_	NOUN	NN	_	16	nmod	_	SpaceAfter=No|ToDo=nmod
 20	นั้น	_	DET	DT	_	19	det	_	_
 21	เพราะ	_	ADP	IN	_	24	mark	_	SpaceAfter=No
 22	มัน	_	PRON	PRP	Person=3	24	nsubj	_	SpaceAfter=No
@@ -7705,7 +7705,7 @@
 # text_en = In theory, if done right, it’s un-detectable.
 1	ใน	_	ADP	IN	_	8	case	_	SpaceAfter=No
 2	ทาง	_	ADP	IN	_	3	case	_	SpaceAfter=No
-3	ทฤษฎี	_	NOUN	NN	_	1	nmod	_	ToDo=nmod
+3	ทฤษฎี	_	NOUN	NN	_	8	nmod	_	ToDo=nmod
 4	ถ้า	_	ADP	IN	_	5	mark	_	SpaceAfter=No
 5	ทำ	_	VERB	VV	_	8	advcl	_	SpaceAfter=No
 6	ถูก	_	ADV	RB	_	5	advmod	_	_
@@ -11353,7 +11353,7 @@
 1	แตกต่าง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 2	จาก	_	ADP	IN	_	1	case	_	SpaceAfter=No
 3	ทาง	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	ตะวัน	_	NOUN	NN	_	2	nmod	_	SpaceAfter=No|ToDo=nmod
+4	ตะวัน	_	NOUN	NN	_	1	nmod	_	SpaceAfter=No|ToDo=nmod
 5	ตก	_	VERB	VV	_	4	acl	_	SpaceAfter=No
 6	ของ	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	ประเทศ	_	NOUN	NN	_	4	nmod:poss	_	SpaceAfter=No
@@ -13811,7 +13811,7 @@
 17	พิธี	_	NOUN	NN	_	16	obj	_	SpaceAfter=No
 18	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No|ToDo=cc-without-conj
 19	ของ	_	NOUN	NN	_	17	case	_	SpaceAfter=No
-20	ถวาย	_	VERB	VV	_	19	acl	_	SpaceAfter=No
+20	ถวาย	_	VERB	VV	_	17	acl	_	SpaceAfter=No
 21	ที่	_	DET	WDT	_	22	nsubj	_	SpaceAfter=No
 22	ถือ	_	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 23	ว่า	_	ADP	IN	_	24	mark	_	SpaceAfter=No
@@ -14022,7 +14022,7 @@
 13	สัปดาห์	_	NOUN	NN	_	11	nmod	_	_
 14	วัน	_	NOUN	NN	_	11	conj	_	SpaceAfter=No
 15	ทาง	_	ADP	IN	_	14	case	_	SpaceAfter=No
-16	จันทรคติ	_	NOUN	NN	_	15	compound	_	_
+16	จันทรคติ	_	NOUN	NN	_	15	fixed	_	_
 17	และ	_	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 18	ชื่อ	_	NOUN	NN	_	11	conj	_	SpaceAfter=No
 19	ปี	_	NOUN	NN	_	18	compound	_	SpaceAfter=No
@@ -15090,8 +15090,8 @@
 12	และ	_	CCONJ	CC	_	30	cc	_	SpaceAfter=No
 13	ใน	_	ADP	IN	_	30	case	_	SpaceAfter=No
 14	ทาง	_	ADP	IN	_	15	case	_	SpaceAfter=No
-15	ทฤษฎี	_	NOUN	NN	_	13	nmod	_	SpaceAfter=No|ToDo=nmod
-16	แล้ว	_	ADV	RB	_	13	advmod	_	SpaceAfter=No
+15	ทฤษฎี	_	NOUN	NN	_	30	nmod	_	SpaceAfter=No|ToDo=nmod
+16	แล้ว	_	ADV	RB	_	30	advmod	_	SpaceAfter=No
 17	ผู้	_	NOUN	NN	_	30	nsubj	_	SpaceAfter=No
 18	ใด	_	DET	WDT	_	17	det	_	SpaceAfter=No
 19	ก็ตาม	_	ADJ	JJ	_	17	amod	_	SpaceAfter=No
@@ -15536,7 +15536,7 @@
 11	อัน	_	ADP	IN	_	7	case	_	SpaceAfter=No
 12	ได้	_	VERB	VV	_	14	case	_	SpaceAfter=No
 13	แก่	_	ADP	IN	_	12	fixed	_	SpaceAfter=No
-14	เปอร์โตริโก	_	PROPN	NNP	_	11	nmod	_	ToDo=nmod
+14	เปอร์โตริโก	_	PROPN	NNP	_	7	nmod	_	ToDo=nmod
 15	กวม	_	PROPN	NNP	_	14	conj	_	_
 16	และ	_	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 17	ฟิลิปปินส์	_	PROPN	NNP	_	14	conj	_	_
@@ -16706,7 +16706,7 @@
 15	โดย	_	ADP	IN	_	10	case	_	SpaceAfter=No
 16	เฉพาะ	_	ADJ	JJ	_	15	fixed	_	SpaceAfter=No
 17	ใน	_	ADP	IN	_	18	case	_	SpaceAfter=No
-18	การขนส่ง	_	VERB	VV	_	15	nmod	_	SpaceAfter=No|ToDo=nmod
+18	การขนส่ง	_	VERB	VV	_	10	acl	_	SpaceAfter=No
 19	ทาง	_	ADP	IN	_	20	case	_	SpaceAfter=No
 20	อากาศ	_	NOUN	NN	_	18	obl	_	SpaceAfter=No
 21	ที่	_	ADP	IN	_	22	case	_	SpaceAfter=No
@@ -21760,7 +21760,7 @@
 18	สั้น	_	ADJ	JJ	_	9	xcomp	_	SpaceAfter=No
 19	กว่า	_	ADP	IN	_	18	case	_	SpaceAfter=No
 20	ใน	_	ADP	IN	_	21	case	_	SpaceAfter=No
-21	มาดริด	_	PROPN	NNP	_	19	nmod	_	ToDo=nmod
+21	มาดริด	_	PROPN	NNP	_	18	obl	_	_
 
 # sent_id = n04002027
 # text = เป็นการเน้นย้ำว่าเราไม่สามารถดำเนินการต่อกับกลุ่มคนที่ต่อต้านอิตาลีโดยสิ้นเชิงได้อย่างแน่นอน
@@ -22068,7 +22068,7 @@
 12	ภาย	_	NOUN	NN	_	3	case	_	SpaceAfter=No
 13	หลัง	_	ADP	IN	_	12	fixed	_	SpaceAfter=No
 14	จาก	_	ADP	IN	_	15	case	_	SpaceAfter=No
-15	การตัดสินใจ	_	VERB	VV	_	12	nmod	_	SpaceAfter=No
+15	การตัดสินใจ	_	VERB	VV	_	3	nmod	_	SpaceAfter=No
 16	ของ	_	ADP	IN	_	18	case	_	SpaceAfter=No
 17	อดีต	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
 18	รัฐมนตรี	_	NOUN	NN	_	15	obl:poss	_	SpaceAfter=No
@@ -22245,7 +22245,7 @@
 21	มาก	_	ADV	RB	_	9	conj	_	SpaceAfter=No
 22	กว่า	_	ADP	IN	_	21	case	_	SpaceAfter=No
 23	ที่	_	ADP	IN	_	24	case	_	SpaceAfter=No
-24	ซิลิคอนวัลเลย์	_	PROPN	NNP	_	22	nmod	_	SpaceAfter=No|ToDo=nmod
+24	ซิลิคอนวัลเลย์	_	PROPN	NNP	_	21	nmod	_	SpaceAfter=No|ToDo=nmod
 25	ด้วยซ้ำ	_	ADV	RB	_	21	advmod	_	SpaceAfter=No
 26	ไป	_	ADV	RB	_	25	advmod	_	_
 
@@ -23488,7 +23488,7 @@
 11	น่าสังเกต	_	VERB	VV	_	10	amod	_	SpaceAfter=No
 12	ใน	_	ADP	IN	_	10	case	_	SpaceAfter=No
 13	ทาง	_	ADP	IN	_	14	case	_	SpaceAfter=No
-14	เทคโนโลยี	_	NOUN	NN	_	12	nmod	_	ToDo=nmod
+14	เทคโนโลยี	_	NOUN	NN	_	10	nmod	_	ToDo=nmod
 
 # sent_id = w02009002
 # text = ความรุนแรงและการปรากฏของการปฏิวัติในชนบทเป็นที่ตื่นตระหนกต่อศาลและสมัชชาแห่งชาติในแวร์ซาย
@@ -23815,7 +23815,7 @@
 11	ได้	_	AUX	MD	_	10	aux	_	SpaceAfter=No
 12	จาก	_	ADP	IN	_	10	case	_	SpaceAfter=No
 13	ตรง	_	ADP	IN	_	14	case	_	SpaceAfter=No
-14	นี้	_	PRON	PRD	_	12	nmod	_	ToDo=nmod
+14	นี้	_	PRON	PRD	_	10	nmod	_	ToDo=nmod
 
 # sent_id = w02015086
 # text = สำนักสงฆ์รูเพิร์ตสเบิร์กถูกทำลายระหว่างสงครามสามสิบปีในปี 1632 โดยกองทหารสวีเดน
@@ -23961,7 +23961,7 @@
 23	ได้	_	AUX	MD	_	21	aux	_	SpaceAfter=No
 24	ใน	_	ADP	IN	_	21	case	_	SpaceAfter=No
 25	ทาง	_	ADP	IN	_	26	case	_	SpaceAfter=No
-26	ปฏิบัติ	_	VERB	VV	_	24	xcomp	_	_
+26	ปฏิบัติ	_	VERB	VV	_	21	xcomp	_	_
 
 # sent_id = w02017061
 # text = คราบเลือดบนเสื้อผ้าอยู่ตามแบบที่พวกเขาได้รับรายงานจากรายงานข่าวในวันที่มีการฆาตกรรม
