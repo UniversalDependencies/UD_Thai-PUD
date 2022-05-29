@@ -5306,7 +5306,7 @@
 3	ทำ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	แบบ	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	นั้น	_	DET	DT	_	4	det	_	SpaceAfter=No
-6	ก็	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
+6	ก็	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
 7	ได้	_	AUX	MD	_	3	aux	_	SpaceAfter=No
 8	กับ	_	ADP	IN	_	9	case	_	SpaceAfter=No
 9	ชีวิต	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
@@ -11052,7 +11052,7 @@
 9	ทะเลสาบ	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 10	น้ำ	_	NOUN	NN	_	9	compound	_	SpaceAfter=No
 11	ตื้น	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
-12	ก็	_	ADV	RB	_	13	advmod	_	SpaceAfter=No
+12	ก็	_	ADV	RB	_	7	advmod	_	SpaceAfter=No
 13	ได้	_	AUX	MD	_	7	aux	_	_
 
 # sent_id = w01022092
@@ -15776,7 +15776,7 @@
 30	5,000	_	NUM	CD	_	31	nummod	_	_
 31	ปี	_	NOUN	NNB	_	28	obl:tmod	_	SpaceAfter=No
 32	มา	_	AUX	AS	Aspect=Perf	28	aux	_	SpaceAfter=No
-33	แล้ว	_	AUX	AS	Aspect=Perf	32	aux	_	_
+33	แล้ว	_	AUX	AS	Aspect=Perf	28	aux	_	_
 
 # sent_id = w01091045
 # text = นอกจากเป็นแหล่งอาหารโดยตรงแล้ว สัตว์บางชนิดสามารถให้หนัง ขน หนังและปุ๋ยอีกด้วย
@@ -21119,7 +21119,7 @@
 4	จัดการ	_	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No
 5	บัญชี	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
 6	ทวิตเตอร์	_	PROPN	NNP	_	5	compound	_	SpaceAfter=No
-7	ยัง	_	AUX	AS	Aspect=Prog	9	aux	_	SpaceAfter=No
+7	ยัง	_	AUX	AS	Aspect=Prog	4	aux	_	SpaceAfter=No
 8	ไม่	_	PART	NEG	Polarity=Neg	9	advmod	_	SpaceAfter=No
 9	ได้	_	AUX	MD	_	4	aux	_	_
 10	ก็	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
