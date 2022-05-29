@@ -13685,7 +13685,7 @@
 21	ราย	_	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 22	จน	_	ADP	IN	_	24	mark	_	SpaceAfter=No
 23	ต้อง	_	AUX	MD	_	24	aux	_	SpaceAfter=No
-24	ยอม	_	VERB	VV	_	13	advcl	_	SpaceAfter=No
+24	ยอม	_	VERB	VV	_	14	advcl	_	SpaceAfter=No
 25	ให้	_	VERB	VV	_	24	xcomp	_	SpaceAfter=No
 26	กับ	_	ADP	IN	_	27	case	_	SpaceAfter=No
 27	ข้อ	_	NOUN	NN	_	25	obl	_	SpaceAfter=No
