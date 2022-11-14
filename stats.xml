@@ -14,25 +14,26 @@
   <forms unique="4047" /><!-- ที่, ใน, ของ, และ, เป็น, ได้, มี, ว่า, จะ, จาก, กับ, ไม่, เขา, ก็, ไป -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="15">
+  <tags unique="16">
     <tag name="ADJ">969</tag><!-- _ -->
     <tag name="ADP">3134</tag><!-- _ -->
     <tag name="ADV">951</tag><!-- _ -->
     <tag name="AUX">1449</tag><!-- _ -->
-    <tag name="CCONJ">592</tag><!-- _ -->
-    <tag name="DET">1040</tag><!-- _ -->
+    <tag name="CCONJ">606</tag><!-- _ -->
+    <tag name="DET">1026</tag><!-- _ -->
     <tag name="NOUN">6052</tag><!-- _ -->
     <tag name="NUM">581</tag><!-- _ -->
     <tag name="PART">608</tag><!-- _ -->
     <tag name="PRON">683</tag><!-- _ -->
-    <tag name="PROPN">1495</tag><!-- _ -->
+    <tag name="PROPN">1491</tag><!-- _ -->
     <tag name="PUNCT">272</tag><!-- _ -->
     <tag name="SCONJ">1</tag><!-- _ -->
     <tag name="SYM">134</tag><!-- _ -->
     <tag name="VERB">4361</tag><!-- _ -->
+    <tag name="X">4</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="9">
+  <feats unique="10">
     <feat name="Aspect" value="Perf" upos="AUX">289</feat><!-- ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว -->
     <feat name="Aspect" value="Prog" upos="AUX">112</feat><!-- อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง -->
     <feat name="Mood" value="Imp" upos="AUX">1</feat><!-- ห้าม -->
@@ -41,14 +42,15 @@
     <feat name="Person" value="3" upos="PRON">324</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์ -->
     <feat name="Polarity" value="Neg" upos="PART">205</feat><!-- ไม่, ความไม่, มิ, อย่างไม่, การไม่ -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">15</feat><!-- หรือเปล่า, หรือไม่, อะไร, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
+    <feat name="Typo" value="Yes" upos="PROPN">4</feat><!-- ซิกูร์, บัวโนส, ฟยอกูร์, มาเร -->
     <feat name="Voice" value="Pass" upos="AUX">90</feat><!-- ถูก, ได้รับ, ต้อง, การถูก -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="42">
-    <dep name="acl">975</dep>
+    <dep name="acl">976</dep>
     <dep name="acl:relcl">613</dep>
     <dep name="advcl">341</dep>
-    <dep name="advmod">1193</dep>
+    <dep name="advmod">1190</dep>
     <dep name="amod">654</dep>
     <dep name="appos">362</dep>
     <dep name="aux">929</dep>
@@ -58,7 +60,7 @@
     <dep name="cc:preconj">20</dep>
     <dep name="ccomp">275</dep>
     <dep name="clf">247</dep>
-    <dep name="compound">1564</dep>
+    <dep name="compound">1563</dep>
     <dep name="compound:prt">364</dep>
     <dep name="conj">662</dep>
     <dep name="cop">432</dep>
@@ -67,18 +69,18 @@
     <dep name="det">413</dep>
     <dep name="discourse">29</dep>
     <dep name="dislocated">2</dep>
-    <dep name="fixed">333</dep>
+    <dep name="fixed">334</dep>
     <dep name="flat:name">507</dep>
     <dep name="goeswith">4</dep>
     <dep name="iobj">2</dep>
-    <dep name="mark">558</dep>
-    <dep name="nmod">507</dep>
+    <dep name="mark">560</dep>
+    <dep name="nmod">505</dep>
     <dep name="nmod:poss">438</dep>
     <dep name="nsubj">1622</dep>
     <dep name="nsubj:pass">70</dep>
     <dep name="nummod">372</dep>
     <dep name="obj">1734</dep>
-    <dep name="obl">1413</dep>
+    <dep name="obl">1415</dep>
     <dep name="obl:poss">91</dep>
     <dep name="obl:tmod">252</dep>
     <dep name="parataxis">5</dep>
