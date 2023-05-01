@@ -12763,7 +12763,7 @@
 11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=nai
 12	เขต	_	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=kʰét
 13	แห้งแล้ง	_	ADJ	JJ	_	12	amod	_	SpaceAfter=No|Translit=hǽ²ŋlǽ²ŋ
-14	ซึ่ง	_	DET	WDT	_	18	nsubj	_	SpaceAfter=No|Translit=cü¹ŋ
+14	ซึ่ง	_	DET	WDT	_	18	obl	_	SpaceAfter=No|Translit=cü¹ŋ
 15	พื้น	_	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=bʰű²n
 16	ดิน	_	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=din
 17	ไม่	_	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|Translit=mai¹
@@ -20480,7 +20480,7 @@
 16	ทั้ง	_	DET	DT	_	18	det	_	SpaceAfter=No|Translit=dʰâ²ŋ
 17	หก	_	NUM	CD	_	18	nummod	_	SpaceAfter=No|Translit=hk
 18	ชาติ	_	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=ćʰáti
-19	ต่าง	_	PRON	PRP	_	20	nsubj	_	SpaceAfter=No|Translit=tá¹ŋ
+19	ต่าง	_	PRON	PRP	_	12	det	_	SpaceAfter=No|Translit=tá¹ŋ
 20	ปฏิเสธ	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pṭiséḏʰ
 21	แผน	_	NOUN	NN	_	20	obj	_	SpaceAfter=No|Translit=pʰǽn
 22	ใน	_	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=nai
@@ -21392,7 +21392,7 @@
 # text_en = I was asked by the officers, in their inimitably dumb way, whether I knew the writer Günter de Bruyn and whether we are intellectual relatives.
 1	ข้าพเจ้า	_	PRON	PRP	Person=1	4	nsubj:pass	_	SpaceAfter=No|Translit=kʰá²bʰčao²
 2	ถูก	_	AUX	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No|Translit=tʰúk
-3	เจ้าหน้าที่	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=čao²hná²dʰí¹
+3	เจ้าหน้าที่	_	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=čao²hná²dʰí¹
 4	ถาม	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tʰám
 5	ด้วย	_	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=d²wy
 6	ท่าที	_	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=dʰá¹dʰí

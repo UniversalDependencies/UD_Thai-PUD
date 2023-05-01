@@ -99,6 +99,8 @@ Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Fixed duplicate subjects.
 * 2022-11-15 v2.11
   * Fixed validation errors.
 * 2021-05-15 v2.8
