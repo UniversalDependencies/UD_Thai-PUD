@@ -66,7 +66,7 @@
     <dep name="cop">432</dep>
     <dep name="csubj">49</dep>
     <dep name="dep">117</dep>
-    <dep name="det">413</dep>
+    <dep name="det">414</dep>
     <dep name="discourse">29</dep>
     <dep name="dislocated">2</dep>
     <dep name="fixed">334</dep>
@@ -76,11 +76,11 @@
     <dep name="mark">560</dep>
     <dep name="nmod">505</dep>
     <dep name="nmod:poss">438</dep>
-    <dep name="nsubj">1622</dep>
+    <dep name="nsubj">1619</dep>
     <dep name="nsubj:pass">70</dep>
     <dep name="nummod">372</dep>
     <dep name="obj">1734</dep>
-    <dep name="obl">1415</dep>
+    <dep name="obl">1417</dep>
     <dep name="obl:poss">91</dep>
     <dep name="obl:tmod">252</dep>
     <dep name="parataxis">5</dep>
