@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Thai-PUD:
-commit ce920980b80146fecdf6e38e21e3297a3fd0e6a6
-Merge: 8ad636f 29b5d98
+commit 449ce1d7b6290a0deb5823a13d06408bdd129b7f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun May 5 13:34:51 2024 +0200
 Size: counted 22322 of 22322 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.21114547846705.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,18 @@ Udapi: found 7158 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 22322 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang th --max-err=10 UD_Thai-PUD/th_pud-ud-test.conllu
+[Line 163 Sent n01002042 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:ครั้ง:clf --> 3:ใหม่:amod)
+[Line 164 Sent n01002042 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:ครั้ง:clf --> 4:นี้:det)
+[Line 373 Sent n01005023 Node 18]: [L3 Warning leaf-clf] 'clf' not expected to have children (18:ดอลลาร์:clf --> 17:ล้าน:nummod)
+[Line 420 Sent n01005031 Node 14]: [L3 Warning leaf-clf] 'clf' not expected to have children (14:นาที:clf --> 13:4:nummod)
+[Line 606 Sent n01011004 Node 12]: [L3 Warning leaf-clf] 'clf' not expected to have children (12:ขวบ:clf --> 11:2:nummod)
+[Line 689 Sent n01012003 Node 5]: [L3 Warning leaf-clf] 'clf' not expected to have children (5:คน:clf --> 6:หนึ่ง:nummod)
+[Line 697 Sent n01012003 Node 13]: [L3 Warning leaf-clf] 'clf' not expected to have children (13:คน:clf --> 14:หนึ่ง:nummod)
+[Line 755 Sent n01014003 Node 28]: [L3 Warning leaf-clf] 'clf' not expected to have children (28:ตำแหน่ง:clf --> 26:หลาย:det)
+[Line 756 Sent n01014003 Node 28]: [L3 Warning leaf-clf] 'clf' not expected to have children (28:ตำแหน่ง:clf --> 27:ร้อย:nummod)
+[Line 908 Sent n01016019 Node 4]: [L3 Warning leaf-clf] 'clf' not expected to have children (4:คน:clf --> 3:หลาย:det)
+...suppressing further errors regarding Warning
+Warnings: 273
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
