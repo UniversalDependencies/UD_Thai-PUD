@@ -18,7 +18,7 @@
     <tag name="ADJ">969</tag><!-- ใหม่, สูง, เดียว, ต่าง, แรก, ใหญ่, ดี, มาก, สำคัญ, อื่น -->
     <tag name="ADP">3134</tag><!-- ใน, ของ, ว่า, จาก, กับ, ที่, โดย, ถึง, เมื่อ, ทาง -->
     <tag name="ADV">951</tag><!-- ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, เลย, อีก -->
-    <tag name="AUX">1447</tag><!-- เป็น, ได้, จะ, ถูก, ต้อง, สามารถ, อยู่, คือ, แล้ว, ยัง -->
+    <tag name="AUX">1442</tag><!-- เป็น, ได้, จะ, ถูก, ต้อง, สามารถ, อยู่, คือ, แล้ว, ยัง -->
     <tag name="CCONJ">606</tag><!-- และ, แต่, หรือ, กับ, ทั้ง, อย่าง, จาก, นอก, พร้อม, แล้ว -->
     <tag name="DET">1026</tag><!-- ที่, นี้, ซึ่ง, นั้น, หลาย, อีก, ทุก, ทั้ง, บาง, ทั้งหมด -->
     <tag name="NOUN">6052</tag><!-- ปี, ผู้, คน, ที่, ตัว, งาน, ช่วง, นัก, เรื่อง, พวก -->
@@ -29,7 +29,7 @@
     <tag name="PUNCT">272</tag><!-- ”, “, (, ), ", -, :, ฯ, ‘, ’ -->
     <tag name="SCONJ">1</tag><!-- หาก -->
     <tag name="SYM">134</tag><!-- ๆ, %, / -->
-    <tag name="VERB">4363</tag><!-- มี, ให้, ใช้, ทำ, รับ, อยู่, กล่าว, ทำให้, เกิด, แสดง -->
+    <tag name="VERB">4368</tag><!-- มี, ให้, ใช้, ทำ, อยู่, รับ, กล่าว, ทำให้, เกิด, แสดง -->
     <tag name="X">4</tag><!-- นอสตรุม, รอส, เปียโน, ไอเรส -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -63,7 +63,7 @@
     <dep name="compound">1563</dep>
     <dep name="compound:prt">364</dep>
     <dep name="conj">662</dep>
-    <dep name="cop">430</dep>
+    <dep name="cop">425</dep>
     <dep name="csubj">49</dep>
     <dep name="dep">117</dep>
     <dep name="det">414</dep>
@@ -88,6 +88,6 @@
     <dep name="reparandum">1</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">782</dep>
+    <dep name="xcomp">787</dep>
   </deps>
 </treebank>
