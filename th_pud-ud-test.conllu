@@ -24272,8 +24272,8 @@
 19	ดำ	ดำ	PROPN	NNP	_	18	compound	_	Translit=dã|LTranslit=dã
 
 # sent_id = w02008010
-# text = ในมุมมองพวกเขานั้น มันป็นวัฒนธรรมที่แผ่ไปไกลมากที่สุดในเวลานั้น ซึ่งรู้จักกันในพื้นที่หลายแห่ง
-# translit = naimummɔːŋbʰwkkʰaonâ²n mânpɔnwâḑʰnḏʰrrmdʰí¹pʰǽ¹paikailmákdʰí¹sudnaiwélánâ²n cü¹ŋrú²čâkkânnaibʰű²ndʰí¹hláyhǽ¹ŋ
+# text = ในมุมมองพวกเขานั้น มันเป็นวัฒนธรรมที่แผ่ไปไกลมากที่สุดในเวลานั้น ซึ่งรู้จักกันในพื้นที่หลายแห่ง
+# translit = naimummɔːŋbʰwkkʰaonâ²n mânpenwâḑʰnḏʰrrmdʰí¹pʰǽ¹paikailmákdʰí¹sudnaiwélánâ²n cü¹ŋrú²čâkkânnaibʰű²ndʰí¹hláyhǽ¹ŋ
 # text_en = In its scope it belongs to the most far-reaching cultures of the time, in which many sites are known.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	มุมมอง	มุมมอง	NOUN	NN	_	8	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=mummɔːŋ|LTranslit=mummɔːŋ
