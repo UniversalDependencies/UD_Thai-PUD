@@ -14436,10 +14436,10 @@
 15	แต่	แต่	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=tǽ¹|LTranslit=tǽ¹
 16	อาจ	อาจ	VERB	MD	_	12	conj	_	SpaceAfter=No|Translit='áč|LTranslit='áč
 17	เป็น	เป็น	AUX	VC	_	19	cop	_	Translit=pen|LTranslit=pen
-18	"	"	PUNCT	``	_	16	punct	_	SpaceAfter=No|Translit="|LTranslit="
+18	"	"	PUNCT	``	_	19	punct	_	SpaceAfter=No|Translit="|LTranslit="
 19	สถานที่	สถานที่	NOUN	NN	_	16	xcomp	_	SpaceAfter=No|Translit=stʰándʰí¹|LTranslit=stʰándʰí¹
 20	บูชา	บูชา	VERB	VV	_	19	acl	_	SpaceAfter=No|Translit=búćʰá|LTranslit=búćʰá
-21	"	"	PUNCT	''	_	16	punct	_	Translit="|LTranslit="
+21	"	"	PUNCT	''	_	19	punct	_	Translit="|LTranslit="
 22	ของ	ของ	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 23	ชาว	ชาว	NOUN	NN	_	19	nmod:poss	_	SpaceAfter=No|Translit=ćʰáw|LTranslit=ćʰáw
 24	คานาอัน	คานาอัน	PROPN	NNP	_	23	compound	_	SpaceAfter=No|Translit=gʰáná'ân|LTranslit=gʰáná'ân
@@ -22637,9 +22637,9 @@
 1	เพลง	เพลง	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=bʰélŋ|LTranslit=bʰélŋ
 2	ฮิต	ฮิต	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=ḥit|LTranslit=ḥit
 3	คือ	คือ	VERB	VC	_	0	root	_	Translit=gʰű'|LTranslit=gʰű'
-4	“	“	PUNCT	``	_	3	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+4	“	“	PUNCT	``	_	5	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 5	เจอโรนิโม	เจอโรนิโม	PROPN	NNP	_	3	xcomp	_	SpaceAfter=No|Translit=čóérónimó|LTranslit=čóérónimó
-6	”	”	PUNCT	''	_	3	punct	_	Translit=”|LTranslit=”
+6	”	”	PUNCT	''	_	5	punct	_	Translit=”|LTranslit=”
 7	โดย	โดย	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=dóy|LTranslit=dóy
 8	เชพเพิร์ด	เชพเพิร์ด	PROPN	NNP	_	5	nmod	_	ToDo=nmod|Translit=ćʰébʰbʰéird|LTranslit=ćʰébʰbʰéird
 
