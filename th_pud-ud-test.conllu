@@ -5893,16 +5893,16 @@
 8	เสียง	เสียง	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=síáŋ|LTranslit=síáŋ
 9	รบกวน	รบกวน	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=rbkwn|LTranslit=rbkwn
 10	ต่อไป	ต่อไป	ADV	RB	_	7	advmod	_	Translit=t¹'pai|LTranslit=t¹'pai
-11	และ	และ	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-12	ก็	ก็	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=kɔ|LTranslit=kɔ
-13	จะ	จะ	AUX	MD	_	15	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
-14	รู้สึก	รู้สึก	AUX	VV	_	15	cop	_	SpaceAfter=No|Translit=rú²sük|LTranslit=rú²sük
-15	หงุดหงิด	หงุดหงิด	ADJ	JJ	_	3	conj	_	SpaceAfter=No|Translit=hŋudhŋid|LTranslit=hŋudhŋid
-16	ยิ่ง	ยิ่ง	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=yi¹ŋ|LTranslit=yi¹ŋ
+11	และ	และ	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
+12	ก็	ก็	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=kɔ|LTranslit=kɔ
+13	จะ	จะ	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
+14	รู้สึก	รู้สึก	VERB	VV	_	3	conj	_	SpaceAfter=No|Translit=rú²sük|LTranslit=rú²sük
+15	หงุดหงิด	หงุดหงิด	ADJ	JJ	_	14	xcomp	_	SpaceAfter=No|Translit=hŋudhŋid|LTranslit=hŋudhŋid
+16	ยิ่ง	ยิ่ง	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=yi¹ŋ|LTranslit=yi¹ŋ
 17	ขึ้น	ขึ้น	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=kʰü²n|LTranslit=kʰü²n
 18	เมื่อ	เมื่อ	ADP	IN	_	20	mark	_	SpaceAfter=No|Translit=műá¹|LTranslit=műá¹
 19	เสียง	เสียง	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=síáŋ|LTranslit=síáŋ
-20	ปรากฏ	ปรากฏ	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=prákṭ|LTranslit=prákṭ
+20	ปรากฏ	ปรากฏ	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=prákṭ|LTranslit=prákṭ
 21	ขึ้น	ขึ้น	PART	RP	_	20	compound:prt	_	Translit=kʰü²n|LTranslit=kʰü²n
 
 # sent_id = n01086031
@@ -9646,13 +9646,13 @@
 9	อยู่	อยู่	AUX	AS	Aspect=Prog	2	aux	_	SpaceAfter=No|Translit='yú¹|LTranslit='yú¹
 10	เรื่อย	เรื่อย	ADV	RB	_	2	advmod	_	SpaceAfter=No|Translit=rűá¹y|LTranslit=rűá¹y
 11	ๆ	ๆ	SYM	SYM	_	10	dep	_	Translit=|LTranslit=
-12	และ	และ	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-13	ผม	ผม	PRON	PRP	Person=1	16	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
-14	ก็	ก็	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=kɔ|LTranslit=kɔ
-15	พูด	พูด	AUX	VV	_	16	cop	_	SpaceAfter=No|Translit=bʰúd|LTranslit=bʰúd
-16	ตลก	ตลก	ADJ	JJ	_	2	conj	_	SpaceAfter=No|Translit=tlk|LTranslit=tlk
+12	และ	และ	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
+13	ผม	ผม	PRON	PRP	Person=1	15	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+14	ก็	ก็	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=kɔ|LTranslit=kɔ
+15	พูด	พูด	VERB	VV	_	2	conj	_	SpaceAfter=No|Translit=bʰúd|LTranslit=bʰúd
+16	ตลก	ตลก	ADJ	JJ	_	15	xcomp	_	SpaceAfter=No|Translit=tlk|LTranslit=tlk
 17	กับ	กับ	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=kâb|LTranslit=kâb
-18	เขา	เขา	PRON	PRP	Person=3	16	obl	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
+18	เขา	เขา	PRON	PRP	Person=3	15	obl	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
 19	ไป	ไป	PART	RP	_	16	compound:prt	_	SpaceAfter=No|Translit=pai|LTranslit=pai
 20	ว่า	ว่า	ADP	IN	_	26	mark	_	Translit=wá¹|LTranslit=wá¹
 21	ชัด	ชัด	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=ćʰâd|LTranslit=ćʰâd
@@ -9660,7 +9660,7 @@
 23	ว่า	ว่า	ADP	IN	_	26	mark	_	SpaceAfter=No|Translit=wá¹|LTranslit=wá¹
 24	มัน	มัน	PRON	PRP	Person=3	26	nsubj	_	SpaceAfter=No|Translit=mân|LTranslit=mân
 25	ไม่	ไม่	PART	NEG	Polarity=Neg	26	advmod	_	SpaceAfter=No|Translit=mai¹|LTranslit=mai¹
-26	อยาก	อยาก	VERB	VV	_	16	ccomp	_	SpaceAfter=No|Translit='yák|LTranslit='yák
+26	อยาก	อยาก	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit='yák|LTranslit='yák
 27	ถูก	ถูก	AUX	MD	Voice=Pass	28	aux:pass	_	SpaceAfter=No|Translit=tʰúk|LTranslit=tʰúk
 28	ขาย	ขาย	VERB	VV	_	26	xcomp	_	Translit=kʰáy|LTranslit=kʰáy
 
