@@ -3822,7 +3822,7 @@
 3	ภาพ	ภาพ	NOUN	NN	_	9	nsubj:pass	_	SpaceAfter=No|Translit=ḇʰábʰ|LTranslit=ḇʰábʰ
 4	งาน	งาน	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=ŋán|LTranslit=ŋán
 5	ฉลอง	ฉลอง	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=čʰlɔːŋ|LTranslit=čʰlɔːŋ
-6	อย่างเป็น	อย่างเป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit='yá¹ŋpen|LTranslit='yá¹ŋpen
+6	อย่างเป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit='yá¹ŋpen|LTranslit=pen
 7	ทางการ	ทางการ	ADJ	JJ	_	3	advmod	_	SpaceAfter=No|Translit=dʰáŋkár|LTranslit=dʰáŋkár
 8	ถูก	ถูก	AUX	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No|Translit=tʰúk|LTranslit=tʰúk
 9	เผยแพร่	เผยแพร่	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=pʰéybʰǽr¹|LTranslit=pʰéybʰǽr¹
@@ -4513,7 +4513,7 @@
 9	ความท้าทาย	ความท้าทาย	VERB	VV	_	7	obl:poss	_	SpaceAfter=No|Translit=gʰwámdʰá²dʰáy|LTranslit=gʰwámdʰá²dʰáy
 10	ดี	ดี	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=dí|LTranslit=dí
 11	ๆ	ๆ	SYM	SYM	_	10	dep	_	Translit=|LTranslit=
-12	ความเป็น	ความเป็น	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=gʰwámpen|LTranslit=gʰwámpen
+12	ความเป็น	เป็น	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=gʰwámpen|LTranslit=pen
 13	ศิลปะ	ศิลปะ	NOUN	NN	_	7	conj	_	Translit=śilpa|LTranslit=śilpa
 14	หรือ	หรือ	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=hrű'|LTranslit=hrű'
 15	ไม่	ไม่	PART	NEG	_	14	fixed	_	SpaceAfter=No|Translit=mai¹|LTranslit=mai¹
@@ -5100,7 +5100,7 @@
 3	พวก	พวก	NOUN	NN	_	1	nmod:poss	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 4	เขา	เขา	PRON	PRP	Person=3	3	compound	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
 5	ใน	ใน	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-6	การเป็น	การเป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=kárpen|LTranslit=kárpen
+6	การเป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=kárpen|LTranslit=pen
 7	กลุ่ม	กลุ่ม	NOUN	NN	_	1	xcomp	_	SpaceAfter=No|Translit=klu¹m|LTranslit=klu¹m
 8	ที่	ที่	DET	WDT	_	9	nsubj	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
 9	ดี	ดี	ADJ	JJ	_	7	acl:relcl	_	SpaceAfter=No|Translit=dí|LTranslit=dí
@@ -5472,7 +5472,7 @@
 9	นั้น	นั้น	DET	DT	_	2	det	_	SpaceAfter=No|Translit=nâ²n|LTranslit=nâ²n
 10	รวม	รวม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 11	ถึง	ถึง	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
-12	การเป็น	การเป็น	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=kárpen|LTranslit=kárpen
+12	การเป็น	เป็น	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=kárpen|LTranslit=pen
 13	ทูต	ทูต	NOUN	NN	_	10	xcomp	_	SpaceAfter=No|Translit=dʰút|LTranslit=dʰút
 14	ระดับ	ระดับ	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=radâb|LTranslit=radâb
 15	โลก	โลก	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=lók|LTranslit=lók
@@ -13454,7 +13454,7 @@
 16	ที่	ที่	DET	WDT	_	17	obj	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
 17	ก่อตั้ง	ก่อตั้ง	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=k¹'tâ²ŋ|LTranslit=k¹'tâ²ŋ
 18	ขึ้น	ขึ้น	PART	RP	_	17	compound:prt	_	SpaceAfter=No|Translit=kʰü²n|LTranslit=kʰü²n
-19	อย่างเป็น	อย่างเป็น	AUX	VC	_	20	cop	_	SpaceAfter=No|Translit='yá¹ŋpen|LTranslit='yá¹ŋpen
+19	อย่างเป็น	เป็น	AUX	VC	_	20	cop	_	SpaceAfter=No|Translit='yá¹ŋpen|LTranslit=pen
 20	ทางการ	ทางการ	ADJ	JJ	_	17	advmod	_	SpaceAfter=No|Translit=dʰáŋkár|LTranslit=dʰáŋkár
 21	แห่ง	แห่ง	NOUN	NNB	_	17	obl	_	SpaceAfter=No|Translit=hǽ¹ŋ|LTranslit=hǽ¹ŋ
 22	ที่	ที่	NOUN	NN	_	21	compound	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
@@ -17231,7 +17231,7 @@
 17	ไม่	ไม่	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|Translit=mai¹|LTranslit=mai¹
 18	มี	มี	VERB	VV	_	6	conj	_	SpaceAfter=No|Translit=mí|LTranslit=mí
 19	รางวัล	รางวัล	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=ráŋwâl|LTranslit=ráŋwâl
-20	อย่างเป็น	อย่างเป็น	AUX	VC	_	21	cop	_	SpaceAfter=No|Translit='yá¹ŋpen|LTranslit='yá¹ŋpen
+20	อย่างเป็น	เป็น	AUX	VC	_	21	cop	_	SpaceAfter=No|Translit='yá¹ŋpen|LTranslit=pen
 21	ทางการ	ทางการ	NOUN	NN	_	19	amod	_	SpaceAfter=No|Translit=dʰáŋkár|LTranslit=dʰáŋkár
 22	หาก	หาก	ADP	IN	_	23	mark	_	SpaceAfter=No|Translit=hák|LTranslit=hák
 23	ปราศจาก	ปราศจาก	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=práśčák|LTranslit=práśčák
@@ -18299,7 +18299,7 @@
 19	ซึ่ง	ซึ่ง	DET	WDT	_	20	nsubj	_	SpaceAfter=No|Translit=cü¹ŋ|LTranslit=cü¹ŋ
 20	ตรงข้าม	ตรงข้าม	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=trŋkʰá²m|LTranslit=trŋkʰá²m
 21	กับ	กับ	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kâb|LTranslit=kâb
-22	ความเป็น	ความเป็น	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit=gʰwámpen|LTranslit=gʰwámpen
+22	ความเป็น	เป็น	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit=gʰwámpen|LTranslit=pen
 23	ยุโรป	ยุโรป	PROPN	NNP	_	20	xcomp	_	Translit=yuróp|LTranslit=yuróp
 
 # sent_id = w01119100
@@ -21598,7 +21598,7 @@
 26	วัน	วัน	NOUN	NN	_	22	obl:tmod	_	SpaceAfter=No|Translit=wân|LTranslit=wân
 27	สุดท้าย	สุดท้าย	ADJ	JJ	_	26	amod	_	SpaceAfter=No|Translit=suddʰá²y|LTranslit=suddʰá²y
 28	ของ	ของ	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-29	การเป็น	การเป็น	AUX	VC	_	30	cop	_	SpaceAfter=No|Translit=kárpen|LTranslit=kárpen
+29	การเป็น	เป็น	AUX	VC	_	30	cop	_	SpaceAfter=No|Translit=kárpen|LTranslit=pen
 30	ประธานาธิบดี	ประธานาธิบดี	NOUN	NN	_	26	nmod:poss	_	SpaceAfter=No|Translit=praḏʰánáḏʰibdí|LTranslit=praḏʰánáḏʰibdí
 31	ของ	ของ	ADP	IN	_	32	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 32	เขา	เขา	PRON	PRP	Person=3	30	nmod:poss	_	Translit=kʰao|LTranslit=kʰao
@@ -24981,7 +24981,7 @@
 13	อเมริกัน	อเมริกัน	PROPN	NNP	_	10	appos	_	Translit='mérikân|LTranslit='mérikân
 14	เฟรนด์ชิพ	เฟรนด์ชิพ	NOUN	NN	_	13	flat:name	_	Proper=True|Translit=férndćʰibʰ|LTranslit=férndćʰibʰ
 15	สำหรับ	สำหรับ	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=sãhrâb|LTranslit=sãhrâb
-16	ความเป็น	ความเป็น	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=gʰwámpen|LTranslit=gʰwámpen
+16	ความเป็น	เป็น	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=gʰwámpen|LTranslit=pen
 17	กันเอง	กันเอง	ADJ	JJ	_	9	obl	_	SpaceAfter=No|Translit=kân'éŋ|LTranslit=kân'éŋ
 18	ใน	ใน	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 19	การทำ	การทำ	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=kárdʰã|LTranslit=kárdʰã
@@ -25832,7 +25832,7 @@
 12	เลี้ยง	เลี้ยง	VERB	VV	_	10	acl	_	SpaceAfter=No|Translit=líá²ŋ|LTranslit=líá²ŋ
 13	ม้า	ม้า	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=má²|LTranslit=má²
 14	กัน	กัน	PRON	PRP	_	9	obl	_	SpaceAfter=No|Translit=kân|LTranslit=kân
-15	อย่างเป็น	อย่างเป็น	AUX	VC	_	16	cop	_	SpaceAfter=No|Translit='yá¹ŋpen|LTranslit='yá¹ŋpen
+15	อย่างเป็น	เป็น	AUX	VC	_	16	cop	_	SpaceAfter=No|Translit='yá¹ŋpen|LTranslit=pen
 16	ล่ำ	ล่ำ	ADJ	JJ	_	9	advmod	_	SpaceAfter=No|Translit=lã¹|LTranslit=lã¹
 17	เป็น	เป็น	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 18	สัน	สัน	NOUN	NN	_	16	acl	_	SpaceAfter=No|Translit=sân|LTranslit=sân
