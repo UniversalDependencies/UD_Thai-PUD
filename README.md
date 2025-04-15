@@ -99,6 +99,8 @@ Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
 
 # Changelog
 
+* 2025-05-15 v2.16
+  * Added lemmas (in Thai it is trivial, lemma = form).
 * 2023-05-15 v2.12
   * Fixed duplicate subjects.
 * 2022-11-15 v2.11
