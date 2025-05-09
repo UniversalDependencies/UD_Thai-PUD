@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>22322</tokens><words>22322</words><fused>0</fused></test>
   </size>
-  <lemmas unique="4043" /><!-- ที่, ใน, ของ, และ, เป็น, ได้, มี, ว่า, จะ, จาก, กับ, ไม่, เขา, ก็, ไป -->
+  <lemmas unique="4039" /><!-- ที่, ใน, ของ, และ, เป็น, ได้, มี, ว่า, จะ, จาก, กับ, ไม่, เขา, ก็, ไป -->
   <forms unique="4046" /><!-- ที่, ใน, ของ, และ, เป็น, ได้, มี, ว่า, จะ, จาก, กับ, ไม่, เขา, ก็, ไป -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -30,7 +30,7 @@
     <tag name="SCONJ">1</tag><!-- หาก -->
     <tag name="SYM">134</tag><!-- ๆ, %, / -->
     <tag name="VERB">4651</tag><!-- มี, ให้, อยู่, ใช้, ทำ, รับ, กล่าว, ทำให้, เกิด, คือ -->
-    <tag name="X">4</tag><!-- นอสตรุม, รอส, เปียโน, ไอเรส -->
+    <tag name="X">4</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="10">
