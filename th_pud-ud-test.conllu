@@ -1155,7 +1155,7 @@
 
 # sent_id = n01020017
 # text = แน่นอนว่าจีนจะจัดแสดงยุทโธปกรณ์อื่นๆ อีกมากมายในอาทิตย์นี้ ตั้งแต่เฮลิคอปเตอร์จู่โจมไปถึงเครื่องบินทะเล
-# translit = næ̀ːnɔːnwàːčiːnčačạdsæːdŋyudʰḏʰoːpkrṇ'ǜːn 'iːkmaːkmaːyn'aiaːdʰitynîː tậŋtæ̀ːḥeːligʰɔːptœːrčùːčoːmpạitʰüŋgʰeːrǜː'ŋbindʰaleː
+# translit = næ̀ːnɔːnwàːčiːnčačạdsæːdŋyudʰḏʰoːpkrṇ'ǜːn 'iːkmaːkmaːynai'aːdʰitynîː tậŋtæ̀ːḥeːligʰɔːptœːrčùːčoːmpạitʰüŋgʰeːrǜː'ŋbindʰaleː
 # text_en = Naturally China will be presenting plenty of other military hardware this week from attack helicopters to seaplanes.
 1	แน่นอน	แน่นอน	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=næ̀ːnɔːn|LTranslit=næ̀ːnɔːn
 2	ว่า	ว่า	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -1363,7 +1363,7 @@
 
 # sent_id = n01022005
 # text = นักวิทยาศาสตร์หลายคนเห็นว่า ตอนนี้เทคโนโลยีการลดคาร์บอนในอากาศเป็นสิ่งจำเป็นเพื่อให้บรรลุเป้าหมายของความตกลงปารีส
-# translit = nạkwidʰyaːśaːstrhlaːygʰnhenwàː tɔːnnîːdʰeːgʰnoːloːyiːkaːrldgʰaːrbɔːnn'aiaːkaːśpensìŋčãːpenbʰüàːhaîbrrlupaôːhmaːykʰɔːŋgʰwaːmtklŋpaːriːs
+# translit = nạkwidʰyaːśaːstrhlaːygʰnhenwàː tɔːnnîːdʰeːgʰnoːloːyiːkaːrldgʰaːrbɔːnnai'aːkaːśpensìŋčãːpenbʰüàːhaîbrrlupaôːhmaːykʰɔːŋgʰwaːmtklŋpaːriːs
 # text_en = Many scientists say that technology to remove carbon from the air will now be needed to meet the Paris targets.
 1	นัก	นัก	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 2	วิทยาศาสตร์	วิทยาศาสตร์	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=widʰyaːśaːstr|LTranslit=widʰyaːśaːstr
@@ -3869,7 +3869,7 @@
 
 # sent_id = n01055008
 # text = วัตถุประสงค์ของการฟังความคิดเห็นของประชาชนของซีอาร์ทีซีคือเพื่อรับฟังความคิดเห็นจากผู้มีส่วนได้ส่วนเสียในอุตสาหกรรมและจากประชาชน
-# translit = wạttʰuprasŋgʰkʰɔːŋkaːrfạŋgʰwaːmgʰidhenkʰɔːŋpraćʰaːćʰnkʰɔːŋciː'aːrdʰiːciːgʰüː'bʰüàːrạbfạŋgʰwaːmgʰidhenčaːkpʰûːmiːsə̀wndạîsə̀wnsiaːn'aiutsaːhkrrmlæčaːkpraćʰaːćʰn
+# translit = wạttʰuprasŋgʰkʰɔːŋkaːrfạŋgʰwaːmgʰidhenkʰɔːŋpraćʰaːćʰnkʰɔːŋciː'aːrdʰiːciːgʰüː'bʰüàːrạbfạŋgʰwaːmgʰidhenčaːkpʰûːmiːsə̀wndạîsə̀wnsiaːnai'utsaːhkrrmlæčaːkpraćʰaːćʰn
 # text_en = The purpose of these CRTC hearings is to field responses from industry stakeholders and the public.
 1	วัตถุประสงค์	วัตถุประสงค์	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=wạttʰuprasŋgʰ|LTranslit=wạttʰuprasŋgʰ
 2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
@@ -4405,11 +4405,11 @@
 
 # sent_id = n01063011
 # text = พวกโปรดิวเซอร์ไมอามีเบสเป็นผู้เชี่ยวชาญด้านศิลปะการส่ายก้น อันเป็นจุดขายหลักของพวกเขา
-# translit = bʰwkpoːrdiwcœːrm'ạiaːmiːbeːspenpʰûːćʰiàːwćʰaːŷdâːnśilpakaːrsàːykə̂n 'ạnpenčudkʰaːyhlạkkʰɔːŋbʰwkkʰaoː
+# translit = bʰwkpoːrdiwcœːrmại'aːmiːbeːspenpʰûːćʰiàːwćʰaːŷdâːnśilpakaːrsàːykə̂n 'ạnpenčudkʰaːyhlạkkʰɔːŋbʰwkkʰaoː
 # text_en = Miami Bass producers were clinical in the art of moving butts—their main concern.
 1	พวก	พวก	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 2	โปรดิวเซอร์	โปรดิวเซอร์	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=poːrdiwcœːr|LTranslit=poːrdiwcœːr
-3	ไมอามี	ไมอามี	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit=m'ạiaːmiː|LTranslit=m'ạiaːmiː
+3	ไมอามี	ไมอามี	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit=mại'aːmiː|LTranslit=mại'aːmiː
 4	เบส	เบส	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=beːs|LTranslit=beːs
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 6	ผู้	ผู้	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
@@ -5270,7 +5270,7 @@
 
 # sent_id = n01076006
 # text = ชัยชนะของโดนัลด์ ทรัมป์คงจะทำให้โลกมีความวิตกกังวลและไม่สงบกว่าที่เป็นอยู่ไปอีกโดยทันที
-# translit = ćʰạyćʰnakʰɔːŋdoːnạld dʰrạmpgʰŋčadʰãːhaîloːkmiːgʰwaːmwitkkạŋwllæmạìsŋbkwàːdʰìːpenɔːyùːp'ạiiːkdoːydʰạndʰiː
+# translit = ćʰạyćʰnakʰɔːŋdoːnạld dʰrạmpgʰŋčadʰãːhaîloːkmiːgʰwaːmwitkkạŋwllæmạìsŋbkwàːdʰìːpenɔːyùːpại'iːkdoːydʰạndʰiː
 # text_en = A Donald Trump victory would immediately make the world more worrying and unsettled than it already is.
 1	ชัยชนะ	ชัยชนะ	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=ćʰạyćʰna|LTranslit=ćʰạyćʰna
 2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
@@ -5798,7 +5798,7 @@
 
 # sent_id = n01085008
 # text = กระโดดข้ามไปปี 2016 แล้วเรื่องนี้จะยิ่งน่าสนใจมากยิ่งขึ้นไปอีก
-# translit = kradoːdkʰâːmpạipiː 2016 læ̂ːwrüàːŋnîːčayìŋnàːsnčaimaːkyìŋkʰü̂np'ạiiːk
+# translit = kradoːdkʰâːmpạipiː 2016 læ̂ːwrüàːŋnîːčayìŋnàːsnčaimaːkyìŋkʰü̂npại'iːk
 # text_en = Fast forward to 2016 and this is increasingly worthy of attention.
 1	กระโดด	กระโดด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kradoːd|LTranslit=kradoːd
 2	ข้าม	ข้าม	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=kʰâːm|LTranslit=kʰâːm
@@ -6178,7 +6178,7 @@
 
 # sent_id = n01091013
 # text = อย่างดีที่สุดก็คือความไร้เดียงสา และอย่างแย่ที่สุดก็คงเป็นการปล่อยให้พวกกลุ่มล็อบบี้ยิสต์การล่าสัตว์หลุดไปอีกครั้ง
-# translit = 'yàːŋdiːdʰìːsudkɔʔgʰüː'gʰwaːmrạîdiaːŋsaː læ'yàːŋyæ̀ːdʰìːsudkɔʔgʰŋpenkaːrplɔ̀ːyhaîbʰwkklùmlɔbbîːyistkaːrlàːsạtwhludp'ạiiːkgʰrậŋ
+# translit = 'yàːŋdiːdʰìːsudkɔʔgʰüː'gʰwaːmrạîdiaːŋsaː læ'yàːŋyæ̀ːdʰìːsudkɔʔgʰŋpenkaːrplɔ̀ːyhaîbʰwkklùmlɔbbîːyistkaːrlàːsạtwhludpại'iːkgʰrậŋ
 # text_en = At best it is naive and at worst it would yet again let the shooting lobby off the hook.
 1	อย่างดี	อย่างดี	ADJ	JJ	_	4	advmod	_	SpaceAfter=No|Translit='yàːŋdiː|LTranslit='yàːŋdiː
 2	ที่สุด	ที่สุด	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
@@ -8189,7 +8189,7 @@
 
 # sent_id = n01120010
 # text = เรื่องของดอสดูเหมือนจะไม่ใช่เรื่องจริง จึงทำให้น่าสนใจยิ่งขึ้นไปอีก
-# translit = rüàːŋkʰɔːŋdɔːsduːheːmüː'nčamạìćʰaìrüàːŋčriŋ čüŋdʰãːhaînàːsnčaiyìŋkʰü̂np'ạiiːk
+# translit = rüàːŋkʰɔːŋdɔːsduːheːmüː'nčamạìćʰaìrüàːŋčriŋ čüŋdʰãːhaînàːsnčaiyìŋkʰü̂npại'iːk
 # text_en = Doss’s story also has an unlikely quality to it that makes it all the more appealing.
 1	เรื่อง	เรื่อง	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
 2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
@@ -9364,7 +9364,7 @@
 
 # sent_id = n01141002
 # text = ไมโครซอฟต์ประกาศเมื่อวันพุธว่าจะมีผลิตภัณฑ์เพื่อการสนทนาในที่ทำงานตัวใหม่ เพื่อโค่นสแล็คซึ่งเป็นที่นิยมในอุตสาหกรรม
-# translit = mạigʰoːrcɔːftprakaːśmüàːwạnbʰuḏʰwàːčamiːpʰlitḇʰạṇḍʰbʰüàːkaːrsndʰnaːnaidʰìːdʰãːŋaːntuaːhaimə̀ bʰüàːgʰòːnslæʔgʰcǜŋpendʰìːniymn'aiutsaːhkrrm
+# translit = mạigʰoːrcɔːftprakaːśmüàːwạnbʰuḏʰwàːčamiːpʰlitḇʰạṇḍʰbʰüàːkaːrsndʰnaːnaidʰìːdʰãːŋaːntuaːhaimə̀ bʰüàːgʰòːnslæʔgʰcǜŋpendʰìːniymnai'utsaːhkrrm
 # text_en = Microsoft announced on Wednesday a new workplace chat tool poised to take on industry darling Slack.
 1	ไมโครซอฟต์	ไมโครซอฟต์	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=mạigʰoːrcɔːft|LTranslit=mạigʰoːrcɔːft
 2	ประกาศ	ประกาศ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=prakaːś|LTranslit=prakaːś
@@ -10053,7 +10053,7 @@
 
 # sent_id = n01150031
 # text = เมื่อมีคนตายจากโรคชราในอินเดีย ก็ควรจะเป็นการฉลอง
-# translit = müàːmiːgʰntaːyčaːkroːgʰćʰraːn'aiindiaː kɔʔgʰwrčapenkaːrčʰlɔːŋ
+# translit = müàːmiːgʰntaːyčaːkroːgʰćʰraːnai'indiaː kɔʔgʰwrčapenkaːrčʰlɔːŋ
 # text_en = When people die of old age in India, it is supposed to be a celebration.
 1	เมื่อ	เมื่อ	ADP	IN	_	2	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 2	มี	มี	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -11525,7 +11525,7 @@
 
 # sent_id = w01023120
 # text = ไม่ว่ากฎจะเป็นเช่นไร การต่อสู้มักจะได้ผลออกมาเป็นความตายของหนึ่งในอาชาหนุ่ม
-# translit = mạìwàːkḍčapenćʰèːnrại kaːrtɔ̀ːsûːmạkčadạîpʰlɔː'kmaːpengʰwaːmtaːykʰɔːŋhnǜŋn'aiaːćʰaːhnùm
+# translit = mạìwàːkḍčapenćʰèːnrại kaːrtɔ̀ːsûːmạkčadạîpʰlɔː'kmaːpengʰwaːmtaːykʰɔːŋhnǜŋnai'aːćʰaːhnùm
 # text_en = Whatever the rules were, the fights often resulted in the death of one of the stallions.
 1	ไม่	ไม่	PART	NEG	_	5	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 2	ว่า	ว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -12613,7 +12613,7 @@
 
 # sent_id = w01038022
 # text = นี่เป็นภูมิภาคเดียวในอะแลสกาที่มีอุณหภูมิสูงเฉลี่ยเวลากลางวันสูงกว่าจุดเยือกแข็งในช่วงฤดูหนาว
-# translit = nìːpenḇʰuːmiḇʰaːgʰdiaːwn'aialæːskaːdʰìːmiː'uṇhḇʰuːmisuːŋčʰeːlìːyweːlaːklaːŋwạnsuːŋkwàːčudyüaːkkʰæʔŋnaićʰə̀wŋṟduːhnaːw
+# translit = nìːpenḇʰuːmiḇʰaːgʰdiaːwnai'alæːskaːdʰìːmiː'uṇhḇʰuːmisuːŋčʰeːlìːyweːlaːklaːŋwạnsuːŋkwàːčudyüaːkkʰæʔŋnaićʰə̀wŋṟduːhnaːw
 # text_en = This is also the only region in Alaska in which the average daytime high temperature is above freezing during the winter months.
 1	นี่	นี่	PRON	PRD	_	3	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -12640,7 +12640,7 @@
 
 # sent_id = w01038044
 # text = ชาวพื้นเมืองจำนวนมากอยู่ในอะแลสกามานับหลายพันปีก่อนการมาถึงของชาวยุโรปสู่พื้นที่นี้
-# translit = ćʰaːwbʰü̂ːnmüaːŋčãːnwnmaːkɔːyùːn'aialæːskaːmaːnạbhlaːybʰạnpiːkɔ̀ːnkaːrmaːtʰüŋkʰɔːŋćʰaːwyuroːpsùːbʰü̂ːndʰìːnîː
+# translit = ćʰaːwbʰü̂ːnmüaːŋčãːnwnmaːkɔːyùːnai'alæːskaːmaːnạbhlaːybʰạnpiːkɔ̀ːnkaːrmaːtʰüŋkʰɔːŋćʰaːwyuroːpsùːbʰü̂ːndʰìːnîː
 # text_en = Numerous indigenous peoples occupied Alaska for thousands of years before the arrival of European peoples to the area.
 1	ชาว	ชาว	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
 2	พื้นเมือง	พื้นเมือง	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=bʰü̂ːnmüaːŋ|LTranslit=bʰü̂ːnmüaːŋ
@@ -12827,7 +12827,7 @@
 
 # sent_id = w01040103
 # text = เมื่อแรงลมเพิ่มความเร็ว อนุภาคบางส่วนก็ลอยขึ้นสู่กระแสอากาศ
-# translit = müàːræːŋlmbʰeìmgʰwaːmrew 'nuḇʰaːgʰbaːŋsə̀wnkɔʔlɔːykʰü̂nsùːkras'æːaːkaːś
+# translit = müàːræːŋlmbʰeìmgʰwaːmrew 'nuḇʰaːgʰbaːŋsə̀wnkɔʔlɔːykʰü̂nsùːkrasæː'aːkaːś
 # text_en = At greater wind speeds, some particles are lifted into the air stream.
 1	เมื่อ	เมื่อ	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 2	แรง	แรง	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=ræːŋ|LTranslit=ræːŋ
@@ -13041,7 +13041,7 @@
 
 # sent_id = w01045003
 # text = ภายหลังการค้นพบอเมริกาของคริสโตเฟอร์ โคลัมบัส ในปี 1492 คำศัพท์ภาษาสเปนว่า Antillas ได้นำมาใช้กับผืนดินนี้ จากรากคำนี้เอง "ทะเลแอนทิลลิส" จึงได้กลายเป็นชื่อทั่วไปอีกชื่อหนึ่งของ "ทะเลแคริบเบียน" ในภาษายุโรปหลายภาษา
-# translit = ḇʰaːyhlạŋkaːrgʰə̂nbʰbɔːmeːrikaːkʰɔːŋgʰristoːfœːr gʰoːlạmbạs naipiː 1492 gʰãːśạbʰdʰḇʰaːšaːspeːnwàː Antillas dạînãːmaːćʰaîkạbpʰüːndinnîː čaːkraːkgʰãːnîː'eːŋ "dʰaleː'æːndʰillis" čüŋdạîklaːypenćʰǜː'dʰuàːp'ạiiːkćʰǜː'hnǜŋkʰɔːŋ "dʰaleːgʰæːribbiaːn" naiḇʰaːšaːyuroːphlaːyḇʰaːšaː
+# translit = ḇʰaːyhlạŋkaːrgʰə̂nbʰbɔːmeːrikaːkʰɔːŋgʰristoːfœːr gʰoːlạmbạs naipiː 1492 gʰãːśạbʰdʰḇʰaːšaːspeːnwàː Antillas dạînãːmaːćʰaîkạbpʰüːndinnîː čaːkraːkgʰãːnîː'eːŋ "dʰaleː'æːndʰillis" čüŋdạîklaːypenćʰǜː'dʰuàːpại'iːkćʰǜː'hnǜŋkʰɔːŋ "dʰaleːgʰæːribbiaːn" naiḇʰaːšaːyuroːphlaːyḇʰaːšaː
 # text_en = After the discovery of America by Christopher Columbus in 1492, the Spanish term Antillas applied to the lands; stemming from this, "Sea of the Antilles" became a common alternative name for "Caribbean Sea" in various European languages.
 1	ภาย	ภาย	NOUN	NN	_	3	case	_	SpaceAfter=No|Translit=ḇʰaːy|LTranslit=ḇʰaːy
 2	หลัง	หลัง	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
@@ -14223,7 +14223,7 @@
 
 # sent_id = w01061050
 # text = มีการศึกษาวิชาแพทย์ โดยเฉพาะอย่างยิ่งในอิตาลีตอนใต้ซึ่งวิชาการแพทย์แบบอิสลามมีอิทธิพลกับโรงเรียนในซาแลร์โน
-# translit = miːkaːrśükšaːwićʰaːbʰæːdʰy doːyčʰeːbʰaːa'yàːŋyìŋn'aiitaːliːtɔːntaîcǜŋwićʰaːkaːrbʰæːdʰybæːb'islaːmmiː'idʰḏʰibʰlkạbroːŋriaːnnaicaːlæːrnoː
+# translit = miːkaːrśükšaːwićʰaːbʰæːdʰy doːyčʰeːbʰaːa'yàːŋyìŋnai'itaːliːtɔːntaîcǜŋwićʰaːkaːrbʰæːdʰybæːb'islaːmmiː'idʰḏʰibʰlkạbroːŋriaːnnaicaːlæːrnoː
 # text_en = Medicine was also studied, especially in southern Italy, where Islamic medicine influenced the school at Salerno.
 1	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 2	การศึกษา	การศึกษา	VERB	VV	_	1	obj	_	SpaceAfter=No|Translit=kaːrśükšaː|LTranslit=kaːrśükšaː
@@ -16310,7 +16310,7 @@
 
 # sent_id = w01089068
 # text = เมื่อกรีซออกเดินทางค้นหาอาณานิคมทางตะวันตกไปทางซิซิลีและอิตาลี (ปิเธคูสซี, กูมี) อิทธิพลของตัวอักษรแบบใหม่ก็ขยายออกไปอีก
-# translit = müàːkriːcɔː'kdeindʰaːŋgʰə̂nhaː'aːṇaːnigʰmdʰaːŋtawạntkpạidʰaːŋciciliːlæ'itaːliː (piḏʰeːgʰuːsciː, kuːmiː) 'idʰḏʰibʰlkʰɔːŋtuaː'ạkšrbæːbhaimə̀kɔʔkʰyaːyɔː'kp'ạiiːk
+# translit = müàːkriːcɔː'kdeindʰaːŋgʰə̂nhaː'aːṇaːnigʰmdʰaːŋtawạntkpạidʰaːŋciciliːlæ'itaːliː (piḏʰeːgʰuːsciː, kuːmiː) 'idʰḏʰibʰlkʰɔːŋtuaː'ạkšrbæːbhaimə̀kɔʔkʰyaːyɔː'kpại'iːk
 # text_en = As Greece sent out colonies west towards Sicily and Italy (Pithekoussae, Cumae), the influence of their new alphabet extended further.
 1	เมื่อ	เมื่อ	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 2	กรีซ	กรีซ	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=kriːc|LTranslit=kriːc
@@ -17243,7 +17243,7 @@
 
 # sent_id = w01103022
 # text = ภาพยนตร์บันทึกเหตุการณ์หายนะในชีวิตและหน้าที่การงานของคารังจีจากการติดเฮโรอีน รวมถึงความตกต่ำและการเสียชีวิตจากเอดส์ในช่วงกลางทศวรรษที่ 1980
-# translit = ḇʰaːbʰyntrbạndʰükheːtukaːrṇhaːynanaićʰiːwitlæhnâːdʰìːkaːrŋaːnkʰɔːŋgʰaːrạŋčiːčaːkkaːrtidḥeːr'oːiːn rwmtʰüŋgʰwaːmtktã̀ːlækaːrsiaːćʰiːwitčaːk'eːdsnaićʰə̀wŋklaːŋdʰśwrršdʰìː 1980
+# translit = ḇʰaːbʰyntrbạndʰükheːtukaːrṇhaːynanaićʰiːwitlæhnâːdʰìːkaːrŋaːnkʰɔːŋgʰaːrạŋčiːčaːkkaːrtidḥeːroː'iːn rwmtʰüŋgʰwaːmtktã̀ːlækaːrsiaːćʰiːwitčaːk'eːdsnaićʰə̀wŋklaːŋdʰśwrršdʰìː 1980
 # text_en = The film chronicles the destruction of Carangi's life and career as a result of her addiction to heroin, and her decline and death from AIDS in the mid-1980s.
 1	ภาพยนตร์	ภาพยนตร์	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=ḇʰaːbʰyntr|LTranslit=ḇʰaːbʰyntr
 2	บันทึก	บันทึก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bạndʰük|LTranslit=bạndʰük
@@ -17259,7 +17259,7 @@
 12	คารังจี	คารังจี	PROPN	NNP	_	6	nmod:poss	_	SpaceAfter=No|Translit=gʰaːrạŋčiː|LTranslit=gʰaːrạŋčiː
 13	จาก	จาก	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 14	การติด	การติด	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=kaːrtid|LTranslit=kaːrtid
-15	เฮโรอีน	เฮโรอีน	NOUN	NN	_	14	obj	_	Translit=ḥeːr'oːiːn|LTranslit=ḥeːr'oːiːn
+15	เฮโรอีน	เฮโรอีน	NOUN	NN	_	14	obj	_	Translit=ḥeːroː'iːn|LTranslit=ḥeːroː'iːn
 16	รวม	รวม	VERB	VV	_	18	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 17	ถึง	ถึง	ADP	IN	_	16	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 18	ความตกต่ำ	ความตกต่ำ	VERB	VV	_	3	conj	_	SpaceAfter=No|Translit=gʰwaːmtktã̀ː|LTranslit=gʰwaːmtktã̀ː
@@ -17932,7 +17932,7 @@
 
 # sent_id = w01113074
 # text = ก่อนจะเข้ารับตำแหน่ง โจโควีเรียกร้องให้ประธานาธิบดียูโดโยโนผู้ชอบเข้าสังคมรับผิดชอบในการตัดสินใจเพิ่มราคาเชื้อเพลิงขึ้นไปอีกด้วยการลดเงินอุดหนุนลงมาอีก
-# translit = kɔ̀ːnčakʰaôːrạbtãːhæːnə̀ŋ čoːgʰoːwiːriaːkrɔ̂ːŋhaîpraḏʰaːnaːḏʰibdiːyuːdoːyoːnoːpʰûːćʰɔːbkʰaôːsạŋgʰmrạbpʰidćʰɔːbnaikaːrtạdsinčaibʰeìmraːgʰaːćʰüâːbʰeːliŋkʰü̂np'ạiiːkdə̂wykaːrldŋein'udhnunlŋmaː'iːk
+# translit = kɔ̀ːnčakʰaôːrạbtãːhæːnə̀ŋ čoːgʰoːwiːriaːkrɔ̂ːŋhaîpraḏʰaːnaːḏʰibdiːyuːdoːyoːnoːpʰûːćʰɔːbkʰaôːsạŋgʰmrạbpʰidćʰɔːbnaikaːrtạdsinčaibʰeìmraːgʰaːćʰüâːbʰeːliŋkʰü̂npại'iːkdə̂wykaːrldŋein'udhnunlŋmaː'iːk
 # text_en = Prior to taking office Jokowi sought for outgoing President Yudhoyono to take responsibility for the decision to further increase fuel prices by further removing subsidies.
 1	ก่อน	ก่อน	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
 2	จะ	จะ	AUX	MD	_	3	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -18451,7 +18451,7 @@
 
 # sent_id = w01124011
 # text = หลังจากการก้าวขึ้นสู่ชาร์ตบิลบอร์ด 200 ในอันดับที่ 96 Thought 'Ya Knew ก็ไต่ขึ้นสู่อันดับที่ 31 ในสหราชอาณาจักร แต่อัลบั้มอยู่ในชาร์ตเพียงแค่สองสัปดาห์เท่านั้นในสหราชอาณาจักร
-# translit = hlạŋčaːkkaːrkâːwkʰü̂nsùːćʰaːrtbilbɔːrd 200 n'aiạndạbdʰìː 96 Thought 'Ya Knew kɔʔtạìkʰü̂nsùː'ạndạbdʰìː 31 naishraːćʰ'aːṇaːčạkr tæ̀ː'ạlbậmɔːyùːnaićʰaːrtbʰiaːŋgʰæ̀ːsɔːŋsạpdaːhdʰaòːnậnnaishraːćʰ'aːṇaːčạkr
+# translit = hlạŋčaːkkaːrkâːwkʰü̂nsùːćʰaːrtbilbɔːrd 200 nai'ạndạbdʰìː 96 Thought 'Ya Knew kɔʔtạìkʰü̂nsùː'ạndạbdʰìː 31 naishraːćʰ'aːṇaːčạkr tæ̀ː'ạlbậmɔːyùːnaićʰaːrtbʰiaːŋgʰæ̀ːsɔːŋsạpdaːhdʰaòːnậnnaishraːćʰ'aːṇaːčạkr
 # text_en = After its progress had stalled in the Billboard 200 at No. 96, Thought 'Ya Knew climbed to No. 31 in the UK, but the album charted for only two weeks in the UK.
 1	หลัง	หลัง	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
@@ -18663,7 +18663,7 @@
 
 # sent_id = w01127071
 # text = อัลบั้ม ไวลด์ เวสต์ ปี 1981 ของเธอเป็นหนึ่งในอัลบั้มที่ขายดีที่สุด
-# translit = 'ạlbậm wạild weːst piː 1981 kʰɔːŋḏʰœːpenhnǜŋn'aiạlbậmdʰìːkʰaːydiːdʰìːsud
+# translit = 'ạlbậm wạild weːst piː 1981 kʰɔːŋḏʰœːpenhnǜŋnai'ạlbậmdʰìːkʰaːydiːdʰìːsud
 # text_en = Her 1981 album Wild West was one of her biggest sellers.
 1	อัลบั้ม	อัลบั้ม	NOUN	NN	_	9	nsubj	_	Translit='ạlbậm|LTranslit='ạlbậm
 2	ไวลด์	ไวลด์	ADJ	JJ	_	3	amod	_	Proper=True|Translit=wạild|LTranslit=wạild
@@ -18942,7 +18942,7 @@
 
 # sent_id = w01130102
 # text = ราฟเฟอร์ตี้อัดเพลงเวอร์ชันใหม่ของเพลงฮัมเบิลบัมส์ของเขา “เฮอร์ ฟาเธอร์ ดินท์ ไลค์ มี เอนีเวย์” ในอัลบั้มโอเวอร์ มาย เฮด (1994)
-# translit = raːffœːrtîː'ạdbʰeːlŋwœːrćʰạnhaimə̀kʰɔːŋbʰeːlŋḥạmbeilbạmskʰɔːŋkʰaoː “ḥœːr faːḏʰœːr dindʰ lạigʰ miː 'eːniːweːy” n'aiạlbậm'oːwœːr maːy ḥeːd (1994)
+# translit = raːffœːrtîː'ạdbʰeːlŋwœːrćʰạnhaimə̀kʰɔːŋbʰeːlŋḥạmbeilbạmskʰɔːŋkʰaoː “ḥœːr faːḏʰœːr dindʰ lạigʰ miː 'eːniːweːy” nai'ạlbậm'oːwœːr maːy ḥeːd (1994)
 # text_en = Rafferty recorded a new version of his Humblebums song "Her Father Didn't Like Me Anyway" on the album Over My Head (1994).
 1	ราฟเฟอร์ตี้	ราฟเฟอร์ตี้	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=raːffœːrtîː|LTranslit=raːffœːrtîː
 2	อัด	อัด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit='ạd|LTranslit='ạd
@@ -19102,7 +19102,7 @@
 
 # sent_id = w01132081
 # text = การล่องเรือไม่ปรากฏในภาพจารึกหรือข้อความใดในอารยธรรมเมโสอเมริกันยุคก่อนประวัติศาสตร์ แต่มีทฤษฎีว่าใช้เรือแคนูเป็นหลักในการคมนาคมทางน้ำในยุคมายาโบราณ
-# translit = kaːrlɔ̀ːŋrüaːmạìpraːkṭnaiḇʰaːbʰčaːrükhrüː'kʰɔ̂ːgʰwaːmdain'aiaːryḏʰrrmmeːs'oːmeːrikạnyugʰkɔ̀ːnprawạtiśaːstr tæ̀ːmiːdʰṟšḍiːwàːćʰaîrüaːgʰæːnuːpenhlạknaikaːrgʰmnaːgʰmdʰaːŋnã̂ːnaiyugʰmaːyaːboːraːṇ
+# translit = kaːrlɔ̀ːŋrüaːmạìpraːkṭnaiḇʰaːbʰčaːrükhrüː'kʰɔ̂ːgʰwaːmdainai'aːryḏʰrrmmeːs'oːmeːrikạnyugʰkɔ̀ːnprawạtiśaːstr tæ̀ːmiːdʰṟšḍiːwàːćʰaîrüaːgʰæːnuːpenhlạknaikaːrgʰmnaːgʰmdʰaːŋnã̂ːnaiyugʰmaːyaːboːraːṇ
 # text_en = Sails are not represented in prehistoric Mesoamerican iconography or texts, instead, it is theorized that canoes were used as a primary mode of water transportation for the ancient Maya.
 1	การล่อง	การล่อง	VERB	VV	_	4	csubj	_	SpaceAfter=No|Translit=kaːrlɔ̀ːŋ|LTranslit=kaːrlɔ̀ːŋ
 2	เรือ	เรือ	NOUN	NN	_	1	obj	_	SpaceAfter=No|Translit=rüaː|LTranslit=rüaː
@@ -19392,7 +19392,7 @@
 
 # sent_id = w01135038
 # text = ในเดือนมกราคม 2011 บลันต์เริ่มถ่ายทำภาพยนตร์อเมริกันแนววิทยาศาสตร์เรื่องลูปเปอร์ ซึ่งกำกับโดยไรอัน จอห์นสัน และร่วมแสดงกับบรูซ วิลลิสและโจเซฟ กอร์ดอน-เลวิตต์ โดยภาพยนตร์ออกฉายในเดือนกันยายน 2012
-# translit = naidüaːnmkraːgʰm 2011 blạntreìmtʰàːydʰãːḇʰaːbʰyntr'meːrikạnnæːwwidʰyaːśaːstrrüàːŋluːppœːr cǜŋkãːkạbdoːyr'ạiạn čɔːhnsạn lærə̀wmsæːdŋkạbbruːc willislæčoːceːf kɔːrdɔːn-leːwitt doːyḇʰaːbʰyntr'ɔːkčʰaːynaidüaːnkạnyaːyn 2012
+# translit = naidüaːnmkraːgʰm 2011 blạntreìmtʰàːydʰãːḇʰaːbʰyntr'meːrikạnnæːwwidʰyaːśaːstrrüàːŋluːppœːr cǜŋkãːkạbdoːyrại'ạn čɔːhnsạn lærə̀wmsæːdŋkạbbruːc willislæčoːceːf kɔːrdɔːn-leːwitt doːyḇʰaːbʰyntr'ɔːkčʰaːynaidüaːnkạnyaːyn 2012
 # text_en = In January 2011, Blunt began filming an American science-fiction film, Looper, directed by Rian Johnson and co-starring Bruce Willis and Joseph Gordon-Levitt; the film was released in September 2012.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	เดือน	เดือน	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=düaːn|LTranslit=düaːn
@@ -19410,7 +19410,7 @@
 14	ซึ่ง	ซึ่ง	DET	WDT	_	15	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
 15	กำกับ	กำกับ	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=kãːkạb|LTranslit=kãːkạb
 16	โดย	โดย	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
-17	ไรอัน	ไรอัน	PROPN	NNP	_	15	obl	_	Translit=r'ạiạn|LTranslit=r'ạiạn
+17	ไรอัน	ไรอัน	PROPN	NNP	_	15	obl	_	Translit=rại'ạn|LTranslit=rại'ạn
 18	จอห์นสัน	จอห์นสัน	PROPN	NNP	_	17	flat:name	_	Translit=čɔːhnsạn|LTranslit=čɔːhnsạn
 19	และ	และ	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 20	ร่วม	ร่วม	VERB	VV	_	6	conj	_	SpaceAfter=No|Translit=rə̀wm|LTranslit=rə̀wm
@@ -20033,7 +20033,7 @@
 
 # sent_id = w01144056
 # text = การรณรงค์หาเสียงประธานาธิบดีปี 1980 ระหว่างเรแกนและผู้ดำรงตำแหน่งประธานาธิบดี จิมมี คาร์เตอร์ จัดขึ้นในช่วงเหตุการณ์น่าเป็นห่วงภายในประเทศและวิกฤตตัวประกันในอิหร่านที่ยังคงดำเนินอยู่
-# translit = kaːrrṇrŋgʰhaːsiaːŋpraḏʰaːnaːḏʰibdiːpiː 1980 rahwàːŋreːkæːnlæpʰûːdãːrŋtãːhæːnə̀ŋpraḏʰaːnaːḏʰibdiː čimmiː gʰaːrtœːr čạdkʰü̂nnaićʰə̀wŋheːtukaːrṇnàːpenhə̀wŋḇʰaːynaipradʰeːślæwikṟttuaːprakạnn'aiihràːndʰìːyạŋgʰŋdãːneinɔːyùː
+# translit = kaːrrṇrŋgʰhaːsiaːŋpraḏʰaːnaːḏʰibdiːpiː 1980 rahwàːŋreːkæːnlæpʰûːdãːrŋtãːhæːnə̀ŋpraḏʰaːnaːḏʰibdiː čimmiː gʰaːrtœːr čạdkʰü̂nnaićʰə̀wŋheːtukaːrṇnàːpenhə̀wŋḇʰaːynaipradʰeːślæwikṟttuaːprakạnnai'ihràːndʰìːyạŋgʰŋdãːneinɔːyùː
 # text_en = The 1980 presidential campaign between Reagan and incumbent President Jimmy Carter was conducted during domestic concerns and the ongoing Iran hostage crisis.
 1	การรณรงค์	การรณรงค์	VERB	VV	_	16	obj	_	SpaceAfter=No|Translit=kaːrrṇrŋgʰ|LTranslit=kaːrrṇrŋgʰ
 2	หา	หา	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=haː|LTranslit=haː
@@ -20302,7 +20302,7 @@
 
 # sent_id = w01147122
 # text = ในเดือนสิงหาคม 2015 เคชาได้เผยข้อมูลเล็กน้อยถึงสตูดิโออัลบั้มที่สามของเธอที่กำลังจะวางแผง
-# translit = naidüaːnsiŋhaːgʰm 2015 gʰeːćʰaːdạîpʰeːykʰɔ̂ːmuːlleknɔ̂ːytʰüŋstuːdi''oːạlbậmdʰìːsaːmkʰɔːŋḏʰœːdʰìːkãːlạŋčawaːŋpʰæːŋ
+# translit = naidüaːnsiŋhaːgʰm 2015 gʰeːćʰaːdạîpʰeːykʰɔ̂ːmuːlleknɔ̂ːytʰüŋstuːdi'oː'ạlbậmdʰìːsaːmkʰɔːŋḏʰœːdʰìːkãːlạŋčawaːŋpʰæːŋ
 # text_en = As of August 2015, Kesha has released little information about her upcoming third studio album.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	เดือน	เดือน	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=düaːn|LTranslit=düaːn
@@ -21462,7 +21462,7 @@
 
 # sent_id = n02066011
 # text = ผู้เชี่ยวชาญชาวออสเตรเลียได้ข้อสรุปใหม่ๆ จากการตรวจสอบปีกลงจอดของโบอิ้งที่ไปเกยฝั่งที่แทนซาเนียในแอฟริกาตะวันออก
-# translit = pʰûːćʰiàːwćʰaːŷćʰaːwɔː'steːrliaːdạîkʰɔ̂ːsruphaimə̀ čaːkkaːrtrwčsɔːbpiːklŋčɔːdkʰɔːŋb'oːi²ŋdʰìːpạikeːyfʰạ̀ŋdʰìːdʰæːncaːniaːnai'æːfrikaːtawạnɔː'k
+# translit = pʰûːćʰiàːwćʰaːŷćʰaːwɔː'steːrliaːdạîkʰɔ̂ːsruphaimə̀ čaːkkaːrtrwčsɔːbpiːklŋčɔːdkʰɔːŋboː'îŋdʰìːpạikeːyfʰạ̀ŋdʰìːdʰæːncaːniaːnai'æːfrikaːtawạnɔː'k
 # text_en = The Australian experts drew new conclusions from the investigation of a landing flap from Boeing that had washed up in Tanzania in East Africa.
 1	ผู้	ผู้	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
 2	เชี่ยวชาญ	เชี่ยวชาญ	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=ćʰiàːwćʰaːŷ|LTranslit=ćʰiàːwćʰaːŷ
@@ -21479,7 +21479,7 @@
 13	ลง	ลง	VERB	VV	_	12	acl	_	SpaceAfter=No|Translit=lŋ|LTranslit=lŋ
 14	จอด	จอด	VERB	VV	_	13	xcomp	_	SpaceAfter=No|Translit=čɔːd|LTranslit=čɔːd
 15	ของ	ของ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-16	โบอิ้ง	โบอิ้ง	PROPN	NNP	_	12	nmod:poss	_	SpaceAfter=No|Translit=b'oːi²ŋ|LTranslit=b'oːi²ŋ
+16	โบอิ้ง	โบอิ้ง	PROPN	NNP	_	12	nmod:poss	_	SpaceAfter=No|Translit=boː'îŋ|LTranslit=boː'îŋ
 17	ที่	ที่	DET	WDT	_	18	nsubj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 18	ไป	ไป	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 19	เกย	เกย	VERB	VV	_	18	acl	_	SpaceAfter=No|Translit=keːy|LTranslit=keːy
@@ -23911,7 +23911,7 @@
 
 # sent_id = w02002120
 # text = นี่เกี่ยวข้องกับหนึ่งในอาคารไม่กี่แห่งใจกลางเมืองที่รอดจากการถูกทำลายก่อนการสิ้นสุดของสงครามโลกครั้งที่สอง
-# translit = nìːkiàːwkʰɔ̂ːŋkạbhnǜŋn'aiaːgʰaːrmạìkìːhæ̀ːŋčaiklaːŋmüaːŋdʰìːrɔːdčaːkkaːrtʰuːkdʰãːlaːykɔ̀ːnkaːrsînsudkʰɔːŋsŋgʰraːmloːkgʰrậŋdʰìːsɔːŋ
+# translit = nìːkiàːwkʰɔ̂ːŋkạbhnǜŋnai'aːgʰaːrmạìkìːhæ̀ːŋčaiklaːŋmüaːŋdʰìːrɔːdčaːkkaːrtʰuːkdʰãːlaːykɔ̀ːnkaːrsînsudkʰɔːŋsŋgʰraːmloːkgʰrậŋdʰìːsɔːŋ
 # text_en = This has to do with one of the few buildings in the city center that was spared from destruction by the end of the Second World War.
 1	นี่	นี่	PRON	PRD	_	2	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
 2	เกี่ยวข้อง	เกี่ยวข้อง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kiàːwkʰɔ̂ːŋ|LTranslit=kiàːwkʰɔ̂ːŋ
@@ -24193,13 +24193,13 @@
 
 # sent_id = w02007032
 # text = ในเดือนเมษายน 2012 เอร์โดอาน ประธานาธิบดีของตุรกีได้ประกาศแผนรัฐบาลของเขาที่จะปรับปรุงบอสฟอรัสโดยสร้างคลองอิสตันบูลขนานไปกับมัน
-# translit = naidüaːnmeːšaːyn 2012 'eːrd'oːaːn praḏʰaːnaːḏʰibdiːkʰɔːŋturkiːdạîprakaːśpʰæːnrạṭʰbaːlkʰɔːŋkʰaoːdʰìːčaprạbpruŋbɔːsfɔːrạsdoːysrâːŋgʰlɔːŋ'istạnbuːlkʰnaːnpạikạbmạn
+# translit = naidüaːnmeːšaːyn 2012 'eːrdoː'aːn praḏʰaːnaːḏʰibdiːkʰɔːŋturkiːdạîprakaːśpʰæːnrạṭʰbaːlkʰɔːŋkʰaoːdʰìːčaprạbpruŋbɔːsfɔːrạsdoːysrâːŋgʰlɔːŋ'istạnbuːlkʰnaːnpạikạbmạn
 # text_en = In April 2012, the Turkish Minister President Erdogan announced his government's plans to free Bosphorus by building the Istanbul Canal parallel to it.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	เดือน	เดือน	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=düaːn|LTranslit=düaːn
 3	เมษายน	เมษายน	NOUN	NN	_	2	appos	_	Translit=meːšaːyn|LTranslit=meːšaːyn
 4	2012	2012	NUM	CD	_	2	obl:tmod	_	Translit=2012|LTranslit=2012
-5	เอร์โดอาน	เอร์โดอาน	PROPN	NNP	_	10	nsubj	_	Translit='eːrd'oːaːn|LTranslit='eːrd'oːaːn
+5	เอร์โดอาน	เอร์โดอาน	PROPN	NNP	_	10	nsubj	_	Translit='eːrdoː'aːn|LTranslit='eːrdoː'aːn
 6	ประธานาธิบดี	ประธานาธิบดี	NOUN	NN	_	5	appos	_	SpaceAfter=No|Translit=praḏʰaːnaːḏʰibdiː|LTranslit=praḏʰaːnaːḏʰibdiː
 7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 8	ตุรกี	ตุรกี	PROPN	NNP	_	6	nmod:poss	_	SpaceAfter=No|Translit=turkiː|LTranslit=turkiː
@@ -24224,7 +24224,7 @@
 
 # sent_id = w02007061
 # text = ชาวออตโตมันต้องการยับยั้งไม่ให้ธัญพืชถูกส่งต่อออกไปอีกเพราะพวกเขามีความต้องการสูงมาก
-# translit = ćʰaːwɔː'ttoːmạntɔ̂ːŋkaːryạbyậŋmạìhaîḏʰạŷbʰüːćʰtʰuːksə̀ŋtɔ̀ː'ɔːkp'ạiiːkbʰeːraːabʰwkkʰaoːmiːgʰwaːmtɔ̂ːŋkaːrsuːŋmaːk
+# translit = ćʰaːwɔː'ttoːmạntɔ̂ːŋkaːryạbyậŋmạìhaîḏʰạŷbʰüːćʰtʰuːksə̀ŋtɔ̀ː'ɔːkpại'iːkbʰeːraːabʰwkkʰaoːmiːgʰwaːmtɔ̂ːŋkaːrsuːŋmaːk
 # text_en = The Ottomans wanted to prevent grain from being further transported because they had a great need for it.
 1	ชาว	ชาว	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
 2	ออตโตมัน	ออตโตมัน	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit='ɔːttoːmạn|LTranslit='ɔːttoːmạn
@@ -24415,7 +24415,7 @@
 
 # sent_id = w02009025
 # text = เหตุการณ์นี้เป็นที่รู้กันในปารีสและเป็นเหตุที่สร้างความไม่พอใจมากยิ่งขึ้นไปอีกจากเรื่องราคาขนมปังที่สูงต่อเนื่องและการขาดแคลนอาหาร
-# translit = heːtukaːrṇnîːpendʰìːrûːkạnnaipaːriːslæpenheːtudʰìːsrâːŋgʰwaːmmạìbʰɔːčaimaːkyìŋkʰü̂np'ạiiːkčaːkrüàːŋraːgʰaːkʰnmpạŋdʰìːsuːŋtɔ̀ːnüàːŋlækaːrkʰaːdgʰæːln'aːhaːr
+# translit = heːtukaːrṇnîːpendʰìːrûːkạnnaipaːriːslæpenheːtudʰìːsrâːŋgʰwaːmmạìbʰɔːčaimaːkyìŋkʰü̂npại'iːkčaːkrüàːŋraːgʰaːkʰnmpạŋdʰìːsuːŋtɔ̀ːnüàːŋlækaːrkʰaːdgʰæːln'aːhaːr
 # text_en = The event was known about in Paris and caused more upset in a mood which was already charged by the persistently high price of bread and lack of provisions.
 1	เหตุการณ์	เหตุการณ์	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=heːtukaːrṇ|LTranslit=heːtukaːrṇ
 2	นี้	นี้	DET	DT	_	1	det	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
@@ -25188,7 +25188,7 @@
 
 # sent_id = w03004107
 # text = อย่างไรก็ตาม พิรัสถูกบังคับให้ออกจากซิซิลีเพื่อไปร่วมธุรกิจในอิตาลีตอนใต้
-# translit = 'yàːŋrạikɔʔtaːm bʰirạstʰuːkbạŋgʰạbhaî'ɔːkčaːkciciliːbʰüàːpạirə̀wmḏʰurkičn'aiitaːliːtɔːntaî
+# translit = 'yàːŋrạikɔʔtaːm bʰirạstʰuːkbạŋgʰạbhaî'ɔːkčaːkciciliːbʰüàːpạirə̀wmḏʰurkičnai'itaːliːtɔːntaî
 # text_en = However, Pyrrhus was forced to leave Sicily in order to attend to business in southern Italy.
 1	อย่าง	อย่าง	ADP	IN	_	7	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
@@ -25572,7 +25572,7 @@
 
 # sent_id = w03010096
 # text = เพื่อหลีกหนีจากทุกสิ่ง ตระกูลเรอมิสจึงไปอาศัยอยู่ในสวิตเซอร์แลนด์เกือบตลอดฤดูร้อนของปี 1947
-# translit = bʰüàːhliːkhniːčaːkdʰuksìŋ trakuːlrœːmisčüŋp'ạiaːśạyɔːyùːnaiswitcœːrlæːndküaːbtlɔːdṟduːrɔ̂ːnkʰɔːŋpiː 1947
+# translit = bʰüàːhliːkhniːčaːkdʰuksìŋ trakuːlrœːmisčüŋpại'aːśạyɔːyùːnaiswitcœːrlæːndküaːbtlɔːdṟduːrɔ̂ːnkʰɔːŋpiː 1947
 # text_en = To get away from it all, the Remis resided in Switzerland for most of summer 1947.
 1	เพื่อ	เพื่อ	ADP	IN	_	2	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
 2	หลีก	หลีก	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=hliːk|LTranslit=hliːk
@@ -26628,7 +26628,7 @@
 
 # sent_id = w05002032
 # text = แอนดีสตอนกลางนั้นเรียกว่า ‘แอนดีสเดติโปอันดิโน ’ ซึ่ง ก่อ ตัว จาก มุด ตัว ของ เปลือก โลก ใต้ สมุทร
-# translit = 'æːndiːstɔːnklaːŋnậnriaːkwàː ‘'æːndiːsdeːtip'oːạndinoː ’ cǜŋ kɔ̀ː tuaː čaːk mud tuaː kʰɔːŋ peːlüː'k loːk taî smudʰr
+# translit = 'æːndiːstɔːnklaːŋnậnriaːkwàː ‘'æːndiːsdeːtipoː'ạndinoː ’ cǜŋ kɔ̀ː tuaː čaːk mud tuaː kʰɔːŋ peːlüː'k loːk taî smudʰr
 # text_en = The central Andes belong to the so-called 'Andes de tipo andino' which were formed by the subduction of the oceanic crust.
 # ToDoOrigText = แอนดีสตอนกลางนั้นเรียกว่า ‘แอนดีส เด ติโป อันดิโน’ ซึ่งก่อตัวจากมุดตัวของเปลือกโลกใต้สมุทร
 1	แอนดีส	แอนดีส	PROPN	NNP	_	5	nsubj	_	SpaceAfter=No|Translit='æːndiːs|LTranslit='æːndiːs
@@ -26638,7 +26638,7 @@
 5	เรียก	เรียก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=riaːk|LTranslit=riaːk
 6	ว่า	ว่า	VERB	VV	_	5	xcomp	_	Translit=wàː|LTranslit=wàː
 7	‘	‘	PUNCT	``	_	8	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
-8	แอนดีสเดติโปอันดิโน	แอนดีสเดติโปอันดิโน	PROPN	NNP	_	6	obj	_	Translit='æːndiːsdeːtip'oːạndinoː|LTranslit='æːndiːsdeːtip'oːạndinoː
+8	แอนดีสเดติโปอันดิโน	แอนดีสเดติโปอันดิโน	PROPN	NNP	_	6	obj	_	Translit='æːndiːsdeːtipoː'ạndinoː|LTranslit='æːndiːsdeːtipoː'ạndinoː
 9	’	’	PUNCT	''	_	11	punct	_	Translit=’|LTranslit=’
 10	ซึ่ง	ซึ่ง	DET	WDT	_	11	nsubj	_	Translit=cǜŋ|LTranslit=cǜŋ
 11	ก่อ	ก่อ	VERB	VV	_	8	acl:relcl	_	Translit=kɔ̀ː|LTranslit=kɔ̀ː
@@ -27293,7 +27293,7 @@
 
 # sent_id = w05010027
 # text = ในวันที่ 1 มกราคม 49 ปีก่อนคริสต์ศักราช มาร์โก อันโตนิโออ่านคำประกาศจากซีซาร์ที่บอกว่าข้าหลวงได้ประกาศตนว่าเป็นมิตรกับสันติภาพ
-# translit = naiwạndʰìː 1 mkraːgʰm 49 piːkɔ̀ːngʰristśạkraːćʰ maːrkoː 'ạntoːni''òːaːngʰãːprakaːśčaːkciːcaːrdʰìːbɔːkwàːkʰâːhlwŋdạîprakaːśtnwàːpenmitrkạbsạntiḇʰaːbʰ
+# translit = naiwạndʰìː 1 mkraːgʰm 49 piːkɔ̀ːngʰristśạkraːćʰ maːrkoː 'ạntoːni'oː'àːngʰãːprakaːśčaːkciːcaːrdʰìːbɔːkwàːkʰâːhlwŋdạîprakaːśtnwàːpenmitrkạbsạntiḇʰaːbʰ
 # text_en = On the 1st January 49 BC, Marco Antonio read a declaration from Caesar in which the proconsul declared himself a friend of peace.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	วันที่	วันที่	NOUN	NN	_	11	obl	_	Translit=wạndʰìː|LTranslit=wạndʰìː
