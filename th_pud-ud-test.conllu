@@ -10877,7 +10877,7 @@
 
 # sent_id = w01013096
 # text = มีภาษาที่มาจากภาษาฟินแลนด์ที่ได้พัฒนาแยกออกไป ซึ่งเรียกว่าเมอันเกียลีในสวีเดนและเคว็นในนอร์เวย์
-# translit = miːḇʰaːšaːdʰìːmaːčaːkḇʰaːšaːfinlæːnddʰìːdạîbʰạḑʰnaːyæːkɔː'kpại cǜŋriaːkwàːmœːạnkiaːliːnaiswiːdeːnlægʰeːwɔʔnnainɔːrweːy
+# translit = miːḇʰaːšaːdʰìːmaːčaːkḇʰaːšaːfinlæːnddʰìːdạîbʰạḑʰnaːyæːkɔː'kpại cǜŋriaːkwàːmeː'ạnkiaːliːnaiswiːdeːnlægʰeːwɔʔnnainɔːrweːy
 # text_en = There are also languages derived from Finnish, having evolved separately, known as Meänkieli in Sweden and Kven in Norway.
 1	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 2	ภาษา	ภาษา	NOUN	NN	_	1	obj	_	SpaceAfter=No|Translit=ḇʰaːšaː|LTranslit=ḇʰaːšaː
@@ -10895,7 +10895,7 @@
 14	ซึ่ง	ซึ่ง	DET	WDT	_	15	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
 15	เรียก	เรียก	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|Translit=riaːk|LTranslit=riaːk
 16	ว่า	ว่า	VERB	VV	_	15	acl	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-17	เมอันเกียลี	เมอันเกียลี	PROPN	NNP	_	16	obj	_	SpaceAfter=No|Translit=mœːạnkiaːliː|LTranslit=mœːạnkiaːliː
+17	เมอันเกียลี	เมอันเกียลี	PROPN	NNP	_	16	obj	_	SpaceAfter=No|Translit=meː'ạnkiaːliː|LTranslit=meː'ạnkiaːliː
 18	ใน	ใน	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 19	สวีเดน	สวีเดน	PROPN	NNP	_	15	obl	_	SpaceAfter=No|Translit=swiːdeːn|LTranslit=swiːdeːn
 20	และ	และ	CCONJ	CC	_	21	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -11296,7 +11296,7 @@
 
 # sent_id = w01020017
 # text = ก่อให้เกิดเส้นทางการค้า การล่าอาณานิคม และสงคราม รวมถึงอาหาร (จากการประมงและการหาอาหารทะเลอื่น) แก่หลายชุมชนตลอดทั้งยุคสมัย
-# translit = kɔ̀ːhaîkeidsêːndʰaːŋkaːrgʰâː kaːrlàː'aːṇaːnigʰm læsŋgʰraːm rwmtʰüŋ'aːhaːr (čaːkkaːrpramŋlækaːrhaː'aːhaːrdʰalœːüː¹n) kæ̀ːhlaːyćʰumćʰntlɔːddʰậŋyugʰsmạy
+# translit = kɔ̀ːhaîkeidsêːndʰaːŋkaːrgʰâː kaːrlàː'aːṇaːnigʰm læsŋgʰraːm rwmtʰüŋ'aːhaːr (čaːkkaːrpramŋlækaːrhaː'aːhaːrdʰaleː'ǜːn) kæ̀ːhlaːyćʰumćʰntlɔːddʰậŋyugʰsmạy
 # text_en = It provided routes for trade, colonisation, and war, as well as food (from fishing and the gathering of other seafood) for numerous communities throughout the ages.
 1	ก่อ	ก่อ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kɔ̀ː|LTranslit=kɔ̀ː
 2	ให้	ให้	VERB	VV	_	1	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
@@ -15630,7 +15630,7 @@
 
 # sent_id = w01079049
 # text = ในปี 1538 ศาลศาสนาสเปนได้ตักเตือนสมาชิกว่ามิให้เชื่อทุกอย่างในมัลเลอุส
-# translit = naipiː 1538 śaːlśaːsnaːspeːndạîtạktüaːnsmaːćʰikwàːmihaîćʰüàːdʰukɔːyàːŋnaimạllœːus
+# translit = naipiː 1538 śaːlśaːsnaːspeːndạîtạktüaːnsmaːćʰikwàːmihaîćʰüàːdʰukɔːyàːŋnaimạlleː'us
 # text_en = In 1538 the Spanish Inquisition cautioned its members not to believe everything the Malleus said.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	ปี	ปี	NOUN	NN	_	8	obl	_	Translit=piː|LTranslit=piː
@@ -15648,7 +15648,7 @@
 14	ทุก	ทุก	DET	DT	_	15	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
 15	อย่าง	อย่าง	NOUN	NNB	_	13	obj	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 16	ใน	ใน	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-17	มัลเลอุส	มัลเลอุส	PROPN	NNP	_	15	nmod	_	Translit=mạllœːus|LTranslit=mạllœːus
+17	มัลเลอุส	มัลเลอุส	PROPN	NNP	_	15	nmod	_	Translit=mạlleː'us|LTranslit=mạlleː'us
 
 # sent_id = w01079057
 # text = การรับศีลล้างบาปโดยบังคับขัดต่อกฎของศาสนจักรคาทอลิก และในทางทฤษฎีแล้วผู้ใดก็ตามที่ถูกบังคับให้เข้ารับศีลล้างบาปสามารถกลับไปสู่ศาสนายิวได้อย่างถูกต้อง
