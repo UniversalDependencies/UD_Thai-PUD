@@ -23464,15 +23464,13 @@
 12	คู่	คู่	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=gʰùː|LTranslit=gʰùː
 13	กับ	กับ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 14	มนุษยชาติ	มนุษยชาติ	NOUN	NN	_	12	obl	_	SpaceAfter=No|Translit=mnušyćʰaːti|LTranslit=mnušyćʰaːti
-15	เฉกเช่น	เฉกเช่น	NOUN	NN	_	19	mark	_	SpaceAfter=No|Translit=čʰeːkćʰèːn|LTranslit=čʰeːkćʰèːn
-16	เดียว	เดียว	ADJ	JJ	_	15	fixed	_	SpaceAfter=No|Translit=diaːw|LTranslit=diaːw
-17	กับ	กับ	ADP	IN	_	15	fixed	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
-18	เงา	เงา	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=ŋaoː|LTranslit=ŋaoː
-19	อยู่	อยู่	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
-20	คู่	คู่	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=gʰùː|LTranslit=gʰùː
-21	กับ	กับ	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
-22	มนุษย์	มนุษย์	NOUN	NN	_	20	obl	_	SpaceAfter=No|Translit=mnušy|LTranslit=mnušy
-23	”	”	PUNCT	''	_	11	punct	_	Translit=”|LTranslit=”
+15	เฉกเช่นเดียวกับ	เฉกเช่นเดียวกับ	SCONJ	CC	_	17	mark	_	SpaceAfter=No|Translit=čʰeːkćʰèːndiaːwkạb|LTranslit=čʰeːkćʰèːndiaːwkạb
+16	เงา	เงา	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=ŋaoː|LTranslit=ŋaoː
+17	อยู่	อยู่	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
+18	คู่	คู่	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=gʰùː|LTranslit=gʰùː
+19	กับ	กับ	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
+20	มนุษย์	มนุษย์	NOUN	NN	_	18	obl	_	SpaceAfter=No|Translit=mnušy|LTranslit=mnušy
+21	”	”	PUNCT	''	_	11	punct	_	Translit=”|LTranslit=”
 
 # sent_id = n05005016
 # text = เขายืนอยู่คนเดียวต่อหน้าผู้ฟัง และท้ายที่สุดแล้วเขาก็แสดงสิ่งที่ดีที่สุดที่ตัวเองมีเพื่อที่จะทำให้ผู้ชมหัวเราะ
