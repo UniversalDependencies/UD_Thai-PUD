@@ -26326,7 +26326,7 @@
 # text = อย่างไรก็ตาม พวกเขาก็ไม่ได้ขยายจนกระทั่งเรือใหญ่พอที่จะใช้ข้ามทะเลได้ถูกสร้างขึ้น
 # translit = 'yàːŋrạikɔʔtaːm bʰwkkʰaoːkɔʔmạìdạîkʰyaːyčnkradʰạ̀ŋrüaːhaiŷə̀bʰɔːdʰìːčaćʰaîkʰâːmdʰaleːdạîtʰuːksrâːŋkʰü̂n
 # text_en = However, they did not expand until ships big enough to cross seas were built.
-1	อย่าง	อย่าง	ADP	IN	_	10	advmod	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=ADV	10	advmod	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
