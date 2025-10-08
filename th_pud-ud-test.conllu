@@ -4878,7 +4878,7 @@
 9	สุขภาพ	สุขภาพ	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=sukʰḇʰaːbʰ|LTranslit=sukʰḇʰaːbʰ
 10	ของ	ของ	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 11	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	9	nmod:poss	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
-12	เอง	เอง	PRON	PRP	_	11	compound	_	SpaceAfter=No|Translit='eːŋ|LTranslit='eːŋ
+12	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	11	compound	_	Gloss=self|LTranslit='eːŋ|SpaceAfter=No|Translit='eːŋ
 13	โดยสิ้นเชิง	โดยสิ้นเชิง	VERB	VV	_	8	advcl	_	SpaceAfter=No|Translit=doːysînćʰeiŋ|LTranslit=doːysînćʰeiŋ
 14	”	”	PUNCT	''	_	8	punct	_	Translit=”|LTranslit=”
 
@@ -6299,7 +6299,7 @@
 # translit = windʰuaːr'eːŋpʰoːlə̀maːćʰə̀wŋsận. lætʰuːktʰàːywidiː'oːhaîhenwàːḏʰœːsaìwæ̀ːnkạndæːdkɔ̀ːnhaîsạmḇʰaːšṇ
 # text_en = Wintour herself appears briefly, and is filmed putting her sunglasses on before being interviewed.
 1	วินทัวร์	วินทัวร์	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=windʰuaːr|LTranslit=windʰuaːr
-2	เอง	เอง	PRON	PRP	_	1	compound	_	SpaceAfter=No|Translit='eːŋ|LTranslit='eːŋ
+2	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	1	compound	_	Gloss=self|LTranslit='eːŋ|SpaceAfter=No|Translit='eːŋ
 3	โผล่	โผล่	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pʰoːlə̀|LTranslit=pʰoːlə̀
 4	มา	มา	PART	RP	_	3	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 5	ช่วง	ช่วง	NOUN	NN	_	3	obl:tmod	_	SpaceAfter=No|Translit=ćʰə̀wŋ|LTranslit=ćʰə̀wŋ
@@ -13269,7 +13269,7 @@
 16	ใน	ใน	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 17	ทะเล	ทะเล	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=dʰaleː|LTranslit=dʰaleː
 18	ทราย	ทราย	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=dʰraːy|LTranslit=dʰraːy
-19	เอง	เอง	PRON	PRP	_	17	compound	_	SpaceAfter=No|Translit='eːŋ|LTranslit='eːŋ
+19	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	17	compound	_	Gloss=self|LTranslit='eːŋ|SpaceAfter=No|Translit='eːŋ
 20	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	24	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 21	อณู	อณู	NOUN	NN	_	24	nsubj:pass	_	SpaceAfter=No|Translit='ṇuː|LTranslit='ṇuː
 22	ละเอียด	ละเอียด	ADJ	JJ	_	21	amod	_	SpaceAfter=No|Translit=la'iaːd|LTranslit=la'iaːd
@@ -13557,7 +13557,7 @@
 26	ราก	ราก	NOUN	NN	_	36	obl	_	SpaceAfter=No|Translit=raːk|LTranslit=raːk
 27	คำ	คำ	NOUN	NN	_	26	compound	_	SpaceAfter=No|Translit=gʰãː|LTranslit=gʰãː
 28	นี้	นี้	DET	DT	PronType=Dem	26	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
-29	เอง	เอง	PRON	PRP	_	26	compound	_	Proper=True|Translit='eːŋ|LTranslit='eːŋ
+29	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	26	compound	_	Gloss=self|LTranslit='eːŋ|Proper=True|Translit='eːŋ
 30	"	"	PUNCT	``	_	31	punct	_	SpaceAfter=No|Translit="|LTranslit="
 31	ทะเล	ทะเล	NOUN	NN	_	36	nsubj	_	Proper=True|SpaceAfter=No|Translit=dʰaleː|LTranslit=dʰaleː
 32	แอนทิลลิส	แอนทิลลิส	PROPN	NNP	_	31	flat:name	_	SpaceAfter=No|Translit='æːndʰillis|LTranslit='æːndʰillis
@@ -16004,7 +16004,7 @@
 28	น้อย	น้อย	ADJ	JJ	_	23	acl:relcl	_	SpaceAfter=No|Translit=nɔ̂ːy|LTranslit=nɔ̂ːy
 29	กว่า	กว่า	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 30	นี้	นี้	PRON	PRD	PronType=Dem	28	obl	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
-31	เอง	เอง	PRON	PRP	_	30	compound	_	SpaceAfter=No|Translit='eːŋ|LTranslit='eːŋ
+31	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	30	compound	_	Gloss=self|LTranslit='eːŋ|SpaceAfter=No|Translit='eːŋ
 32	เป็น	เป็น	AUX	VC	_	33	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 33	ตัว	ตัว	NOUN	NN	_	3	acl	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
 34	กระตุ้น	กระตุ้น	VERB	VV	_	33	acl	_	SpaceAfter=No|Translit=kratûn|LTranslit=kratûn
@@ -19720,7 +19720,7 @@
 7	เครือข่าย	เครือข่าย	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=gʰeːrüː'kʰàːy|LTranslit=gʰeːrüː'kʰàːy
 8	ของ	ของ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 9	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	7	nmod:poss	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
-10	เอง	เอง	PRON	PRP	_	9	compound	_	SpaceAfter=No|Translit='eːŋ|LTranslit='eːŋ
+10	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	9	compound	_	Gloss=self|LTranslit='eːŋ|SpaceAfter=No|Translit='eːŋ
 11	ขึ้น	ขึ้น	PART	RP	_	6	compound:prt	_	SpaceAfter=No|Translit=kʰü̂n|LTranslit=kʰü̂n
 12	ภาย	ภาย	NOUN	NN	_	14	case	_	SpaceAfter=No|Translit=ḇʰaːy|LTranslit=ḇʰaːy
 13	ใน	ใน	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -20049,7 +20049,7 @@
 3	เดียว	เดียว	ADJ	JJ	_	2	amod	_	SpaceAfter=No|Translit=diaːw|LTranslit=diaːw
 4	กัน	กัน	PRON	PRP	_	3	obl	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 5	นั้น	นั้น	DET	DT	PronType=Dem	2	det	_	Gloss=that|LTranslit=nận|SpaceAfter=No|Translit=nận
-6	เอง	เอง	PRON	PRP	_	5	compound	_	Translit='eːŋ|LTranslit='eːŋ
+6	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	5	compound	_	Gloss=self|LTranslit='eːŋ|Translit='eːŋ
 7	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	9	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 8	ได้	ได้	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 9	ปรากฏ	ปรากฏ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=praːkṭ|LTranslit=praːkṭ
@@ -20403,7 +20403,7 @@
 33	ของ	ของ	ADP	IN	_	34	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 34	พวก	พวก	NOUN	NN	_	31	nmod:poss	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 35	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	34	compound	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
-36	เอง	เอง	PRON	PRP	_	34	compound	_	SpaceAfter=No|Translit='eːŋ|LTranslit='eːŋ
+36	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	34	compound	_	Gloss=self|LTranslit='eːŋ|SpaceAfter=No|Translit='eːŋ
 37	ได้	ได้	AUX	MD	_	29	aux	_	Translit=dạî|LTranslit=dạî
 
 # sent_id = w01140031
@@ -26464,7 +26464,7 @@
 15	ของ	ของ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 16	เบอร์นาด	เบอร์นาด	PROPN	NNP	_	14	nmod:poss	_	Translit=bœːrnaːd|LTranslit=bœːrnaːd
 17	ทาเปีย	ทาเปีย	PROPN	NNP	_	16	flat:name	_	SpaceAfter=No|Translit=dʰaːpiaː|LTranslit=dʰaːpiaː
-18	เอง	เอง	PRON	PRP	_	16	compound	_	Translit='eːŋ|LTranslit='eːŋ
+18	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	16	compound	_	Gloss=self|LTranslit='eːŋ|Translit='eːŋ
 19	ต้อง	ต้อง	AUX	MD	_	20	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 20	ปิด	ปิด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pid|LTranslit=pid
 21	ตัว	ตัว	NOUN	NN	_	20	obj	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
@@ -27321,7 +27321,7 @@
 24	เพราะ	เพราะ	ADP	IN	_	25	case	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
 25	เหตุ	เหตุ	NOUN	NN	_	31	obl	_	SpaceAfter=No|Translit=heːtu|LTranslit=heːtu
 26	นี้	นี้	DET	DT	PronType=Dem	25	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
-27	เอง	เอง	PRON	PRP	_	25	compound	_	SpaceAfter=No|Translit='eːŋ|LTranslit='eːŋ
+27	เอง	เอง	PRON	PRP	PronType=Prs|Reflex=Yes	25	compound	_	Gloss=self|LTranslit='eːŋ|SpaceAfter=No|Translit='eːŋ
 28	ที่	ที่	ADP	IN	_	31	mark	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 29	โอลิเวีย	โอลิเวีย	PROPN	NNP	_	31	nsubj	_	SpaceAfter=No|Translit='oːliwiaː|LTranslit='oːliwiaː
 30	ได้	ได้	AUX	AS	Aspect=Perf	31	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
