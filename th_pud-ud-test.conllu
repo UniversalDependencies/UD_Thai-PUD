@@ -4402,7 +4402,7 @@
 11	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	12	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 12	ตอบรับ	ตอบรับ	VERB	VV	_	9	ccomp	_	SpaceAfter=No|Translit=tɔːbrạb|LTranslit=tɔːbrạb
 13	ตอน	ตอน	NOUN	NN	_	12	obl:tmod	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
-14	ไหน	ไหน	DET	WDT	_	13	det	_	SpaceAfter=No|Translit=hạin|LTranslit=hạin
+14	ไหน	ไหน	DET	WDT	PronType=Rel	13	det	_	Gloss=which|LTranslit=hạin|SpaceAfter=No|Translit=hạin
 15	ว่า	ว่า	ADP	IN	_	18	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 16	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	18	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 17	ต้อง	ต้อง	AUX	MD	_	18	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
@@ -4419,7 +4419,7 @@
 28	กว่า	กว่า	ADV	RB	_	27	advmod	_	Translit=kwàː|LTranslit=kwàː
 29	และ	และ	CCONJ	CC	_	30	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 30	ตอน	ตอน	NOUN	NN	_	12	conj	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
-31	ไหน	ไหน	DET	WDT	_	30	det	_	SpaceAfter=No|Translit=hạin|LTranslit=hạin
+31	ไหน	ไหน	DET	WDT	PronType=Rel	30	det	_	Gloss=which|LTranslit=hạin|SpaceAfter=No|Translit=hạin
 32	ที่	ที่	DET	WDT	PronType=Rel	34	obl:tmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 33	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	34	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 34	แสดง	แสดง	VERB	VV	_	30	acl:relcl	_	SpaceAfter=No|Translit=sæːdŋ|LTranslit=sæːdŋ
@@ -8843,7 +8843,7 @@
 16	ปลอด	ปลอด	VERB	VV	_	13	ccomp	_	SpaceAfter=No|Translit=plɔːd|LTranslit=plɔːd
 17	ภัย	ภัย	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=ḇʰạy|LTranslit=ḇʰạy
 18	แค่	แค่	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=gʰæ̀ː|LTranslit=gʰæ̀ː
-19	ไหน	ไหน	PRON	WP	_	16	obl	_	SpaceAfter=No|Translit=hạin|LTranslit=hạin
+19	ไหน	ไหน	PRON	WP	PronType=Rel	16	obl	_	Gloss=which|LTranslit=hạin|SpaceAfter=No|Translit=hạin
 20	หรือ	หรือ	CCONJ	CC	_	22	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
 21	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	22	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 22	ทำ	ทำ	VERB	VV	_	16	conj	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
@@ -12331,7 +12331,7 @@
 16	แตกแยก	แตกแยก	VERB	VV	_	12	ccomp	_	SpaceAfter=No|Translit=tæːkyæːk|LTranslit=tæːkyæːk
 17	มาก	มาก	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
 18	ขนาด	ขนาด	NOUN	NN	_	17	obl	_	SpaceAfter=No|Translit=kʰnaːd|LTranslit=kʰnaːd
-19	ไหน	ไหน	DET	WDT	_	18	det	_	Translit=hạin|LTranslit=hạin
+19	ไหน	ไหน	DET	WDT	PronType=Rel	18	det	_	Gloss=which|LTranslit=hạin|Translit=hạin
 
 # sent_id = w01029015
 # parallel_id = pud/w01029015
@@ -22088,7 +22088,7 @@
 6	ว่า	ว่า	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 7	เป็น	เป็น	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 8	อัน	อัน	NOUN	NN	_	2	ccomp	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
-9	ไหน	ไหน	DET	WDT	_	8	det	_	Translit=hạin|LTranslit=hạin
+9	ไหน	ไหน	DET	WDT	PronType=Rel	8	det	_	Gloss=which|LTranslit=hạin|Translit=hạin
 
 # sent_id = n02048002
 # parallel_id = pud/n02048002
@@ -28266,7 +28266,7 @@
 40	จะ	จะ	AUX	MD	_	41	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 41	เลือก	เลือก	VERB	VV	_	47	advcl	_	SpaceAfter=No|Translit=lüaːk|LTranslit=lüaːk
 42	ทาง	ทาง	NOUN	NN	_	41	obj	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
-43	ไหน	ไหน	DET	WDT	_	42	det	_	Translit=hạin|LTranslit=hạin
+43	ไหน	ไหน	DET	WDT	PronType=Rel	42	det	_	Gloss=which|LTranslit=hạin|Translit=hạin
 44	ก็	ก็	ADV	RB	_	47	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 45	จะ	จะ	AUX	MD	_	47	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 46	เป็น	เป็น	AUX	VC	_	47	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
