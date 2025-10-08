@@ -686,7 +686,7 @@
 2	ว่า	ว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 3	อย่าง	อย่าง	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 4	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
-5	ฉัน	ฉัน	PRON	PRP	Person=1	9	nsubj:pass	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+5	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	9	nsubj:pass	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 6	ก็	ก็	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 7	ต้อง	ต้อง	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 8	ถูก	ถูก	AUX	MD	Voice=Pass	9	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
@@ -1909,7 +1909,7 @@
 # text = ฉันถามเธอหลังจากนั้นว่าเธอเข้าใจหรือไม่ว่าทำไมผู้คนอาจลงคะแนนเสียงให้ทรัมป์
 # translit = čʰạntʰaːmḏʰœːhlạŋčaːknậnwàːḏʰœːkʰaôːčaihrüː'mạìwàːdʰãːmạipʰûːgʰn'aːčlŋgʰanæːnsiaːŋhaîdʰrạmp
 # text_en = I asked her afterwards if she understood why people might vote for Trump.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	ถาม	ถาม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tʰaːm|LTranslit=tʰaːm
 3	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	2	obj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 4	หลัง	หลัง	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
@@ -4716,9 +4716,9 @@
 3	หลาย	หลาย	DET	DT	PronType=Ind	4	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
 4	คน	คน	NOUN	NNB	_	2	xcomp	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 5	ที่	ที่	DET	WDT	PronType=Rel	7	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-6	ฉัน	ฉัน	PRON	PRP	Person=1	7	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+6	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	7	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 7	รู้จัก	รู้จัก	VERB	VV	_	4	acl:relcl	_	Translit=rûːčạk|LTranslit=rûːčạk
-8	ฉัน	ฉัน	PRON	PRP	Person=1	9	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+8	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	9	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 9	อยู่	อยู่	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 10	ดึก	ดึก	NOUN	NN	_	9	obl:tmod	_	SpaceAfter=No|Translit=dük|LTranslit=dük
 11	ช่วง	ช่วง	NOUN	NN	_	10	obl:tmod	_	SpaceAfter=No|Translit=ćʰə̀wŋ|LTranslit=ćʰə̀wŋ
@@ -4853,7 +4853,7 @@
 4	วูดส์	วูดส์	PROPN	NNP	_	2	obl	_	SpaceAfter=No|Translit=wuːds|LTranslit=wuːds
 5	ทาง	ทาง	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 6	อีเมล	อีเมล	NOUN	NN	_	2	obl	_	Translit='iːmeːl|LTranslit='iːmeːl
-7	ฉัน	ฉัน	PRON	PRP	Person=1	9	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+7	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	9	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 8	ได้	ได้	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 9	พยายาม	พยายาม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰyaːyaːm|LTranslit=bʰyaːyaːm
 10	หา	หา	VERB	VV	_	9	xcomp	_	SpaceAfter=No|Translit=haː|LTranslit=haː
@@ -5091,7 +5091,7 @@
 7	อย่าง	อย่าง	ADP	IN	_	8	case	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 8	สุภาพบุรุษ	สุภาพบุรุษ	NOUN	NN	_	6	obl	_	Translit=suḇʰaːbʰburuš|LTranslit=suḇʰaːbʰburuš
 9	แต่	แต่	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
-10	ฉัน	ฉัน	PRON	PRP	Person=1	11	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+10	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	11	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 11	โกรธ	โกรธ	VERB	VV	_	2	conj	_	SpaceAfter=No|Translit=koːrḏʰ|LTranslit=koːrḏʰ
 12	เสีย	เสีย	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=siaː|LTranslit=siaː
 13	ยิ่ง	ยิ่ง	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=yìŋ|LTranslit=yìŋ
@@ -5246,7 +5246,7 @@
 22	กว่า	กว่า	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 23	คุณ	คุณ	PRON	PRP	Person=2|PronType=Prs	21	obl	_	Gloss=you|LTranslit=gʰuṇ|SpaceAfter=No|Translit=gʰuṇ
 24	เหรอ	เหรอ	PART	EP	PronType=Int	20	discourse	_	Translit=heːrɔː|LTranslit=heːrɔː
-25	ฉัน	ฉัน	PRON	PRP	Person=1	27	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+25	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	27	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 26	ไม่	ไม่	PART	NEG	Polarity=Neg	27	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 27	รู้	รู้	VERB	VV	_	20	acl	_	SpaceAfter=No|Translit=rûː|LTranslit=rûː
 28	มา	มา	AUX	AS	Aspect=Perf	27	aux	_	SpaceAfter=No|Translit=maː|LTranslit=maː
@@ -5395,14 +5395,14 @@
 5	สิ่ง	สิ่ง	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
 6	นั้น	นั้น	DET	DT	PronType=Dem	5	det	_	Gloss=that|LTranslit=nận|Translit=nận
 7	และ	และ	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-8	ฉัน	ฉัน	PRON	PRP	Person=1	10	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+8	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	10	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 9	ก็	ก็	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 10	ต้องการ	ต้องการ	VERB	VV	_	3	conj	_	SpaceAfter=No|Translit=tɔ̂ːŋkaːr|LTranslit=tɔ̂ːŋkaːr
 11	ให้	ให้	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 12	คน	คน	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 13	มา	มา	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 14	หา	หา	VERB	VV	_	13	acl	_	SpaceAfter=No|Translit=haː|LTranslit=haː
-15	ฉัน	ฉัน	PRON	PRP	Person=1	14	obj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+15	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	14	obj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 16	ตรง	ตรง	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=trŋ|LTranslit=trŋ
 17	ๆ	ๆ	SYM	SYM	_	16	dep	_	Translit=.|LTranslit=.
 18	มาก	มาก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
@@ -5410,7 +5410,7 @@
 20	จะ	จะ	AUX	MD	_	21	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 21	มา	มา	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 22	รุม	รุม	VERB	VV	_	21	acl	_	SpaceAfter=No|Translit=rum|LTranslit=rum
-23	ฉัน	ฉัน	PRON	PRP	Person=1	22	obj	_	Translit=čʰạn|LTranslit=čʰạn
+23	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	22	obj	_	Gloss=I|LTranslit=čʰạn|Translit=čʰạn
 
 # sent_id = n01075028
 # parallel_id = pud/n01075028
@@ -5529,7 +5529,7 @@
 # text = ฉันดิ้นรนกับรหัสผ่านด้วย
 # translit = čʰạndînrnkạbrhạspʰàːndə̂wy
 # text_en = I also struggle with passwords.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	ดิ้นรน	ดิ้นรน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dînrn|LTranslit=dînrn
 3	กับ	กับ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 4	รหัส	รหัส	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=rhạs|LTranslit=rhạs
@@ -5573,7 +5573,7 @@
 # translit = næ̀ːnɔːn čʰạnrûːwàːtɔ̂ːŋyæːkrahwàːŋyœːrmniːyugʰpạččubạnkạbrabɔːbnaːciː
 # text_en = Of course, I do understand that modern-day Germany must be separated from the Nazi regime.
 1	แน่นอน	แน่นอน	ADV	RB	_	3	advmod	_	Translit=næ̀ːnɔːn|LTranslit=næ̀ːnɔːn
-2	ฉัน	ฉัน	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+2	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 3	รู้	รู้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rûː|LTranslit=rûː
 4	ว่า	ว่า	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 5	ต้อง	ต้อง	AUX	MD	_	6	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
@@ -5607,7 +5607,7 @@
 14	ๆ	ๆ	SYM	SYM	_	13	dep	_	Translit=.|LTranslit=.
 15	เสีย	เสีย	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=siaː|LTranslit=siaː
 16	จน	จน	ADP	IN	_	18	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
-17	ฉัน	ฉัน	PRON	PRP	Person=1	18	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+17	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	18	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 18	คิด	คิด	VERB	VV	_	4	advcl	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 19	ว่า	ว่า	ADP	IN	_	21	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 20	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	21	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
@@ -5691,7 +5691,7 @@
 # text = ฉันจะทำแบบนั้นก็ได้กับชีวิตของฉัน
 # translit = čʰạnčadʰãːbæːbnậnkɔʔdạîkạbćʰiːwitkʰɔːŋčʰạn
 # text_en = I can just do that with my life.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	จะ	จะ	AUX	MD	_	3	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 3	ทำ	ทำ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 4	แบบ	แบบ	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=bæːb|LTranslit=bæːb
@@ -5701,14 +5701,14 @@
 8	กับ	กับ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 9	ชีวิต	ชีวิต	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=ćʰiːwit|LTranslit=ćʰiːwit
 10	ของ	ของ	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-11	ฉัน	ฉัน	PRON	PRP	Person=1	9	nmod:poss	_	Translit=čʰạn|LTranslit=čʰạn
+11	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	9	nmod:poss	_	Gloss=I|LTranslit=čʰạn|Translit=čʰạn
 
 # sent_id = n01080042
 # parallel_id = pud/n01080042
 # text = ฉันอยากดูกับพวกเขา แต่สุดท้ายแล้วพวกเขาก็ตัดสินใจว่าจะดูโดยไม่มีฉัน
 # translit = čʰạnɔːyaːkduːkạbbʰwkkʰaoː tæ̀ːsuddʰâːylæ̂ːwbʰwkkʰaoːkɔʔtạdsinčaiwàːčaduːdoːymạìmiːčʰạn
 # text_en = I wanted to watch it with them, but they decided they’d rather watch it without me in the end.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	อยาก	อยาก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit='yaːk|LTranslit='yaːk
 3	ดู	ดู	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=duː|LTranslit=duː
 4	กับ	กับ	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
@@ -5727,7 +5727,7 @@
 17	โดย	โดย	ADP	IN	_	19	mark	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 18	ไม่	ไม่	PART	NEG	Polarity=Neg	19	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 19	มี	มี	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
-20	ฉัน	ฉัน	PRON	PRP	Person=1	19	obj	_	Translit=čʰạn|LTranslit=čʰạn
+20	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	19	obj	_	Gloss=I|LTranslit=čʰạn|Translit=čʰạn
 
 # sent_id = n01081022
 # parallel_id = pud/n01081022
@@ -6153,7 +6153,7 @@
 # text = ฉันคิดว่านี่เป็นเหตุผลที่พวกเขาดำดิ่งลงไปในลวดลายและสีสัน
 # translit = čʰạngʰidwàːnìːpenheːtupʰldʰìːbʰwkkʰaoːdãːdìŋlŋpạinailwdlaːylæsiːsạn
 # text_en = I think that’s why they immersed themselves in pattern and colour.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	คิด	คิด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 3	ว่า	ว่า	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 4	นี่	นี่	PRON	PRD	_	6	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
@@ -6226,7 +6226,7 @@
 # translit = “čʰạnpạiduːŋaːnsɔːbčbdʰìːmhaːwidʰyaːlạynɔːrḏʰḥæːmptạnbʰüàːhaːgʰnrùnhaimə̀dʰìːmiːbʰrswrrgʰ” kʰaoːklàːw
 # text_en = “I visit the degree shows at Northampton University to spot new talent,” he says.
 1	“	“	PUNCT	``	_	3	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-2	ฉัน	ฉัน	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+2	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 3	ไป	ไป	VERB	VV	_	21	ccomp	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 4	ดู	ดู	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=duː|LTranslit=duː
 5	งาน	งาน	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
@@ -6254,7 +6254,7 @@
 # text_en = But, when I suggest that she get Frank to model for her, she laughs.
 1	แต่	แต่	CCONJ	CC	_	18	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 2	เมื่อ	เมื่อ	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
-3	ฉัน	ฉัน	PRON	PRP	Person=1	4	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+3	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	4	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 4	บอก	บอก	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=bɔːk|LTranslit=bɔːk
 5	ให้	ให้	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 6	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	5	obj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
@@ -6326,13 +6326,13 @@
 # text = ฉันดูการแข่งโมโตครอส และยิ่งฉันดูไป หน้าของผู้หญิงคนหนึ่งก็คอยโผล่มาเรื่อยๆ ในบรรดารูปถ่ายที่เหมือนมาจากช่วงทศววรษ 1970
 # translit = čʰạnduːkaːrkʰæ̀ːŋmoːtoːgʰrɔːs læyìŋčʰạnduːpại hnâːkʰɔːŋpʰûːhŷiŋgʰnhnǜŋkɔʔgʰɔːypʰoːlə̀maːrüàːy. naibrrdaːruːptʰàːydʰìːheːmüː'nmaːčaːkćʰə̀wŋdʰśwwrš 1970
 # text_en = I looked at motocross and the more I looked, this one woman’s face kept coming up, in photographs that looked as if they were from the 1970s.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	ดู	ดู	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=duː|LTranslit=duː
 3	การแข่ง	การแข่ง	VERB	VV	_	2	obj	_	SpaceAfter=No|Translit=kaːrkʰæ̀ːŋ|LTranslit=kaːrkʰæ̀ːŋ
 4	โมโตครอส	โมโตครอส	NOUN	NN	_	3	obj	_	Translit=moːtoːgʰrɔːs|LTranslit=moːtoːgʰrɔːs
 5	และ	และ	CCONJ	CC	_	8	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 6	ยิ่ง	ยิ่ง	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=yìŋ|LTranslit=yìŋ
-7	ฉัน	ฉัน	PRON	PRP	Person=1	8	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+7	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	8	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 8	ดู	ดู	VERB	VV	_	2	conj	_	SpaceAfter=No|Translit=duː|LTranslit=duː
 9	ไป	ไป	PART	RP	_	8	compound:prt	_	Translit=pại|LTranslit=pại
 10	หน้า	หน้า	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=hnâː|LTranslit=hnâː
@@ -6362,7 +6362,7 @@
 # text = ฉันชอบที่จะเล่นกับมัน และฉันก็พยายามเฟ้นหานางฟ้าที่เหมือนกับในใบปลิวนั้น เพราะมันจะน่าตื่นเต้นมากในการทำคอลเล็กชันใหม่ถ้าฉันหาได้
 # translit = čʰạnćʰɔːbdʰìːčalèːnkạbmạn læčʰạnkɔʔbʰyaːyaːmfêːnhaːnaːŋfâːdʰìːheːmüː'nkạbnaibaipliwnận bʰeːraːamạnčanàːtǜːntêːnmaːknaikaːrdʰãːgʰɔːllekćʰạnhaimə̀tʰâːčʰạnhaːdạî
 # text_en = I love to play with that and I am always looking for muses that fit that bill because it is so interesting making a collection when I find one.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	ชอบ	ชอบ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=ćʰɔːb|LTranslit=ćʰɔːb
 3	ที่	ที่	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -6370,7 +6370,7 @@
 6	กับ	กับ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 7	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	5	obl	_	Gloss=it|LTranslit=mạn|Translit=mạn
 8	และ	และ	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-9	ฉัน	ฉัน	PRON	PRP	Person=1	11	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+9	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	11	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 10	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 11	พยายาม	พยายาม	VERB	VV	_	5	conj	_	SpaceAfter=No|Translit=bʰyaːyaːm|LTranslit=bʰyaːyaːm
 12	เฟ้น	เฟ้น	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=fêːn|LTranslit=fêːn
@@ -6392,7 +6392,7 @@
 28	คอลเล็กชัน	คอลเล็กชัน	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=gʰɔːllekćʰạn|LTranslit=gʰɔːllekćʰạn
 29	ใหม่	ใหม่	ADJ	JJ	_	28	amod	_	SpaceAfter=No|Translit=haimə̀|LTranslit=haimə̀
 30	ถ้า	ถ้า	ADP	IN	_	32	mark	_	SpaceAfter=No|Translit=tʰâː|LTranslit=tʰâː
-31	ฉัน	ฉัน	PRON	PRP	Person=1	32	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+31	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	32	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 32	หา	หา	VERB	VV	_	24	advcl	_	SpaceAfter=No|Translit=haː|LTranslit=haː
 33	ได้	ได้	AUX	MD	_	32	aux	_	Translit=dạî|LTranslit=dạî
 
@@ -6755,7 +6755,7 @@
 # text = ฉันไม่เรียกมันว่าสัตว์ร้ายหรอก
 # translit = čʰạnmạìriaːkmạnwàːsạtwrâːyhrɔːk
 # text_en = I don’t call it a beast lightly.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	ไม่	ไม่	PART	NEG	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 3	เรียก	เรียก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=riaːk|LTranslit=riaːk
 4	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	3	obj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
@@ -6772,7 +6772,7 @@
 1	วัน	วัน	NOUN	NN	_	6	obl:tmod	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
 2	ที่	ที่	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 3	สาม	สาม	NUM	CD	_	2	nummod	_	Translit=saːm|LTranslit=saːm
-4	ฉัน	ฉัน	PRON	PRP	Person=1	6	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+4	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	6	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 5	ก็	ก็	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 6	กลับ	กลับ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=klạb|LTranslit=klạb
 7	มา	มา	PART	RP	_	6	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
@@ -6878,7 +6878,7 @@
 1	หลัง	หลัง	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	ที่	ที่	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-4	ฉัน	ฉัน	PRON	PRP	Person=1	5	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+4	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	5	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 5	พบ	พบ	VERB	VV	_	22	advcl	_	SpaceAfter=No|Translit=bʰb|LTranslit=bʰb
 6	ว่า	ว่า	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 7	มี	มี	VERB	VV	_	5	ccomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -6894,7 +6894,7 @@
 17	ราย	ราย	NOUN	NN	_	22	nsubj	_	SpaceAfter=No|Translit=raːy|LTranslit=raːy
 18	ชื่อ	ชื่อ	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 19	ของ	ของ	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-20	ฉัน	ฉัน	PRON	PRP	Person=1	17	nmod:poss	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+20	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	17	nmod:poss	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 21	ก็	ก็	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 22	ขยาย	ขยาย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kʰyaːy|LTranslit=kʰyaːy
 23	ตัว	ตัว	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
@@ -6912,7 +6912,7 @@
 # text = ฉันเห็นอยู่บ้าง
 # translit = čʰạnhenɔːyùːbâːŋ
 # text_en = I spotted a few.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	เห็น	เห็น	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=hen|LTranslit=hen
 3	อยู่	อยู่	VERB	AS	Aspect=Prog	0	root	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 4	บ้าง	บ้าง	ADV	RB	_	3	advmod	_	Translit=bâːŋ|LTranslit=bâːŋ
@@ -6928,7 +6928,7 @@
 4	จุด	จุด	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=čud|LTranslit=čud
 5	ต่อไป	ต่อไป	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=tɔ̀ːpại|LTranslit=tɔ̀ːpại
 6	ของ	ของ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-7	ฉัน	ฉัน	PRON	PRP	Person=1	1	nmod:poss	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+7	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	1	nmod:poss	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 8	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 9	เบลลิงแฮม	เบลลิงแฮม	PROPN	NNP	_	8	xcomp	_	Translit=beːlliŋḥæːm|LTranslit=beːlliŋḥæːm
 10	ใกล้	ใกล้	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=kailə̂|LTranslit=kailə̂
@@ -7344,7 +7344,7 @@
 # text = ฉันยังสงสัยด้วยว่าเดวิสคัพมีส่วนหรือเปล่า
 # translit = čʰạnyạŋsŋsạydə̂wywàːdeːwisgʰạbʰmiːsə̀wnhrüː'peːlàː
 # text_en = I also wonder whether the Davis Cup played a part.
-1	ฉัน	ฉัน	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	ยัง	ยัง	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 3	สงสัย	สงสัย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=sŋsạy|LTranslit=sŋsạy
 4	ด้วย	ด้วย	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
@@ -8027,7 +8027,7 @@
 6	การฟื้นฟู	การฟื้นฟู	VERB	VV	_	3	conj	_	SpaceAfter=No|Translit=kaːrfü̂ːnfuː|LTranslit=kaːrfü̂ːnfuː
 7	อัน	อัน	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
 8	หนักหนาสาหัส	หนักหนาสาหัส	ADJ	JJ	_	6	acl:relcl	_	Translit=hnạkhnaːsaːhạs|LTranslit=hnạkhnaːsaːhạs
-9	ฉัน	ฉัน	PRON	PRP	Person=1	11	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+9	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	11	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 10	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 11	ฟื้น	ฟื้น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fü̂ːn|LTranslit=fü̂ːn
 12	ตัว	ตัว	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
@@ -8127,7 +8127,7 @@
 5	ที่	ที่	DET	WDT	PronType=Rel	6	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 6	เหลือเชื่อ	เหลือเชื่อ	ADJ	JJ	_	4	acl:relcl	_	Translit=heːlüː'ćʰüàː|LTranslit=heːlüː'ćʰüàː
 7	และ	และ	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-8	ฉัน	ฉัน	PRON	PRP	Person=1	10	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+8	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	10	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 9	ก็	ก็	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 10	พร้อม	พร้อม	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
 11	สำหรับ	สำหรับ	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=sãːhrạb|LTranslit=sãːhrạb
@@ -8652,7 +8652,7 @@
 4	ไม่	ไม่	PART	NEG	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 5	สำคัญ	สำคัญ	ADJ	JJ	_	3	xcomp	_	SpaceAfter=No|Translit=sãːgʰạŷ|LTranslit=sãːgʰạŷ
 6	เพราะ	เพราะ	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
-7	ฉัน	ฉัน	PRON	PRP	Person=1	10	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+7	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	10	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 8	จะ	จะ	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 9	ไม่	ไม่	PART	NEG	Polarity=Neg	10	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 10	มี	มี	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -9577,7 +9577,7 @@
 4	ที่	ที่	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 5	ดี	ดี	ADJ	JJ	_	3	acl:relcl	_	SpaceAfter=No|Translit=diː|LTranslit=diː
 6	ของ	ของ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-7	ฉัน	ฉัน	PRON	PRP	Person=1	3	nmod:poss	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+7	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	3	nmod:poss	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 8	คน	คน	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 9	หนึ่ง	หนึ่ง	NUM	CD	_	8	nummod	_	Translit=hnǜŋ|LTranslit=hnǜŋ
 10	ก็	ก็	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
@@ -10381,7 +10381,7 @@
 # text_en = In Pyongyang I did see some people on their smartphones, but far fewer.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	เปียงยาง	เปียงยาง	PROPN	NNP	_	4	obl	_	Translit=piaːŋyaːŋ|LTranslit=piaːŋyaːŋ
-3	ฉัน	ฉัน	PRON	PRP	Person=1	4	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
+3	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	4	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 4	เห็น	เห็น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hen|LTranslit=hen
 5	คน	คน	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 6	ใช้	ใช้	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
