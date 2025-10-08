@@ -2013,7 +2013,7 @@
 # text_en = A keen guitarist, he played a concert there the same year.
 1	นัก	นัก	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 2	กีตาร์	กีตาร์	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=kiːtaːr|LTranslit=kiːtaːr
-3	ผู้	ผู้	DET	WDT	_	4	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+3	ผู้	ผู้	DET	WDT	PronType=Rel	4	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 4	กระตือรือร้น	กระตือรือร้น	VERB	VV	_	1	acl:relcl	_	Translit=kratüː'rüː'rə̂n|LTranslit=kratüː'rüː'rə̂n
 5	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	7	obl	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
 6	ได้	ได้	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -5059,7 +5059,7 @@
 3	เดียว	เดียว	ADJ	JJ	_	2	amod	_	SpaceAfter=No|Translit=diaːw|LTranslit=diaːw
 4	กัน	กัน	PRON	PRP	PronType=Prs	3	obl	_	Gloss=it|LTranslit=kạn|Translit=kạn
 5	ภรรยา	ภรรยา	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=ḇʰrryaː|LTranslit=ḇʰrryaː
-6	ผู้	ผู้	DET	WDT	_	7	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+6	ผู้	ผู้	DET	WDT	PronType=Rel	7	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 7	เหินห่าง	เหินห่าง	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=heinhàːŋ|LTranslit=heinhàːŋ
 8	ของ	ของ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 9	ผู้	ผู้	NOUN	NN	_	5	nmod:poss	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
@@ -8540,7 +8540,7 @@
 13	ได้	ได้	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 14	เห็น	เห็น	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|Translit=hen|LTranslit=hen
 15	โอดี้	โอดี้	PROPN	NNP	_	14	obj	_	SpaceAfter=No|Translit='oːdîː|LTranslit='oːdîː
-16	ผู้	ผู้	DET	WDT	_	17	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+16	ผู้	ผู้	DET	WDT	PronType=Rel	17	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 17	มี	มี	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 18	ทั้ง	ทั้ง	CCONJ	DT	_	19	cc:preconj	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 19	ความผิดพลาด	ความผิดพลาด	ADJ	JJ	_	17	obj	_	SpaceAfter=No|Translit=gʰwaːmpʰidbʰlaːd|LTranslit=gʰwaːmpʰidbʰlaːd
@@ -9930,7 +9930,7 @@
 2	ออสเตรเลีย	ออสเตรเลีย	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit='ɔːsteːrliaː|LTranslit='ɔːsteːrliaː
 3	สอง	สอง	NUM	CD	_	4	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
 4	คน	คน	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-5	ผู้	ผู้	DET	WDT	_	6	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+5	ผู้	ผู้	DET	WDT	PronType=Rel	6	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 6	ยอมรับ	ยอมรับ	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=yɔːmrạb|LTranslit=yɔːmrạb
 7	ว่า	ว่า	ADP	IN	_	9	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 8	เป็น	เป็น	AUX	VC	_	9	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -10706,7 +10706,7 @@
 1	เมกาบาซุส	เมกาบาซุส	PROPN	NNP	_	9	nsubj	_	Translit=meːkaːbaːcus|LTranslit=meːkaːbaːcus
 2	นาย	นาย	NOUN	NN	_	1	appos	_	SpaceAfter=No|Translit=naːy|LTranslit=naːy
 3	พล	พล	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=bʰl|LTranslit=bʰl
-4	ผู้	ผู้	DET	WDT	_	5	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+4	ผู้	ผู้	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 5	ทรง	ทรง	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 6	เกียรติ	เกียรติ	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=kiaːrti|LTranslit=kiaːrti
 7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
@@ -11206,7 +11206,7 @@
 16	ทรง	ทรง	VERB	MD	_	8	advcl	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 17	แต่งตั้ง	แต่งตั้ง	VERB	VV	_	16	xcomp	_	SpaceAfter=No|Translit=tæ̀ːŋtậŋ|LTranslit=tæ̀ːŋtậŋ
 18	ราสทิซ	ราสทิซ	PROPN	NNP	_	16	obj	_	SpaceAfter=No|Translit=raːsdʰic|LTranslit=raːsdʰic
-19	ผู้	ผู้	DET	WDT	_	21	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+19	ผู้	ผู้	DET	WDT	PronType=Rel	21	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 20	เป็น	เป็น	AUX	VC	_	21	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 21	พระนัดดา	พระนัดดา	NOUN	NN	_	18	acl:relcl	_	SpaceAfter=No|Translit=bʰranạddaː|LTranslit=bʰranạddaː
 22	ขึ้น	ขึ้น	PART	RP	_	17	compound:prt	_	SpaceAfter=No|Translit=kʰü̂n|LTranslit=kʰü̂n
@@ -16025,7 +16025,7 @@
 5	ชาย	ชาย	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=ćʰaːy|LTranslit=ćʰaːy
 6	ฉกรรจ์	ฉกรรจ์	ADJ	JJ	_	5	amod	_	Translit=čʰkrrč|LTranslit=čʰkrrč
 7	(	(	PUNCT	(	_	10	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-8	ผู้	ผู้	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+8	ผู้	ผู้	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 9	เป็น	เป็น	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 10	พล	พล	NOUN	NN	_	5	acl:relcl	_	SpaceAfter=No|Translit=bʰl|LTranslit=bʰl
 11	รบ	รบ	VERB	VV	_	10	acl	_	SpaceAfter=No|Translit=rb|LTranslit=rb
@@ -17813,7 +17813,7 @@
 # text_en = Joseph Darnand, who became an SS officer and led the Milice paramilitaries who hunted down members of the Resistance, was executed in October 1945.
 1	โจเซฟ	โจเซฟ	PROPN	NNP	_	23	nsubj:pass	_	Translit=čoːceːf|LTranslit=čoːceːf
 2	ดาร์นองด์	ดาร์นองด์	PROPN	NNP	_	1	flat:name	_	Translit=daːrnɔːŋd|LTranslit=daːrnɔːŋd
-3	ผู้	ผู้	DET	WDT	_	4	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+3	ผู้	ผู้	DET	WDT	PronType=Rel	4	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 4	กลาย	กลาย	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=klaːy|LTranslit=klaːy
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 6	เจ้าหน้าที่	เจ้าหน้าที่	NOUN	NN	_	4	xcomp	_	SpaceAfter=No|Translit=čaôːhnâːdʰìː|LTranslit=čaôːhnâːdʰìː
@@ -18602,7 +18602,7 @@
 8	ให้	ให้	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 9	ประธานาธิบดี	ประธานาธิบดี	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=praḏʰaːnaːḏʰibdiː|LTranslit=praḏʰaːnaːḏʰibdiː
 10	ยูโดโยโน	ยูโดโยโน	PROPN	NNP	_	9	appos	_	SpaceAfter=No|Translit=yuːdoːyoːnoː|LTranslit=yuːdoːyoːnoː
-11	ผู้	ผู้	DET	WDT	_	12	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+11	ผู้	ผู้	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 12	ชอบ	ชอบ	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|Translit=ćʰɔːb|LTranslit=ćʰɔːb
 13	เข้า	เข้า	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=kʰaôː|LTranslit=kʰaôː
 14	สังคม	สังคม	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=sạŋgʰm|LTranslit=sạŋgʰm
@@ -26635,7 +26635,7 @@
 19	อายุ	อายุ	NOUN	NN	_	17	compound	_	Translit='aːyu|LTranslit='aːyu
 20	18	18	NUM	CD	_	21	nummod	_	Translit=18|LTranslit=18
 21	ปี	ปี	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
-22	ผู้	ผู้	DET	WDT	_	24	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+22	ผู้	ผู้	DET	WDT	PronType=Rel	24	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 23	เป็น	เป็น	AUX	VC	_	24	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 24	ลูก	ลูก	NOUN	NN	_	17	acl:relcl	_	SpaceAfter=No|Translit=luːk|LTranslit=luːk
 25	สาว	สาว	NOUN	NN	_	24	compound	_	SpaceAfter=No|Translit=saːw|LTranslit=saːw
@@ -27879,7 +27879,7 @@
 7	พล	พล	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=bʰl|LTranslit=bʰl
 8	โจเซฟ	โจเซฟ	PROPN	NNP	_	6	appos	_	Translit=čoːceːf|LTranslit=čoːceːf
 9	เบอร์กอยน์	เบอร์กอยน์	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|Translit=bœːrkɔːyn|LTranslit=bœːrkɔːyn
-10	ผู้	ผู้	DET	WDT	_	11	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
+10	ผู้	ผู้	DET	WDT	PronType=Rel	11	nsubj	_	Gloss=that|LTranslit=pʰûː|SpaceAfter=No|Translit=pʰûː
 11	ตั้งใจ	ตั้งใจ	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=tậŋčai|LTranslit=tậŋčai
 12	จะ	จะ	AUX	MD	_	13	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 13	ไป	ไป	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=pại|LTranslit=pại
