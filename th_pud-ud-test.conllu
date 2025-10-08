@@ -472,7 +472,7 @@
 4	ลาก	ลาก	VERB	VV	_	1	xcomp	_	SpaceAfter=No|Translit=laːk|LTranslit=laːk
 5	ผ่าน	ผ่าน	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=pʰàːn|LTranslit=pʰàːn
 6	ตรง	ตรง	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=trŋ|LTranslit=trŋ
-7	นี้	นี้	PRON	PRD	_	5	obl	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
+7	นี้	นี้	PRON	PRD	PronType=Dem	5	obl	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 8	ระหว่าง	ระหว่าง	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=rahwàːŋ|LTranslit=rahwàːŋ
 9	เกม	เกม	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=keːm|LTranslit=keːm
 10	และ	และ	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -1320,7 +1320,7 @@
 4	ไม่	ไม่	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 5	นาน	นาน	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No|Translit=naːn|LTranslit=naːn
 6	มา	มา	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No|Translit=maː|LTranslit=maː
-7	นี้	นี้	PRON	PRD	_	5	obl	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
+7	นี้	นี้	PRON	PRD	PronType=Dem	5	obl	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 8	”	”	PUNCT	''	_	2	punct	_	Translit=”|LTranslit=”
 9	น่า	น่า	VERB	MD	_	0	root	_	SpaceAfter=No|Translit=nàː|LTranslit=nàː
 10	จะ	จะ	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -1470,7 +1470,7 @@
 25	ไม่	ไม่	PART	NEG	Polarity=Neg	26	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 26	นาน	นาน	ADJ	JJ	_	21	xcomp	_	SpaceAfter=No|Translit=naːn|LTranslit=naːn
 27	มา	มา	AUX	AS	Aspect=Perf	26	aux	_	SpaceAfter=No|Translit=maː|LTranslit=maː
-28	นี้	นี้	PRON	PRD	_	26	obl	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
+28	นี้	นี้	PRON	PRD	PronType=Dem	26	obl	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 29	จะ	จะ	AUX	MD	_	30	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 30	ลด	ลด	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=ld|LTranslit=ld
 31	การปล่อย	การปล่อย	VERB	VV	_	30	obj	_	SpaceAfter=No|Translit=kaːrplɔ̀ːy|LTranslit=kaːrplɔ̀ːy
@@ -2558,7 +2558,7 @@
 3	บริติชโคลัมเบีย	บริติชโคลัมเบีย	PROPN	NNP	_	1	nmod	_	SpaceAfter=No|Translit=britićʰgʰoːlạmbiaː|LTranslit=britićʰgʰoːlạmbiaː
 4	แถลง	แถลง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tʰæːlŋ|LTranslit=tʰæːlŋ
 5	ก่อนหน้า	ก่อนหน้า	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kɔ̀ːnhnâː|LTranslit=kɔ̀ːnhnâː
-6	นี้	นี้	PRON	PRD	_	5	obl	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
+6	นี้	นี้	PRON	PRD	PronType=Dem	5	obl	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 7	ว่า	ว่า	ADP	IN	_	9	mark	_	Translit=wàː|LTranslit=wàː
 8	ไม่	ไม่	PART	NEG	Polarity=Neg	9	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 9	ปรากฏ	ปรากฏ	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=praːkṭ|LTranslit=praːkṭ
@@ -2582,7 +2582,7 @@
 27	เมื่อ	เมื่อ	ADP	IN	_	28	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 28	เร็ว	เร็ว	ADV	RB	_	25	advcl	_	SpaceAfter=No|Translit=rew|LTranslit=rew
 29	ๆ	ๆ	SYM	SYM	_	28	dep	_	Translit=.|LTranslit=.
-30	นี้	นี้	PRON	PRD	_	28	obl	_	Translit=nîː|LTranslit=nîː
+30	นี้	นี้	PRON	PRD	PronType=Dem	28	obl	_	Gloss=this|LTranslit=nîː|Translit=nîː
 
 # sent_id = n01035025
 # parallel_id = pud/n01035025
@@ -3891,7 +3891,7 @@
 17	ไม่	ไม่	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 18	นาน	นาน	ADJ	JJ	_	15	xcomp	_	SpaceAfter=No|Translit=naːn|LTranslit=naːn
 19	มา	มา	AUX	AS	Aspect=Perf	18	aux	_	SpaceAfter=No|Translit=maː|LTranslit=maː
-20	นี้	นี้	PRON	PRD	_	18	obl	_	Translit=nîː|LTranslit=nîː
+20	นี้	นี้	PRON	PRD	PronType=Dem	18	obl	_	Gloss=this|LTranslit=nîː|Translit=nîː
 
 # sent_id = n01053036
 # parallel_id = pud/n01053036
@@ -4589,7 +4589,7 @@
 4	ไม่	ไม่	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 5	นาน	นาน	ADV	RB	_	2	xcomp	_	SpaceAfter=No|Translit=naːn|LTranslit=naːn
 6	มา	มา	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No|Translit=maː|LTranslit=maː
-7	นี้	นี้	PRON	PRD	_	5	obl	_	Translit=nîː|LTranslit=nîː
+7	นี้	นี้	PRON	PRD	PronType=Dem	5	obl	_	Gloss=this|LTranslit=nîː|Translit=nîː
 8	เซย์	เซย์	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No|Translit=ceːy|LTranslit=ceːy
 9	และ	และ	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 10	เซเยี่ยน	เซเยี่ยน	PROPN	NNP	_	8	conj	_	SpaceAfter=No|Translit=ceːyiàːn|LTranslit=ceːyiàːn
@@ -5445,7 +5445,7 @@
 7	เมื่อ	เมื่อ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 8	เร็ว	เร็ว	ADV	RB	_	6	xcomp	_	SpaceAfter=No|Translit=rew|LTranslit=rew
 9	ๆ	ๆ	SYM	SYM	_	8	dep	_	Translit=.|LTranslit=.
-10	นี้	นี้	PRON	PRD	_	8	obl	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
+10	นี้	นี้	PRON	PRD	PronType=Dem	8	obl	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 11	ใน	ใน	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 12	รักบี้	รักบี้	NOUN	NN	_	6	obl	_	Proper=True|SpaceAfter=No|Translit=rạkbîː|LTranslit=rạkbîː
 13	แชมเปี้ยนชิป	แชมเปี้ยนชิป	NOUN	NN	_	12	flat:name	_	Proper=True|SpaceAfter=No|Translit=ćʰæːmpiâːnćʰip|LTranslit=ćʰæːmpiâːnćʰip
@@ -6456,7 +6456,7 @@
 24	โผล่	โผล่	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=pʰoːlə̀|LTranslit=pʰoːlə̀
 25	มา	มา	PART	RP	_	24	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 26	จาก	จาก	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
-27	นี้	นี้	PRON	PRD	_	24	obl	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
+27	นี้	นี้	PRON	PRD	PronType=Dem	24	obl	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 28	”	”	PUNCT	''	_	15	punct	_	Translit=”|LTranslit=”
 
 # sent_id = n01091019
@@ -10140,7 +10140,7 @@
 30	จัด	จัด	VERB	VV	_	26	acl:relcl	_	SpaceAfter=No|Translit=čạd|LTranslit=čạd
 31	โชว์	โชว์	NOUN	NN	_	30	obj	_	SpaceAfter=No|Translit=ćʰoːw|LTranslit=ćʰoːw
 32	อย่าง	อย่าง	ADP	IN	_	33	case	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
-33	นี้	นี้	PRON	PRD	_	31	nmod	_	Translit=nîː|LTranslit=nîː
+33	นี้	นี้	PRON	PRD	PronType=Dem	31	nmod	_	Gloss=this|LTranslit=nîː|Translit=nîː
 
 # sent_id = n01145028
 # parallel_id = pud/n01145028
@@ -10218,7 +10218,7 @@
 18	สูง	สูง	ADJ	JJ	_	14	acl:relcl	_	SpaceAfter=No|Translit=suːŋ|LTranslit=suːŋ
 19	ขึ้น	ขึ้น	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=kʰü̂n|LTranslit=kʰü̂n
 20	กว่า	กว่า	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
-21	นี้	นี้	PRON	PRD	_	19	obl	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
+21	นี้	นี้	PRON	PRD	PronType=Dem	19	obl	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 22	ใน	ใน	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 23	ญี่ปุ่น	ญี่ปุ่น	PROPN	NNP	_	13	obl	_	Translit=ŷìːpùn|LTranslit=ŷìːpùn
 
@@ -11225,7 +11225,7 @@
 # text_en = In addition, statute determines the election of assembly of regions, and metropolitan districts.
 1	นอก	นอก	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
-3	นี้	นี้	PRON	PRD	_	1	fixed	_	Translit=nîː|LTranslit=nîː
+3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|LTranslit=nîː|Translit=nîː
 4	บท	บท	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=bdʰ|LTranslit=bdʰ
 5	กฎหมาย	กฎหมาย	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=kḍhmaːy|LTranslit=kḍhmaːy
 6	ได้	ได้	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -11436,7 +11436,7 @@
 6	เมื่อ	เมื่อ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 7	เร็ว	เร็ว	ADV	RB	_	1	xcomp	_	SpaceAfter=No|Translit=rew|LTranslit=rew
 8	ๆ	ๆ	SYM	SYM	_	7	dep	_	Translit=.|LTranslit=.
-9	นี้	นี้	PRON	PRD	_	7	obl	_	Translit=nîː|LTranslit=nîː
+9	นี้	นี้	PRON	PRD	PronType=Dem	7	obl	_	Gloss=this|LTranslit=nîː|Translit=nîː
 10	คือ	คือ	VERB	VC	_	0	root	_	Translit=gʰüː'|LTranslit=gʰüː'
 11	การเตรียม	การเตรียม	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=kaːrteːriːym|LTranslit=kaːrteːriːym
 12	พร้อม	พร้อม	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
@@ -15199,7 +15199,7 @@
 # text_en = In addition, he strengthened defenses between Egypt and Asia, building the Walls of the Ruler in the East Delta region.
 1	นอก	นอก	ADP	IN	_	5	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
-3	นี้	นี้	PRON	PRD	_	1	fixed	_	Translit=nîː|LTranslit=nîː
+3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|LTranslit=nîː|Translit=nîː
 4	พระองค์	พระองค์	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
 5	ทรง	ทรง	VERB	MD	_	0	root	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 6	เสริม	เสริม	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=seːrim|LTranslit=seːrim
@@ -16003,7 +16003,7 @@
 27	ที่	ที่	DET	WDT	PronType=Rel	28	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 28	น้อย	น้อย	ADJ	JJ	_	23	acl:relcl	_	SpaceAfter=No|Translit=nɔ̂ːy|LTranslit=nɔ̂ːy
 29	กว่า	กว่า	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
-30	นี้	นี้	PRON	PRD	_	28	obl	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
+30	นี้	นี้	PRON	PRD	PronType=Dem	28	obl	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 31	เอง	เอง	PRON	PRP	_	30	compound	_	SpaceAfter=No|Translit='eːŋ|LTranslit='eːŋ
 32	เป็น	เป็น	AUX	VC	_	33	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 33	ตัว	ตัว	NOUN	NN	_	3	acl	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
@@ -20291,7 +20291,7 @@
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	ช่วง	ช่วง	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=ćʰə̀wŋ|LTranslit=ćʰə̀wŋ
 3	ระหว่าง	ระหว่าง	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=rahwàːŋ|LTranslit=rahwàːŋ
-4	นี้	นี้	PRON	PRD	_	2	nmod	_	Translit=nîː|LTranslit=nîː
+4	นี้	นี้	PRON	PRD	PronType=Dem	2	nmod	_	Gloss=this|LTranslit=nîː|Translit=nîː
 5	มาร์เซล	มาร์เซล	PROPN	NNP	_	13	nsubj:pass	_	SpaceAfter=No|Translit=maːrceːl|LTranslit=maːrceːl
 6	ถูก	ถูก	AUX	MD	Voice=Pass	13	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 7	ทิ้ง	ทิ้ง	VERB	VV	_	13	xcomp	_	SpaceAfter=No|Translit=dʰîŋ|LTranslit=dʰîŋ
@@ -20689,7 +20689,7 @@
 2	ไม่	ไม่	PART	NEG	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 3	นาน	นาน	ADV	RB	_	8	xcomp	_	SpaceAfter=No|Translit=naːn|LTranslit=naːn
 4	มา	มา	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|Translit=maː|LTranslit=maː
-5	นี้	นี้	PRON	PRD	_	3	obl	_	Translit=nîː|LTranslit=nîː
+5	นี้	นี้	PRON	PRD	PronType=Dem	3	obl	_	Gloss=this|LTranslit=nîː|Translit=nîː
 6	เขา	เขา	PRON	PRP	Person=3	8	nsubj	_	SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 7	ได้	ได้	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 8	หย่า	หย่า	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hyàː|LTranslit=hyàː
@@ -22126,7 +22126,7 @@
 15	ได้	ได้	AUX	MD	_	6	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 16	มาก	มาก	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
 17	กว่า	กว่า	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
-18	นี้	นี้	PRON	PRD	_	16	obl	_	Translit=nîː|LTranslit=nîː
+18	นี้	นี้	PRON	PRD	PronType=Dem	16	obl	_	Gloss=this|LTranslit=nîː|Translit=nîː
 
 # sent_id = n02052023
 # parallel_id = pud/n02052023
@@ -24156,7 +24156,7 @@
 # text_en = Furthermore, the Government will have to deal with another "hot potato".
 1	นอก	นอก	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
-3	นี้	นี้	PRON	PRD	_	1	fixed	_	Translit=nîː|LTranslit=nîː
+3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|LTranslit=nîː|Translit=nîː
 4	รัฐบาล	รัฐบาล	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=rạṭʰbaːl|LTranslit=rạṭʰbaːl
 5	จะ	จะ	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 6	ต้อง	ต้อง	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
@@ -25275,7 +25275,7 @@
 # text_en = In addition, its process of gilding copper is technologically noteworthy.
 1	นอก	นอก	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
-3	นี้	นี้	PRON	PRD	_	1	fixed	_	Translit=nîː|LTranslit=nîː
+3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|LTranslit=nîː|Translit=nîː
 4	กระบวนการ	กระบวนการ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=krabwnkaːr|LTranslit=krabwnkaːr
 5	ใน	ใน	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 6	การชุบ	การชุบ	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=kaːrćʰub|LTranslit=kaːrćʰub
@@ -25641,7 +25641,7 @@
 11	ได้	ได้	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 12	จาก	จาก	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 13	ตรง	ตรง	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=trŋ|LTranslit=trŋ
-14	นี้	นี้	PRON	PRD	_	10	nmod	_	ToDo=nmod|Translit=nîː|LTranslit=nîː
+14	นี้	นี้	PRON	PRD	PronType=Dem	10	nmod	_	Gloss=this|LTranslit=nîː|ToDo=nmod|Translit=nîː
 
 # sent_id = w02015086
 # parallel_id = pud/w02015086
@@ -26720,7 +26720,7 @@
 # text_en = Furthermore, the occurrence of hurricanes on the island is possible during the summer.
 1	นอก	นอก	CCONJ	CC	_	8	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
-3	นี้	นี้	PRON	PRD	_	1	fixed	_	Translit=nîː|LTranslit=nîː
+3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|LTranslit=nîː|Translit=nîː
 4	พายุ	พายุ	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=bʰaːyu|LTranslit=bʰaːyu
 5	เฮอริเคน	เฮอริเคน	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=ḥœːrigʰeːn|LTranslit=ḥœːrigʰeːn
 6	บน	บน	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=bn|LTranslit=bn
@@ -27194,7 +27194,7 @@
 19	อังกฤษ	อังกฤษ	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No|Translit='ạŋkṟš|LTranslit='ạŋkṟš
 20	ไป	ไป	PART	RP	_	14	compound:prt	_	Translit=pại|LTranslit=pại
 21	ทั้ง	ทั้ง	ADP	IN	_	27	mark	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
-22	นี้	นี้	PRON	PRD	_	21	fixed	_	SpaceAfter=No|Translit=nîː|LTranslit=nîː
+22	นี้	นี้	PRON	PRD	PronType=Dem	21	fixed	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 23	เพราะ	เพราะ	ADP	IN	_	21	fixed	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
 24	การพัฒนา	การพัฒนา	VERB	VV	_	27	nsubj	_	SpaceAfter=No|Translit=kaːrbʰạḑʰnaː|LTranslit=kaːrbʰạḑʰnaː
 25	ใหม่	ใหม่	ADJ	JJ	_	24	amod	_	SpaceAfter=No|Translit=haimə̀|LTranslit=haimə̀
