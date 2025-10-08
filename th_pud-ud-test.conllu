@@ -9608,7 +9608,7 @@
 6	รายการ	รายการ	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=raːykaːr|LTranslit=raːykaːr
 7	พิเศษ	พิเศษ	ADJ	JJ	_	6	amod	_	Translit=bʰiśeːš|LTranslit=bʰiśeːš
 8	"	"	PUNCT	``	_	11	punct	_	SpaceAfter=No|Translit="|LTranslit="
-9	เดอะ	เดอะ	DET	DT	_	11	det	_	Proper=True|SpaceAfter=No|Translit=dœ|LTranslit=dœ
+9	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	11	det	_	Gloss=the|LTranslit=dœ|Proper=True|SpaceAfter=No|Translit=dœ
 10	ทอล์กกิ้ง	ทอล์กกิ้ง	ADJ	JJ	_	11	amod	_	Proper=True|SpaceAfter=No|Translit=dʰɔːlkkîŋ|LTranslit=dʰɔːlkkîŋ
 11	เดด	เดด	NOUN	NN	_	6	appos	_	Proper=True|SpaceAfter=No|Translit=deːd|LTranslit=deːd
 12	"	"	PUNCT	''	_	11	punct	_	Translit="|LTranslit="
@@ -18729,7 +18729,7 @@
 3	สมัคร	สมัคร	VERB	VV	_	2	acl	_	SpaceAfter=No|Translit=smạgʰr|LTranslit=smạgʰr
 4	งาน	งาน	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
 5	ใน	ใน	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-6	เดอะ	เดอะ	DET	DT	_	7	det	_	Proper=True|SpaceAfter=No|Translit=dœ|LTranslit=dœ
+6	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	7	det	_	Gloss=the|LTranslit=dœ|Proper=True|SpaceAfter=No|Translit=dœ
 7	สก็อตส์แมน	สก็อตส์แมน	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=skɔtsmæːn|LTranslit=skɔtsmæːn
 8	ที่	ที่	DET	WDT	PronType=Rel	13	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 9	น้อง	น้อง	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=nɔ̂ːŋ|LTranslit=nɔ̂ːŋ
@@ -18792,7 +18792,7 @@
 5	ขาย	ขาย	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=kʰaːy|LTranslit=kʰaːy
 6	รวม	รวม	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 7	ของ	ของ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-8	เดอะ	เดอะ	DET	DT	_	9	det	_	Proper=True|SpaceAfter=No|Translit=dœ|LTranslit=dœ
+8	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	9	det	_	Gloss=the|LTranslit=dœ|Proper=True|SpaceAfter=No|Translit=dœ
 9	พาวเวอร์	พาวเวอร์	NOUN	NN	_	4	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=bʰaːwwœːr|LTranslit=bʰaːwwœːr
 10	ออฟ	ออฟ	ADP	IN	_	11	case	_	Proper=True|SpaceAfter=No|Translit='ɔːf|LTranslit='ɔːf
 11	นาว	นาว	NOUN	NN	_	9	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=naːw|LTranslit=naːw
@@ -19192,7 +19192,7 @@
 19	ละคร	ละคร	NOUN	NN	_	15	obl:poss	_	SpaceAfter=No|Translit=lagʰr|LTranslit=lagʰr
 20	เพลง	เพลง	NOUN	NN	_	19	compound	_	SpaceAfter=No|Translit=bʰeːlŋ|LTranslit=bʰeːlŋ
 21	เรื่อง	เรื่อง	NOUN	NN	_	19	compound	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
-22	เดอะ	เดอะ	DET	DT	_	23	det	_	Proper=True|SpaceAfter=No|Translit=dœ|LTranslit=dœ
+22	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	23	det	_	Gloss=the|LTranslit=dœ|Proper=True|SpaceAfter=No|Translit=dœ
 23	วิซ	วิซ	NOUN	NN	_	19	compound	_	Proper=True|Translit=wic|LTranslit=wic
 
 # sent_id = w01125034
@@ -20018,7 +20018,7 @@
 9	แซลมอน	แซลมอน	NOUN	NN	_	5	appos	_	Proper=True|Translit=cæːlmɔːn|LTranslit=cæːlmɔːn
 10	ฟิชชิง	ฟิชชิง	NOUN	NN	_	9	flat:name	_	Proper=True|Translit=fićʰćʰiŋ|LTranslit=fićʰćʰiŋ
 11	อิน	อิน	ADP	IN	_	13	case	_	Proper=True|Translit='in|LTranslit='in
-12	เดอะ	เดอะ	DET	DT	_	13	det	_	Proper=True|Translit=dœ|LTranslit=dœ
+12	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	13	det	_	Gloss=the|LTranslit=dœ|Proper=True|Translit=dœ
 13	เยเมน	เยเมน	PROPN	NNP	_	9	nmod	_	Translit=yeːmeːn|LTranslit=yeːmeːn
 14	ใน	ใน	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 15	ปี	ปี	NOUN	NN	_	5	nmod	_	Translit=piː|LTranslit=piː
@@ -20059,7 +20059,7 @@
 13	สั้น	สั้น	ADJ	JJ	_	12	amod	_	SpaceAfter=No|Translit=sận|LTranslit=sận
 14	ๆ	ๆ	SYM	SYM	_	13	dep	_	Translit=.|LTranslit=.
 15	ใน	ใน	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-16	เดอะ	เดอะ	DET	DT	_	17	det	_	Proper=True|Translit=dœ|LTranslit=dœ
+16	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	17	det	_	Gloss=the|LTranslit=dœ|Proper=True|Translit=dœ
 17	มัพเพ็ตส์	มัพเพ็ตส์	NOUN	NN	_	9	obl	_	Proper=True|SpaceAfter=No|Translit=mạbʰbʰets|LTranslit=mạbʰbʰets
 18	ของ	ของ	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 19	ดิสนีย์	ดิสนีย์	PROPN	NNP	_	17	nmod:poss	_	Translit=disniːy|LTranslit=disniːy
@@ -20083,7 +20083,7 @@
 5	ปี	ปี	NOUN	NN	_	4	obl:tmod	_	Translit=piː|LTranslit=piː
 6	2011	2011	NUM	CD	_	5	appos	_	Translit=2011|LTranslit=2011
 7	เรื่อง	เรื่อง	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
-8	เดอะ	เดอะ	DET	DT	_	11	det	_	Proper=True|Translit=dœ|LTranslit=dœ
+8	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	11	det	_	Gloss=the|LTranslit=dœ|Proper=True|Translit=dœ
 9	ไฟฟ์	ไฟฟ์	NUM	CD	_	10	nummod	_	Proper=True|Translit=fạif|LTranslit=fạif
 10	เยียร์	เยียร์	PROPN	NNB	_	11	obl:tmod	_	Proper=True|Translit=yiaːr|LTranslit=yiaːr
 11	เอนเกจเมนต์	เอนเกจเมนต์	NOUN	NN	_	4	appos	_	Proper=True|Translit='eːnkeːčmeːnt|LTranslit='eːnkeːčmeːnt
@@ -28110,7 +28110,7 @@
 15	เพลง	เพลง	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=bʰeːlŋ|LTranslit=bʰeːlŋ
 16	ของ	ของ	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 17	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	14	nmod:poss	_	Gloss=he,she|LTranslit=kʰaoː|Translit=kʰaoː
-18	เดอะ	เดอะ	DET	DT	_	19	det	_	Proper=True|Translit=dœ|LTranslit=dœ
+18	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	19	det	_	Gloss=the|LTranslit=dœ|Proper=True|Translit=dœ
 19	ร็อกเก็ต	ร็อกเก็ต	NOUN	NN	_	14	appos	_	Proper=True|Translit=rɔkket|LTranslit=rɔkket
 20	เรคคอร์ด	เรคคอร์ด	NOUN	NN	_	19	flat:name	_	Proper=True|Translit=reːgʰgʰɔːrd|LTranslit=reːgʰgʰɔːrd
 21	คอมพานี	คอมพานี	NOUN	NN	_	19	flat:name	_	Proper=True|Translit=gʰɔːmbʰaːniː|LTranslit=gʰɔːmbʰaːniː
