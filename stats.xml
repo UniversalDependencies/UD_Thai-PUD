@@ -41,7 +41,7 @@
     <feat name="Person" value="2" upos="PRON">19</feat><!-- คุณ, 'Ya, You, นาย, ยู -->
     <feat name="Person" value="3" upos="PRON">324</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์ -->
     <feat name="Polarity" value="Neg" upos="PART">205</feat><!-- ไม่, ความไม่, มิ, อย่างไม่, การไม่ -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">275</feat><!-- นี้, นั้น, นี่ -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">289</feat><!-- นี้, นั้น, นี่, นั่น -->
     <feat name="PronType" value="Ind" upos="DET">113</feat><!-- หลาย, อีก, บาง, ใด -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">15</feat><!-- หรือเปล่า, หรือไม่, อะไร, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
     <feat name="PronType" value="Prs" upos="PRON">414</feat><!-- เขา, เธอ, เรา, ฉัน, มัน, ผม, คุณ, ตัวเอง -->

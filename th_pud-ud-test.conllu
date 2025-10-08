@@ -3308,7 +3308,7 @@
 # text = นั่นนำไปสู่การเปิดเผยความจริงในช่วงสองวันที่ผ่านมาว่า นักข่าวชาวควิเบกอย่างน้อย 6 คน ถูกเพ่งเล็งในปฏิบัติการตรวจตราของตำรวจภูธร
 # translit = nạ̀nnãːpạisùːkaːrpeidpʰeːygʰwaːmčriŋnaićʰə̀wŋsɔːŋwạndʰìːpʰàːnmaːwàː nạkkʰàːwćʰaːwgʰwibeːkɔːyàːŋnɔ̂ːy 6 gʰn tʰuːkbʰèːŋleŋnaipṭibạtikaːrtrwčtraːkʰɔːŋtãːrwčḇʰuːḏʰr
 # text_en = That led to revelations over the last two days that at least six other Quebec journalists were targeted by provincial police surveillance operations.
-1	นั่น	นั่น	PRON	PRD	_	2	nsubj	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
+1	นั่น	นั่น	PRON	PRD	PronType=Dem	2	nsubj	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|Translit=nạ̀n
 2	นำ	นำ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=nãː|LTranslit=nãː
 3	ไป	ไป	PART	RP	_	2	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 4	สู่	สู่	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=sùː|LTranslit=sùː
@@ -4372,7 +4372,7 @@
 12	กว่า	กว่า	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 13	ความเหมือน	ความเหมือน	VERB	VC	_	11	obl	_	Translit=gʰwaːmheːmüː'n|LTranslit=gʰwaːmheːmüː'n
 14	แต่	แต่	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
-15	นั่น	นั่น	PRON	PRD	_	19	nsubj	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
+15	นั่น	นั่น	PRON	PRD	PronType=Dem	19	nsubj	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|Translit=nạ̀n
 16	ก็	ก็	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 17	ไม่	ไม่	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 18	ได้	ได้	AUX	AS	Aspect=Perf	19	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -5144,7 +5144,7 @@
 2	คน	คน	NOUN	NN	_	1	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 3	ตาย	ตาย	VERB	VV	_	2	acl	_	SpaceAfter=No|Translit=taːy|LTranslit=taːy
 4	ที่	ที่	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-5	นั่น	นั่น	PRON	PRD	_	1	obl	_	Translit=nạ̀n|LTranslit=nạ̀n
+5	นั่น	นั่น	PRON	PRD	PronType=Dem	1	obl	_	Gloss=that|LTranslit=nạ̀n|Translit=nạ̀n
 
 # sent_id = n01071009
 # parallel_id = pud/n01071009
@@ -8199,7 +8199,7 @@
 10	จะ	จะ	AUX	MD	_	12	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 11	เป็น	เป็น	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 12	เสียง	เสียง	NOUN	NN	_	5	parataxis	_	SpaceAfter=No|Translit=siaːŋ|LTranslit=siaːŋ
-13	นั่น	นั่น	DET	DT	_	12	det	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
+13	นั่น	นั่น	DET	DT	PronType=Dem	12	det	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|Translit=nạ̀n
 14	ที่	ที่	DET	WDT	PronType=Rel	15	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 15	สามารถ	สามารถ	VERB	MD	_	12	acl:relcl	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
 16	ระเบิด	ระเบิด	VERB	VV	_	15	xcomp	_	SpaceAfter=No|Translit=rabeid|LTranslit=rabeid
@@ -15456,7 +15456,7 @@
 6	สร้าง	สร้าง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=srâːŋ|LTranslit=srâːŋ
 7	ขึ้น	ขึ้น	PART	RP	_	6	compound:prt	_	SpaceAfter=No|Translit=kʰü̂n|LTranslit=kʰü̂n
 8	ที่	ที่	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-9	นั่น	นั่น	PRON	PRD	_	6	obl	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
+9	นั่น	นั่น	PRON	PRD	PronType=Dem	6	obl	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|Translit=nạ̀n
 10	ประมาณ	ประมาณ	ADV	RB	_	11	advmod	_	Translit=pramaːṇ|LTranslit=pramaːṇ
 11	1900	1900	NUM	CD	_	12	nummod	_	Translit=1900|LTranslit=1900
 12	ปี	ปี	NOUN	NNB	_	6	obl:tmod	_	SpaceAfter=No|Translit=piː|LTranslit=piː
@@ -15471,7 +15471,7 @@
 21	อาศัย	อาศัย	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No|Translit='aːśạy|LTranslit='aːśạy
 22	อยู่	อยู่	VERB	VV	_	21	acl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 23	ที่	ที่	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-24	นั่น	นั่น	PRON	PRD	_	22	obl	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
+24	นั่น	นั่น	PRON	PRD	PronType=Dem	22	obl	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|Translit=nạ̀n
 25	จน	จน	ADP	IN	_	29	case	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 26	ถึง	ถึง	ADP	IN	_	25	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 27	ประมาณ	ประมาณ	ADV	RB	_	28	advmod	_	Translit=pramaːṇ|LTranslit=pramaːṇ
@@ -15752,7 +15752,7 @@
 4	ของ	ของ	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 5	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	2	nmod:poss	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
 6	ที่	ที่	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-7	นั่น	นั่น	PRON	PRD	_	2	nmod	_	Translit=nạ̀n|LTranslit=nạ̀n
+7	นั่น	นั่น	PRON	PRD	PronType=Dem	2	nmod	_	Gloss=that|LTranslit=nạ̀n|Translit=nạ̀n
 8	คิปลิง	คิปลิง	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=gʰipliŋ|LTranslit=gʰipliŋ
 9	พบ	พบ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰb|LTranslit=bʰb
 10	และ	และ	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -16306,7 +16306,7 @@
 30	เป็น	เป็น	AUX	VC	_	31	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 31	เป้าหมาย	เป้าหมาย	NOUN	NN	_	29	xcomp	_	SpaceAfter=No|Translit=paôːhmaːy|LTranslit=paôːhmaːy
 32	ที่	ที่	ADP	IN	_	33	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-33	นั่น	นั่น	PRON	PRD	_	31	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=nạ̀n|LTranslit=nạ̀n
+33	นั่น	นั่น	PRON	PRD	PronType=Dem	31	nmod	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|ToDo=nmod|Translit=nạ̀n
 34	อยู่	อยู่	VERB	AS	Aspect=Prog	20	conj	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 35	เหมือน	เหมือน	VERB	VC	_	29	acl	_	SpaceAfter=No|Translit=heːmüː'n|LTranslit=heːmüː'n
 36	เดิม	เดิม	ADV	RB	_	35	ccomp	_	Translit=deim|LTranslit=deim
@@ -16892,7 +16892,7 @@
 9	อาศัย	อาศัย	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit='aːśạy|LTranslit='aːśạy
 10	อยู่	อยู่	VERB	AS	Aspect=Prog	3	xcomp	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 11	ที่	ที่	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-12	นั่น	นั่น	PRON	PRD	_	10	obl	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
+12	นั่น	นั่น	PRON	PRD	PronType=Dem	10	obl	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|Translit=nạ̀n
 13	พร้อม	พร้อม	VERB	VV	_	9	acl	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
 14	ด้วย	ด้วย	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 15	ที่	ที่	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -19123,7 +19123,7 @@
 30	สาย	สาย	NOUN	NN	_	28	nmod	_	SpaceAfter=No|Translit=saːy|LTranslit=saːy
 31	ดนตรี	ดนตรี	NOUN	NN	_	30	compound	_	SpaceAfter=No|Translit=dntriː|LTranslit=dntriː
 32	ที่	ที่	ADP	IN	_	33	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-33	นั่น	นั่น	PRON	PRD	_	27	obl	_	Translit=nạ̀n|LTranslit=nạ̀n
+33	นั่น	นั่น	PRON	PRD	PronType=Dem	27	obl	_	Gloss=that|LTranslit=nạ̀n|Translit=nạ̀n
 
 # sent_id = w01124011
 # parallel_id = pud/w01124011
@@ -21676,7 +21676,7 @@
 16	ผล	ผล	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=pʰl|LTranslit=pʰl
 17	อีก	อีก	DET	DT	PronType=Ind	18	det	_	Gloss=more,other|LTranslit='iːk|SpaceAfter=No|Translit='iːk
 18	ครั้ง	ครั้ง	NOUN	NNB	_	15	obl	_	Translit=gʰrậŋ|LTranslit=gʰrậŋ
-19	นั่น	นั่น	PRON	PRD	_	20	nsubj	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
+19	นั่น	นั่น	PRON	PRD	PronType=Dem	20	nsubj	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|Translit=nạ̀n
 20	คือ	คือ	VERB	VC	_	15	acl	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 21	สหรัฐ	สหรัฐ	NOUN	NN	_	25	nsubj	_	Proper=True|SpaceAfter=No|Translit=shrạṭʰ|LTranslit=shrạṭʰ
 22	อเมริกา	อเมริกา	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No|Translit='meːrikaː|LTranslit='meːrikaː
@@ -21909,7 +21909,7 @@
 # text = นั่นก็เพราะว่าทุกปาฏิหาริย์และแต่ละเขตพิเศษมีผลเหนือทุกอย่าง
 # translit = nạ̀nkɔʔbʰeːraːawàːdʰukpaːṭihaːriylætæ̀ːlakʰeːtbʰiśeːšmiːpʰlheːnüː'dʰukɔːyàːŋ
 # text_en = That is because each and every miracle and each specialized district occupies an entire field.
-1	นั่น	นั่น	PRON	PRD	_	0	root	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
+1	นั่น	นั่น	PRON	PRD	PronType=Dem	0	root	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|Translit=nạ̀n
 2	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 3	เพราะ	เพราะ	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
 4	ว่า	ว่า	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -24470,7 +24470,7 @@
 # text_en = Perhaps that's why a surge of tears clouds his pupils while the syllable of time unearths his crop and surrenders his mystery to the bound waters.
 1	บาง	บาง	DET	DT	PronType=Ind	2	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 2	ที	ที	NOUN	NNB	_	4	obl	_	SpaceAfter=No|Translit=dʰiː|LTranslit=dʰiː
-3	นั่น	นั่น	PRON	PRD	_	4	nsubj	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
+3	นั่น	นั่น	PRON	PRD	PronType=Dem	4	nsubj	_	Gloss=that|LTranslit=nạ̀n|SpaceAfter=No|Translit=nạ̀n
 4	อาจ	อาจ	VERB	MD	_	0	root	_	SpaceAfter=No|Translit='aːč|LTranslit='aːč
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 6	เหตุผล	เหตุผล	NOUN	NN	_	4	xcomp	_	SpaceAfter=No|Translit=heːtupʰl|LTranslit=heːtupʰl
@@ -24851,7 +24851,7 @@
 28	ฝ้าย	ฝ้าย	NOUN	NN	_	25	compound	_	SpaceAfter=No|Translit=fʰâːy|LTranslit=fʰâːy
 29	ขึ้น	ขึ้น	PART	RP	_	24	compound:prt	_	SpaceAfter=No|Translit=kʰü̂n|LTranslit=kʰü̂n
 30	ที่	ที่	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-31	นั่น	นั่น	PRON	PRD	_	24	obl	_	Translit=nạ̀n|LTranslit=nạ̀n
+31	นั่น	นั่น	PRON	PRD	PronType=Dem	24	obl	_	Gloss=that|LTranslit=nạ̀n|Translit=nạ̀n
 
 # sent_id = w02003070
 # parallel_id = pud/w02003070
