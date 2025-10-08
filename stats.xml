@@ -42,7 +42,7 @@
     <feat name="Person" value="3" upos="PRON">324</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์ -->
     <feat name="Polarity" value="Neg" upos="PART">205</feat><!-- ไม่, ความไม่, มิ, อย่างไม่, การไม่ -->
     <feat name="PronType" value="Dem" upos="DET,PRON">232</feat><!-- นี้, นั้น -->
-    <feat name="PronType" value="Ind" upos="DET">56</feat><!-- หลาย -->
+    <feat name="PronType" value="Ind" upos="DET">76</feat><!-- หลาย, บาง -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">15</feat><!-- หรือเปล่า, หรือไม่, อะไร, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
     <feat name="PronType" value="Rel" upos="DET">586</feat><!-- ที่, ซึ่ง -->
     <feat name="Typo" value="Yes" upos="PROPN">4</feat><!-- ซิกูร์, บัวโนส, ฟยอกูร์, มาเร -->

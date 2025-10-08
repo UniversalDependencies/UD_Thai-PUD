@@ -594,7 +594,7 @@
 # translit = miːbaːŋgʰrậŋdʰìːkʰaoːrûːsükwàːbʰwknậngʰwrɔː'kčaːktük naːybʰạnwạlgʰaːrklàːw
 # text_en = There was a time, Mr Panvalkar said, when he felt that they should leave the building.
 1	มี	มี	VERB	VV	_	16	ccomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
-2	บาง	บาง	DET	DT	_	3	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+2	บาง	บาง	DET	DT	PronType=Ind	3	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 3	ครั้ง	ครั้ง	NOUN	NNB	_	1	obj	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
 4	ที่	ที่	DET	WDT	PronType=Rel	6	obl:tmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 5	เขา	เขา	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
@@ -1032,7 +1032,7 @@
 10	และ	และ	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 11	สามารถ	สามารถ	VERB	MD	_	6	conj	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
 12	เสนอ	เสนอ	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=seːnɔː|LTranslit=seːnɔː
-13	บาง	บาง	DET	DT	_	14	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+13	บาง	บาง	DET	DT	PronType=Ind	14	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 14	อย่าง	อย่าง	NOUN	NNB	_	11	obj	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 15	ที่	ที่	DET	WDT	PronType=Rel	16	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 16	อาจ	อาจ	VERB	MD	_	14	acl:relcl	_	SpaceAfter=No|Translit='aːč|LTranslit='aːč
@@ -1106,7 +1106,7 @@
 # text = บางครั้งก็คล้ายพลังพิเศษ
 # translit = baːŋgʰrậŋkɔʔgʰlâːybʰlạŋbʰiśeːš
 # text_en = It's like a super power sometimes.
-1	บาง	บาง	DET	DT	_	2	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+1	บาง	บาง	DET	DT	PronType=Ind	2	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 2	ครั้ง	ครั้ง	NOUN	NNB	_	4	obl:tmod	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
 3	ก็	ก็	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	คล้าย	คล้าย	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰlâːy|LTranslit=gʰlâːy
@@ -1158,7 +1158,7 @@
 4	ด้าน	ด้าน	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=dâːn|LTranslit=dâːn
 5	ความปลอด	ความปลอด	VERB	VV	_	4	compound	_	SpaceAfter=No|Translit=gʰwaːmplɔːd|LTranslit=gʰwaːmplɔːd
 6	ภัย	ภัย	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=ḇʰạy|LTranslit=ḇʰạy
-7	บาง	บาง	DET	DT	_	8	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+7	บาง	บาง	DET	DT	PronType=Ind	8	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 8	ส่วน	ส่วน	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 9	ตั้ง	ตั้ง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
 10	คำ	คำ	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=gʰãː|LTranslit=gʰãː
@@ -3873,7 +3873,7 @@
 # translit = ćʰaːybaːŋgʰnkʰaôːčailæboːnoːkɔʔpenhnǜŋnainận liːfklàːwnaikaːrsạmḇʰaːšṇmüàːmạìnaːnmaːnîː
 # text_en = "Some men get it and Bono is one of those guys," Leive said in a recent interview.
 1	ชาย	ชาย	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=ćʰaːy|LTranslit=ćʰaːy
-2	บาง	บาง	DET	DT	_	3	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+2	บาง	บาง	DET	DT	PronType=Ind	3	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 3	คน	คน	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 4	เข้าใจ	เข้าใจ	VERB	VV	_	13	ccomp	_	SpaceAfter=No|Translit=kʰaôːčai|LTranslit=kʰaôːčai
 5	และ	และ	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -6070,7 +6070,7 @@
 11	ๆ	ๆ	SYM	SYM	_	10	dep	_	Translit=.|LTranslit=.
 12	ก็	ก็	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 13	มี	มี	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=miː|LTranslit=miː
-14	บาง	บาง	DET	DT	_	15	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+14	บาง	บาง	DET	DT	PronType=Ind	15	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 15	คน	คน	NOUN	NNB	_	13	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 16	ที่	ที่	DET	WDT	PronType=Rel	17	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 17	เคารพ	เคารพ	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=gʰaoːrbʰ|LTranslit=gʰaoːrbʰ
@@ -11129,7 +11129,7 @@
 25	ของ	ของ	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 26	สโลวาเกีย	สโลวาเกีย	PROPN	NNP	_	21	nmod:poss	_	Translit=sloːwaːkiaː|LTranslit=sloːwaːkiaː
 27	และ	และ	CCONJ	CC	_	29	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-28	บาง	บาง	DET	DT	_	29	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+28	บาง	บาง	DET	DT	PronType=Ind	29	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 29	ส่วน	ส่วน	NOUN	NNB	_	12	conj	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 30	ของ	ของ	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 31	รัฐ	รัฐ	NOUN	NN	_	29	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=rạṭʰ|LTranslit=rạṭʰ
@@ -12597,7 +12597,7 @@
 5	ว่า	ว่า	VERB	VV	_	4	acl	_	Translit=wàː|LTranslit=wàː
 6	volcanology	volcanology	NOUN	NN	_	5	obj	_	Translit=volcanology|LTranslit=volcanology
 7	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	10	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
-8	บาง	บาง	DET	DT	_	9	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+8	บาง	บาง	DET	DT	PronType=Ind	9	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 9	ครั้ง	ครั้ง	NOUN	NNB	_	10	obl	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
 10	สะกด	สะกด	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=sakd|LTranslit=sakd
 11	ว่า	ว่า	VERB	VV	_	10	xcomp	_	Translit=wàː|LTranslit=wàː
@@ -13313,7 +13313,7 @@
 4	เพิ่ม	เพิ่ม	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=bʰeìm|LTranslit=bʰeìm
 5	ความเร็ว	ความเร็ว	ADV	RB	_	4	obj	_	Translit=gʰwaːmrew|LTranslit=gʰwaːmrew
 6	อนุภาค	อนุภาค	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit='nuḇʰaːgʰ|LTranslit='nuḇʰaːgʰ
-7	บาง	บาง	DET	DT	_	8	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+7	บาง	บาง	DET	DT	PronType=Ind	8	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 8	ส่วน	ส่วน	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 9	ก็	ก็	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 10	ลอย	ลอย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lɔːy|LTranslit=lɔːy
@@ -16997,7 +16997,7 @@
 6	โดยตรง	โดยตรง	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=doːytrŋ|LTranslit=doːytrŋ
 7	แล้ว	แล้ว	AUX	AS	Aspect=Perf	4	aux	_	Translit=læ̂ːw|LTranslit=læ̂ːw
 8	สัตว์	สัตว์	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=sạtw|LTranslit=sạtw
-9	บาง	บาง	DET	DT	_	10	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+9	บาง	บาง	DET	DT	PronType=Ind	10	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 10	ชนิด	ชนิด	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=ćʰnid|LTranslit=ćʰnid
 11	สามารถ	สามารถ	VERB	MD	_	0	root	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
 12	ให้	ให้	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
@@ -17431,7 +17431,7 @@
 # text_en = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
 1	นัก	นัก	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 2	ประวัติศาสตร์	ประวัติศาสตร์	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=prawạtiśaːstr|LTranslit=prawạtiśaːstr
-3	บาง	บาง	DET	DT	_	4	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+3	บาง	บาง	DET	DT	PronType=Ind	4	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 4	ท่าน	ท่าน	NOUN	NNB	_	1	clf	_	Translit=dʰàːn|LTranslit=dʰàːn
 5	อย่าง	อย่าง	ADP	IN	_	7	case	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 6	เช่น	เช่น	ADP	IN	_	5	fixed	_	SpaceAfter=No|Translit=ćʰèːn|LTranslit=ćʰèːn
@@ -17633,7 +17633,7 @@
 8	และ	และ	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 9	ท่า	ท่า	NOUN	NN	_	19	nsubj:pass	_	SpaceAfter=No|Translit=dʰàː|LTranslit=dʰàː
 10	เรือ	เรือ	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rüaː|LTranslit=rüaː
-11	บาง	บาง	DET	DT	_	12	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+11	บาง	บาง	DET	DT	PronType=Ind	12	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 12	แห่ง	แห่ง	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
 13	รวม	รวม	VERB	VV	_	15	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 14	ถึง	ถึง	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
@@ -18108,7 +18108,7 @@
 22	อยู่	อยู่	VERB	AS	Aspect=Prog	11	conj	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 23	ใน	ใน	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 24	ประเทศ	ประเทศ	NOUN	NN	_	22	obl	_	SpaceAfter=No|Translit=pradʰeːś|LTranslit=pradʰeːś
-25	บาง	บาง	DET	DT	_	26	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+25	บาง	บาง	DET	DT	PronType=Ind	26	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 26	ประเทศ	ประเทศ	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=pradʰeːś|LTranslit=pradʰeːś
 27	ใน	ใน	ADP	IN	_	28	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 28	ช่วง	ช่วง	NOUN	NN	_	22	obl	_	SpaceAfter=No|Translit=ćʰə̀wŋ|LTranslit=ćʰə̀wŋ
@@ -18209,7 +18209,7 @@
 # text_en = Hitchcock's films sometimes feature characters struggling in their relationships with their mothers.
 1	ภาพยนตร์	ภาพยนตร์	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=ḇʰaːbʰyntr|LTranslit=ḇʰaːbʰyntr
 2	ฮิตช์ค็อก	ฮิตช์ค็อก	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit=ḥitćʰgʰɔk|LTranslit=ḥitćʰgʰɔk
-3	บาง	บาง	DET	DT	_	4	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+3	บาง	บาง	DET	DT	PronType=Ind	4	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 4	ครั้ง	ครั้ง	NOUN	NNB	_	5	obl	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
 5	ประกอบ	ประกอบ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=prakɔːb|LTranslit=prakɔːb
 6	ด้วย	ด้วย	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
@@ -18823,7 +18823,7 @@
 2	วิชาการ	วิชาการ	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=wićʰaːkaːr|LTranslit=wićʰaːkaːr
 3	ชาว	ชาว	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
 4	คริสต์	คริสต์	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit=gʰrist|LTranslit=gʰrist
-5	บาง	บาง	DET	DT	_	6	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+5	บาง	บาง	DET	DT	PronType=Ind	6	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 6	คน	คน	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 7	วิจารณ์	วิจารณ์	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wičaːrṇ|LTranslit=wičaːrṇ
 8	คำ	คำ	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=gʰãː|LTranslit=gʰãː
@@ -18833,7 +18833,7 @@
 12	ใน	ใน	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 13	ขณะ	ขณะ	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=kʰṇa|LTranslit=kʰṇa
 14	ที่	ที่	DET	WDT	PronType=Rel	18	obl:tmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-15	บาง	บาง	DET	DT	_	16	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+15	บาง	บาง	DET	DT	PronType=Ind	16	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 16	คน	คน	NOUN	NNB	_	18	nsubj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 17	ก็	ก็	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 18	เชิดชู	เชิดชู	VERB	VV	_	13	acl:relcl	_	Translit=ćʰeidćʰuː|LTranslit=ćʰeidćʰuː
@@ -24468,7 +24468,7 @@
 # text = บางทีนั่นอาจเป็นเหตุผลที่ทำให้น้ำตาเอ่อจนดวงตาของเขาพร่ามัวเมื่อห้วงเวลาทำให้เห็นพืชผลงอกเงยขึ้นมาและทำให้ความลับของเขาจำนนอยู่ในสายน้ำนิ่ง
 # translit = baːŋdʰiːnạ̀n'aːčpenheːtupʰldʰìːdʰãːhaînã̂ːtaː'èː'čndwŋtaːkʰɔːŋkʰaoːbʰràːmuaːmüàːhə̂wŋweːlaːdʰãːhaîhenbʰüːćʰpʰlŋɔːkŋeːykʰü̂nmaːlædʰãːhaîgʰwaːmlạbkʰɔːŋkʰaoːčãːnnɔːyùːnaisaːynã̂ːnìŋ
 # text_en = Perhaps that's why a surge of tears clouds his pupils while the syllable of time unearths his crop and surrenders his mystery to the bound waters.
-1	บาง	บาง	DET	DT	_	2	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+1	บาง	บาง	DET	DT	PronType=Ind	2	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 2	ที	ที	NOUN	NNB	_	4	obl	_	SpaceAfter=No|Translit=dʰiː|LTranslit=dʰiː
 3	นั่น	นั่น	PRON	PRD	_	4	nsubj	_	SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
 4	อาจ	อาจ	VERB	MD	_	0	root	_	SpaceAfter=No|Translit='aːč|LTranslit='aːč
@@ -25527,7 +25527,7 @@
 5	ใน	ใน	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 6	ปี	ปี	NOUN	NN	_	3	obl	_	Translit=piː|LTranslit=piː
 7	1917	1917	NUM	CD	_	6	appos	_	Translit=1917|LTranslit=1917
-8	บาง	บาง	DET	DT	_	9	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+8	บาง	บาง	DET	DT	PronType=Ind	9	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 9	ประเทศ	ประเทศ	NOUN	NNB	_	18	nsubj	_	SpaceAfter=No|Translit=pradʰeːś|LTranslit=pradʰeːś
 10	อย่าง	อย่าง	ADP	IN	_	11	case	_	Proper=True|Translit='yàːŋ|LTranslit='yàːŋ
 11	ฟินแลนด์	ฟินแลนด์	PROPN	NNP	_	9	nmod	_	Translit=finlæːnd|LTranslit=finlæːnd
@@ -27022,7 +27022,7 @@
 12	โดย	โดย	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 13	นัก	นัก	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 14	แต่ง	แต่ง	VERB	VV	_	13	acl	_	SpaceAfter=No|Translit=tæ̀ːŋ|LTranslit=tæ̀ːŋ
-15	บาง	บาง	DET	DT	_	16	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+15	บาง	บาง	DET	DT	PronType=Ind	16	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 16	คน	คน	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 17	เพื่อ	เพื่อ	ADP	IN	_	18	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
 18	บ่งบอก	บ่งบอก	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=bə̀ŋbɔːk|LTranslit=bə̀ŋbɔːk
@@ -27414,7 +27414,7 @@
 20	ราตรี	ราตรี	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=raːtriː|LTranslit=raːtriː
 21	หนึ่ง	หนึ่ง	NUM	CD	_	20	nummod	_	Translit=hnǜŋ|LTranslit=hnǜŋ
 22	โดย	โดย	ADP	IN	_	29	mark	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
-23	บาง	บาง	DET	DT	_	24	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+23	บาง	บาง	DET	DT	PronType=Ind	24	det	_	Gloss=some,a_few|LTranslit=baːŋ|SpaceAfter=No|Translit=baːŋ
 24	บท	บท	NOUN	NNB	_	29	obj	_	SpaceAfter=No|Translit=bdʰ|LTranslit=bdʰ
 25	เพลง	เพลง	NOUN	NN	_	24	compound	_	SpaceAfter=No|Translit=bʰeːlŋ|LTranslit=bʰeːlŋ
 26	ทั้ง	ทั้ง	DET	DT	_	27	det	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
