@@ -392,7 +392,7 @@
 # translit = “raoːpʰeːćʰiŷkạbgʰùːkʰæ̀ːŋdʰìːhlaːkhlaːy læraoːćʰüàːwàːkaːrkʰnsə̀ŋčaćʰə̀wydạî” čoː steirnlạib praḏʰaːnčɔːrčdʰaːwnbiː'ạidiːklàːw
 # text_en = “We face a lot of competition, and we think transit can help,” said Joe Sternlieb, president of the Georgetown BID.
 1	“	“	PUNCT	``	_	3	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-2	เรา	เรา	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+2	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 3	เผชิญ	เผชิญ	VERB	VV	_	23	ccomp	_	SpaceAfter=No|Translit=pʰeːćʰiŷ|LTranslit=pʰeːćʰiŷ
 4	กับ	กับ	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 5	คู่	คู่	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=gʰùː|LTranslit=gʰùː
@@ -400,7 +400,7 @@
 7	ที่	ที่	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	หลากหลาย	หลากหลาย	ADJ	JJ	_	5	acl:relcl	_	Translit=hlaːkhlaːy|LTranslit=hlaːkhlaːy
 9	และ	และ	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-10	เรา	เรา	PRON	PRP	Person=1	11	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+10	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	11	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 11	เชื่อ	เชื่อ	VERB	VV	_	3	conj	_	SpaceAfter=No|Translit=ćʰüàː|LTranslit=ćʰüàː
 12	ว่า	ว่า	ADP	IN	_	15	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 13	การขนส่ง	การขนส่ง	VERB	VV	_	15	nsubj	_	SpaceAfter=No|Translit=kaːrkʰnsə̀ŋ|LTranslit=kaːrkʰnsə̀ŋ
@@ -480,7 +480,7 @@
 12	ประจำ	ประจำ	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=pračãː|LTranslit=pračãː
 13	วัน	วัน	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
 14	ของ	ของ	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-15	เรา	เรา	PRON	PRP	Person=1	11	nmod:poss	_	Translit=raoː|LTranslit=raoː
+15	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	11	nmod:poss	_	Gloss=we|LTranslit=raoː|Translit=raoː
 
 # sent_id = n01008017
 # parallel_id = pud/n01008017
@@ -561,7 +561,7 @@
 # translit = “raoːdạîkʰɔːgʰwaːmćʰə̀wyheːlüː'čaːkpradʰeːśtàːŋ. bʰüàːhaîsə̀ŋsạtwsaːybʰạnḏʰutàːŋ. rwmtʰüŋsukrmaː'yùːnaiswnsạtw” caːgʰibklàːw
 # text_en = “We’ve requested other nations to help us populate the zoo with different species of animals, including a pig,” Saqib said.
 1	“	“	PUNCT	``	_	4	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-2	เรา	เรา	PRON	PRP	Person=1	4	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+2	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	4	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 3	ได้	ได้	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 4	ขอ	ขอ	VERB	VV	_	27	ccomp	_	SpaceAfter=No|Translit=kʰɔː|LTranslit=kʰɔː
 5	ความช่วยเหลือ	ความช่วยเหลือ	VERB	VV	_	4	obj	_	SpaceAfter=No|Translit=gʰwaːmćʰə̀wyheːlüː'|LTranslit=gʰwaːmćʰə̀wyheːlüː'
@@ -1443,7 +1443,7 @@
 # text = เรากำลังเดินมาถูกทาง: ความตกลงปารีสจะทำให้การเปลี่ยนแปลงสภาพภูมิอากาศช้าลง เช่นเดียวกับที่การแก้ไขเพิ่มเติมคิกาลีเมื่อไม่นานมานี้จะลดการปล่อยสารไฮโดรฟลูออโรคาร์บอน อีริค โซลไฮม์ ประธานโครงการสิ่งแวดล้อมแห่งสหประชาชาติกล่าว
 # translit = raoːkãːlạŋdeinmaːtʰuːkdʰaːŋ: gʰwaːmtklŋpaːriːsčadʰãːhaîkaːrpeːlìːynpæːlŋsḇʰaːbʰḇʰuːmi'aːkaːśćʰâːlŋ ćʰèːndiaːwkạbdʰìːkaːrkæ̂ːkʰạibʰeìmteimgʰikaːliːmüàːmạìnaːnmaːnîːčaldkaːrplɔ̀ːysaːrḥạidoːrfluː'ɔːroːgʰaːrbɔːn 'iːrigʰ coːlḥạim praḏʰaːngʰoːrŋkaːrsìŋwæːdlɔ̂ːmhæ̀ːŋshpraćʰaːćʰaːtiklàːw
 # text_en = "We are moving in the right direction: the Paris Agreement will slow climate change, as will the recent Kigali Amendment to reduce HFCs," said Erik Solheim, head of UN Environment.
-1	เรา	เรา	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+1	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 2	กำลัง	กำลัง	AUX	AS	Aspect=Prog	3	aux	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
 3	เดิน	เดิน	VERB	VV	_	42	ccomp	_	SpaceAfter=No|Translit=dein|LTranslit=dein
 4	มา	มา	PART	RP	_	3	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
@@ -1841,7 +1841,7 @@
 3	ว่า	ว่า	ADP	IN	_	8	mark	_	Translit=wàː|LTranslit=wàː
 4	คืน	คืน	NOUN	NN	_	8	obl:tmod	_	SpaceAfter=No|Translit=gʰüːn|LTranslit=gʰüːn
 5	นี้	นี้	DET	DT	PronType=Dem	4	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
-6	เรา	เรา	PRON	PRP	Person=1	8	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+6	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	8	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 7	จะ	จะ	AUX	MD	_	8	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 8	ทำ	ทำ	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 9	โทษ	โทษ	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=dʰoːš|LTranslit=dʰoːš
@@ -2589,7 +2589,7 @@
 # text = เราไม่คิดว่าผู้ต้องสงสัยมีความเกี่ยวโยงกับโรงเรียนนี้หรือกับเด็กสาวทั้งสองหรือกับเขตแอบบอทส์ฟอร์ดโดยเฉพาะ เธอกล่าว
 # translit = raoːmạìgʰidwàːpʰûːtɔ̂ːŋsŋsạymiːgʰwaːmkiàːwyoːŋkạbroːŋriaːnnîːhrüː'kạbdeksaːwdʰậŋsɔːŋhrüː'kạbkʰeːt'æːbbɔːdʰsfɔːrddoːyčʰeːbʰaːa ḏʰœːklàːw
 # text_en = "We do not believe the suspect has ties to this school, or to the two girls, or specifically to the Abbotsford area," she said.
-1	เรา	เรา	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+1	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 2	ไม่	ไม่	PART	NEG	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 3	คิด	คิด	VERB	VV	_	26	ccomp	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 4	ว่า	ว่า	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -2795,7 +2795,7 @@
 # text = เราเห็นหลายๆ ประเทศ โดยเฉพาะกลุ่มผู้ปล่อยมลภาวะมากรายใหม่ เช่น บราซิล แอฟริกาใต้ อินเดีย และจีน ก้าวขึ้นมารับผิดชอบโดยมีบทบาทในการลดการปล่อยมลภาวะ กิลโบลท์กล่าว
 # translit = raoːhenhlaːy. pradʰeːś doːyčʰeːbʰaːaklùmpʰûːplɔ̀ːymlḇʰaːwamaːkraːyhaimə̀ ćʰèːn braːcil 'æːfrikaːtaî 'indiaː læčiːn kâːwkʰü̂nmaːrạbpʰidćʰɔːbdoːymiːbdʰbaːdʰnaikaːrldkaːrplɔ̀ːymlḇʰaːwa kilboːldʰklàːw
 # text_en = "We are seeing many, many countries and especially large new emitters like Brazil, South Africa, India and China stepping up to the plate in terms of playing a role in reducing emissions," said Guilbeault.
-1	เรา	เรา	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+1	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 2	เห็น	เห็น	VERB	VV	_	33	ccomp	_	SpaceAfter=No|Translit=hen|LTranslit=hen
 3	หลาย	หลาย	DET	DT	PronType=Ind	5	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
 4	ๆ	ๆ	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
@@ -2917,12 +2917,12 @@
 5	ใช่	ใช่	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=ćʰaì|LTranslit=ćʰaì
 6	สิ่ง	สิ่ง	NOUN	NN	_	5	xcomp	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
 7	ที่	ที่	DET	WDT	PronType=Rel	9	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-8	เรา	เรา	PRON	PRP	Person=1	9	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+8	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	9	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 9	ต้องการ	ต้องการ	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=tɔ̂ːŋkaːr|LTranslit=tɔ̂ːŋkaːr
 10	ใน	ใน	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 11	ประเทศ	ประเทศ	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=pradʰeːś|LTranslit=pradʰeːś
 12	ของ	ของ	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-13	เรา	เรา	PRON	PRP	Person=1	11	nmod:poss	_	Translit=raoː|LTranslit=raoː
+13	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	11	nmod:poss	_	Gloss=we|LTranslit=raoː|Translit=raoː
 
 # sent_id = n01039039
 # parallel_id = pud/n01039039
@@ -3433,7 +3433,7 @@
 4	โทรศัพท์	โทรศัพท์	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=dʰoːrśạbʰdʰ|LTranslit=dʰoːrśạbʰdʰ
 5	มือถือ	มือถือ	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=müː'tʰüː'|LTranslit=müː'tʰüː'
 6	ของ	ของ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-7	เรา	เรา	PRON	PRP	Person=1	4	nmod:poss	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+7	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	4	nmod:poss	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 8	เป็น	เป็น	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 9	มาก	มาก	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
 10	กว่า	กว่า	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
@@ -3500,7 +3500,7 @@
 3	สิ่ง	สิ่ง	NOUN	NN	_	2	xcomp	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
 4	ที่	ที่	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 5	ทำให้	ทำให้	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|Translit=dʰãːhaî|LTranslit=dʰãːhaî
-6	เรา	เรา	PRON	PRP	Person=1	5	obj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+6	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	5	obj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 7	กลับ	กลับ	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=klạb|LTranslit=klạb
 8	มา	มา	PART	RP	_	7	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 9	อีก	อีก	ADV	RB	_	7	advmod	_	Translit='iːk|LTranslit='iːk
@@ -4404,14 +4404,14 @@
 13	ตอน	ตอน	NOUN	NN	_	12	obl:tmod	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
 14	ไหน	ไหน	DET	WDT	_	13	det	_	SpaceAfter=No|Translit=hạin|LTranslit=hạin
 15	ว่า	ว่า	ADP	IN	_	18	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-16	เรา	เรา	PRON	PRP	Person=1	18	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+16	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	18	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 17	ต้อง	ต้อง	AUX	MD	_	18	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 18	ทำ	ทำ	VERB	VV	_	12	ccomp	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 19	อะไร	อะไร	PRON	WP	_	18	obj	_	SpaceAfter=No|Translit='arại|LTranslit='arại
 20	ต่าง	ต่าง	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
 21	ออก	ออก	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit='ɔːk|LTranslit='ɔːk
 22	ไป	ไป	ADV	RB	_	20	advmod	_	Translit=pại|LTranslit=pại
-23	เรา	เรา	PRON	PRP	Person=1	24	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+23	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	24	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 24	สามารถ	สามารถ	VERB	MD	_	12	acl	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
 25	ทำ	ทำ	VERB	VV	_	24	xcomp	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 26	ได้	ได้	AUX	MD	_	24	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -5331,7 +5331,7 @@
 10	ได้	ได้	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 11	แล้ว	แล้ว	AUX	AS	Aspect=Perf	4	aux	_	Translit=læ̂ːw|LTranslit=læ̂ːw
 12	และ	และ	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-13	เรา	เรา	PRON	PRP	Person=1	16	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+13	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	16	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 14	ก็	ก็	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 15	ต้อง	ต้อง	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 16	สามารถ	สามารถ	VERB	MD	_	4	conj	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
@@ -5368,7 +5368,7 @@
 # text = เรามีทีมที่ดีและเป็นโอกาสให้เราก้าวไปข้างหน้า
 # translit = raoːmiːdʰiːmdʰìːdiːlæpen'oːkaːshaîraoːkâːwpạikʰâːŋhnâː
 # text_en = We have a great squad and it is an opportunity for us to take the ship forward.
-1	เรา	เรา	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+1	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 2	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 3	ทีม	ทีม	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=dʰiːm|LTranslit=dʰiːm
 4	ที่	ที่	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -5377,7 +5377,7 @@
 7	เป็น	เป็น	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 8	โอกาส	โอกาส	NOUN	NN	_	2	conj	_	SpaceAfter=No|Translit='oːkaːs|LTranslit='oːkaːs
 9	ให้	ให้	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=haî|LTranslit=haî
-10	เรา	เรา	PRON	PRP	Person=1	9	obj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+10	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	9	obj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 11	ก้าว	ก้าว	VERB	VV	_	9	xcomp	_	SpaceAfter=No|Translit=kâːw|LTranslit=kâːw
 12	ไป	ไป	PART	RP	_	11	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 13	ข้าง	ข้าง	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=kʰâːŋ|LTranslit=kʰâːŋ
@@ -5634,7 +5634,7 @@
 8	เวลา	เวลา	NOUN	NN	_	2	acl	_	SpaceAfter=No|Translit=weːlaː|LTranslit=weːlaː
 9	เดียว	เดียว	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=diaːw|LTranslit=diaːw
 10	ที่	ที่	DET	WDT	PronType=Rel	13	obl:tmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-11	เรา	เรา	PRON	PRP	Person=1	13	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+11	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	13	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 12	จะ	จะ	AUX	MD	_	13	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 13	มา	มา	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 14	เจอ	เจอ	VERB	VV	_	13	acl	_	SpaceAfter=No|Translit=čœː|LTranslit=čœː
@@ -5647,7 +5647,7 @@
 21	ละวาง	ละวาง	VERB	VV	_	13	conj	_	SpaceAfter=No|Translit=lawaːŋ|LTranslit=lawaːŋ
 22	ความต่าง	ความต่าง	ADJ	JJ	_	21	obj	_	SpaceAfter=No|Translit=gʰwaːmtàːŋ|LTranslit=gʰwaːmtàːŋ
 23	ของ	ของ	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-24	เรา	เรา	PRON	PRP	Person=1	22	nmod:poss	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+24	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	22	nmod:poss	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 25	ไว้	ไว้	ADV	RB	_	21	advmod	_	Translit=wạî|LTranslit=wạî
 
 # sent_id = n01079069
@@ -5734,7 +5734,7 @@
 # text = เราจะปล่อยให้คนที่เหยียดผิว เหยียดเพศ และไม่มีคุณสมบัติที่จะเป็นผู้นำอย่างโดนัลด์ ทรัมป์ เป็นประธานาธิบดีไม่ได้
 # translit = raoːčaplɔ̀ːyhaîgʰndʰìːheːyiːydpʰiw heːyiːydbʰeːś læmạìmiːgʰuṇsmbạtidʰìːčapenpʰûːnãː'yàːŋdoːnạld dʰrạmp penpraḏʰaːnaːḏʰibdiːmạìdạî
 # text_en = We can’t let the presidency go to Donald Trump, someone so racist, sexist and incredibly unqualified to be commander-in-chief.
-1	เรา	เรา	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+1	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 2	จะ	จะ	AUX	MD	_	3	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 3	ปล่อย	ปล่อย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=plɔ̀ːy|LTranslit=plɔ̀ːy
 4	ให้	ให้	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
@@ -6564,7 +6564,7 @@
 7	ไว้	ไว้	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=wạî|LTranslit=wạî
 8	ว่า	ว่า	ADP	IN	_	12	mark	_	Translit=wàː|LTranslit=wàː
 9	“	“	PUNCT	``	_	12	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-10	เรา	เรา	PRON	PRP	Person=1	12	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+10	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	12	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 11	กำลัง	กำลัง	AUX	AS	Aspect=Prog	12	aux	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
 12	คิด	คิด	VERB	VV	_	6	ccomp	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 13	จริงจัง	จริงจัง	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=čriŋčạŋ|LTranslit=čriŋčạŋ
@@ -6732,7 +6732,7 @@
 6	ใน	ใน	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 7	ยุค	ยุค	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=yugʰ|LTranslit=yugʰ
 8	ของ	ของ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-9	เรา	เรา	PRON	PRP	Person=1	7	nmod:poss	_	Translit=raoː|LTranslit=raoː
+9	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	7	nmod:poss	_	Gloss=we|LTranslit=raoː|Translit=raoː
 10	และ	และ	CCONJ	CC	_	17	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 11	คน	คน	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 12	ที่	ที่	DET	WDT	PronType=Rel	14	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -6945,7 +6945,7 @@
 2	มา	มา	PART	RP	_	1	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 3	ที่	ที่	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 4	รถไฟ	รถไฟ	NOUN	NN	_	1	obl	_	Translit=rtʰfại|LTranslit=rtʰfại
-5	เรา	เรา	PRON	PRP	Person=1	10	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+5	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	10	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 6	ยัง	ยัง	VERB	AS	Aspect=Prog	10	xcomp	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 7	มุ่ง	มุ่ง	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=mùŋ|LTranslit=mùŋ
 8	ลง	ลง	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=lŋ|LTranslit=lŋ
@@ -7272,11 +7272,11 @@
 # text = เราผิดหวังมากเพราะเราเสียไป 6 คะแนนในการเล่นที่บ้าน
 # translit = raoːpʰidhwạŋmaːkbʰeːraːaraoːsiaːpại 6 gʰanæːnnaikaːrlèːndʰìːbâːn
 # text_en = We are so disappointed because we have dropped six points playing at home.
-1	เรา	เรา	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+1	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 2	ผิดหวัง	ผิดหวัง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pʰidhwạŋ|LTranslit=pʰidhwạŋ
 3	มาก	มาก	ADV	RB	_	2	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
 4	เพราะ	เพราะ	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
-5	เรา	เรา	PRON	PRP	Person=1	6	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+5	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	6	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 6	เสีย	เสีย	VERB	VV	_	2	advcl	_	SpaceAfter=No|Translit=siaː|LTranslit=siaː
 7	ไป	ไป	PART	RP	_	6	compound:prt	_	Translit=pại|LTranslit=pại
 8	6	6	NUM	CD	_	9	nummod	_	Translit=6|LTranslit=6
@@ -8137,7 +8137,7 @@
 15	ดี	ดี	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No|Translit=diː|LTranslit=diː
 16	กว่า	กว่า	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 17	ของ	ของ	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-18	เรา	เรา	PRON	PRP	Person=1	12	obl:poss	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+18	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	12	obl:poss	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 19	ใน	ใน	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 20	ปี	ปี	NOUN	NN	_	12	obl	_	Translit=piː|LTranslit=piː
 21	2017	2017	NUM	CD	_	20	appos	_	Translit=2017|LTranslit=2017
@@ -8528,7 +8528,7 @@
 1	เมื่อ	เมื่อ	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 2	มิลลิคัน	มิลลิคัน	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=milligʰạn|LTranslit=milligʰạn
 3	ตาย	ตาย	VERB	VV	_	6	advcl	_	Translit=taːy|LTranslit=taːy
-4	เรา	เรา	PRON	PRP	Person=1	6	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+4	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	6	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 5	ก็	ก็	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 6	คิด	คิด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 7	ว่า	ว่า	ADP	IN	_	9	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -8839,13 +8839,13 @@
 12	จาก	จาก	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 13	การดู	การดู	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=kaːrduː|LTranslit=kaːrduː
 14	ว่า	ว่า	ADP	IN	_	16	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-15	เรา	เรา	PRON	PRP	Person=1	16	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+15	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	16	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 16	ปลอด	ปลอด	VERB	VV	_	13	ccomp	_	SpaceAfter=No|Translit=plɔːd|LTranslit=plɔːd
 17	ภัย	ภัย	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=ḇʰạy|LTranslit=ḇʰạy
 18	แค่	แค่	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=gʰæ̀ː|LTranslit=gʰæ̀ː
 19	ไหน	ไหน	PRON	WP	_	16	obl	_	SpaceAfter=No|Translit=hạin|LTranslit=hạin
 20	หรือ	หรือ	CCONJ	CC	_	22	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
-21	เรา	เรา	PRON	PRP	Person=1	22	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+21	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	22	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 22	ทำ	ทำ	VERB	VV	_	16	conj	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 23	ตาม	ตาม	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
 24	กฎ	กฎ	NOUN	NN	_	22	obl	_	SpaceAfter=No|Translit=kḍ|LTranslit=kḍ
@@ -8890,7 +8890,7 @@
 # text_en = First, we must educate people on how to protect themselves better online.
 1	อย่าง	อย่าง	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	แรก	แรก	ADJ	JJ	_	1	amod	_	Translit=ræːk|LTranslit=ræːk
-3	เรา	เรา	PRON	PRP	Person=1	5	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+3	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	5	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 4	ต้อง	ต้อง	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 5	ให้	ให้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 6	ความรู้	ความรู้	VERB	VV	_	5	obj	_	SpaceAfter=No|Translit=gʰwaːmrûː|LTranslit=gʰwaːmrûː
@@ -8915,7 +8915,7 @@
 # text_en = Finally, we must make it easy for people to report suspected breaches and malicious emails.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	ที่สุด	ที่สุด	ADJ	JJ	_	5	xcomp	_	Translit=dʰìːsud|LTranslit=dʰìːsud
-3	เรา	เรา	PRON	PRP	Person=1	5	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+3	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	5	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 4	ต้อง	ต้อง	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 5	ทำให้	ทำให้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dʰãːhaî|LTranslit=dʰãːhaî
 6	คน	คน	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
@@ -9626,7 +9626,7 @@
 4	ใน	ใน	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 5	เมือง	เมือง	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
 6	ที่	ที่	DET	WDT	PronType=Rel	9	advmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-7	เรา	เรา	PRON	PRP	Person=1	9	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+7	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	9	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 8	ได้	ได้	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 9	เปิด	เปิด	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=peid|LTranslit=peid
 10	ตัว	ตัว	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
@@ -9635,7 +9635,7 @@
 13	ก่อสร้าง	ก่อสร้าง	VERB	VV	_	9	conj	_	Translit=kɔ̀ːsrâːŋ|LTranslit=kɔ̀ːsrâːŋ
 14	งาน	งาน	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
 15	ของ	ของ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-16	เรา	เรา	PRON	PRP	Person=1	14	nmod:poss	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+16	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	14	nmod:poss	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 17	ก็	ก็	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 18	จะ	จะ	AUX	MD	_	19	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 19	ดำเนิน	ดำเนิน	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=dãːnein|LTranslit=dãːnein
@@ -10175,7 +10175,7 @@
 5	วิเศษ	วิเศษ	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=wiśeːš|LTranslit=wiśeːš
 6	มาก	มาก	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
 7	ที่	ที่	DET	WDT	PronType=Rel	9	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-8	เรา	เรา	PRON	PRP	Person=1	9	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+8	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	9	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 9	สามารถ	สามารถ	VERB	MD	_	4	acl:relcl	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
 10	กอบกู้	กอบกู้	VERB	VV	_	9	xcomp	_	SpaceAfter=No|Translit=kɔːbkûː|LTranslit=kɔːbkûː
 11	และ	และ	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -11852,7 +11852,7 @@
 19	"	"	PUNCT	``	_	20	punct	_	SpaceAfter=No|Translit="|LTranslit="
 20	ทะเล	ทะเล	NOUN	NN	_	16	appos	_	SpaceAfter=No|Translit=dʰaleː|LTranslit=dʰaleː
 21	ของ	ของ	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-22	เรา	เรา	PRON	PRP	Person=1	20	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=raoː|LTranslit=raoː
+22	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	20	nmod:poss	_	Gloss=we|LTranslit=raoː|Proper=True|SpaceAfter=No|Translit=raoː
 23	"	"	PUNCT	''	_	20	punct	_	SpaceAfter=No|Translit="|LTranslit="
 24	)	)	PUNCT	)	_	20	punct	_	Translit=)|LTranslit=)
 
@@ -22200,7 +22200,7 @@
 23	บรอยน์	บรอยน์	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No|Translit=brɔːyn|LTranslit=brɔːyn
 24	หรือไม่	หรือไม่	PART	EP	_	17	discourse	_	Translit=hrüː'mạì|LTranslit=hrüː'mạì
 25	และ	และ	CCONJ	CC	_	27	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-26	เรา	เรา	PRON	PRP	Person=1	27	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+26	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	27	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 27	เกี่ยวข้อง	เกี่ยวข้อง	VERB	VV	_	17	conj	_	SpaceAfter=No|Translit=kiàːwkʰɔ̂ːŋ|LTranslit=kiàːwkʰɔ̂ːŋ
 28	กัน	กัน	PRON	PRP	_	27	obj	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 29	ทาง	ทาง	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
@@ -22320,7 +22320,7 @@
 8	การหลอกลวง	การหลอกลวง	VERB	VV	_	6	obl:poss	_	SpaceAfter=No|Translit=kaːrhlɔːklwŋ|LTranslit=kaːrhlɔːklwŋ
 9	ต้าน	ต้าน	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=tâːn|LTranslit=tâːn
 10	พวก	พวก	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
-11	เรา	เรา	PRON	PRP	Person=1	10	compound	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+11	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	10	compound	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 12	”	”	PUNCT	''	_	6	punct	_	Translit=”|LTranslit=”
 13	ดุนดาร์	ดุนดาร์	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No|Translit=dundaːr|LTranslit=dundaːr
 14	กล่าว	กล่าว	VERB	VV	_	0	root	_	Translit=klàːw|LTranslit=klàːw
@@ -23426,7 +23426,7 @@
 1	เป็น	เป็น	AUX	VC	_	2	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 2	การเน้นย้ำ	การเน้นย้ำ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kaːrnêːnyã̂ː|LTranslit=kaːrnêːnyã̂ː
 3	ว่า	ว่า	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-4	เรา	เรา	PRON	PRP	Person=1	6	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+4	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	6	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 5	ไม่	ไม่	PART	NEG	Polarity=Neg	6	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 6	สามารถ	สามารถ	VERB	MD	_	2	ccomp	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
 7	ดำเนินการ	ดำเนินการ	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=dãːneinkaːr|LTranslit=dãːneinkaːr
@@ -23446,7 +23446,7 @@
 # text = เราจะประเมินว่าจะดำเนินการต่อไปยังส่วนถัดไปได้หรือไม่ อย่างไร
 # translit = raoːčaprameinwàːčadãːneinkaːrtɔ̀ːpạiyạŋsə̀wntʰạdpạidạîhrüː'mạì 'yàːŋrại
 # text_en = We will evaluate whether and how to continue onto the next section.
-1	เรา	เรา	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+1	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 2	จะ	จะ	AUX	MD	_	3	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 3	ประเมิน	ประเมิน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pramein|LTranslit=pramein
 4	ว่า	ว่า	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -23604,13 +23604,13 @@
 11	และ	และ	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 12	บอก	บอก	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=bɔːk|LTranslit=bɔːk
 13	ให้	ให้	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
-14	เรา	เรา	PRON	PRP	Person=1	13	obj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+14	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	13	obj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 15	รู้	รู้	VERB	VV	_	13	xcomp	_	SpaceAfter=No|Translit=rûː|LTranslit=rûː
 16	ว่า	ว่า	ADP	IN	_	21	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 17	น้ำมัน	น้ำมัน	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=nã̂ːmạn|LTranslit=nã̂ːmạn
 18	ดีเซล	ดีเซล	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=diːceːl|LTranslit=diːceːl
 19	ของ	ของ	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-20	เรา	เรา	PRON	PRP	Person=1	17	nmod:poss	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+20	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	17	nmod:poss	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 21	มี	มี	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 22	ราคา	ราคา	NOUN	NN	_	21	obj	_	Translit=raːgʰaː|LTranslit=raːgʰaː
 23	1.335	1.335	NUM	CD	_	24	nummod	_	Translit=1.335|LTranslit=1.335
@@ -23683,7 +23683,7 @@
 17	ได้	ได้	AUX	AS	Aspect=Perf	18	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 18	แสดง	แสดง	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=sæːdŋ|LTranslit=sæːdŋ
 19	ให้	ให้	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
-20	เรา	เรา	PRON	PRP	Person=1	19	obj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+20	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	19	obj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 21	เห็น	เห็น	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=hen|LTranslit=hen
 22	”	”	PUNCT	''	_	10	punct	_	Translit=”|LTranslit=”
 
@@ -24455,11 +24455,11 @@
 6	ใคร	ใคร	PRON	WP	_	5	obj	_	SpaceAfter=No|Translit=gʰair|LTranslit=gʰair
 7	ที่	ที่	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	รอ	รอ	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=rɔː|LTranslit=rɔː
-9	เรา	เรา	PRON	PRP	Person=1	10	obj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+9	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	10	obj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 10	อยู่	อยู่	VERB	AS	Aspect=Prog	6	acl:relcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 11	กำลัง	กำลัง	AUX	AS	Aspect=Prog	14	aux	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
 12	รอ	รอ	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=rɔː|LTranslit=rɔː
-13	เรา	เรา	PRON	PRP	Person=1	14	obj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
+13	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	14	obj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
 14	อยู่	อยู่	VERB	AS	Aspect=Prog	8	conj	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 15	จริง	จริง	ADV	RB	_	5	advmod	_	Translit=čriŋ|LTranslit=čriŋ
 
