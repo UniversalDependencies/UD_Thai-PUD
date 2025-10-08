@@ -1561,7 +1561,7 @@
 # text = นี่จะเป็นการเพิ่มข้อจำกัดใหม่เกี่ยวกับธรรมชาติของการเปลี่ยนแปลงในสภาพแวดล้อมซึ่งครอบงำโลกและนำไปสู่การสูญพันธุ์ของสิ่งมีชีวิตมากมายหลายสายพันธุ์ ไม่เพียงแค่ไดโนเสาร์
 # translit = nìːčapenkaːrbʰeìmkʰɔ̂ːčãːkạdhaimə̀kiàːwkạbḏʰrrmćʰaːtikʰɔːŋkaːrpeːlìːynpæːlŋnaisḇʰaːbʰwæːdlɔ̂ːmcǜŋgʰrɔːbŋãːloːklænãːpạisùːkaːrsuːŷbʰạnḏʰukʰɔːŋsìŋmiːćʰiːwitmaːkmaːyhlaːysaːybʰạnḏʰu mạìbʰiaːŋgʰæ̀ːdạinoːsaoːr
 # text_en = This will put new limits on the nature of the environmental changes that overtook the Earth and sent so many species - not just the dinosaurs - into oblivion.
-1	นี่	นี่	PRON	PRD	_	4	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	4	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	จะ	จะ	AUX	MD	_	4	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 3	เป็น	เป็น	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 4	การเพิ่ม	การเพิ่ม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kaːrbʰeìm|LTranslit=kaːrbʰeìm
@@ -1962,11 +1962,11 @@
 10	ประมาณ	ประมาณ	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=pramaːṇ|LTranslit=pramaːṇ
 11	ว่า	ว่า	ADP	IN	_	16	mark	_	Translit=wàː|LTranslit=wàː
 12	‘	‘	PUNCT	``	_	11	punct	_	Proper=True|SpaceAfter=No|Translit=‘|LTranslit=‘
-13	นี่	นี่	PRON	PRD	_	16	obl	_	Translit=nìː|LTranslit=nìː
+13	นี่	นี่	PRON	PRD	PronType=Dem	16	obl	_	Gloss=this|LTranslit=nìː|Translit=nìː
 14	พวก	พวก	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 15	นาย	นาย	PRON	PRP	Person=2	14	compound	_	SpaceAfter=No|Translit=naːy|LTranslit=naːy
 16	เห็น	เห็น	VERB	VV	_	9	ccomp	_	SpaceAfter=No|Translit=hen|LTranslit=hen
-17	นี่	นี่	PRON	PRD	_	16	obj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+17	นี่	นี่	PRON	PRD	PronType=Dem	16	obj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 18	ไหม	ไหม	PART	EP	PronType=Int	16	discourse	_	Proper=True|SpaceAfter=No|Translit=hạim|LTranslit=hạim
 19	’	’	PUNCT	''	_	16	punct	_	Translit=’|LTranslit=’
 20	พาลล์	พาลล์	PROPN	NNP	_	21	nsubj	_	SpaceAfter=No|Translit=bʰaːll|LTranslit=bʰaːll
@@ -2236,7 +2236,7 @@
 4	ว่า	ว่า	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 5	:	:	PUNCT	:	_	4	punct	_	Proper=True|Translit=:|LTranslit=:
 6	“	“	PUNCT	``	_	10	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-7	นี่	นี่	PRON	PRD	_	10	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+7	นี่	นี่	PRON	PRD	PronType=Dem	10	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 8	เป็น	เป็น	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 9	เพียง	เพียง	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
 10	ก้าว	ก้าว	NOUN	NN	_	2	ccomp	_	SpaceAfter=No|Translit=kâːw|LTranslit=kâːw
@@ -2912,7 +2912,7 @@
 # text_en = That's not what we need in our country, folks.
 1	พี่น้อง	พี่น้อง	NOUN	NN	_	5	vocative	_	SpaceAfter=No|Translit=bʰìːnɔ̂ːŋ|LTranslit=bʰìːnɔ̂ːŋ
 2	ครับ	ครับ	PART	EP	_	1	discourse	_	Translit=gʰrạb|LTranslit=gʰrạb
-3	นี่	นี่	PRON	PRD	_	5	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+3	นี่	นี่	PRON	PRD	PronType=Dem	5	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 4	ไม่	ไม่	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 5	ใช่	ใช่	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=ćʰaì|LTranslit=ćʰaì
 6	สิ่ง	สิ่ง	NOUN	NN	_	5	xcomp	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
@@ -2995,7 +2995,7 @@
 # text = นี่เป็นหายนะสำหรับผู้ป่วยที่มีอาการเจ็บปวด เมลลิสกล่าวกับซีบีซีนิวส์ในการสัมภาษณ์เมื่อวันพฤหัสบดี
 # translit = nìːpenhaːynasãːhrạbpʰûːpə̀wydʰìːmiː'aːkaːrčebpwd meːllisklàːwkạbciːbiːciːniwsnaikaːrsạmḇʰaːšṇmüàːwạnbʰṟhạsbdiː
 # text_en = "This is a disaster for pain patients," Mailis said in an interview Thursday with CBC News.
-1	นี่	นี่	PRON	PRD	_	3	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	3	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 3	หายนะ	หายนะ	NOUN	NN	_	12	ccomp	_	SpaceAfter=No|Translit=haːyna|LTranslit=haːyna
 4	สำหรับ	สำหรับ	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=sãːhrạb|LTranslit=sãːhrạb
@@ -3495,7 +3495,7 @@
 # text = นี่คือสิ่งที่ทำให้เรากลับมาอีก
 # translit = nìːgʰüː'sìŋdʰìːdʰãːhaîraoːklạbmaː'iːk
 # text_en = That's what keeps us coming back for more.
-1	นี่	นี่	PRON	PRD	_	2	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	2	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 3	สิ่ง	สิ่ง	NOUN	NN	_	2	xcomp	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
 4	ที่	ที่	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -4035,7 +4035,7 @@
 # text = นี่ไม่เพียงมีผลต่อเนื้อหาด้านความบันเทิงเท่านั้น แต่มีผลอย่างเท่าเทียมกันต่อการศึกษา การวิจัยทางวิทยาศาสตร์ และวาทกรรมทางการเมืองซึ่งอาจจะสำคัญที่สุด
 # translit = nìːmạìbʰiaːŋmiːpʰltɔ̀ːnüâːhaːdâːngʰwaːmbạndʰeiŋdʰaòːnận tæ̀ːmiːpʰlɔːyàːŋdʰaòːdʰiaːmkạntɔ̀ːkaːrśükšaː kaːrwičạydʰaːŋwidʰyaːśaːstr læwaːdʰkrrmdʰaːŋkaːrmüaːŋcǜŋ'aːččasãːgʰạŷdʰìːsud
 # text_en = This would not only apply to entertainment content, but equally to education, to scientific research and, perhaps most importantly, to political discourse.
-1	นี่	นี่	PRON	PRD	_	4	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	4	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	ไม่	ไม่	PART	NEG	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 3	เพียง	เพียง	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
 4	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -6119,7 +6119,7 @@
 # text = นี่มันน่าสยดสยองทีเดียว
 # translit = nìːmạnnàːsydsyɔːŋdʰiːdiaːw
 # text_en = That’s just legitimately horrendous.
-1	นี่	นี่	PRON	PRD	_	3	obl	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	3	obl	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	3	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 3	น่าสยดสยอง	น่าสยดสยอง	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=nàːsydsyɔːŋ|LTranslit=nàːsydsyɔːŋ
 4	ทีเดียว	ทีเดียว	ADV	RB	_	3	advmod	_	Translit=dʰiːdiaːw|LTranslit=dʰiːdiaːw
@@ -6156,7 +6156,7 @@
 1	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 2	คิด	คิด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 3	ว่า	ว่า	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-4	นี่	นี่	PRON	PRD	_	6	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+4	นี่	นี่	PRON	PRD	PronType=Dem	6	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 6	เหตุผล	เหตุผล	NOUN	NN	_	2	ccomp	_	SpaceAfter=No|Translit=heːtupʰl|LTranslit=heːtupʰl
 7	ที่	ที่	DET	WDT	PronType=Rel	10	advmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -7230,7 +7230,7 @@
 8	หน้าที่	หน้าที่	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=hnâːdʰìː|LTranslit=hnâːdʰìː
 9	การงาน	การงาน	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=kaːrŋaːn|LTranslit=kaːrŋaːn
 10	ที่	ที่	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-11	นี่	นี่	PRON	PRD	_	8	nmod	_	Translit=nìː|LTranslit=nìː
+11	นี่	นี่	PRON	PRD	PronType=Dem	8	nmod	_	Gloss=this|LTranslit=nìː|Translit=nìː
 
 # sent_id = n01104011
 # parallel_id = pud/n01104011
@@ -7291,7 +7291,7 @@
 # text = นี่เป็นกรณีที่เกิดกับแอนดี้ตอนที่เขาแข่งกับเบอนัวต์ แปร์ที่มอนติคาร์โลเมื่อเดือนเมษายน
 # translit = nìːpenkrṇiːdʰìːkeidkạb'æːndîːtɔːndʰìːkʰaoːkʰæ̀ːŋkạbbœːnuaːt pæːrdʰìːmɔːntigʰaːrloːmüàːdüaːnmeːšaːyn
 # text_en = That was definitely the case for Andy when he played Benoît Paire in Monte Carlo in April.
-1	นี่	นี่	PRON	PRD	_	3	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	3	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 3	กรณี	กรณี	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=krṇiː|LTranslit=krṇiː
 4	ที่	ที่	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -7832,7 +7832,7 @@
 # text = นี่ไม่ได้ทำให้นักลงทุนหยุดแห่กันเอาเงินไปลงในกองทุนเลย
 # translit = nìːmạìdạîdʰãːhaînạklŋdʰunhyudhæ̀ːkạn'aoːŋeinpạilŋnaikɔːŋdʰunleːy
 # text_en = This has not stopped investors flocking to put their money in the funds.
-1	นี่	นี่	PRON	PRD	_	4	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	4	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	ไม่	ไม่	PART	NEG	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 3	ได้	ได้	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 4	ทำให้	ทำให้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dʰãːhaî|LTranslit=dʰãːhaî
@@ -7905,7 +7905,7 @@
 # text = นี่หมายความว่าพวกเขาจะไม่ได้ประโยชน์จากการที่ค่าเงินปอนด์สเตอร์ลิงตกซึ่งเป็นประโยชน์ต่อสินทรัพย์ต่างประเทศ
 # translit = nìːhmaːygʰwaːmwàːbʰwkkʰaoːčamạìdạîprayoːćʰnčaːkkaːrdʰìːgʰàːŋeinpɔːndstœːrliŋtkcǜŋpenprayoːćʰntɔ̀ːsindʰrạbʰytàːŋpradʰeːś
 # text_en = This means that they have not benefited from the uplift that the fall in sterling has given to overseas assets.
-1	นี่	นี่	PRON	PRD	_	2	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	2	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	หมายความ	หมายความ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hmaːygʰwaːm|LTranslit=hmaːygʰwaːm
 3	ว่า	ว่า	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 4	พวก	พวก	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
@@ -8960,7 +8960,7 @@
 # text = นี่เป็นประเด็นความมั่นคงแห่งมาตุภูมิของสิ่งที่เกี่ยวข้องกับการดำรงอยู่ของมนุษย์อย่างที่สุด
 # translit = nìːpenpradengʰwaːmmạ̀ngʰŋhæ̀ːŋmaːtuḇʰuːmikʰɔːŋsìŋdʰìːkiàːwkʰɔ̂ːŋkạbkaːrdãːrŋɔːyùːkʰɔːŋmnušy'yàːŋdʰìːsud
 # text_en = This is a homeland security issue of the most existential kind.
-1	นี่	นี่	PRON	PRD	_	3	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	3	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 3	ประเด็น	ประเด็น	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=praden|LTranslit=praden
 4	ความมั่นคง	ความมั่นคง	ADJ	JJ	_	3	compound	_	SpaceAfter=No|Translit=gʰwaːmmạ̀ngʰŋ|LTranslit=gʰwaːmmạ̀ngʰŋ
@@ -9154,7 +9154,7 @@
 # text_en = It's the election, of course, not "Game of Thrones."
 1	แน่นอน	แน่นอน	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=næ̀ːnɔːn|LTranslit=næ̀ːnɔːn
 2	ว่า	ว่า	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-3	นี่	นี่	PRON	PRD	_	4	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+3	นี่	นี่	PRON	PRD	PronType=Dem	4	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 4	คือ	คือ	VERB	VC	_	1	ccomp	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 5	การเลือกตั้ง	การเลือกตั้ง	VERB	VV	_	4	xcomp	_	Translit=kaːrlüaːktậŋ|LTranslit=kaːrlüaːktậŋ
 6	ไม่	ไม่	PART	NEG	Polarity=Neg	7	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
@@ -9341,7 +9341,7 @@
 # translit = tæ̀ːnìːgʰæ̀ːmaːhlạŋčaːkdʰìːsํaːnạkŋaːnpkpɔ̂ːŋsìŋwæːdlɔ̂ːmshrạṭʰɔːmeːrikaːklàːwtüaːnpraćʰaːgʰmloːktʰüŋpradennîː
 # text_en = But it only came forward after the U.S. Environmental Protection Agency alerted the world to the issue.
 1	แต่	แต่	CCONJ	CC	_	4	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
-2	นี่	นี่	PRON	PRD	_	4	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+2	นี่	นี่	PRON	PRD	PronType=Dem	4	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 3	แค่	แค่	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=gʰæ̀ː|LTranslit=gʰæ̀ː
 4	มา	มา	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 5	หลัง	หลัง	ADP	IN	_	15	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
@@ -13085,7 +13085,7 @@
 # text = นี่เป็นภูมิภาคเดียวในอะแลสกาที่มีอุณหภูมิสูงเฉลี่ยเวลากลางวันสูงกว่าจุดเยือกแข็งในช่วงฤดูหนาว
 # translit = nìːpenḇʰuːmiḇʰaːgʰdiaːwnai'alæːskaːdʰìːmiː'uṇhḇʰuːmisuːŋčʰeːlìːyweːlaːklaːŋwạnsuːŋkwàːčudyüaːkkʰæʔŋnaićʰə̀wŋṟduːhnaːw
 # text_en = This is also the only region in Alaska in which the average daytime high temperature is above freezing during the winter months.
-1	นี่	นี่	PRON	PRD	_	3	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	3	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 3	ภูมิภาค	ภูมิภาค	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=ḇʰuːmiḇʰaːgʰ|LTranslit=ḇʰuːmiḇʰaːgʰ
 4	เดียว	เดียว	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=diaːw|LTranslit=diaːw
@@ -13141,7 +13141,7 @@
 # translit = dʰìːnìːpendʰìːdʰìːbʰwkkʰaoːkʰmoːyrüaːgʰæːnuːlãːlekdʰìːćʰaːw'abɔːričinɔː'steːrliaːnaibʰü̂ːndʰìːdʰîŋwạî
 # text_en = It was here they stole a small canoe left by the Australian Aborigines of the region.
 1	ที่	ที่	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-2	นี่	นี่	DET	DT	_	1	det	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+2	นี่	นี่	DET	DT	PronType=Dem	1	det	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 3	เป็น	เป็น	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 4	ที่	ที่	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 5	ที่	ที่	DET	WDT	PronType=Rel	8	advmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -23736,7 +23736,7 @@
 # text = นี่เป็นสิ่งที่มีการเขียนในบันทึกถึงสมาชิกรัฐสภาภายหลังจากการตัดสินใจของอดีตรัฐมนตรีที่จะออกจากพรรค
 # translit = nìːpensìŋdʰìːmiːkaːrkʰiaːnnaibạndʰüktʰüŋsmaːćʰikrạṭʰsḇʰaːḇʰaːyhlạŋčaːkkaːrtạdsinčaikʰɔːŋɔːdiːtrạṭʰmntriːdʰìːča'ɔːkčaːkbʰrrgʰ
 # text_en = This is what has been written in a note to Mps after the decision of the ex-minister to leave the party.
-1	นี่	นี่	PRON	PRD	_	3	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	3	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 3	สิ่ง	สิ่ง	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
 4	ที่	ที่	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -24791,7 +24791,7 @@
 # text = นี่เกี่ยวข้องกับหนึ่งในอาคารไม่กี่แห่งใจกลางเมืองที่รอดจากการถูกทำลายก่อนการสิ้นสุดของสงครามโลกครั้งที่สอง
 # translit = nìːkiàːwkʰɔ̂ːŋkạbhnǜŋnai'aːgʰaːrmạìkìːhæ̀ːŋčaiklaːŋmüaːŋdʰìːrɔːdčaːkkaːrtʰuːkdʰãːlaːykɔ̀ːnkaːrsînsudkʰɔːŋsŋgʰraːmloːkgʰrậŋdʰìːsɔːŋ
 # text_en = This has to do with one of the few buildings in the city center that was spared from destruction by the end of the Second World War.
-1	นี่	นี่	PRON	PRD	_	2	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	2	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	เกี่ยวข้อง	เกี่ยวข้อง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kiàːwkʰɔ̂ːŋ|LTranslit=kiàːwkʰɔ̂ːŋ
 3	กับ	กับ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 4	หนึ่ง	หนึ่ง	NUM	CD	_	2	obl	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
@@ -27741,7 +27741,7 @@
 # text = นี่เป็นพื้นที่จากเขตที่สองไปเขตชั้นนอกโดยใช้เส้นสมมติที่เชื่อมระหว่างจุดสังเกตประภาคารที่ปุนตาเดลเอสเตกับจุดสังเกตประภาคารที่ปุนตาราซา
 # translit = nìːpenbʰü̂ːndʰìːčaːkkʰeːtdʰìːsɔːŋpạikʰeːtćʰậnnɔːkdoːyćʰaîsêːnsmmtidʰìːćʰüàːmrahwàːŋčudsạŋkeːtpraḇʰaːgʰaːrdʰìːpuntaːdeːl'eːsteːkạbčudsạŋkeːtpraḇʰaːgʰaːrdʰìːpuntaːraːcaː
 # text_en = It is the portion from this second boundary up to the outer boundary, the imaginary line that connects the lighthouse landmark at Punta del Este to the lighthouse landmark at Punta Rasa.
-1	นี่	นี่	PRON	PRD	_	3	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	3	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 3	พื้นที่	พื้นที่	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=bʰü̂ːndʰìː|LTranslit=bʰü̂ːndʰìː
 4	จาก	จาก	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
@@ -27813,7 +27813,7 @@
 # text = นี่เป็นนัดตัดสินและขวัญกำลังใจที่บรรดาผู้มาตั้งรกรากต้องการเพื่อเอกราช
 # translit = nìːpennạdtạdsinlækʰwạŷkãːlạŋčaidʰìːbrrdaːpʰûːmaːtậŋrkraːktɔ̂ːŋkaːrbʰüàː'eːkraːćʰ
 # text_en = This was the coup de grâce and encouragement the settlers needed to get their independence.
-1	นี่	นี่	PRON	PRD	_	3	nsubj	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
+1	นี่	นี่	PRON	PRD	PronType=Dem	3	nsubj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 3	นัด	นัด	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=nạd|LTranslit=nạd
 4	ตัดสิน	ตัดสิน	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=tạdsin|LTranslit=tạdsin
