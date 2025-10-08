@@ -12994,7 +12994,7 @@
 4	ถือ	ถือ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tʰüː'|LTranslit=tʰüː'
 5	ว่า	ว่า	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 6	เป็น	เป็น	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-7	คนละ	คนละ	DET	DT	_	8	det	_	SpaceAfter=No|Translit=gʰnla|LTranslit=gʰnla
+7	คนละ	คนละ	DET	DT	PronType=Tot	8	det	_	Gloss=each|LTranslit=gʰnla|SpaceAfter=No|Translit=gʰnla
 8	ทวีป	ทวีป	NOUN	NNB	_	4	ccomp	_	SpaceAfter=No|Translit=dʰwiːp|LTranslit=dʰwiːp
 9	กัน	กัน	PRON	PRP	_	8	obl	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 10	ตาม	ตาม	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
