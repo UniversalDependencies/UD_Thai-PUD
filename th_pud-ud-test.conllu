@@ -124,7 +124,7 @@
 # text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
 1	“	“	PUNCT	``	_	2	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 2	คือ	คือ	VERB	VC	_	22	ccomp	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
-3	ผม	ผม	PRON	PRP	Person=1	6	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+3	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	6	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 4	ไม่	ไม่	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 5	ได้	ได้	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 6	ชอบ	ชอบ	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=ćʰɔːb|LTranslit=ćʰɔːb
@@ -4318,7 +4318,7 @@
 # translit = “pʰmmạìrûːwàːkaːrteibtoːkʰɔːŋčiːdiːbʰiːsmạydʰìːwɔːćʰiŋtạnlælingʰɔːlnpenrạṭʰbaːlpendʰaòːrại tæ̀ːbʰạḑʰnaːkaːrćʰeiŋstʰaːbạnnaiyugʰnậnmiːpʰlkradʰbdʰìːyìŋhaiŷə̀lægʰŋɔːyùːpenweːlaːnaːn”
 # text_en = “I don’t know what G.D.P. growth was during the Washington and Lincoln Administrations, but the institutional developments in those terms had large and long-lasting effects.”
 1	“	“	PUNCT	``	_	4	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-2	ผม	ผม	PRON	PRP	Person=1	4	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+2	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	4	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 3	ไม่	ไม่	PART	NEG	Polarity=Neg	4	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 4	รู้	รู้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rûː|LTranslit=rûː
 5	ว่า	ว่า	ADP	IN	_	16	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -4462,12 +4462,12 @@
 # text_en = “When I’m playing him, I feel powerful,” the Donald Trump impersonator John Di Domenico explained to Slate last year.
 1	“	“	PUNCT	``	_	4	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 2	เวลา	เวลา	NOUN	NN	_	4	obl:tmod	_	SpaceAfter=No|Translit=weːlaː|LTranslit=weːlaː
-3	ผม	ผม	PRON	PRP	Person=1	4	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+3	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	4	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 4	สวม	สวม	VERB	VV	_	23	ccomp	_	SpaceAfter=No|Translit=swm|LTranslit=swm
 5	บทบาท	บทบาท	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=bdʰbaːdʰ|LTranslit=bdʰbaːdʰ
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 7	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	4	xcomp	_	Gloss=he,she|LTranslit=kʰaoː|Translit=kʰaoː
-8	ผม	ผม	PRON	PRP	Person=1	9	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+8	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	9	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 9	รู้สึก	รู้สึก	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=rûːsük|LTranslit=rûːsük
 10	มี	มี	VERB	VV	_	9	xcomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 11	อำนาจ	อำนาจ	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit='ãːnaːč|LTranslit='ãːnaːč
@@ -6210,7 +6210,7 @@
 # translit = “pʰmćʰɔːbbʰwksiːkʰeːtrɔ̂ːn” kʰaoːklàːw
 # text_en = “I loved the tropical colours,” he says.
 1	“	“	PUNCT	``	_	3	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-2	ผม	ผม	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+2	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 3	ชอบ	ชอบ	VERB	VV	_	10	ccomp	_	SpaceAfter=No|Translit=ćʰɔːb|LTranslit=ćʰɔːb
 4	พวก	พวก	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 5	สี	สี	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=siː|LTranslit=siː
@@ -6442,7 +6442,7 @@
 10	กล่าว	กล่าว	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=klàːw|LTranslit=klàːw
 11	ว่า	ว่า	ADP	IN	_	15	mark	_	Translit=wàː|LTranslit=wàː
 12	“	“	PUNCT	``	_	15	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-13	ผม	ผม	PRON	PRP	Person=1	15	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+13	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	15	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 14	จะ	จะ	AUX	MD	_	15	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 15	ประหลาดใจ	ประหลาดใจ	VERB	VV	_	10	ccomp	_	SpaceAfter=No|Translit=prahlaːdčai|LTranslit=prahlaːdčai
 16	ถ้า	ถ้า	ADP	IN	_	17	mark	_	SpaceAfter=No|Translit=tʰâː|LTranslit=tʰâː
@@ -8518,7 +8518,7 @@
 3	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 4	อาวุธ	อาวุธ	NOUN	NN	_	3	obj	_	Translit='aːwuḏʰ|LTranslit='aːwuḏʰ
 5	ยกเว้น	ยกเว้น	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=ykwêːn|LTranslit=ykwêːn
-6	ผม	ผม	PRON	PRP	Person=1	5	obj	_	Translit=pʰm|LTranslit=pʰm
+6	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	5	obj	_	Gloss=I|LTranslit=pʰm|Translit=pʰm
 
 # sent_id = n01121032
 # parallel_id = pud/n01121032
@@ -8589,7 +8589,7 @@
 17	กับ	กับ	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 18	เรื่อง	เรื่อง	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
 19	นี้	นี้	DET	DT	PronType=Dem	18	det	_	Gloss=this|LTranslit=nîː|Translit=nîː
-20	ผม	ผม	PRON	PRP	Person=1	23	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+20	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	23	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 21	ก็	ก็	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 22	เลย	เลย	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=leːy|LTranslit=leːy
 23	ทำ	ทำ	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
@@ -8785,7 +8785,7 @@
 # text = ผมก็ไม่รู้เหมือนกันว่าทำไมผมถึงเลือกเธอ...
 # translit = pʰmkɔʔmạìrûːheːmüː'nkạnwàːdʰãːmạipʰmtʰüŋlüaːkḏʰœː...
 # text_en = I don't know why I chose her ...
-1	ผม	ผม	PRON	PRP	Person=1	4	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+1	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	4	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 2	ก็	ก็	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 3	ไม่	ไม่	PART	NEG	Polarity=Neg	4	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 4	รู้	รู้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rûː|LTranslit=rûː
@@ -8793,7 +8793,7 @@
 6	กัน	กัน	PRON	PRP	_	5	xcomp	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 7	ว่า	ว่า	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 8	ทำไม	ทำไม	ADV	WRB	_	11	advmod	_	SpaceAfter=No|Translit=dʰãːmại|LTranslit=dʰãːmại
-9	ผม	ผม	PRON	PRP	Person=1	11	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+9	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	11	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 10	ถึง	ถึง	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 11	เลือก	เลือก	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=lüaːk|LTranslit=lüaːk
 12	เธอ	เธอ	PRON	PRP	Person=3	11	obj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
@@ -9523,7 +9523,7 @@
 # text = ผมดูไปได้ไม่กี่ตอนเอง แล้วโทรศัพท์ของผมก็เริ่มสว่าง
 # translit = pʰmduːpạidạîmạìkìːtɔːn'eːŋ læ̂ːwdʰoːrśạbʰdʰkʰɔːŋpʰmkɔʔreìmswàːŋ
 # text_en = I hadn't seen a lot of the episodes and then my phone started lighting up.
-1	ผม	ผม	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+1	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 2	ดู	ดู	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=duː|LTranslit=duː
 3	ไป	ไป	PART	RP	_	2	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 4	ได้	ได้	AUX	MD	_	2	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -9534,7 +9534,7 @@
 9	แล้ว	แล้ว	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=læ̂ːw|LTranslit=læ̂ːw
 10	โทรศัพท์	โทรศัพท์	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=dʰoːrśạbʰdʰ|LTranslit=dʰoːrśạbʰdʰ
 11	ของ	ของ	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-12	ผม	ผม	PRON	PRP	Person=1	10	nmod:poss	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+12	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	10	nmod:poss	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 13	ก็	ก็	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 14	เริ่ม	เริ่ม	VERB	VV	_	2	advcl	_	SpaceAfter=No|Translit=reìm|LTranslit=reìm
 15	สว่าง	สว่าง	ADJ	JJ	_	14	xcomp	_	Translit=swàːŋ|LTranslit=swàːŋ
@@ -9870,7 +9870,7 @@
 # text = ผมต้องแสดงความยินดีกับแอนดี้ที่สามารถไปถึงอันดับ 1 ของโลกซึ่งเป็นความสำเร็จที่เหลือเชื่อ ชาวอเมริกันกล่าว
 # translit = pʰmtɔ̂ːŋsæːdŋgʰwaːmyindiːkạb'æːndîːdʰìːsaːmaːrtʰpạitʰüŋ'ạndạb 1 kʰɔːŋloːkcǜŋpengʰwaːmsãːrečdʰìːheːlüː'ćʰüàː ćʰaːwɔːmeːrikạnklàːw
 # text_en = "I have to congratulate Andy -- to get to No. 1 in the world that's an incredible achievement," the American said.
-1	ผม	ผม	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+1	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	3	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 2	ต้อง	ต้อง	AUX	MD	_	3	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 3	แสดง	แสดง	VERB	VV	_	22	ccomp	_	SpaceAfter=No|Translit=sæːdŋ|LTranslit=sæːdŋ
 4	ความยินดี	ความยินดี	VERB	VV	_	3	obj	_	SpaceAfter=No|Translit=gʰwaːmyindiː|LTranslit=gʰwaːmyindiː
@@ -9997,12 +9997,12 @@
 5	โรง	โรง	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=roːŋ|LTranslit=roːŋ
 6	นา	นา	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=naː|LTranslit=naː
 7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-8	ผม	ผม	PRON	PRP	Person=1	5	nmod:poss	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+8	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	5	nmod:poss	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 9	อยู่	อยู่	VERB	AS	Aspect=Prog	0	root	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 10	เรื่อย	เรื่อย	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=rüàːy|LTranslit=rüàːy
 11	ๆ	ๆ	SYM	SYM	_	10	dep	_	Translit=.|LTranslit=.
 12	และ	และ	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-13	ผม	ผม	PRON	PRP	Person=1	15	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+13	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	15	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 14	ก็	ก็	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 15	พูด	พูด	VERB	VV	_	2	conj	_	SpaceAfter=No|Translit=bʰuːd|LTranslit=bʰuːd
 16	ตลก	ตลก	ADJ	JJ	_	15	xcomp	_	SpaceAfter=No|Translit=tlk|LTranslit=tlk
@@ -10052,7 +10052,7 @@
 # text = ผมก็เป็นแค่เด็กผู้ชายรองเท้าเปื้อนโคลน
 # translit = pʰmkɔʔpengʰæ̀ːdekpʰûːćʰaːyrɔːŋdʰaôːpüâːngʰoːln
 # text_en = I was just a boy with muddy shoes.
-1	ผม	ผม	PRON	PRP	Person=1	5	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+1	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	5	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 2	ก็	ก็	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 3	เป็น	เป็น	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 4	แค่	แค่	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=gʰæ̀ː|LTranslit=gʰæ̀ː
@@ -10203,7 +10203,7 @@
 3	สาย	สาย	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=saːy|LTranslit=saːy
 4	นี้	นี้	DET	DT	PronType=Dem	3	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 5	เสร็จ	เสร็จ	VERB	VV	_	7	advcl	_	Translit=seːrɔʔč|LTranslit=seːrɔʔč
-6	ผม	ผม	PRON	PRP	Person=1	7	nsubj	_	SpaceAfter=No|Translit=pʰm|LTranslit=pʰm
+6	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	7	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 7	คิด	คิด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 8	ว่า	ว่า	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 9	รัฐบาล	รัฐบาล	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=rạṭʰbaːl|LTranslit=rạṭʰbaːl
