@@ -7603,7 +7603,7 @@
 25	กับ	กับ	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 26	ผู้	ผู้	NOUN	NN	_	23	obl	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
 27	บริโภค	บริโภค	VERB	VV	_	26	acl	_	SpaceAfter=No|Translit=briḇʰoːgʰ|LTranslit=briḇʰoːgʰ
-28	ต่าง	ต่าง	PRON	PRP	_	30	obl	_	SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
+28	ต่าง	ต่าง	PRON	PRP	PronType=Ind	30	obl	_	Gloss=other|LTranslit=tàːŋ|SpaceAfter=No|Translit=tàːŋ
 29	ก็	ก็	ADV	RB	_	30	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 30	โต	โต	VERB	VV	_	17	conj	_	SpaceAfter=No|Translit=toː|LTranslit=toː
 31	ตาม	ตาม	ADV	RB	_	30	advmod	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
@@ -9675,7 +9675,7 @@
 3	นี้	นี้	DET	DT	PronType=Dem	2	det	_	Gloss=this|LTranslit=nîː|Translit=nîː
 4	นัก	นัก	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 5	วิเคราะห์	วิเคราะห์	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=wigʰeːraːah|LTranslit=wigʰeːraːah
-6	ต่าง	ต่าง	PRON	PRP	_	8	obl	_	SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
+6	ต่าง	ต่าง	PRON	PRP	PronType=Ind	8	obl	_	Gloss=other|LTranslit=tàːŋ|SpaceAfter=No|Translit=tàːŋ
 7	ก็	ก็	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 8	ลังเล	ลังเล	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lạŋleː|LTranslit=lạŋleː
 9	ว่า	ว่า	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -17543,7 +17543,7 @@
 5	ชาย	ชาย	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=ćʰaːy|LTranslit=ćʰaːy
 6	และ	และ	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 7	หญิง	หญิง	NOUN	NN	_	5	conj	_	SpaceAfter=No|Translit=hŷiŋ|LTranslit=hŷiŋ
-8	ต่าง	ต่าง	PRON	PRP	Person=3	11	obl	_	SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
+8	ต่าง	ต่าง	PRON	PRP	Person=3|PronType=Ind	11	obl	_	Gloss=other|LTranslit=tàːŋ|SpaceAfter=No|Translit=tàːŋ
 9	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 10	เป็น	เป็น	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 11	นัก	นัก	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
@@ -21227,7 +21227,7 @@
 16	ทั้ง	ทั้ง	DET	DT	PronType=Tot	18	det	_	Gloss=both|LTranslit=dʰậŋ|SpaceAfter=No|Translit=dʰậŋ
 17	หก	หก	NUM	CD	_	18	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
 18	ชาติ	ชาติ	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=ćʰaːti|LTranslit=ćʰaːti
-19	ต่าง	ต่าง	PRON	PRP	_	12	det	_	SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
+19	ต่าง	ต่าง	PRON	PRP	PronType=Ind	12	det	_	Gloss=other|LTranslit=tàːŋ|SpaceAfter=No|Translit=tàːŋ
 20	ปฏิเสธ	ปฏิเสธ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pṭiseːḏʰ|LTranslit=pṭiseːḏʰ
 21	แผน	แผน	NOUN	NN	_	20	obj	_	SpaceAfter=No|Translit=pʰæːn|LTranslit=pʰæːn
 22	ใน	ใน	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -21287,7 +21287,7 @@
 21	แอลเบเนีย	แอลเบเนีย	PROPN	NNP	_	19	obl	_	Translit='æːlbeːniaː|LTranslit='æːlbeːniaː
 22	ชาติ	ชาติ	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=ćʰaːti|LTranslit=ćʰaːti
 23	มหาอำนาจ	มหาอำนาจ	NOUN	NN	_	22	compound	_	SpaceAfter=No|Translit=mhaː'ãːnaːč|LTranslit=mhaː'ãːnaːč
-24	ต่าง	ต่าง	PRON	PRP	_	25	obl	_	SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
+24	ต่าง	ต่าง	PRON	PRP	PronType=Ind	25	obl	_	Gloss=other|LTranslit=tàːŋ|SpaceAfter=No|Translit=tàːŋ
 25	คิด	คิด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 26	ได้	ได้	AUX	MD	_	25	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 27	ว่า	ว่า	ADP	IN	_	31	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
