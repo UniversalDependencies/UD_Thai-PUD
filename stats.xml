@@ -44,7 +44,7 @@
     <feat name="PronType" value="Dem" upos="DET,PRON">289</feat><!-- นี้, นั้น, นี่, นั่น -->
     <feat name="PronType" value="Ind" upos="DET,PRON">118</feat><!-- หลาย, อีก, บาง, ใด, ต่าง -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">25</feat><!-- อะไร, หรือเปล่า, หรือไม่, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
-    <feat name="PronType" value="Prs" upos="PRON">432</feat><!-- เขา, เธอ, เรา, ฉัน, มัน, ผม, คุณ, เอง, ตนเอง, ตัวเอง -->
+    <feat name="PronType" value="Prs" upos="PRON">448</feat><!-- เขา, เธอ, เรา, ฉัน, มัน, ผม, พระองค์, คุณ, เอง, ตนเอง -->
     <feat name="PronType" value="Rel" upos="DET,PRON">629</feat><!-- ที่, ซึ่ง, ใคร, ไหน -->
     <feat name="PronType" value="Tot" upos="DET,PRON">69</feat><!-- ทุก, ทั้ง, ทั้งหมด, แต่ละ, คนละ -->
     <feat name="Reflex" value="Yes" upos="PRON">26</feat><!-- เอง, ตนเอง, ตัวเอง -->

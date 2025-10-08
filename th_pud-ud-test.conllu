@@ -14218,7 +14218,7 @@
 3	พบ	พบ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰb|LTranslit=bʰb
 4	ว่า	ว่า	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 5	ตัว	ตัว	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
-6	พระองค์	พระองค์	PRON	PRP	Person=3	5	compound	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+6	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	5	compound	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 7	ประทับ	ประทับ	VERB	VV	_	3	ccomp	_	SpaceAfter=No|Translit=pradʰạb|LTranslit=pradʰạb
 8	อยู่	อยู่	VERB	VV	_	7	acl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 9	ที่	ที่	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -14259,7 +14259,7 @@
 # text_en = This time he claimed to have fought the battle without even bothering to put on his corslet until two hours after the fighting began.
 1	คราว	คราว	NOUN	NN	_	4	obl:tmod	_	SpaceAfter=No|Translit=gʰraːw|LTranslit=gʰraːw
 2	นี้	นี้	DET	DT	PronType=Dem	1	det	_	Gloss=this|LTranslit=nîː|Translit=nîː
-3	พระองค์	พระองค์	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+3	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	4	nsubj	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 4	ทรง	ทรง	VERB	MD	_	0	root	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 5	อ้าง	อ้าง	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit='âːŋ|LTranslit='âːŋ
 6	ว่า	ว่า	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -15200,7 +15200,7 @@
 1	นอก	นอก	ADP	IN	_	5	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|LTranslit=nîː|Translit=nîː
-4	พระองค์	พระองค์	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+4	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 5	ทรง	ทรง	VERB	MD	_	0	root	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 6	เสริม	เสริม	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=seːrim|LTranslit=seːrim
 7	การป้องกัน	การป้องกัน	VERB	VV	_	5	obj	_	SpaceAfter=No|Translit=kaːrpɔ̂ːŋkạn|LTranslit=kaːrpɔ̂ːŋkạn
@@ -15231,7 +15231,7 @@
 # text = พระองค์ทรงครองราชย์เพียงสิบห้าปี ซึ่งพบหลักฐานจากสิ่งก่อสร้างมากมายที่ไม่แล้วเสร็จ
 # translit = bʰra'ŋgʰdʰrŋgʰrɔːŋraːćʰybʰiaːŋsibhâːpiː cǜŋbʰbhlạkṭʰaːnčaːksìŋkɔ̀ːsrâːŋmaːkmaːydʰìːmạìlæ̂ːwseːrɔʔč
 # text_en = He reigned only fifteen years, which is evidenced by the incomplete nature of many of his constructions.
-1	พระองค์	พระองค์	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+1	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 2	ทรง	ทรง	VERB	MD	_	0	root	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 3	ครอง	ครอง	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=gʰrɔːŋ|LTranslit=gʰrɔːŋ
 4	ราชย์	ราชย์	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=raːćʰy|LTranslit=raːćʰy
@@ -15332,7 +15332,7 @@
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	ปี	ปี	NOUN	NN	_	5	obl	_	Translit=piː|LTranslit=piː
 3	1519	1519	NUM	CD	_	2	appos	_	Translit=1519|LTranslit=1519
-4	พระองค์	พระองค์	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+4	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 5	ทรง	ทรง	VERB	MD	_	0	root	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 6	กลาย	กลาย	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=klaːy|LTranslit=klaːy
 7	เป็น	เป็น	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -15341,7 +15341,7 @@
 10	จักรวรรดิ	จักรวรรดิ	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=čạkrwrrdi|LTranslit=čạkrwrrdi
 11	ฮับสบูร์ก	ฮับสบูร์ก	PROPN	NNP	_	10	compound	_	Translit=ḥạbsbuːrk|LTranslit=ḥạbsbuːrk
 12	และ	และ	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-13	พระองค์	พระองค์	PRON	PRP	Person=3	14	nsubj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+13	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	14	nsubj	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 14	ทรง	ทรง	VERB	MD	_	6	conj	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 15	ได้	ได้	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 16	รับ	รับ	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=rạb|LTranslit=rạb
@@ -16360,7 +16360,7 @@
 # text_en = In Thessaly he defeated his enemies and by 352, he was firmly in control of this region.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	เธสซาลี	เธสซาลี	PROPN	NNP	_	4	obl	_	SpaceAfter=No|Translit=ḏʰeːscaːliː|LTranslit=ḏʰeːscaːliː
-3	พระองค์	พระองค์	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+3	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	4	nsubj	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 4	ทรง	ทรง	VERB	MD	_	0	root	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 5	เอาชนะ	เอาชนะ	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit='aoːćʰna|LTranslit='aoːćʰna
 6	ศัตรู	ศัตรู	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=śạtruː|LTranslit=śạtruː
@@ -16369,7 +16369,7 @@
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 10	ปี	ปี	NOUN	NN	_	13	obl	_	Translit=piː|LTranslit=piː
 11	352	352	NUM	CD	_	10	appos	_	Translit=352|LTranslit=352
-12	พระองค์	พระองค์	PRON	PRP	Person=3	13	nsubj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+12	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	13	nsubj	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 13	ทรง	ทรง	VERB	MD	_	5	conj	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 14	ควบคุม	ควบคุม	VERB	VV	_	13	xcomp	_	SpaceAfter=No|Translit=gʰwbgʰum|LTranslit=gʰwbgʰum
 15	ดินแดน	ดินแดน	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=dindæːn|LTranslit=dindæːn
@@ -16512,7 +16512,7 @@
 4	ราชวงศ์	ราชวงศ์	NOUN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=raːćʰwŋś|LTranslit=raːćʰwŋś
 5	โรมานอฟ	โรมานอฟ	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit=roːmaːnɔːf|LTranslit=roːmaːnɔːf
 6	ทำให้	ทำให้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dʰãːhaî|LTranslit=dʰãːhaî
-7	พระองค์	พระองค์	PRON	PRP	Person=3	6	obj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+7	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	6	obj	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 8	ไม่	ไม่	PART	NEG	Polarity=Neg	9	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 9	อาจ	อาจ	VERB	MD	_	6	xcomp	_	SpaceAfter=No|Translit='aːč|LTranslit='aːč
 10	เห็น	เห็น	VERB	VV	_	9	xcomp	_	SpaceAfter=No|Translit=hen|LTranslit=hen
@@ -16520,7 +16520,7 @@
 12	แท้จริง	แท้จริง	ADJ	JJ	_	11	amod	_	SpaceAfter=No|Translit=dʰæ̂ːčriŋ|LTranslit=dʰæ̂ːčriŋ
 13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 14	ประเทศ	ประเทศ	NOUN	NN	_	11	nmod:poss	_	SpaceAfter=No|Translit=pradʰeːś|LTranslit=pradʰeːś
-15	พระองค์	พระองค์	PRON	PRP	Person=3	14	compound	_	Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+15	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	14	compound	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|Translit=bʰra'ŋgʰ
 
 # sent_id = w01083021
 # parallel_id = pud/w01083021
@@ -19282,7 +19282,7 @@
 14	ทว่า	ทว่า	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=dʰwàː|LTranslit=dʰwàː
 15	พระอนุชา	พระอนุชา	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=bʰra'nućʰaː|LTranslit=bʰra'nućʰaː
 16	ของ	ของ	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-17	พระองค์	พระองค์	PRON	PRP	Person=3	15	nmod:poss	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+17	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	15	nmod:poss	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 18	ไม่	ไม่	PART	NEG	Polarity=Neg	19	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 19	ได้	ได้	AUX	AS	Aspect=Perf	20	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 20	มี	มี	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -19301,7 +19301,7 @@
 4	ตื่นกลัว	ตื่นกลัว	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=tǜːnkluaː|LTranslit=tǜːnkluaː
 5	สิ่ง	สิ่ง	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
 6	ที่	ที่	DET	WDT	PronType=Rel	8	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-7	พระองค์	พระองค์	PRON	PRP	Person=3	8	nsubj	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+7	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	8	nsubj	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 8	ทอดพระเนตรเห็น	ทอดพระเนตรเห็น	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=dʰɔːdbʰraneːtrhen|LTranslit=dʰɔːdbʰraneːtrhen
 9	จาก	จาก	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 10	ศีลธรรม	ศีลธรรม	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=śiːlḏʰrrm|LTranslit=śiːlḏʰrrm
@@ -19318,7 +19318,7 @@
 3	1770	1770	NUM	CD	_	2	appos	_	Translit=1770|LTranslit=1770
 4	พระอนุชา	พระอนุชา	NOUN	NN	_	13	nsubj:pass	_	SpaceAfter=No|Translit=bʰra'nućʰaː|LTranslit=bʰra'nućʰaː
 5	ของ	ของ	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-6	พระองค์	พระองค์	PRON	PRP	Person=3	4	nmod:poss	_	Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+6	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	4	nmod:poss	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|Translit=bʰra'ŋgʰ
 7	เจ้าชาย	เจ้าชาย	NOUN	NN	_	4	appos	_	SpaceAfter=No|Translit=čaôːćʰaːy|LTranslit=čaôːćʰaːy
 8	เฮนรี่	เฮนรี่	PROPN	NNP	_	4	appos	_	Translit=ḥeːnrìː|LTranslit=ḥeːnrìː
 9	ดยุก	ดยุก	NOUN	NN	_	4	appos	_	SpaceAfter=No|Translit=dyuk|LTranslit=dyuk
@@ -25375,7 +25375,7 @@
 20	ช่วง	ช่วง	NOUN	NN	_	12	obl:tmod	_	SpaceAfter=No|Translit=ćʰə̀wŋ|LTranslit=ćʰə̀wŋ
 21	การประทับ	การประทับ	VERB	VV	_	20	compound	_	SpaceAfter=No|Translit=kaːrpradʰạb|LTranslit=kaːrpradʰạb
 22	ของ	ของ	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-23	พระองค์	พระองค์	PRON	PRP	Person=3	21	obl:poss	_	Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+23	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	21	obl:poss	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|Translit=bʰra'ŋgʰ
 
 # sent_id = w02011012
 # parallel_id = pud/w02011012
@@ -25596,7 +25596,7 @@
 20	ทั้ง	ทั้ง	DET	DT	PronType=Tot	21	det	_	Gloss=both|LTranslit=dʰậŋ|SpaceAfter=No|Translit=dʰậŋ
 21	สอง	สอง	NUM	CD	_	19	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
 22	ของ	ของ	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-23	พระองค์	พระองค์	PRON	PRP	Person=3	19	nmod:poss	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+23	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	19	nmod:poss	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 24	อย่างเท่าเทียม	อย่างเท่าเทียม	ADJ	JJ	_	17	advmod	_	SpaceAfter=No|Translit='yàːŋdʰaòːdʰiaːm|LTranslit='yàːŋdʰaòːdʰiaːm
 25	กัน	กัน	PRON	PRP	_	24	obl	_	Translit=kạn|LTranslit=kạn
 
@@ -27228,7 +27228,7 @@
 16	แต่	แต่	CCONJ	CC	_	21	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 17	ความหวัง	ความหวัง	VERB	VV	_	21	nsubj	_	SpaceAfter=No|Translit=gʰwaːmhwạŋ|LTranslit=gʰwaːmhwạŋ
 18	ของ	ของ	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-19	พระองค์	พระองค์	PRON	PRP	Person=3	17	obl:poss	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+19	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	17	obl:poss	_	Gloss=he,she|LTranslit=bʰra'ŋgʰ|SpaceAfter=No|Translit=bʰra'ŋgʰ
 20	ก็	ก็	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 21	ทลาย	ทลาย	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=dʰlaːy|LTranslit=dʰlaːy
 22	ลง	ลง	PART	RP	_	21	compound:prt	_	SpaceAfter=No|Translit=lŋ|LTranslit=lŋ
