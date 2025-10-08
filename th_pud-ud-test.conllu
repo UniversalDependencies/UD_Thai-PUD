@@ -2023,7 +2023,7 @@
 10	ปี	ปี	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 11	เดียว	เดียว	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=diaːw|LTranslit=diaːw
 12	กัน	กัน	PRON	PRP	PronType=Prs	11	obl	_	Gloss=it|LTranslit=kạn|SpaceAfter=No|Translit=kạn
-13	นั้นเอง	นั้นเอง	DET	DT	_	10	det	_	Translit=nận'eːŋ|LTranslit=nận'eːŋ
+13	นั้นเอง	นั้นเอง	DET	DT	PronType=Dem	10	det	_	Gloss=that|LTranslit=nận'eːŋ|Translit=nận'eːŋ
 
 # sent_id = n01029011
 # parallel_id = pud/n01029011
