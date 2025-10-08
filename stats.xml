@@ -33,7 +33,7 @@
     <tag name="X">4</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="12">
+  <feats unique="13">
     <feat name="Aspect" value="Perf" upos="AUX,VERB">289</feat><!-- ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว -->
     <feat name="Aspect" value="Prog" upos="AUX,VERB">112</feat><!-- อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง -->
     <feat name="ExtPos" value="ADV" upos="ADP">1</feat><!-- อย่าง -->
@@ -41,6 +41,7 @@
     <feat name="Person" value="2" upos="PRON">19</feat><!-- คุณ, 'Ya, You, นาย, ยู -->
     <feat name="Person" value="3" upos="PRON">324</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์ -->
     <feat name="Polarity" value="Neg" upos="PART">205</feat><!-- ไม่, ความไม่, มิ, อย่างไม่, การไม่ -->
+    <feat name="PronType" value="Dem" upos="DET">74</feat><!-- นั้น -->
     <feat name="PronType" value="Ind" upos="DET">56</feat><!-- หลาย -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">15</feat><!-- หรือเปล่า, หรือไม่, อะไร, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
     <feat name="PronType" value="Rel" upos="DET">495</feat><!-- ที่ -->
