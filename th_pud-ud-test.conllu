@@ -185,13 +185,13 @@
 # text_en = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
 1	สิ่ง	สิ่ง	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
 2	ที่	ที่	DET	WDT	PronType=Rel	5	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-3	เธอ	เธอ	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+3	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 4	กำลัง	กำลัง	AUX	AS	Aspect=Prog	5	aux	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
 5	พูด	พูด	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=bʰuːd|LTranslit=bʰuːd
 6	และ	และ	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 7	สิ่ง	สิ่ง	NOUN	NN	_	1	conj	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
 8	ที่	ที่	DET	WDT	PronType=Rel	11	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-9	เธอ	เธอ	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+9	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	11	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 10	กำลัง	กำลัง	AUX	AS	Aspect=Prog	11	aux	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
 11	ทำ	ทำ	VERB	VV	_	7	acl:relcl	_	Translit=dʰãː|LTranslit=dʰãː
 12	มัน	มัน	PRON	PRP	Person=3	16	reparandum	_	Translit=mạn|LTranslit=mạn
@@ -615,7 +615,7 @@
 # text = เธอถูกตั้งข้อหาฐานพยายามฆ่าบุตรสาววัย 2 ขวบของเธอด้วย
 # translit = ḏʰœːtʰuːktậŋkʰɔ̂ːhaːṭʰaːnbʰyaːyaːmqʰàːbutrsaːwwạy 2 kʰwbkʰɔːŋḏʰœːdə̂wy
 # text_en = She has also been charged with trying to kill her two-year-old daughter.
-1	เธอ	เธอ	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+1	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	3	nsubj:pass	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 2	ถูก	ถูก	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 3	ตั้ง	ตั้ง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
 4	ข้อหา	ข้อหา	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=kʰɔ̂ːhaː|LTranslit=kʰɔ̂ːhaː
@@ -628,7 +628,7 @@
 11	2	2	NUM	CD	_	12	nummod	_	Translit=2|LTranslit=2
 12	ขวบ	ขวบ	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=kʰwb|LTranslit=kʰwb
 13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-14	เธอ	เธอ	PRON	PRP	Person=3	8	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+14	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	8	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 15	ด้วย	ด้วย	ADV	RB	_	3	advmod	_	Translit=də̂wy|LTranslit=də̂wy
 
 # sent_id = n01011011
@@ -636,7 +636,7 @@
 # text = เธอได้ฆาตกรรมอังเดร ไพรซ์ ที่ 3 โดยการกดหน้าของเขาเข้ากับที่นอนลมในห้องนั่งเล่นของเธอ ก่อนที่จะพยายามทำแบบเดียวกันนั้นกับแองเจิล ลูกสาวของเธอ ตำรวจกล่าว
 # translit = ḏʰœːdạîqʰaːtkrrm'ạŋdeːr bʰạirc dʰìː 3 doːykaːrkdhnâːkʰɔːŋkʰaoːkʰaôːkạbdʰìːnɔːnlmnaihɔ̂ːŋnạ̀ŋlèːnkʰɔːŋḏʰœː kɔ̀ːndʰìːčabʰyaːyaːmdʰãːbæːbdiaːwkạnnậnkạb'æːŋčeil luːksaːwkʰɔːŋḏʰœː tãːrwčklàːw
 # text_en = She killed Andre Price III by pressing his face into an air mattress in her sitting room before trying to do the same to her daughter, Angel, police said.
-1	เธอ	เธอ	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+1	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	3	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 2	ได้	ได้	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 3	ฆาตกรรม	ฆาตกรรม	VERB	VV	_	40	ccomp	_	SpaceAfter=No|Translit=qʰaːtkrrm|LTranslit=qʰaːtkrrm
 4	อังเดร	อังเดร	PROPN	NNP	_	3	obj	_	Translit='ạŋdeːr|LTranslit='ạŋdeːr
@@ -658,7 +658,7 @@
 20	นั่ง	นั่ง	VERB	VV	_	19	acl	_	SpaceAfter=No|Translit=nạ̀ŋ|LTranslit=nạ̀ŋ
 21	เล่น	เล่น	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=lèːn|LTranslit=lèːn
 22	ของ	ของ	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-23	เธอ	เธอ	PRON	PRP	Person=3	19	nmod:poss	_	Translit=ḏʰœː|LTranslit=ḏʰœː
+23	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	19	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|Translit=ḏʰœː
 24	ก่อน	ก่อน	ADP	IN	_	27	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
 25	ที่	ที่	ADP	IN	_	24	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 26	จะ	จะ	AUX	MD	_	27	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -673,7 +673,7 @@
 35	ลูก	ลูก	NOUN	NN	_	34	appos	_	SpaceAfter=No|Translit=luːk|LTranslit=luːk
 36	สาว	สาว	NOUN	NN	_	35	compound	_	SpaceAfter=No|Translit=saːw|LTranslit=saːw
 37	ของ	ของ	ADP	IN	_	38	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-38	เธอ	เธอ	PRON	PRP	Person=3	35	nmod:poss	_	Translit=ḏʰœː|LTranslit=ḏʰœː
+38	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	35	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|Translit=ḏʰœː
 39	ตำรวจ	ตำรวจ	NOUN	NN	_	40	compound	_	SpaceAfter=No|Translit=tãːrwč|LTranslit=tãːrwč
 40	กล่าว	กล่าว	VERB	VV	_	0	root	_	Translit=klàːw|LTranslit=klàːw
 
@@ -721,7 +721,7 @@
 13	คน	คน	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 14	หนึ่ง	หนึ่ง	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 15	ของ	ของ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-16	เธอ	เธอ	PRON	PRP	Person=3	12	nmod:poss	_	Translit=ḏʰœː|LTranslit=ḏʰœː
+16	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	12	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|Translit=ḏʰœː
 
 # sent_id = n01013005
 # parallel_id = pud/n01013005
@@ -1775,7 +1775,7 @@
 16	ร่างกาย	ร่างกาย	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=ràːŋkaːy|LTranslit=ràːŋkaːy
 17	คน	คน	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 18	อื่น	อื่น	ADJ	JJ	_	17	amod	_	Translit='ǜːn|LTranslit='ǜːn
-19	เธอ	เธอ	PRON	PRP	Person=3	20	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+19	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	20	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 20	กล่าว	กล่าว	VERB	VV	_	0	root	_	Translit=klàːw|LTranslit=klàːw
 
 # sent_id = n01025040
@@ -1911,12 +1911,12 @@
 # text_en = I asked her afterwards if she understood why people might vote for Trump.
 1	ฉัน	ฉัน	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
 2	ถาม	ถาม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tʰaːm|LTranslit=tʰaːm
-3	เธอ	เธอ	PRON	PRP	Person=3	2	obj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+3	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	2	obj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 4	หลัง	หลัง	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 5	จาก	จาก	ADP	IN	_	4	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 6	นั้น	นั้น	PRON	PRD	_	2	obl	_	SpaceAfter=No|Translit=nận|LTranslit=nận
 7	ว่า	ว่า	ADP	IN	_	9	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-8	เธอ	เธอ	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+8	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	9	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 9	เข้าใจ	เข้าใจ	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=kʰaôːčai|LTranslit=kʰaôːčai
 10	หรือไม่	หรือไม่	PART	EP	PronType=Int	9	discourse	_	SpaceAfter=No|Translit=hrüː'mạì|LTranslit=hrüː'mạì
 11	ว่า	ว่า	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -2416,7 +2416,7 @@
 15	โต	โต	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=toː|LTranslit=toː
 16	ขึ้น	ขึ้น	PART	RP	_	15	compound:prt	_	Translit=kʰü̂n|LTranslit=kʰü̂n
 17	และ	และ	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-18	เธอ	เธอ	PRON	PRP	Person=3	20	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+18	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	20	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 19	ต้อง	ต้อง	AUX	MD	_	20	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 20	ออก	ออก	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit='ɔːk|LTranslit='ɔːk
 21	จาก	จาก	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
@@ -2488,7 +2488,7 @@
 16	ว่า	ว่า	ADP	IN	_	15	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 17	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	22	nsubj	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
 18	หรือ	หรือ	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
-19	เธอ	เธอ	PRON	PRP	Person=3	17	conj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+19	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	17	conj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 20	จะ	จะ	AUX	MD	_	22	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 21	เป็น	เป็น	AUX	VC	_	22	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 22	ใคร	ใคร	PRON	WP	_	3	advcl	_	Translit=gʰair|LTranslit=gʰair
@@ -2613,7 +2613,7 @@
 22	เขต	เขต	NOUN	NN	_	11	conj	_	Proper=True|SpaceAfter=No|Translit=kʰeːt|LTranslit=kʰeːt
 23	แอบบอทส์ฟอร์ด	แอบบอทส์ฟอร์ด	PROPN	NNP	_	22	flat:name	_	SpaceAfter=No|Translit='æːbbɔːdʰsfɔːrd|LTranslit='æːbbɔːdʰsfɔːrd
 24	โดยเฉพาะ	โดยเฉพาะ	ADV	RB	_	9	advmod	_	Translit=doːyčʰeːbʰaːa|LTranslit=doːyčʰeːbʰaːa
-25	เธอ	เธอ	PRON	PRP	Person=3	26	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+25	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	26	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 26	กล่าว	กล่าว	VERB	VV	_	0	root	_	Translit=klàːw|LTranslit=klàːw
 
 # sent_id = n01035030
@@ -2868,7 +2868,7 @@
 6	และ	และ	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 7	พันธมิตร	พันธมิตร	NOUN	NN	_	5	conj	_	SpaceAfter=No|Translit=bʰạnḏʰmitr|LTranslit=bʰạnḏʰmitr
 8	ของ	ของ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-9	เธอ	เธอ	PRON	PRP	Person=3	7	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+9	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	7	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 10	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 11	พยายาม	พยายาม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰyaːyaːm|LTranslit=bʰyaːyaːm
 12	คง	คง	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=gʰŋ|LTranslit=gʰŋ
@@ -2978,7 +2978,7 @@
 17	เกิด	เกิด	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=keid|LTranslit=keid
 18	ขึ้น	ขึ้น	PART	RP	_	17	compound:prt	_	Translit=kʰü̂n|LTranslit=kʰü̂n
 19	แต่	แต่	CCONJ	CC	_	21	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
-20	เธอ	เธอ	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+20	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	21	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 21	บอก	บอก	VERB	VV	_	6	conj	_	SpaceAfter=No|Translit=bɔːk|LTranslit=bɔːk
 22	ว่า	ว่า	ADP	IN	_	26	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 23	ความรู้สึก	ความรู้สึก	VERB	VV	_	26	nsubj	_	SpaceAfter=No|Translit=gʰwaːmrûːsük|LTranslit=gʰwaːmrûːsük
@@ -3760,7 +3760,7 @@
 30	ใน	ใน	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 31	ครรภ์	ครรภ์	NOUN	NN	_	29	nmod	_	SpaceAfter=No|Translit=gʰrrḇʰ|LTranslit=gʰrrḇʰ
 32	ของ	ของ	ADP	IN	_	33	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-33	เธอ	เธอ	PRON	PRP	Person=3	31	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+33	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	31	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 34	และ	และ	CCONJ	CC	_	36	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 35	ต้อง	ต้อง	AUX	MD	_	36	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 36	เข้า	เข้า	VERB	VV	_	18	conj	_	SpaceAfter=No|Translit=kʰaôː|LTranslit=kʰaôː
@@ -3826,7 +3826,7 @@
 # text = เธออายุ 84 ปี
 # translit = ḏʰœː'aːyu 84 piː
 # text_en = She was 84 years old.
-1	เธอ	เธอ	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+1	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 2	อายุ	อายุ	NOUN	NN	_	0	root	_	Translit='aːyu|LTranslit='aːyu
 3	84	84	NUM	CD	_	4	nummod	_	Translit=84|LTranslit=84
 4	ปี	ปี	NOUN	NNB	_	2	obl	_	Translit=piː|LTranslit=piː
@@ -3839,7 +3839,7 @@
 1	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
 2	บรรยาย	บรรยาย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=brryaːy|LTranslit=brryaːy
 3	ว่า	ว่า	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-4	เธอ	เธอ	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+4	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	6	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 6	ผู้หญิง	ผู้หญิง	NOUN	NN	_	2	ccomp	_	SpaceAfter=No|Translit=pʰûːhŷiŋ|LTranslit=pʰûːhŷiŋ
 7	ที่	ที่	NOUN	NN	_	9	nsubj	_	Translit=dʰìː|LTranslit=dʰìː
@@ -3865,7 +3865,7 @@
 27	ด้วย	ด้วย	ADP	IN	_	28	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 28	เรื่องราว	เรื่องราว	NOUN	NN	_	21	obl	_	SpaceAfter=No|Translit=rüàːŋraːw|LTranslit=rüàːŋraːw
 29	ของ	ของ	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-30	เธอ	เธอ	PRON	PRP	Person=3	28	nmod:poss	_	Translit=ḏʰœː|LTranslit=ḏʰœː
+30	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	28	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|Translit=ḏʰœː
 
 # sent_id = n01053008
 # parallel_id = pud/n01053008
@@ -3903,7 +3903,7 @@
 3	เพียง	เพียง	ADV	RB	_	4	advmod	_	Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
 4	20	20	NUM	CD	_	5	nummod	_	Translit=20|LTranslit=20
 5	ปี	ปี	NOUN	NNB	_	2	clf	_	Translit=piː|LTranslit=piː
-6	เธอ	เธอ	PRON	PRP	Person=3	8	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+6	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	8	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 7	เป็น	เป็น	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 8	กระบอก	กระบอก	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=krabɔːk|LTranslit=krabɔːk
 9	เสียง	เสียง	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=siaːŋ|LTranslit=siaːŋ
@@ -3933,7 +3933,7 @@
 # text_en = "Her voice literally went around the world," Leive said.
 1	เสียง	เสียง	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=siaːŋ|LTranslit=siaːŋ
 2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-3	เธอ	เธอ	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+3	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	1	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 4	ส่ง	ส่ง	VERB	VV	_	11	ccomp	_	SpaceAfter=No|Translit=sə̀ŋ|LTranslit=sə̀ŋ
 5	ไป	ไป	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 6	ทั่ว	ทั่ว	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=dʰuàː|LTranslit=dʰuàː
@@ -4390,7 +4390,7 @@
 # translit = læḏʰœːkɔʔbɔːkwàː “gʰuṇtɔ̂ːŋduːwàːḏʰœːtɔːbrạbtɔːnhạinwàːraoːtɔ̂ːŋdʰãː'arạitàːŋɔː'kpại raoːsaːmaːrtʰdʰãːdạîdiːkwàː lætɔːnhạindʰìːḏʰœːsæːdŋgʰwaːmrûːsüksiaːčai”
 # text_en = And, she granted, “you have to look at where she has acknowledged that we need to do something different—we can do better—and where she has expressed regret.”
 1	และ	และ	CCONJ	CC	_	4	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-2	เธอ	เธอ	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+2	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	4	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 3	ก็	ก็	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	บอก	บอก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bɔːk|LTranslit=bɔːk
 5	ว่า	ว่า	ADP	IN	_	9	mark	_	Translit=wàː|LTranslit=wàː
@@ -4399,7 +4399,7 @@
 8	ต้อง	ต้อง	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 9	ดู	ดู	VERB	VV	_	4	advcl	_	SpaceAfter=No|Translit=duː|LTranslit=duː
 10	ว่า	ว่า	ADP	IN	_	12	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-11	เธอ	เธอ	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+11	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	12	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 12	ตอบรับ	ตอบรับ	VERB	VV	_	9	ccomp	_	SpaceAfter=No|Translit=tɔːbrạb|LTranslit=tɔːbrạb
 13	ตอน	ตอน	NOUN	NN	_	12	obl:tmod	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
 14	ไหน	ไหน	DET	WDT	_	13	det	_	SpaceAfter=No|Translit=hạin|LTranslit=hạin
@@ -4421,7 +4421,7 @@
 30	ตอน	ตอน	NOUN	NN	_	12	conj	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
 31	ไหน	ไหน	DET	WDT	_	30	det	_	SpaceAfter=No|Translit=hạin|LTranslit=hạin
 32	ที่	ที่	DET	WDT	PronType=Rel	34	obl:tmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-33	เธอ	เธอ	PRON	PRP	Person=3	34	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+33	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	34	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 34	แสดง	แสดง	VERB	VV	_	30	acl:relcl	_	SpaceAfter=No|Translit=sæːdŋ|LTranslit=sæːdŋ
 35	ความรู้สึก	ความรู้สึก	VERB	VV	_	34	obj	_	SpaceAfter=No|Translit=gʰwaːmrûːsük|LTranslit=gʰwaːmrûːsük
 36	เสียใจ	เสียใจ	VERB	VV	_	35	xcomp	_	Proper=True|SpaceAfter=No|Translit=siaːčai|LTranslit=siaːčai
@@ -4794,11 +4794,11 @@
 12	เกี่ยว	เกี่ยว	VERB	VV	_	14	case	_	SpaceAfter=No|Translit=kiàːw|LTranslit=kiàːw
 13	กับ	กับ	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 14	ตัว	ตัว	NOUN	NN	_	8	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=tuaː|LTranslit=tuaː
-15	เธอ	เธอ	PRON	PRP	Person=3	14	compound	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+15	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	14	compound	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 16	หรือ	หรือ	CCONJ	CC	_	17	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
 17	พฤติกรรม	พฤติกรรม	NOUN	NN	_	14	conj	_	SpaceAfter=No|Translit=bʰṟtikrrm|LTranslit=bʰṟtikrrm
 18	ของ	ของ	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-19	เธอ	เธอ	PRON	PRP	Person=3	17	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+19	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	17	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 20	ต่อ	ต่อ	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 21	คน	คน	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 22	อื่น	อื่น	ADJ	JJ	_	21	amod	_	SpaceAfter=No|Translit='ǜːn|LTranslit='ǜːn
@@ -5610,7 +5610,7 @@
 17	ฉัน	ฉัน	PRON	PRP	Person=1	18	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
 18	คิด	คิด	VERB	VV	_	4	advcl	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 19	ว่า	ว่า	ADP	IN	_	21	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-20	เธอ	เธอ	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+20	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	21	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 21	น่า	น่า	VERB	MD	_	18	ccomp	_	SpaceAfter=No|Translit=nàː|LTranslit=nàː
 22	จะ	จะ	AUX	MD	_	21	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 23	เป็น	เป็น	AUX	VC	_	24	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -5808,7 +5808,7 @@
 # text_en = Her reason is that it provides insufficient protection to American workers whose jobs and living standards it might harm.
 1	เหตุผล	เหตุผล	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=heːtupʰl|LTranslit=heːtupʰl
 2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-3	เธอ	เธอ	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+3	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	1	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 4	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 5	มัน	มัน	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
 6	คุ้มครอง	คุ้มครอง	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=gʰûmgʰrɔːŋ|LTranslit=gʰûmgʰrɔːŋ
@@ -6257,7 +6257,7 @@
 3	ฉัน	ฉัน	PRON	PRP	Person=1	4	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
 4	บอก	บอก	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=bɔːk|LTranslit=bɔːk
 5	ให้	ให้	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
-6	เธอ	เธอ	PRON	PRP	Person=3	5	obj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+6	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	5	obj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 7	ติดต่อ	ติดต่อ	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=tidtɔ̀ː|LTranslit=tidtɔ̀ː
 8	แฟรงค์	แฟรงค์	PROPN	NNP	_	7	obj	_	SpaceAfter=No|Translit=fæːrŋgʰ|LTranslit=fæːrŋgʰ
 9	ให้	ให้	VERB	VV	_	7	acl	_	SpaceAfter=No|Translit=haî|LTranslit=haî
@@ -6266,8 +6266,8 @@
 12	นาย	นาย	NOUN	NN	_	10	xcomp	_	SpaceAfter=No|Translit=naːy|LTranslit=naːy
 13	แบบ	แบบ	NOUN	NN	_	12	compound	_	SpaceAfter=No|Translit=bæːb|LTranslit=bæːb
 14	ให้	ให้	VERB	VV	_	12	acl	_	SpaceAfter=No|Translit=haî|LTranslit=haî
-15	เธอ	เธอ	PRON	PRP	Person=3	14	obj	_	Translit=ḏʰœː|LTranslit=ḏʰœː
-16	เธอ	เธอ	PRON	PRP	Person=3	18	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+15	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	14	obj	_	Gloss=you,she|LTranslit=ḏʰœː|Translit=ḏʰœː
+16	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	18	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 17	ก็	ก็	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 18	หัวเราะ	หัวเราะ	VERB	VV	_	0	root	_	Translit=huaːrɔ|LTranslit=huaːrɔ
 
@@ -6312,7 +6312,7 @@
 12	ให้	ให้	VERB	VV	_	10	acl	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 13	เห็น	เห็น	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=hen|LTranslit=hen
 14	ว่า	ว่า	ADP	IN	_	16	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-15	เธอ	เธอ	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+15	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	16	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 16	ใส่	ใส่	VERB	VV	_	13	ccomp	_	SpaceAfter=No|Translit=saì|LTranslit=saì
 17	แว่น	แว่น	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=wæ̀ːn|LTranslit=wæ̀ːn
 18	กัน	กัน	VERB	VV	_	17	acl	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
@@ -8147,7 +8147,7 @@
 # text = เธอเริ่มเล่นกับอาร์เอสซีในช่วงกลางทศวรรษ 60 โดยเล่นเป็นคนบ้าในโรงพยาบาลจิตเวชในเรื่อง Marat/Sade
 # translit = ḏʰœːreìmlèːnkạb'aːr'eːsciːnaićʰə̀wŋklaːŋdʰśwrrš 60 doːylèːnpengʰnbâːnairoːŋbʰyaːbaːlčitweːćʰnairüàːŋ Marat/Sade
 # text_en = She started out at the RSC in the mid-Sixties playing an asylum-inmate in Marat/Sade.
-1	เธอ	เธอ	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+1	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 2	เริ่ม	เริ่ม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=reìm|LTranslit=reìm
 3	เล่น	เล่น	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=lèːn|LTranslit=lèːn
 4	กับ	กับ	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
@@ -8190,7 +8190,7 @@
 1	พลังงาน	พลังงาน	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=bʰlạŋŋaːn|LTranslit=bʰlạŋŋaːn
 2	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	1	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 3	ของ	ของ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-4	เธอ	เธอ	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+4	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	1	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 5	มา	มา	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 6	จาก	จาก	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 7	ไหน	ไหน	PRON	WP	PronType=Int	5	obl	_	SpaceAfter=No|Translit=hạin|LTranslit=hạin
@@ -8220,7 +8220,7 @@
 # text_en = Her neck pushes forward in vein-accentuating confrontation, her hands shake.
 1	คอ	คอ	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=gʰɔː|LTranslit=gʰɔː
 2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-3	เธอ	เธอ	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+3	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	1	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 4	ยื่น	ยื่น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǜːn|LTranslit=yǜːn
 5	ไป	ไป	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 6	ข้าง	ข้าง	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=kʰâːŋ|LTranslit=kʰâːŋ
@@ -8235,7 +8235,7 @@
 15	มา	มา	ADV	RB	_	13	advmod	_	Translit=maː|LTranslit=maː
 16	มือ	มือ	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=müː'|LTranslit=müː'
 17	ของ	ของ	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-18	เธอ	เธอ	PRON	PRP	Person=3	16	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+18	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	16	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 19	สั่นเทา	สั่นเทา	VERB	VV	_	4	acl	_	Translit=sạ̀ndʰaoː|LTranslit=sạ̀ndʰaoː
 
 # sent_id = n01116035
@@ -8796,7 +8796,7 @@
 9	ผม	ผม	PRON	PRP	Person=1|PronType=Prs	11	nsubj	_	Gloss=I|LTranslit=pʰm|SpaceAfter=No|Translit=pʰm
 10	ถึง	ถึง	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 11	เลือก	เลือก	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=lüaːk|LTranslit=lüaːk
-12	เธอ	เธอ	PRON	PRP	Person=3	11	obj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+12	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	11	obj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 13	...	...	PUNCT	...	_	4	punct	_	Translit=...|LTranslit=...
 
 # sent_id = n01127130
@@ -10364,7 +10364,7 @@
 # text = เธอเล่าให้ซีเอ็นเอ็นสไตล์ฟังถึงประสบการณ์นั้น
 # translit = ḏʰœːlaòːhaîciː'en'enstạilfạŋtʰüŋprasbkaːrṇnận
 # text_en = She spoke to CNN Style about the experience.
-1	เธอ	เธอ	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+1	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 2	เล่า	เล่า	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=laòː|LTranslit=laòː
 3	ให้	ให้	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 4	ซีเอ็นเอ็น	ซีเอ็นเอ็น	PROPN	NNP	_	3	obj	_	SpaceAfter=No|Translit=ciː'en'en|LTranslit=ciː'en'en
@@ -13767,7 +13767,7 @@
 # text = เธอใช้ประโยชน์จากความสัมพันธ์ส่วนตัวกับนักวิทยาศาสตร์ของรัฐหลายคนซึ่งให้ข้อมูลลับแก่เธอด้วย
 # translit = ḏʰœːćʰaîprayoːćʰnčaːkgʰwaːmsạmbʰạnḏʰsə̀wntuaːkạbnạkwidʰyaːśaːstrkʰɔːŋrạṭʰhlaːygʰncǜŋhaîkʰɔ̂ːmuːllạbkæ̀ːḏʰœːdə̂wy
 # text_en = She also took advantage of her personal connections with many government scientists, who supplied her with confidential information.
-1	เธอ	เธอ	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+1	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 2	ใช้	ใช้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 3	ประโยชน์	ประโยชน์	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=prayoːćʰn|LTranslit=prayoːćʰn
 4	จาก	จาก	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
@@ -13785,7 +13785,7 @@
 16	ข้อมูล	ข้อมูล	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=kʰɔ̂ːmuːl|LTranslit=kʰɔ̂ːmuːl
 17	ลับ	ลับ	ADJ	JJ	_	16	amod	_	SpaceAfter=No|Translit=lạb|LTranslit=lạb
 18	แก่	แก่	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=kæ̀ː|LTranslit=kæ̀ː
-19	เธอ	เธอ	PRON	PRP	Person=3	16	nmod	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+19	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	16	nmod	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 20	ด้วย	ด้วย	ADV	RB	_	15	advmod	_	Translit=də̂wy|LTranslit=də̂wy
 
 # sent_id = w01047094
@@ -15113,7 +15113,7 @@
 # text_en = Her zodiacal animal is the Monkey and her traditionally significant sixtieth anniversary year was 1992.
 1	นักษัตร	นักษัตร	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=nạkšạtr|LTranslit=nạkšạtr
 2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-3	เธอ	เธอ	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+3	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	1	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 4	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 5	วอก	วอก	NOUN	NN	_	4	xcomp	_	Proper=True|Translit=wɔːk|LTranslit=wɔːk
 6	และ	และ	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -15124,7 +15124,7 @@
 11	สิบ	สิบ	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
 12	ปี	ปี	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-14	เธอ	เธอ	PRON	PRP	Person=3	7	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+14	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	7	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 15	คือ	คือ	VERB	VC	_	5	conj	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 16	ปี	ปี	NOUN	NN	_	15	xcomp	_	Translit=piː|LTranslit=piː
 17	1992	1992	NUM	CD	_	16	appos	_	Translit=1992|LTranslit=1992
@@ -16845,7 +16845,7 @@
 28	บุตร	บุตร	NOUN	NN	_	27	compound	_	SpaceAfter=No|Translit=butr|LTranslit=butr
 29	ของ	ของ	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 30	พวก	พวก	NOUN	NN	_	25	nmod:poss	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
-31	เธอ	เธอ	PRON	PRP	Person=3	30	compound	_	Translit=ḏʰœː|LTranslit=ḏʰœː
+31	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	30	compound	_	Gloss=you,she|LTranslit=ḏʰœː|Translit=ḏʰœː
 
 # sent_id = w01089017
 # parallel_id = pud/w01089017
@@ -17785,7 +17785,7 @@
 # text = เธอถูกทาบทามหลายบทบาท โฆษณาโทรทัศน์ และละครเวที แต่ไม่มีอะไรเลยที่กระตุ้นความสนใจของเธอ
 # translit = ḏʰœːtʰuːkdʰaːbdʰaːmhlaːybdʰbaːdʰ qʰoːšṇaːdʰoːrdʰạśn lælagʰrweːdʰiː tæ̀ːmạìmiː'arạileːydʰìːkratûngʰwaːmsnčaikʰɔːŋḏʰœː
 # text_en = She was offered several scripts, television commercials, and stage projects, but none piqued her interest.
-1	เธอ	เธอ	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+1	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	3	nsubj:pass	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 2	ถูก	ถูก	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 3	ทาบทาม	ทาบทาม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dʰaːbdʰaːm|LTranslit=dʰaːbdʰaːm
 4	หลาย	หลาย	DET	DT	PronType=Ind	5	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
@@ -17804,7 +17804,7 @@
 17	กระตุ้น	กระตุ้น	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|Translit=kratûn|LTranslit=kratûn
 18	ความสนใจ	ความสนใจ	VERB	VV	_	17	obj	_	SpaceAfter=No|Translit=gʰwaːmsnčai|LTranslit=gʰwaːmsnčai
 19	ของ	ของ	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-20	เธอ	เธอ	PRON	PRP	Person=3	18	obl:poss	_	Translit=ḏʰœː|LTranslit=ḏʰœː
+20	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	18	obl:poss	_	Gloss=you,she|LTranslit=ḏʰœː|Translit=ḏʰœː
 
 # sent_id = w01102020
 # parallel_id = pud/w01102020
@@ -18848,7 +18848,7 @@
 3	1991	1991	NUM	CD	_	2	appos	_	Translit=1991|LTranslit=1991
 4	ถึง	ถึง	ADP	IN	_	5	case	_	Translit=tʰüŋ|LTranslit=tʰüŋ
 5	1997	1997	NUM	CD	_	3	nmod	_	Translit=1997|LTranslit=1997
-6	เธอ	เธอ	PRON	PRP	Person=3	7	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+6	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	7	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 7	เปิด	เปิด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=peid|LTranslit=peid
 8	โรง	โรง	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=roːŋ|LTranslit=roːŋ
 9	เรียน	เรียน	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=riaːn|LTranslit=riaːn
@@ -18871,7 +18871,7 @@
 4	เรื่อง	เรื่อง	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
 5	ล่าสุด	ล่าสุด	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=làːsud|LTranslit=làːsud
 6	ของ	ของ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-7	เธอ	เธอ	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+7	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	1	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 8	เกี่ยว	เกี่ยว	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kiàːw|LTranslit=kiàːw
 9	กับ	กับ	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 10	มาร์กาเร็ต	มาร์กาเร็ต	PROPN	NNP	_	8	obl	_	Translit=maːrkaːret|LTranslit=maːrkaːret
@@ -18885,7 +18885,7 @@
 # text = เธอพบว่าการเปลี่ยนผ่านสู่นิยายนั้นง่าย โดยอธิบายว่า “หนังสือทุกเล่มคือโค้งแห่งการเรียนรู้ และคุณต้องเปิดใจให้กว้างเข้าไว้”
 # translit = ḏʰœːbʰbwàːkaːrpeːlìːynpʰàːnsùːniyaːynậnŋàːy doːyɔːḏʰibaːywàː “hnạŋsüː'dʰuklèːmgʰüː'gʰôːŋhæ̀ːŋkaːrriaːnrûː lægʰuṇtɔ̂ːŋpeidčaihaîkwâːŋkʰaôːwạî”
 # text_en = She found the transition to fiction easy, explaining, "Every book is a learning curve, and you have to keep an open mind."
-1	เธอ	เธอ	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+1	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 2	พบ	พบ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰb|LTranslit=bʰb
 3	ว่า	ว่า	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 4	การเปลี่ยนผ่าน	การเปลี่ยนผ่าน	VERB	VV	_	8	nsubj	_	SpaceAfter=No|Translit=kaːrpeːlìːynpʰàːn|LTranslit=kaːrpeːlìːynpʰàːn
@@ -19029,7 +19029,7 @@
 17	ด้าน	ด้าน	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=dâːn|LTranslit=dâːn
 18	มนุษยธรรม	มนุษยธรรม	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=mnušyḏʰrrm|LTranslit=mnušyḏʰrrm
 19	ของ	ของ	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-20	เธอ	เธอ	PRON	PRP	Person=3	13	obl:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+20	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	13	obl:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 21	จน	จน	ADP	IN	_	28	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 22	เมื่อ	เมื่อ	ADP	IN	_	21	fixed	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 23	การปกครอง	การปกครอง	VERB	VV	_	28	nsubj	_	SpaceAfter=No|Translit=kaːrpkgʰrɔːŋ|LTranslit=kaːrpkgʰrɔːŋ
@@ -19355,7 +19355,7 @@
 4	ปี	ปี	NOUN	NN	_	1	obl:tmod	_	Translit=piː|LTranslit=piː
 5	1981	1981	NUM	CD	_	4	appos	_	Translit=1981|LTranslit=1981
 6	ของ	ของ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-7	เธอ	เธอ	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+7	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	1	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 8	เป็น	เป็น	AUX	VC	_	9	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 9	หนึ่ง	หนึ่ง	NUM	CD	_	0	root	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 10	ใน	ใน	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -19386,9 +19386,9 @@
 14	นาย	นาย	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=naːy|LTranslit=naːy
 15	ทุน	ทุน	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=dʰun|LTranslit=dʰun
 16	ของ	ของ	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-17	เธอ	เธอ	PRON	PRP	Person=3	14	nmod:poss	_	Translit=ḏʰœː|LTranslit=ḏʰœː
+17	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	14	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|Translit=ḏʰœː
 18	ทำให้	ทำให้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dʰãːhaî|LTranslit=dʰãːhaî
-19	เธอ	เธอ	PRON	PRP	Person=3	18	obj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+19	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	18	obj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 20	อยู่	อยู่	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 21	ใน	ใน	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 22	สภาวะ	สภาวะ	NOUN	NN	_	20	obl	_	SpaceAfter=No|Translit=sḇʰaːwa|LTranslit=sḇʰaːwa
@@ -20050,7 +20050,7 @@
 4	กัน	กัน	PRON	PRP	_	3	obl	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 5	นั้น	นั้น	DET	DT	PronType=Dem	2	det	_	Gloss=that|LTranslit=nận|SpaceAfter=No|Translit=nận
 6	เอง	เอง	PRON	PRP	_	5	compound	_	Translit='eːŋ|LTranslit='eːŋ
-7	เธอ	เธอ	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+7	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	9	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 8	ได้	ได้	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 9	ปรากฏ	ปรากฏ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=praːkṭ|LTranslit=praːkṭ
 10	ตัว	ตัว	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
@@ -20076,7 +20076,7 @@
 # text = เธอแสดงในภาพยนตร์ปี 2011 เรื่องเดอะ ไฟฟ์ เยียร์ เอนเกจเมนต์ ที่กำกับโดยนิโคลัส สตอลเลอร์ และร่วมแสดงกับเจสัน ซีเกล
 # translit = ḏʰœːsæːdŋnaiḇʰaːbʰyntrpiː 2011 rüàːŋdœ fạif yiaːr 'eːnkeːčmeːnt dʰìːkãːkạbdoːynigʰoːlạs stɔːllœːr lærə̀wmsæːdŋkạbčeːsạn ciːkeːl
 # text_en = She starred in the 2012 film The Five-Year Engagement, directed by Nicholas Stoller and co-starring Jason Segel.
-1	เธอ	เธอ	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+1	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 2	แสดง	แสดง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=sæːdŋ|LTranslit=sæːdŋ
 3	ใน	ใน	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 4	ภาพยนตร์	ภาพยนตร์	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=ḇʰaːbʰyntr|LTranslit=ḇʰaːbʰyntr
@@ -20387,7 +20387,7 @@
 17	ทำ	ทำ	VERB	VV	_	16	acl	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 18	งาน	งาน	NOUN	NN	_	17	obj	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
 19	กับ	กับ	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
-20	เธอ	เธอ	PRON	PRP	Person=3	17	obl	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+20	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	17	obl	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 21	ด้วย	ด้วย	ADV	RB	_	17	advmod	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 22	เพื่อ	เพื่อ	ADP	IN	_	23	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
 23	เรียนรู้	เรียนรู้	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=riaːnrûː|LTranslit=riaːnrûː
@@ -20430,7 +20430,7 @@
 17	ก็	ก็	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 18	อนุญาต	อนุญาต	VERB	VV	_	0	root	_	SpaceAfter=No|Translit='nuŷaːt|LTranslit='nuŷaːt
 19	ให้	ให้	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
-20	เธอ	เธอ	PRON	PRP	Person=3	19	obj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+20	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	19	obj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 21	มา	มา	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 22	ศึกษา	ศึกษา	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=śükšaː|LTranslit=śükšaː
 23	การแยก	การแยก	VERB	VV	_	22	obj	_	SpaceAfter=No|Translit=kaːryæːk|LTranslit=kaːryæːk
@@ -20478,7 +20478,7 @@
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 10	สาขา	สาขา	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=saːkʰaː|LTranslit=saːkʰaː
 11	นี้	นี้	DET	DT	PronType=Dem	10	det	_	Gloss=this|LTranslit=nîː|Translit=nîː
-12	เธอ	เธอ	PRON	PRP	Person=3	13	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+12	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	13	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 13	นำ	นำ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=nãː|LTranslit=nãː
 14	ทักษะ	ทักษะ	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=dʰạkša|LTranslit=dʰạkša
 15	เหล่า	เหล่า	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=heːlàː|LTranslit=heːlàː
@@ -20539,7 +20539,7 @@
 4	ฤดูกาล	ฤดูกาล	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=ṟduːkaːl|LTranslit=ṟduːkaːl
 5	ปี	ปี	NOUN	NN	_	4	compound	_	Translit=piː|LTranslit=piː
 6	2013	2013	NUM	CD	_	5	appos	_	Translit=2013|LTranslit=2013
-7	เธอ	เธอ	PRON	PRP	Person=3	8	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+7	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	8	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 8	ปรากฏ	ปรากฏ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=praːkṭ|LTranslit=praːkṭ
 9	ตัว	ตัว	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
 10	ใน	ใน	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -20560,7 +20560,7 @@
 # translit = tɔ̀ːmaːḏʰœːbʰbkạbkaːrpɔ̂ːŋkạnćʰæːmplæpʰûːlèːntãːhæːnə̀ŋsuːŋ caːràː 'œːrraːniː tæ̀ːkɔʔbʰàːybʰæ̂ːpại
 # text_en = She next faced defending champion and top seed Sara Errani, but was defeated.
 1	ต่อมา	ต่อมา	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=tɔ̀ːmaː|LTranslit=tɔ̀ːmaː
-2	เธอ	เธอ	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+2	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	3	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 3	พบ	พบ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰb|LTranslit=bʰb
 4	กับ	กับ	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 5	การป้องกัน	การป้องกัน	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=kaːrpɔ̂ːŋkạn|LTranslit=kaːrpɔ̂ːŋkạn
@@ -20990,7 +20990,7 @@
 20	การแต่ง	การแต่ง	VERB	VV	_	16	xcomp	_	SpaceAfter=No|Translit=kaːrtæ̀ːŋ|LTranslit=kaːrtæ̀ːŋ
 21	เพลง	เพลง	NOUN	NN	_	20	obj	_	SpaceAfter=No|Translit=bʰeːlŋ|LTranslit=bʰeːlŋ
 22	ของ	ของ	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-23	เธอ	เธอ	PRON	PRP	Person=3	20	obl:poss	_	Translit=ḏʰœː|LTranslit=ḏʰœː
+23	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	20	obl:poss	_	Gloss=you,she|LTranslit=ḏʰœː|Translit=ḏʰœː
 
 # sent_id = w01147018
 # parallel_id = pud/w01147018
@@ -21024,7 +21024,7 @@
 25	แกมสัน	แกมสัน	PROPN	NNP	_	24	flat:name	_	Translit=kæːmsạn|LTranslit=kæːmsạn
 26	โปรดิวเซอร์	โปรดิวเซอร์	NOUN	NN	_	24	appos	_	SpaceAfter=No|Translit=poːrdiwcœːr|LTranslit=poːrdiwcœːr
 27	ที่	ที่	DET	WDT	PronType=Rel	29	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-28	เธอ	เธอ	PRON	PRP	Person=3	29	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+28	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	29	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 29	ชื่นชอบ	ชื่นชอบ	VERB	VV	_	26	acl:relcl	_	SpaceAfter=No|Translit=ćʰǜːnćʰɔːb|LTranslit=ćʰǜːnćʰɔːb
 30	มา	มา	PART	RP	_	22	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 31	ได้	ได้	AUX	MD	_	22	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -21060,7 +21060,7 @@
 13	ที่	ที่	NOUN	NN	_	12	compound	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 14	สาม	สาม	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=saːm|LTranslit=saːm
 15	ของ	ของ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-16	เธอ	เธอ	PRON	PRP	Person=3	12	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+16	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	12	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 17	ที่	ที่	DET	WDT	PronType=Rel	20	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 18	กำลัง	กำลัง	AUX	AS	Aspect=Prog	20	aux	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
 19	จะ	จะ	AUX	MD	_	20	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -21085,7 +21085,7 @@
 12	จะ	จะ	AUX	MD	_	13	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 13	เชื่อ	เชื่อ	VERB	VV	_	10	ccomp	_	SpaceAfter=No|Translit=ćʰüàː|LTranslit=ćʰüàː
 14	ว่า	ว่า	ADP	IN	_	17	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-15	เธอ	เธอ	PRON	PRP	Person=3	17	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+15	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	17	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 16	ไม่	ไม่	PART	NEG	Polarity=Neg	17	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 17	อยาก	อยาก	VERB	VV	_	13	ccomp	_	SpaceAfter=No|Translit='yaːk|LTranslit='yaːk
 18	แต่งงาน	แต่งงาน	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=tæ̀ːŋŋaːn|LTranslit=tæ̀ːŋŋaːn
@@ -22703,7 +22703,7 @@
 11	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	12	nsubj	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
 12	ยืนยัน	ยืนยัน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yüːnyạn|LTranslit=yüːnyạn
 13	ว่า	ว่า	ADP	IN	_	19	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-14	เธอ	เธอ	PRON	PRP	Person=3	19	nsubj:pass	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+14	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	19	nsubj:pass	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 15	จะ	จะ	AUX	MD	_	19	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 16	ต้อง	ต้อง	AUX	MD	_	19	aux	_	Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 17	‘	‘	PUNCT	``	_	16	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
@@ -22746,7 +22746,7 @@
 # text_en = According to the programme, she will speak at 23.45.
 1	ตาม	ตาม	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
 2	กำหนดการ	กำหนดการ	NOUN	NN	_	5	obl	_	Translit=kãːhndkaːr|LTranslit=kãːhndkaːr
-3	เธอ	เธอ	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+3	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 5	พูด	พูด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰuːd|LTranslit=bʰuːd
 6	เวลา	เวลา	NOUN	NN	_	5	obl:tmod	_	Translit=weːlaː|LTranslit=weːlaː
@@ -23340,7 +23340,7 @@
 8	1927	1927	NUM	CD	_	7	obl:tmod	_	Translit=1927|LTranslit=1927
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 10	คาสเทลฟรังโกเวเนโต	คาสเทลฟรังโกเวเนโต	PROPN	NNP	_	3	obl	_	Translit=gʰaːsdʰeːlfrạŋkoːweːneːtoː|LTranslit=gʰaːsdʰeːlfrạŋkoːweːneːtoː
-11	เธอ	เธอ	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+11	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	12	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 12	เติบโต	เติบโต	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=teibtoː|LTranslit=teibtoː
 13	มา	มา	PART	RP	_	12	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 14	ใน	ใน	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -23356,7 +23356,7 @@
 24	จาก	จาก	ADP	IN	_	23	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 25	พ่อ	พ่อ	NOUN	NN	_	29	nsubj	_	SpaceAfter=No|Translit=bʰɔ̀ː|LTranslit=bʰɔ̀ː
 26	ของ	ของ	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-27	เธอ	เธอ	PRON	PRP	Person=3	25	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+27	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	25	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 28	เป็น	เป็น	AUX	VC	_	29	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 29	นัก	นัก	NOUN	NN	_	22	advcl	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 30	สังคมนิยม	สังคมนิยม	NOUN	NN	_	29	compound	_	SpaceAfter=No|Translit=sạŋgʰmniym|LTranslit=sạŋgʰmniym
@@ -24184,7 +24184,7 @@
 6	ได้	ได้	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 7	อนุญาต	อนุญาต	VERB	VV	_	0	root	_	SpaceAfter=No|Translit='nuŷaːt|LTranslit='nuŷaːt
 8	ให้	ให้	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
-9	เธอ	เธอ	PRON	PRP	Person=3	8	obj	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
+9	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	8	obj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 10	ดำรง	ดำรง	VERB	VV	_	8	xcomp	_	SpaceAfter=No|Translit=dãːrŋ|LTranslit=dãːrŋ
 11	ตำแหน่ง	ตำแหน่ง	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=tãːhæːnə̀ŋ|LTranslit=tãːhæːnə̀ŋ
 12	เลขาธิการ	เลขาธิการ	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=leːkʰaːḏʰikaːr|LTranslit=leːkʰaːḏʰikaːr
