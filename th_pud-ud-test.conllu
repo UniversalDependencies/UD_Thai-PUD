@@ -194,11 +194,11 @@
 9	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	11	nsubj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 10	กำลัง	กำลัง	AUX	AS	Aspect=Prog	11	aux	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
 11	ทำ	ทำ	VERB	VV	_	7	acl:relcl	_	Translit=dʰãː|LTranslit=dʰãː
-12	มัน	มัน	PRON	PRP	Person=3	16	reparandum	_	Translit=mạn|LTranslit=mạn
+12	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	16	reparandum	_	Gloss=it|LTranslit=mạn|Translit=mạn
 13	—	—	PUNCT	-	_	12	punct	_	Translit=—|LTranslit=—
 14	ที่	ที่	PRON	PRP	PronType=Rel	18	obl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 15	จริง	จริง	ADJ	JJ	_	14	amod	_	Translit=čriŋ|LTranslit=čriŋ
-16	มัน	มัน	PRON	PRP	Person=3	18	obl	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+16	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	18	obl	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 17	ไม่	ไม่	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 18	น่าเชื่อ	น่าเชื่อ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=nàːćʰüàː|LTranslit=nàːćʰüàː
 19	เลย	เลย	ADV	RB	_	18	advmod	_	Translit=leːy|LTranslit=leːy
@@ -548,7 +548,7 @@
 7	ที่	ที่	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	เหงาหงอย	เหงาหงอย	ADJ	JJ	_	6	acl:relcl	_	Translit=heːŋaːhŋɔːy|LTranslit=heːŋaːhŋɔːy
 9	แต่	แต่	CCONJ	CC	_	13	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
-10	มัน	มัน	PRON	PRP	Person=3	13	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+10	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	13	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 11	ก็	ก็	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 12	ไม่	ไม่	PART	NEG	Polarity=Neg	13	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 13	เดียวดาย	เดียวดาย	ADJ	JJ	_	6	conj	_	SpaceAfter=No|Translit=diaːwdaːy|LTranslit=diaːwdaːy
@@ -1942,7 +1942,7 @@
 6	สามารถ	สามารถ	VERB	MD	_	2	advcl	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
 7	อยู่	อยู่	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 8	เหนือ	เหนือ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=heːnüː'|LTranslit=heːnüː'
-9	มัน	มัน	PRON	PRP	Person=3	6	obl	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+9	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	6	obl	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 10	ได้	ได้	AUX	MD	_	6	aux	_	Translit=dạî|LTranslit=dạî
 
 # sent_id = n01028022
@@ -3444,7 +3444,7 @@
 # text = มันวิเศษมาก ลินด์เซย์ เกย์ ผู้ใช้บริการข้อมูลไม่จำกัดของซาสค์เทลรายงานเมื่อเดือนก่อน
 # translit = mạnwiśeːšmaːk lindceːy keːy pʰûːćʰaîbrikaːrkʰɔ̂ːmuːlmạìčãːkạdkʰɔːŋcaːsgʰdʰeːlraːyŋaːnmüàːdüaːnkɔ̀ːn
 # text_en = "It is amazing," reported SaskTel unlimited data customer Lindsay Gay last month.
-1	มัน	มัน	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+1	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 2	วิเศษ	วิเศษ	ADJ	JJ	_	14	ccomp	_	SpaceAfter=No|Translit=wiśeːš|LTranslit=wiśeːš
 3	มาก	มาก	ADV	RB	_	2	advmod	_	Translit=maːk|LTranslit=maːk
 4	ลินด์เซย์	ลินด์เซย์	PROPN	NNP	_	14	nsubj	_	Translit=lindceːy|LTranslit=lindceːy
@@ -5128,7 +5128,7 @@
 10	รู้	รู้	VERB	VV	_	8	xcomp	_	SpaceAfter=No|Translit=rûː|LTranslit=rûː
 11	ประวัติ	ประวัติ	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=prawạti|LTranslit=prawạti
 12	ของ	ของ	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-13	มัน	มัน	PRON	PRP	Person=3	11	nmod:poss	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+13	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	11	nmod:poss	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 14	เนื่อง	เนื่อง	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 15	ด้วย	ด้วย	ADP	IN	_	14	fixed	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 16	อายุ	อายุ	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit='aːyu|LTranslit='aːyu
@@ -5418,7 +5418,7 @@
 # translit = kranậnmạnheːmüː'nkʰaoːslạbluːkbɔːlpạimaːtaîkæ̂ːwgʰwã̀ː 3 bai
 # text_en = It was as though he was flicking the ball back and forth underneath three upturned cups.
 1	กระนั้น	กระนั้น	CCONJ	CC	_	3	cc	_	SpaceAfter=No|Translit=kranận|LTranslit=kranận
-2	มัน	มัน	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+2	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	3	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 3	เหมือน	เหมือน	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=heːmüː'n|LTranslit=heːmüː'n
 4	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
 5	สลับ	สลับ	VERB	VV	_	3	ccomp	_	SpaceAfter=No|Translit=slạb|LTranslit=slạb
@@ -5810,7 +5810,7 @@
 2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 3	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	1	nmod:poss	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 4	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
-5	มัน	มัน	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+5	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	6	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 6	คุ้มครอง	คุ้มครอง	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=gʰûmgʰrɔːŋ|LTranslit=gʰûmgʰrɔːŋ
 7	คน	คน	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 8	งาน	งาน	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
@@ -6030,7 +6030,7 @@
 # text_en = Surprising as it may seem, even acid rain clouds can have a silver lining.
 1	แม้	แม้	ADP	IN	_	5	cc:preconj	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 2	ว่า	ว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-3	มัน	มัน	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+3	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 5	ดู	ดู	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=duː|LTranslit=duː
 6	น่าประหลาดใจ	น่าประหลาดใจ	VERB	VV	_	5	xcomp	_	Translit=nàːprahlaːdčai|LTranslit=nàːprahlaːdčai
@@ -6120,7 +6120,7 @@
 # translit = nìːmạnnàːsydsyɔːŋdʰiːdiaːw
 # text_en = That’s just legitimately horrendous.
 1	นี่	นี่	PRON	PRD	_	3	obl	_	SpaceAfter=No|Translit=nìː|LTranslit=nìː
-2	มัน	มัน	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+2	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	3	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 3	น่าสยดสยอง	น่าสยดสยอง	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=nàːsydsyɔːŋ|LTranslit=nàːsydsyɔːŋ
 4	ทีเดียว	ทีเดียว	ADV	RB	_	3	advmod	_	Translit=dʰiːdiaːw|LTranslit=dʰiːdiaːw
 
@@ -6368,7 +6368,7 @@
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 5	เล่น	เล่น	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=lèːn|LTranslit=lèːn
 6	กับ	กับ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
-7	มัน	มัน	PRON	PRP	Person=3	5	obl	_	Translit=mạn|LTranslit=mạn
+7	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	5	obl	_	Gloss=it|LTranslit=mạn|Translit=mạn
 8	และ	และ	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 9	ฉัน	ฉัน	PRON	PRP	Person=1	11	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
 10	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
@@ -6383,7 +6383,7 @@
 19	ใบปลิว	ใบปลิว	NOUN	NN	_	16	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=baipliw|LTranslit=baipliw
 20	นั้น	นั้น	DET	DT	PronType=Dem	19	det	_	Gloss=that|LTranslit=nận|Translit=nận
 21	เพราะ	เพราะ	ADP	IN	_	24	mark	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
-22	มัน	มัน	PRON	PRP	Person=3	24	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+22	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	24	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 23	จะ	จะ	AUX	MD	_	24	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 24	น่าตื่นเต้น	น่าตื่นเต้น	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=nàːtǜːntêːn|LTranslit=nàːtǜːntêːn
 25	มาก	มาก	ADV	RB	_	24	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
@@ -6758,7 +6758,7 @@
 1	ฉัน	ฉัน	PRON	PRP	Person=1	3	nsubj	_	SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
 2	ไม่	ไม่	PART	NEG	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 3	เรียก	เรียก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=riaːk|LTranslit=riaːk
-4	มัน	มัน	PRON	PRP	Person=3	3	obj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+4	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	3	obj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 5	ว่า	ว่า	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 6	สัตว์	สัตว์	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=sạtw|LTranslit=sạtw
 7	ร้าย	ร้าย	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=râːy|LTranslit=râːy
@@ -7320,7 +7320,7 @@
 2	ตอน	ตอน	NOUN	NN	_	7	obl:tmod	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
 3	นี้	นี้	DET	DT	PronType=Dem	2	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 4	อะไร	อะไร	PRON	WP	_	7	nsubj	_	Proper=True|SpaceAfter=No|Translit='arại|LTranslit='arại
-5	มัน	มัน	PRON	PRP	Person=3	7	obl	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+5	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	7	obl	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 6	ก็	ก็	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 7	ดู	ดู	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=duː|LTranslit=duː
 8	ผิด	ผิด	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=pʰid|LTranslit=pʰid
@@ -7446,7 +7446,7 @@
 # text = มันยังเปิดทางให้โฟล์คสวาเกนอ้างค่าชดเชยมหาศาลและการดำเนินการตามกฎหมาย และทางบริษัทก็ได้เงินมาแล้วกว่า 16,000 ล้านยูโร
 # translit = mạnyạŋpeiddʰaːŋhaîfoːlgʰswaːkeːn'âːŋgʰàːćʰdćʰeːymhaːśaːllækaːrdãːneinkaːrtaːmkḍhmaːy lædʰaːŋbrišạdʰkɔʔdạîŋeinmaːlæ̂ːwkwàː 16,000 lâːnyuːroː
 # text_en = It has also opened VW up to huge compensation claims, legal action and has seen it take more than €16bn of provisions.
-1	มัน	มัน	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+1	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	3	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 2	ยัง	ยัง	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 3	เปิด	เปิด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=peid|LTranslit=peid
 4	ทาง	ทาง	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
@@ -7706,7 +7706,7 @@
 # translit = hrüː'mạnčapenmaːtrṭʰaːnraːgʰaːbʰæːŋhrüː'čapengʰàːḏʰrrmniaːmbæːbčàːykɔ̀ːn
 # text_en = Or is it an expensive standard or prepayment tariff?
 1	หรือ	หรือ	CCONJ	CC	_	5	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
-2	มัน	มัน	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+2	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 3	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 4	เป็น	เป็น	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 5	มาตรฐาน	มาตรฐาน	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=maːtrṭʰaːn|LTranslit=maːtrṭʰaːn
@@ -8388,7 +8388,7 @@
 2	ระดับ	ระดับ	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=radạb|LTranslit=radạb
 3	หนึ่ง	หนึ่ง	NUM	CD	_	2	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 4	แล้ว	แล้ว	ADV	RB	_	2	advmod	_	ToDo=ex-adp-child|Translit=læ̂ːw|LTranslit=læ̂ːw
-5	มัน	มัน	PRON	PRP	Person=3	7	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+5	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	7	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 6	ก็	ก็	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 7	ดู	ดู	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=duː|LTranslit=duː
 8	อบอุ่น	อบอุ่น	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit='b'ùn|LTranslit='b'ùn
@@ -8594,7 +8594,7 @@
 22	เลย	เลย	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=leːy|LTranslit=leːy
 23	ทำ	ทำ	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 24	เหมือน	เหมือน	VERB	VC	_	23	xcomp	_	SpaceAfter=No|Translit=heːmüː'n|LTranslit=heːmüː'n
-25	มัน	มัน	PRON	PRP	Person=3	24	xcomp	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+25	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	24	xcomp	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 26	เป็น	เป็น	AUX	VC	_	27	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 27	ดราม่า	ดราม่า	NOUN	NN	_	25	xcomp	_	SpaceAfter=No|Translit=draːmàː|LTranslit=draːmàː
 28	”	”	PUNCT	''	_	8	punct	_	Translit=”|LTranslit=”
@@ -8658,7 +8658,7 @@
 10	มี	มี	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 11	ปัญหา	ปัญหา	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=pạŷhaː|LTranslit=pạŷhaː
 12	กับ	กับ	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
-13	มัน	มัน	PRON	PRP	Person=3	10	obl	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+13	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	10	obl	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 14	นาน	นาน	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=naːn|LTranslit=naːn
 15	นัก	นัก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 16	หรอก	หรอก	PART	EP	_	10	discourse	_	Translit=hrɔːk|LTranslit=hrɔːk
@@ -8991,7 +8991,7 @@
 8	เสียง	เสียง	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=siaːŋ|LTranslit=siaːŋ
 9	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	7	det	_	Gloss=all|LTranslit=dʰậŋhmd|Translit=dʰậŋhmd
 10	แต่	แต่	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
-11	มัน	มัน	PRON	PRP	Person=3	14	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+11	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	14	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 12	จะ	จะ	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 13	ไม่	ไม่	PART	NEG	Polarity=Neg	14	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 14	มี	มี	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -9978,7 +9978,7 @@
 20	ยัง	ยัง	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 21	ที่	ที่	NOUN	NN	_	18	obl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 22	ที่	ที่	DET	WDT	PronType=Rel	24	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-23	มัน	มัน	PRON	PRP	Person=3	24	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+23	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	24	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 24	รู้สึก	รู้สึก	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=rûːsük|LTranslit=rûːsük
 25	ว่า	ว่า	ADP	IN	_	27	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 26	เป็น	เป็น	AUX	VC	_	27	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -9990,7 +9990,7 @@
 # text = มันแวะมาที่โรงนาของผมอยู่เรื่อยๆ และผมก็พูดตลกกับเขาไปว่า ชัดเลยว่ามันไม่อยากถูกขาย
 # translit = mạnwæmaːdʰìːroːŋnaːkʰɔːŋpʰmɔːyùːrüàːy. læpʰmkɔʔbʰuːdtlkkạbkʰaoːpạiwàː ćʰạdleːywàːmạnmạì'yaːktʰuːkkʰaːy
 # text_en = He kept on turning up at my barn and I joked to the guy that clearly he didn't want to be sold.
-1	มัน	มัน	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+1	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	9	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 2	แวะ	แวะ	VERB	VV	_	9	xcomp	_	SpaceAfter=No|Translit=wæ|LTranslit=wæ
 3	มา	มา	PART	RP	_	2	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 4	ที่	ที่	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -10013,7 +10013,7 @@
 21	ชัด	ชัด	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=ćʰạd|LTranslit=ćʰạd
 22	เลย	เลย	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=leːy|LTranslit=leːy
 23	ว่า	ว่า	ADP	IN	_	26	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-24	มัน	มัน	PRON	PRP	Person=3	26	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+24	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	26	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 25	ไม่	ไม่	PART	NEG	Polarity=Neg	26	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 26	อยาก	อยาก	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit='yaːk|LTranslit='yaːk
 27	ถูก	ถูก	AUX	MD	Voice=Pass	28	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
@@ -10045,7 +10045,7 @@
 19	กลับหลัง	กลับหลัง	VERB	VV	_	18	acl	_	SpaceAfter=No|Translit=klạbhlạŋ|LTranslit=klạbhlạŋ
 20	บน	บน	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=bn|LTranslit=bn
 21	ตัว	ตัว	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
-22	มัน	มัน	PRON	PRP	Person=3	21	compound	_	Translit=mạn|LTranslit=mạn
+22	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	21	compound	_	Gloss=it|LTranslit=mạn|Translit=mạn
 
 # sent_id = n01144041
 # parallel_id = pud/n01144041
@@ -10086,7 +10086,7 @@
 # text = มันเป็นงานที่เม็กซิโกหวังว่าจะแข่งกับงานคาร์นิวัลของบราซิลในที่สุด
 # translit = mạnpenŋaːndʰìːmekcikoːhwạŋwàːčakʰæ̀ːŋkạbŋaːngʰaːrniwạlkʰɔːŋbraːcilnaidʰìːsud
 # text_en = It's an event Mexico hopes will eventually rival the Carnival of Brazil.
-1	มัน	มัน	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+1	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	3	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 3	งาน	งาน	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
 4	ที่	ที่	DET	WDT	PronType=Rel	6	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -10168,7 +10168,7 @@
 # text = มันเลยเป็นเรื่องวิเศษมากที่เราสามารถกอบกู้และนำมาในรูปแบบใหม่ แล้วสร้างธรรมเนียมใหม่ให้กับชาวเม็กซิกัน
 # translit = mạnleːypenrüàːŋwiśeːšmaːkdʰìːraoːsaːmaːrtʰkɔːbkûːlænãːmaːnairuːpbæːbhaimə̀ læ̂ːwsrâːŋḏʰrrmniaːmhaimə̀haîkạbćʰaːwmekcikạn
 # text_en = So it's wonderful to be able to rescue that and bring it to a new format and a new tradition for Mexicans.
-1	มัน	มัน	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+1	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	4	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 2	เลย	เลย	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=leːy|LTranslit=leːy
 3	เป็น	เป็น	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 4	เรื่อง	เรื่อง	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
@@ -10285,7 +10285,7 @@
 # text = มันยังกระตุ้นให้เกิดตึกระฟ้าสมัยใหม่ อย่างตึกมหานครที่ดูไม่ธรรมดา ตึกที่สูงที่สุดในกรุงเทพมหานคร
 # translit = mạnyạŋkratûnhaîkeidtükrafâːsmạyhaimə̀ 'yàːŋtükmhaːngʰrdʰìːduːmạìḏʰrrmdaː tükdʰìːsuːŋdʰìːsudnaikruŋdʰeːbʰmhaːngʰr
 # text_en = It's also fuelled the emergence of modern high-rises -- like the visionary MahaNakhon, Bangkok's tallest building.
-1	มัน	มัน	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+1	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	3	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 2	ยัง	ยัง	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 3	กระตุ้น	กระตุ้น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kratûn|LTranslit=kratûn
 4	ให้	ให้	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
@@ -12369,7 +12369,7 @@
 4	ทั่ว	ทั่ว	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=dʰuàː|LTranslit=dʰuàː
 5	อเมริกา	อเมริกา	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit='meːrikaː|LTranslit='meːrikaː
 6	พึ่งพา	พึ่งพา	VERB	VV	_	0	root	_	Proper=True|SpaceAfter=No|Translit=bʰǜŋbʰaː|LTranslit=bʰǜŋbʰaː
-7	มัน	มัน	PRON	PRP	Person=3	6	obj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+7	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	6	obj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 8	ใน	ใน	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 9	ฐานะ	ฐานะ	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=ṭʰaːna|LTranslit=ṭʰaːna
 10	ที่	ที่	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -14440,7 +14440,7 @@
 # text = มันได้สร้างพื้นฐานของการบูรณาการที่กลไกทางเศรษฐกิจและกฎหมายของรัฐสามารถนำมาใช้ได้ทั่วเมดิเตอร์เรเนียนเช่นเดียวกับเมื่อครั้งที่กระทำในลัตซีโยไปสู่ทั่วอิตาลี
 # translit = mạndạîsrâːŋbʰü̂ːnṭʰaːnkʰɔːŋkaːrbuːrṇaːkaːrdʰìːklkạidʰaːŋśeːršṭʰkičlækḍhmaːykʰɔːŋrạṭʰsaːmaːrtʰnãːmaːćʰaîdạîdʰuàːmeːditœːrreːniaːnćʰèːndiaːwkạbmüàːgʰrậŋdʰìːkradʰãːnailạtciːyoːpạisùːdʰuàː'itaːliː
 # text_en = It set the basis for integration where the economic and judicial mechanisms of the state could be applied throughout the Mediterranean as was once done from Latium into all Italy.
-1	มัน	มัน	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+1	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	3	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 2	ได้	ได้	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 3	สร้าง	สร้าง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=srâːŋ|LTranslit=srâːŋ
 4	พื้นฐาน	พื้นฐาน	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=bʰü̂ːnṭʰaːn|LTranslit=bʰü̂ːnṭʰaːn
@@ -16633,7 +16633,7 @@
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
-5	มัน	มัน	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+5	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	6	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 6	มุ่ง	มุ่ง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=mùŋ|LTranslit=mùŋ
 7	เน้น	เน้น	VERB	VV	_	6	acl	_	SpaceAfter=No|Translit=nêːn|LTranslit=nêːn
 8	ไป	ไป	PART	RP	_	6	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
@@ -16663,7 +16663,7 @@
 # text = มันพึ่งพาอาสาสมัครและหน่วยทหารกองหนุนที่เผชิญกับปัญหาการขนส่ง การฝึก และอาหารในพื้นที่แถบฟลอริด้า
 # translit = mạnbʰǜŋbʰaː'aːsaːsmạgʰrlæhnə̀wydʰhaːrkɔːŋhnundʰìːpʰeːćʰiŷkạbpạŷhaːkaːrkʰnsə̀ŋ kaːrfʰük læ'aːhaːrnaibʰü̂ːndʰìːtʰæːbflɔːridâː
 # text_en = It relied on volunteers and state militia units, which faced logistical, training and food problems in the staging areas in Florida.
-1	มัน	มัน	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+1	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 2	พึ่งพา	พึ่งพา	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰǜŋbʰaː|LTranslit=bʰǜŋbʰaː
 3	อาสาสมัคร	อาสาสมัคร	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit='aːsaːsmạgʰr|LTranslit='aːsaːsmạgʰr
 4	และ	และ	CCONJ	CC	_	5	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -17912,7 +17912,7 @@
 # text = มันเสร็จสมบูรณ์ช้าไปในช่วงสงคราม และถึงแม้ว่าจะนำหมายเลข B-29 มาใช้กับอีเกิลได้และใช้การได้ดีเสียด้วย แต่ก็มาช้าเกินไปกว่าที่จะทำให้เกิดความแตกต่างอย่างมาก
 # translit = mạnseːrɔʔčsmbuːrṇćʰâːpạinaićʰə̀wŋsŋgʰraːm lætʰüŋmæ̂ːwàːčanãːhmaːyleːkʰ B-29 maːćʰaîkạb'iːkeildạîlæćʰaîkaːrdạîdiːsiaːdə̂wy tæ̀ːkɔʔmaːćʰâːkeinpạikwàːdʰìːčadʰãːhaîkeidgʰwaːmtæːktàːŋɔːyàːŋmaːk
 # text_en = It was completed rather late in the war; although a number of B-29s were equipped with Eagle and it worked well, it came too late to make much difference.
-1	มัน	มัน	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+1	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 2	เสร็จ	เสร็จ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=seːrɔʔč|LTranslit=seːrɔʔč
 3	สมบูรณ์	สมบูรณ์	ADV	RB	_	2	advmod	_	SpaceAfter=No|Translit=smbuːrṇ|LTranslit=smbuːrṇ
 4	ช้า	ช้า	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=ćʰâː|LTranslit=ćʰâː
@@ -24101,7 +24101,7 @@
 4	ตาม	ตาม	ADV	WRB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
 5	การจัดการ	การจัดการ	VERB	VV	_	11	nsubj	_	SpaceAfter=No|Translit=kaːrčạdkaːr|LTranslit=kaːrčạdkaːr
 6	ของ	ของ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-7	มัน	มัน	PRON	PRP	Person=3	5	obl:poss	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+7	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	5	obl:poss	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 8	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 9	ไม่	ไม่	PART	NEG	Polarity=Neg	10	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 10	ได้	ได้	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -24207,7 +24207,7 @@
 7	ได้	ได้	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 8	กล่าว	กล่าว	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=klàːw|LTranslit=klàːw
 9	ว่า	ว่า	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-10	มัน	มัน	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+10	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	11	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 11	คือ	คือ	VERB	VC	_	8	ccomp	_	Translit=gʰüː'|LTranslit=gʰüː'
 12	"	"	PUNCT	``	_	11	punct	_	SpaceAfter=No|Translit="|LTranslit="
 13	คอสพีดัล	คอสพีดัล	PROPN	NNP	_	11	xcomp	_	Translit=gʰɔːsbʰiːdạl|LTranslit=gʰɔːsbʰiːdạl
@@ -25111,7 +25111,7 @@
 23	ขนาน	ขนาน	VERB	VV	_	20	acl	_	SpaceAfter=No|Translit=kʰnaːn|LTranslit=kʰnaːn
 24	ไป	ไป	PART	RP	_	23	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 25	กับ	กับ	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
-26	มัน	มัน	PRON	PRP	Person=3	23	obl	_	Translit=mạn|LTranslit=mạn
+26	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	23	obl	_	Gloss=it|LTranslit=mạn|Translit=mạn
 
 # sent_id = w02007061
 # parallel_id = pud/w02007061
@@ -25174,7 +25174,7 @@
 3	พวก	พวก	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 4	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	3	compound	_	Gloss=he,she|LTranslit=kʰaoː|SpaceAfter=No|Translit=kʰaoː
 5	นั้น	นั้น	DET	DT	PronType=Dem	2	det	_	Gloss=that|LTranslit=nận|Translit=nận
-6	มัน	มัน	PRON	PRP	Person=3	8	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
+6	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	8	nsubj	_	Gloss=it|LTranslit=mạn|SpaceAfter=No|Translit=mạn
 7	เป็น	เป็น	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 8	วัฒนธรรม	วัฒนธรรม	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=wạḑʰnḏʰrrm|LTranslit=wạḑʰnḏʰrrm
 9	ที่	ที่	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -25966,7 +25966,7 @@
 10	ป้อม	ป้อม	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=pɔ̂ːm|LTranslit=pɔ̂ːm
 11	ปราการ	ปราการ	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=praːkaːr|LTranslit=praːkaːr
 12	ของ	ของ	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-13	มัน	มัน	PRON	PRP	Person=3	8	nmod:poss	_	Translit=mạn|LTranslit=mạn
+13	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	8	nmod:poss	_	Gloss=it|LTranslit=mạn|Translit=mạn
 
 # sent_id = w03002048
 # parallel_id = pud/w03002048
