@@ -1054,7 +1054,7 @@
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 7	ความรับผิดชอบ	ความรับผิดชอบ	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=gʰwaːmrạbpʰidćʰɔːb|LTranslit=gʰwaːmrạbpʰidćʰɔːb
 8	ของ	ของ	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-9	แต่ละ	แต่ละ	DET	DT	_	10	det	_	SpaceAfter=No|Translit=tæ̀ːla|LTranslit=tæ̀ːla
+9	แต่ละ	แต่ละ	DET	DT	PronType=Tot	10	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
 10	สาย	สาย	NOUN	NNB	_	7	obl:poss	_	SpaceAfter=No|Translit=saːy|LTranslit=saːy
 11	การบิน	การบิน	VERB	VV	_	10	compound	_	SpaceAfter=No|Translit=kaːrbin|LTranslit=kaːrbin
 12	ที่	ที่	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -3212,7 +3212,7 @@
 11	ระดับ	ระดับ	NOUN	NN	_	5	conj	_	SpaceAfter=No|Translit=radạb|LTranslit=radạb
 12	โบนัส	โบนัส	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=boːnạs|LTranslit=boːnạs
 13	สำหรับ	สำหรับ	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=sãːhrạb|LTranslit=sãːhrạb
-14	แต่ละ	แต่ละ	DET	DT	_	15	det	_	SpaceAfter=No|Translit=tæ̀ːla|LTranslit=tæ̀ːla
+14	แต่ละ	แต่ละ	DET	DT	PronType=Tot	15	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
 15	แผนก	แผนก	NOUN	NNB	_	11	nmod	_	SpaceAfter=No|Translit=pʰæːnk|LTranslit=pʰæːnk
 16	อย่างต่อเนื่อง	อย่างต่อเนื่อง	VERB	VV	_	4	advcl	_	Translit='yàːŋtɔ̀ːnüàːŋ|LTranslit='yàːŋtɔ̀ːnüàːŋ
 17	แต่	แต่	CCONJ	CC	_	18	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
@@ -4888,7 +4888,7 @@
 # translit = pʰæːndʰìːtæ̀ːlapʰæ̀ːnnainidʰrrśkaːrbɔːklaòːrüàːŋkʰɔːŋtuaː'eːŋ cǜŋmạìćʰaìkʰɔ̂ːdʰeččriŋdʰậŋhmd
 # text_en = Each map in the exhibition tells its own story, not all factual.
 1	แผนที่	แผนที่	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=pʰæːndʰìː|LTranslit=pʰæːndʰìː
-2	แต่ละ	แต่ละ	DET	DT	_	3	det	_	SpaceAfter=No|Translit=tæ̀ːla|LTranslit=tæ̀ːla
+2	แต่ละ	แต่ละ	DET	DT	PronType=Tot	3	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
 3	แผ่น	แผ่น	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=pʰæ̀ːn|LTranslit=pʰæ̀ːn
 4	ใน	ใน	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 5	นิทรรศการ	นิทรรศการ	NOUN	NN	_	1	nmod	_	SpaceAfter=No|Translit=nidʰrrśkaːr|LTranslit=nidʰrrśkaːr
@@ -6591,7 +6591,7 @@
 34	จริง	จริง	ADV	RB	_	32	advmod	_	SpaceAfter=No|Translit=čriŋ|LTranslit=čriŋ
 35	ๆ	ๆ	SYM	SYM	_	34	dep	_	Translit=.|LTranslit=.
 36	ใน	ใน	ADP	IN	_	38	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-37	แต่ละ	แต่ละ	DET	DT	_	38	det	_	SpaceAfter=No|Translit=tæ̀ːla|LTranslit=tæ̀ːla
+37	แต่ละ	แต่ละ	DET	DT	PronType=Tot	38	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
 38	โครงการ	โครงการ	NOUN	NNB	_	32	obl	_	SpaceAfter=No|Translit=gʰoːrŋkaːr|LTranslit=gʰoːrŋkaːr
 39	”	”	PUNCT	''	_	12	punct	_	Translit=”|LTranslit=”
 
@@ -6976,7 +6976,7 @@
 # translit = naitæ̀ːlastʰaːniː čamiːyaːmsaìhmwksiːdæːŋduːlæːćʰaːnćʰaːlaː'yùː læbʰnạkŋaːntrwčgʰwaːmrɔ̂ːnlɔ̂ːkɔʔčatʰüː'gʰɔ̂ːndeingʰɔdʰɔ̂ːŋrtʰɔːyàːŋnùmnwl
 # text_en = At each station, a red-capped guard presides over the platform and a wheel-tapper walks along the train with a hammer, gently knocking the undercarriage.
 1	ใน	ใน	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-2	แต่ละ	แต่ละ	DET	DT	_	3	det	_	SpaceAfter=No|Translit=tæ̀ːla|LTranslit=tæ̀ːla
+2	แต่ละ	แต่ละ	DET	DT	PronType=Tot	3	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
 3	สถานี	สถานี	NOUN	NNB	_	5	obl	_	Translit=stʰaːniː|LTranslit=stʰaːniː
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 5	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -14482,7 +14482,7 @@
 # text_en = Each poem narrates only a part of the war.
 1	บท	บท	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=bdʰ|LTranslit=bdʰ
 2	กวี	กวี	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=kwiː|LTranslit=kwiː
-3	แต่ละ	แต่ละ	DET	DT	_	4	det	_	SpaceAfter=No|Translit=tæ̀ːla|LTranslit=tæ̀ːla
+3	แต่ละ	แต่ละ	DET	DT	PronType=Tot	4	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
 4	บท	บท	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=bdʰ|LTranslit=bdʰ
 5	บรรยาย	บรรยาย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=brryaːy|LTranslit=brryaːy
 6	ถึง	ถึง	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
@@ -15155,7 +15155,7 @@
 19	พระ	พระ	NOUN	NN	_	18	compound	_	SpaceAfter=No|Translit=bʰra|LTranslit=bʰra
 20	พุทธรูป	พุทธรูป	NOUN	NN	_	18	compound	_	SpaceAfter=No|Translit=bʰudʰḏʰruːp|LTranslit=bʰudʰḏʰruːp
 21	ประจำ	ประจำ	VERB	VV	_	18	acl	_	SpaceAfter=No|Translit=pračãː|LTranslit=pračãː
-22	แต่ละ	แต่ละ	DET	DT	_	23	det	_	SpaceAfter=No|Translit=tæ̀ːla|LTranslit=tæ̀ːla
+22	แต่ละ	แต่ละ	DET	DT	PronType=Tot	23	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
 23	วัน	วัน	NOUN	NNB	_	21	obj	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
 24	ที่	ที่	DET	WDT	PronType=Rel	25	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 25	สัมพันธ์	สัมพันธ์	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No|Translit=sạmbʰạnḏʰ|LTranslit=sạmbʰạnḏʰ
@@ -17224,7 +17224,7 @@
 22	เปลี่ยน	เปลี่ยน	VERB	VV	_	11	conj	_	SpaceAfter=No|Translit=peːlìːyn|LTranslit=peːlìːyn
 23	พระนาม	พระนาม	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=bʰranaːm|LTranslit=bʰranaːm
 24	จักรพรรดิ	จักรพรรดิ	NOUN	NN	_	23	compound	_	SpaceAfter=No|Translit=čạkrbʰrrdi|LTranslit=čạkrbʰrrdi
-25	แต่ละ	แต่ละ	DET	DT	_	26	det	_	SpaceAfter=No|Translit=tæ̀ːla|LTranslit=tæ̀ːla
+25	แต่ละ	แต่ละ	DET	DT	PronType=Tot	26	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
 26	พระองค์	พระองค์	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
 27	ภาย	ภาย	NOUN	NN	_	29	case	_	SpaceAfter=No|Translit=ḇʰaːy|LTranslit=ḇʰaːy
 28	หลัง	หลัง	ADP	IN	_	27	fixed	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
@@ -21916,7 +21916,7 @@
 5	ทุก	ทุก	DET	DT	_	6	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
 6	ปาฏิหาริย์	ปาฏิหาริย์	NOUN	NNB	_	11	nsubj	_	SpaceAfter=No|Translit=paːṭihaːriy|LTranslit=paːṭihaːriy
 7	และ	และ	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-8	แต่ละ	แต่ละ	DET	DT	_	9	det	_	SpaceAfter=No|Translit=tæ̀ːla|LTranslit=tæ̀ːla
+8	แต่ละ	แต่ละ	DET	DT	PronType=Tot	9	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
 9	เขต	เขต	NOUN	NNB	_	6	conj	_	SpaceAfter=No|Translit=kʰeːt|LTranslit=kʰeːt
 10	พิเศษ	พิเศษ	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=bʰiśeːš|LTranslit=bʰiśeːš
 11	มี	มี	VERB	VV	_	1	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
