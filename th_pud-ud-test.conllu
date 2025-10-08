@@ -512,7 +512,7 @@
 23	ผู้	ผู้	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
 24	มี	มี	VERB	VV	_	23	acl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 25	สิทธิ	สิทธิ	NOUN	NN	_	24	obj	_	SpaceAfter=No|Translit=sidʰḏʰi|LTranslit=sidʰḏʰi
-26	ทั้งหมด	ทั้งหมด	DET	DT	_	23	det	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+26	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	23	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 27	ใน	ใน	ADP	IN	_	28	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 28	ปี	ปี	NOUN	NN	_	12	obl	_	Translit=piː|LTranslit=piː
 29	1996	1996	NUM	CD	_	28	appos	_	Translit=1996|LTranslit=1996
@@ -3420,7 +3420,7 @@
 33	พ้น	พ้น	VERB	VV	_	31	xcomp	_	SpaceAfter=No|Translit=bʰə̂n|LTranslit=bʰə̂n
 34	ข้อ	ข้อ	NOUN	NN	_	33	obj	_	SpaceAfter=No|Translit=kʰɔ̂ː|LTranslit=kʰɔ̂ː
 35	กล่าวหา	กล่าวหา	VERB	VV	_	34	acl	_	SpaceAfter=No|Translit=klàːwhaː|LTranslit=klàːwhaː
-36	ทั้งหมด	ทั้งหมด	DET	DT	_	34	det	_	Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+36	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	34	det	_	Gloss=all|LTranslit=dʰậŋhmd|Translit=dʰậŋhmd
 
 # sent_id = n01046003
 # parallel_id = pud/n01046003
@@ -4901,7 +4901,7 @@
 12	ใช่	ใช่	VERB	VC	_	7	acl:relcl	_	SpaceAfter=No|Translit=ćʰaì|LTranslit=ćʰaì
 13	ข้อ	ข้อ	NOUN	NN	_	12	xcomp	_	SpaceAfter=No|Translit=kʰɔ̂ː|LTranslit=kʰɔ̂ː
 14	เท็จจริง	เท็จจริง	ADJ	JJ	_	13	amod	_	SpaceAfter=No|Translit=dʰeččriŋ|LTranslit=dʰeččriŋ
-15	ทั้งหมด	ทั้งหมด	DET	DT	_	13	det	_	Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+15	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	13	det	_	Gloss=all|LTranslit=dʰậŋhmd|Translit=dʰậŋhmd
 
 # sent_id = n01067023
 # parallel_id = pud/n01067023
@@ -8188,7 +8188,7 @@
 # translit = bʰlạŋŋaːndʰậŋhmdkʰɔːŋḏʰœːmaːčaːkhạinkạn hrüː'čapensiaːŋnạ̀ndʰìːsaːmaːrtʰrabeidmaːbʰrɔ̂ːmbʰlạŋdʰìːdʰãːhaîkeidgʰlǜːnkradʰæːkdạî
 # text_en = Where does all her energy come from? Or that voice, which can blast out with a force to induce shockwaves?
 1	พลังงาน	พลังงาน	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=bʰlạŋŋaːn|LTranslit=bʰlạŋŋaːn
-2	ทั้งหมด	ทั้งหมด	DET	DT	_	1	det	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+2	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	1	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 3	ของ	ของ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 4	เธอ	เธอ	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
 5	มา	มา	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=maː|LTranslit=maː
@@ -8514,7 +8514,7 @@
 # translit = bʰæːdʰydʰậŋhmdmiː'aːwuḏʰ ykwêːnpʰm
 # text_en = All the medics were armed, except me.
 1	แพทย์	แพทย์	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=bʰæːdʰy|LTranslit=bʰæːdʰy
-2	ทั้งหมด	ทั้งหมด	DET	DT	_	1	det	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+2	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	1	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 3	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 4	อาวุธ	อาวุธ	NOUN	NN	_	3	obj	_	Translit='aːwuḏʰ|LTranslit='aːwuḏʰ
 5	ยกเว้น	ยกเว้น	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=ykwêːn|LTranslit=ykwêːn
@@ -8989,7 +8989,7 @@
 6	กับ	กับ	ADP	IN	_	5	fixed	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 7	การออก	การออก	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=kaːrɔː'k|LTranslit=kaːrɔː'k
 8	เสียง	เสียง	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=siaːŋ|LTranslit=siaːŋ
-9	ทั้งหมด	ทั้งหมด	DET	DT	_	7	det	_	Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+9	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	7	det	_	Gloss=all|LTranslit=dʰậŋhmd|Translit=dʰậŋhmd
 10	แต่	แต่	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 11	มัน	มัน	PRON	PRP	Person=3	14	nsubj	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
 12	จะ	จะ	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -10575,7 +10575,7 @@
 18	ของ	ของ	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 19	พื้นที่	พื้นที่	NOUN	NN	_	16	nmod:poss	_	SpaceAfter=No|Translit=bʰü̂ːndʰìː|LTranslit=bʰü̂ːndʰìː
 20	ไซบีเรีย	ไซบีเรีย	PROPN	NNP	_	19	compound	_	SpaceAfter=No|Translit=cạibiːriaː|LTranslit=cạibiːriaː
-21	ทั้งหมด	ทั้งหมด	DET	DT	_	19	det	_	Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+21	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	19	det	_	Gloss=all|LTranslit=dʰậŋhmd|Translit=dʰậŋhmd
 
 # sent_id = w01002075
 # parallel_id = pud/w01002075
@@ -11400,7 +11400,7 @@
 22	ยิ่งใหญ่	ยิ่งใหญ่	ADJ	JJ	_	20	amod	_	SpaceAfter=No|Translit=yìŋhaiŷə̀|LTranslit=yìŋhaiŷə̀
 23	ใน	ใน	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 24	ระบบ	ระบบ	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=rabb|LTranslit=rabb
-25	ทั้งหมด	ทั้งหมด	DET	DT	_	24	det	_	Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+25	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	24	det	_	Gloss=all|LTranslit=dʰậŋhmd|Translit=dʰậŋhmd
 
 # sent_id = w01016034
 # parallel_id = pud/w01016034
@@ -12040,7 +12040,7 @@
 14	ทัพ	ทัพ	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=dʰạbʰ|LTranslit=dʰạbʰ
 15	เดนมาร์ก	เดนมาร์ก	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=deːnmaːrk|LTranslit=deːnmaːrk
 16	เกือบ	เกือบ	DET	DT	_	17	det	_	SpaceAfter=No|Translit=küaːb|LTranslit=küaːb
-17	ทั้งหมด	ทั้งหมด	DET	DT	_	13	det	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+17	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	13	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 18	ประสบ	ประสบ	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=prasb|LTranslit=prasb
 19	ความสำเร็จ	ความสำเร็จ	VERB	VV	_	18	obj	_	SpaceAfter=No|Translit=gʰwaːmsãːreč|LTranslit=gʰwaːmsãːreč
 20	การอพยพ	การอพยพ	VERB	VV	_	19	compound	_	Translit=kaːrɔːbʰybʰ|LTranslit=kaːrɔːbʰybʰ
@@ -15185,7 +15185,7 @@
 17	สอง	สอง	NUM	CD	_	18	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
 18	อย่าง	อย่าง	NOUN	NNB	_	13	obl	_	Translit='yàːŋ|LTranslit='yàːŋ
 19	เพราะ	เพราะ	ADP	IN	_	22	mark	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
-20	ทั้งหมด	ทั้งหมด	PRON	PRP	_	22	nsubj	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+20	ทั้งหมด	ทั้งหมด	PRON	PRP	PronType=Tot	22	nsubj	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 21	นี้	นี้	DET	DT	PronType=Dem	20	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 22	คำนวณ	คำนวณ	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=gʰãːnwṇ|LTranslit=gʰãːnwṇ
 23	ตาม	ตาม	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
@@ -21277,7 +21277,7 @@
 11	เสีย	เสีย	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=siaː|LTranslit=siaː
 12	มาซิโดเนีย	มาซิโดเนีย	PROPN	NNP	_	11	obj	_	SpaceAfter=No|Translit=maːcidoːniaː|LTranslit=maːcidoːniaː
 13	ไป	ไป	PART	RP	_	11	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
-14	ทั้งหมด	ทั้งหมด	DET	DT	_	12	det	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+14	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	12	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 15	พร้อม	พร้อม	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
 16	ดินแดน	ดินแดน	NOUN	NN	_	12	conj	_	SpaceAfter=No|Translit=dindæːn|LTranslit=dindæːn
 17	ที่	ที่	DET	WDT	PronType=Rel	18	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -21684,7 +21684,7 @@
 24	ต้อง	ต้อง	AUX	MD	_	25	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 25	ถอน	ถอน	VERB	VV	_	20	ccomp	_	SpaceAfter=No|Translit=tʰɔːn|LTranslit=tʰɔːn
 26	ทัพ	ทัพ	NOUN	NN	_	25	obj	_	SpaceAfter=No|Translit=dʰạbʰ|LTranslit=dʰạbʰ
-27	ทั้งหมด	ทั้งหมด	DET	DT	_	26	det	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+27	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	26	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 28	จาก	จาก	ADP	IN	_	29	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 29	ประเทศ	ประเทศ	NOUN	NN	_	25	obl	_	SpaceAfter=No|Translit=pradʰeːś|LTranslit=pradʰeːś
 30	ที่	ที่	DET	WDT	PronType=Rel	31	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -21695,7 +21695,7 @@
 35	2000	2000	NUM	CD	_	34	appos	_	Translit=2000|LTranslit=2000
 36	เพิกถอน	เพิกถอน	VERB	VV	_	25	conj	_	SpaceAfter=No|Translit=bʰeiktʰɔːn|LTranslit=bʰeiktʰɔːn
 37	การคว่ำบาตร	การคว่ำบาตร	VERB	VV	_	36	obj	_	SpaceAfter=No|Translit=kaːrgʰwã̀ːbaːtr|LTranslit=kaːrgʰwã̀ːbaːtr
-38	ทั้งหมด	ทั้งหมด	DET	DT	_	37	det	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+38	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	37	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 39	ที่	ที่	DET	WDT	PronType=Rel	40	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 40	มี	มี	VERB	VV	_	37	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 41	ต่อ	ต่อ	ADP	IN	_	42	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
@@ -25782,7 +25782,7 @@
 6	ไม่	ไม่	PART	NEG	Polarity=Neg	7	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 7	พึง	พึง	VERB	MD	_	4	acl:relcl	_	SpaceAfter=No|Translit=bʰüŋ|LTranslit=bʰüŋ
 8	ประสงค์	ประสงค์	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=prasŋgʰ|LTranslit=prasŋgʰ
-9	ทั้งหมด	ทั้งหมด	DET	DT	_	4	det	_	Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+9	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	4	det	_	Gloss=all|LTranslit=dʰậŋhmd|Translit=dʰậŋhmd
 10	การมี	การมี	VERB	VV	_	17	csubj	_	SpaceAfter=No|Translit=kaːrmiː|LTranslit=kaːrmiː
 11	ส่วน	ส่วน	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 12	ร่วม	ร่วม	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=rə̀wm|LTranslit=rə̀wm
@@ -26457,7 +26457,7 @@
 8	เงิน	เงิน	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=ŋein|LTranslit=ŋein
 9	ทุน	ทุน	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=dʰun|LTranslit=dʰun
 10	สนับสนุน	สนับสนุน	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=snạbsnun|LTranslit=snạbsnun
-11	ทั้งหมด	ทั้งหมด	DET	DT	_	8	det	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+11	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	8	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 12	มา	มา	PART	RP	_	7	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 13	จาก	จาก	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 14	เงิน	เงิน	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=ŋein|LTranslit=ŋein
@@ -27248,7 +27248,7 @@
 36	ปฏิเสธ	ปฏิเสธ	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=pṭiseːḏʰ|LTranslit=pṭiseːḏʰ
 37	ข้อ	ข้อ	NOUN	NN	_	36	obj	_	SpaceAfter=No|Translit=kʰɔ̂ː|LTranslit=kʰɔ̂ː
 38	ตกลง	ตกลง	VERB	VV	_	37	acl	_	SpaceAfter=No|Translit=tklŋ|LTranslit=tklŋ
-39	ทั้งหมด	ทั้งหมด	DET	DT	_	37	det	_	SpaceAfter=No|Translit=dʰậŋhmd|LTranslit=dʰậŋhmd
+39	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	37	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 40	และ	และ	CCONJ	CC	_	44	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 41	พระเจ้า	พระเจ้า	NOUN	NN	_	44	nsubj	_	SpaceAfter=No|Translit=bʰračaôː|LTranslit=bʰračaôː
 42	อเล็กซานเดอร์	อเล็กซานเดอร์	PROPN	NNP	_	41	appos	_	SpaceAfter=No|Translit='lekcaːndœːr|LTranslit='lekcaːndœːr
