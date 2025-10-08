@@ -2798,7 +2798,7 @@
 1	เรา	เรา	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=raoː|LTranslit=raoː
 2	เห็น	เห็น	VERB	VV	_	33	ccomp	_	SpaceAfter=No|Translit=hen|LTranslit=hen
 3	หลาย	หลาย	DET	DT	PronType=Ind	5	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
-4	ๆ	ๆ	SYM	SYM	_	5	det	_	Translit=.|LTranslit=.
+4	ๆ	ๆ	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 5	ประเทศ	ประเทศ	NOUN	NN	_	2	obj	_	Translit=pradʰeːś|LTranslit=pradʰeːś
 6	โดย	โดย	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 7	เฉพาะ	เฉพาะ	ADJ	JJ	_	6	fixed	_	SpaceAfter=No|Translit=čʰeːbʰaːa|LTranslit=čʰeːbʰaːa
@@ -24602,7 +24602,7 @@
 34	ส่ง	ส่ง	VERB	VV	_	24	ccomp	_	SpaceAfter=No|Translit=sə̀ŋ|LTranslit=sə̀ŋ
 35	ผล	ผล	NOUN	NN	_	34	obj	_	SpaceAfter=No|Translit=pʰl|LTranslit=pʰl
 36	ใด	ใด	DET	WDT	_	35	det	_	SpaceAfter=No|Translit=dai|LTranslit=dai
-37	ๆ	ๆ	SYM	SYM	_	35	det	_	Translit=.|LTranslit=.
+37	ๆ	ๆ	PUNCT	PUNCT	_	36	punct	_	Translit=.|LTranslit=.
 38	หรือไม่	หรือไม่	PART	EP	_	34	discourse	_	Translit=hrüː'mạì|LTranslit=hrüː'mạì
 
 # sent_id = n05009025
