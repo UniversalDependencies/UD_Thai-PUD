@@ -17848,7 +17848,7 @@
 2	โกล	โกล	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No|Translit=koːl|LTranslit=koːl
 3	สั่ง	สั่ง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=sạ̀ŋ|LTranslit=sạ̀ŋ
 4	ว่า	ว่า	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-5	ห้าม	ห้าม	VERB	MD	Mood=Imp	3	ccomp	_	SpaceAfter=No|Translit=hâːm|LTranslit=hâːm
+5	ห้าม	ห้าม	VERB	MD	_	3	ccomp	_	SpaceAfter=No|Translit=hâːm|LTranslit=hâːm
 6	มี	มี	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 7	การแสดง	การแสดง	VERB	VV	_	5	obj	_	SpaceAfter=No|Translit=kaːrsæːdŋ|LTranslit=kaːrsæːdŋ
 8	ความชื่นชอบ	ความชื่นชอบ	VERB	VV	_	7	obj	_	SpaceAfter=No|Translit=gʰwaːmćʰǜːnćʰɔːb|LTranslit=gʰwaːmćʰǜːnćʰɔːb
