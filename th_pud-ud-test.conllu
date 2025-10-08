@@ -921,7 +921,7 @@
 16	ส่วน	ส่วน	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 17	ประกอบ	ประกอบ	VERB	VV	_	16	acl	_	SpaceAfter=No|Translit=prakɔːb|LTranslit=prakɔːb
 18	ของ	ของ	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-19	ตัวเอง	ตัวเอง	PRON	PRP	Person=3	16	nmod:poss	_	SpaceAfter=No|Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
+19	ตัวเอง	ตัวเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	16	nmod:poss	_	Gloss=oneself|LTranslit=tuaː'eːŋ|SpaceAfter=No|Translit=tuaː'eːŋ
 20	เป็น	เป็น	AUX	VC	_	21	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 21	เซลล์	เซลล์	NOUN	NN	_	13	xcomp	_	SpaceAfter=No|Translit=ceːll|LTranslit=ceːll
 22	ไฟฟ้า	ไฟฟ้า	NOUN	NN	_	21	compound	_	SpaceAfter=No|Translit=fạifâː|LTranslit=fạifâː
@@ -3488,7 +3488,7 @@
 19	การใช้	การใช้	VERB	VV	_	18	obj	_	SpaceAfter=No|Translit=kaːrćʰaî|LTranslit=kaːrćʰaî
 20	ข้อมูล	ข้อมูล	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=kʰɔ̂ːmuːl|LTranslit=kʰɔ̂ːmuːl
 21	ของ	ของ	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-22	ตัวเอง	ตัวเอง	PRON	PRP	Person=3	19	obl:poss	_	Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
+22	ตัวเอง	ตัวเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	19	obl:poss	_	Gloss=oneself|LTranslit=tuaː'eːŋ|Translit=tuaː'eːŋ
 
 # sent_id = n01047048
 # parallel_id = pud/n01047048
@@ -4895,7 +4895,7 @@
 6	บอกเล่า	บอกเล่า	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bɔːklaòː|LTranslit=bɔːklaòː
 7	เรื่อง	เรื่อง	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
 8	ของ	ของ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-9	ตัวเอง	ตัวเอง	PRON	PRP	Person=3	7	nmod:poss	_	Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
+9	ตัวเอง	ตัวเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	7	nmod:poss	_	Gloss=oneself|LTranslit=tuaː'eːŋ|Translit=tuaː'eːŋ
 10	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 11	ไม่	ไม่	PART	NEG	Polarity=Neg	12	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 12	ใช่	ใช่	VERB	VC	_	7	acl:relcl	_	SpaceAfter=No|Translit=ćʰaì|LTranslit=ćʰaì
@@ -6074,7 +6074,7 @@
 15	คน	คน	NOUN	NNB	_	13	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 16	ที่	ที่	DET	WDT	PronType=Rel	17	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 17	เคารพ	เคารพ	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=gʰaoːrbʰ|LTranslit=gʰaoːrbʰ
-18	ตัวเอง	ตัวเอง	PRON	PRP	Person=3	17	obj	_	SpaceAfter=No|Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
+18	ตัวเอง	ตัวเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	17	obj	_	Gloss=oneself|LTranslit=tuaː'eːŋ|SpaceAfter=No|Translit=tuaː'eːŋ
 19	พอ	พอ	ADV	RB	_	17	advmod	_	SpaceAfter=No|Translit=bʰɔː|LTranslit=bʰɔː
 20	ที่	ที่	ADP	IN	_	22	mark	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 21	จะ	จะ	AUX	MD	_	22	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -8899,7 +8899,7 @@
 9	จะ	จะ	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 10	ให้	ให้	VERB	VV	_	5	ccomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 11	ป้องกัน	ป้องกัน	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=pɔ̂ːŋkạn|LTranslit=pɔ̂ːŋkạn
-12	ตัวเอง	ตัวเอง	PRON	PRP	Person=3	11	obj	_	SpaceAfter=No|Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
+12	ตัวเอง	ตัวเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	11	obj	_	Gloss=oneself|LTranslit=tuaː'eːŋ|SpaceAfter=No|Translit=tuaː'eːŋ
 13	ใน	ใน	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 14	โลก	โลก	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=loːk|LTranslit=loːk
 15	ออนไลน์	ออนไลน์	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ɔːnlạin|LTranslit='ɔːnlạin
@@ -9065,7 +9065,7 @@
 11	ที่	ที่	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 12	สน	สน	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|Translit=sn|LTranslit=sn
 13	แต่	แต่	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
-14	ตัวเอง	ตัวเอง	PRON	PRP	Person=3	12	obj	_	Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
+14	ตัวเอง	ตัวเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	12	obj	_	Gloss=oneself|LTranslit=tuaː'eːŋ|Translit=tuaː'eːŋ
 15	และ	และ	CCONJ	CC	_	21	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 16	ความหุนหันพลันแล่น	ความหุนหันพลันแล่น	VERB	VV	_	21	nsubj	_	SpaceAfter=No|Translit=gʰwaːmhunhạnbʰlạnlæ̀ːn|LTranslit=gʰwaːmhunhạnbʰlạnlæ̀ːn
 17	ของ	ของ	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
@@ -21775,7 +21775,7 @@
 12	ที่	ที่	DET	WDT	PronType=Rel	13	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 13	พึงพอใจ	พึงพอใจ	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|Translit=bʰüŋbʰɔːčai|LTranslit=bʰüŋbʰɔːčai
 14	กับ	กับ	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
-15	ตัวเอง	ตัวเอง	PRON	PRP	Person=3	13	obl	_	SpaceAfter=No|Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
+15	ตัวเอง	ตัวเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	13	obl	_	Gloss=oneself|LTranslit=tuaː'eːŋ|SpaceAfter=No|Translit=tuaː'eːŋ
 16	นั้น	นั้น	DET	DT	PronType=Dem	15	det	_	Gloss=that|LTranslit=nận|SpaceAfter=No|Translit=nận
 17	เป็น	เป็น	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 18	สาเหตุ	สาเหตุ	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=saːheːtu|LTranslit=saːheːtu
@@ -24362,7 +24362,7 @@
 19	ดี	ดี	ADJ	JJ	_	17	acl:relcl	_	SpaceAfter=No|Translit=diː|LTranslit=diː
 20	ที่สุด	ที่สุด	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
 21	ที่	ที่	DET	WDT	PronType=Rel	23	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-22	ตัวเอง	ตัวเอง	PRON	PRP	Person=3	23	nsubj	_	SpaceAfter=No|Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
+22	ตัวเอง	ตัวเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	23	nsubj	_	Gloss=oneself|LTranslit=tuaː'eːŋ|SpaceAfter=No|Translit=tuaː'eːŋ
 23	มี	มี	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 24	เพื่อ	เพื่อ	ADP	IN	_	27	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
 25	ที่	ที่	ADP	IN	_	24	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
