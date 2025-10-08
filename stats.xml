@@ -17,7 +17,7 @@
   <tags unique="16">
     <tag name="ADJ">968</tag><!-- ใหม่, สูง, ต่าง, เดียว, แรก, ใหญ่, ดี, มาก, สำคัญ, อื่น -->
     <tag name="ADP">3133</tag><!-- ใน, ของ, ว่า, จาก, กับ, ที่, โดย, ถึง, เมื่อ, ทาง -->
-    <tag name="ADV">951</tag><!-- ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, เลย, อีก -->
+    <tag name="ADV">952</tag><!-- ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, อีก, เลย -->
     <tag name="AUX">1159</tag><!-- เป็น, ได้, จะ, ถูก, ต้อง, แล้ว, กำลัง, มา, เคย, ได้รับ -->
     <tag name="CCONJ">606</tag><!-- และ, แต่, หรือ, กับ, ทั้ง, อย่าง, จาก, นอก, พร้อม, แล้ว -->
     <tag name="DET">1026</tag><!-- ที่, นี้, ซึ่ง, นั้น, หลาย, อีก, ทุก, ทั้ง, บาง, ทั้งหมด -->
@@ -25,10 +25,10 @@
     <tag name="NUM">581</tag><!-- หนึ่ง, สอง, ล้าน, สาม, 1, 3, สิบ, 10, 2, สี่ -->
     <tag name="PART">608</tag><!-- ไม่, ไป, มา, ขึ้น, ออก, ลง, เข้า, หรือไม่, หรอก, หรือเปล่า -->
     <tag name="PRON">683</tag><!-- เขา, กัน, เธอ, เรา, ฉัน, มัน, ที่, นี้, นี่, นั้น -->
-    <tag name="PROPN">1491</tag><!-- จีน, ยุโรป, อังกฤษ, อเมริกา, ฝรั่งเศส, สเปน, ทรัมป์, รัสเซีย, ออสเตรเลีย, อเมริกัน -->
-    <tag name="PUNCT">272</tag><!-- ”, “, (, ), ", -, :, ฯ, ‘, ’ -->
+    <tag name="PROPN">1490</tag><!-- จีน, ยุโรป, อังกฤษ, อเมริกา, ฝรั่งเศส, สเปน, ทรัมป์, รัสเซีย, ออสเตรเลีย, อเมริกัน -->
+    <tag name="PUNCT">274</tag><!-- ”, “, (, ), ", -, :, ฯ, ‘, ’ -->
     <tag name="SCONJ">2</tag><!-- หาก, เฉกเช่นเดียวกับ -->
-    <tag name="SYM">134</tag><!-- ๆ, %, / -->
+    <tag name="SYM">132</tag><!-- ๆ, %, / -->
     <tag name="VERB">4651</tag><!-- มี, ให้, อยู่, ใช้, ทำ, รับ, กล่าว, ทำให้, เกิด, คือ -->
     <tag name="X">4</tag><!-- _ -->
   </tags>
@@ -37,13 +37,13 @@
     <feat name="Aspect" value="Perf" upos="AUX,VERB">289</feat><!-- ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว -->
     <feat name="Aspect" value="Prog" upos="AUX,VERB">112</feat><!-- อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง -->
     <feat name="ExtPos" value="ADV" upos="ADP">1</feat><!-- อย่าง -->
-    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- ห้าม -->
     <feat name="Person" value="1" upos="PRON">103</feat><!-- เรา, ฉัน, ผม, ข้าพเจ้า, มี -->
     <feat name="Person" value="2" upos="PRON">19</feat><!-- คุณ, 'Ya, You, นาย, ยู -->
     <feat name="Person" value="3" upos="PRON">324</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์ -->
     <feat name="Polarity" value="Neg" upos="PART">205</feat><!-- ไม่, ความไม่, มิ, อย่างไม่, การไม่ -->
     <feat name="PronType" value="Ind" upos="DET">56</feat><!-- หลาย -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">15</feat><!-- หรือเปล่า, หรือไม่, อะไร, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
+    <feat name="PronType" value="Rel" upos="DET">495</feat><!-- ที่ -->
     <feat name="Typo" value="Yes" upos="PROPN">4</feat><!-- ซิกูร์, บัวโนส, ฟยอกูร์, มาเร -->
     <feat name="Voice" value="Pass" upos="AUX,VERB">90</feat><!-- ถูก, ได้รับ, ต้อง, การถูก -->
   </feats>
@@ -52,7 +52,7 @@
     <dep name="acl">976</dep>
     <dep name="acl:relcl">613</dep>
     <dep name="advcl">341</dep>
-    <dep name="advmod">1190</dep>
+    <dep name="advmod">1191</dep>
     <dep name="amod">654</dep>
     <dep name="appos">362</dep>
     <dep name="aux">716</dep>
@@ -62,12 +62,12 @@
     <dep name="cc:preconj">20</dep>
     <dep name="ccomp">275</dep>
     <dep name="clf">247</dep>
-    <dep name="compound">1563</dep>
+    <dep name="compound">1564</dep>
     <dep name="compound:prt">364</dep>
     <dep name="conj">662</dep>
     <dep name="cop">357</dep>
     <dep name="csubj">49</dep>
-    <dep name="dep">117</dep>
+    <dep name="dep">115</dep>
     <dep name="det">414</dep>
     <dep name="discourse">29</dep>
     <dep name="dislocated">2</dep>
@@ -81,12 +81,12 @@
     <dep name="nsubj">1619</dep>
     <dep name="nsubj:pass">70</dep>
     <dep name="nummod">372</dep>
-    <dep name="obj">1734</dep>
-    <dep name="obl">1417</dep>
+    <dep name="obj">1731</dep>
+    <dep name="obl">1418</dep>
     <dep name="obl:poss">91</dep>
     <dep name="obl:tmod">252</dep>
     <dep name="parataxis">5</dep>
-    <dep name="punct">272</dep>
+    <dep name="punct">274</dep>
     <dep name="reparandum">1</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
