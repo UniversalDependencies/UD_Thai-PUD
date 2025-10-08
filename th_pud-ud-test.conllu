@@ -173,7 +173,7 @@
 8	โดย	โดย	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 9	บัญชี	บัญชี	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=bạŷćʰiː|LTranslit=bạŷćʰiː
 10	ธนาคาร	ธนาคาร	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=ḏʰnaːgʰaːr|LTranslit=ḏʰnaːgʰaːr
-11	อัน	อัน	DET	WDT	_	12	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+11	อัน	อัน	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 12	ร่ำรวย	ร่ำรวย	ADJ	JJ	_	9	acl:relcl	_	SpaceAfter=No|Translit=rã̀ːrwy|LTranslit=rã̀ːrwy
 13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 14	คลินตัน	คลินตัน	PROPN	NNP	_	9	nmod:poss	_	Translit=gʰlintạn|LTranslit=gʰlintạn
@@ -2243,7 +2243,7 @@
 11	หนึ่ง	หนึ่ง	NUM	CD	_	10	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 12	ใน	ใน	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 13	การเดินทาง	การเดินทาง	VERB	VV	_	10	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=kaːrdeindʰaːŋ|LTranslit=kaːrdeindʰaːŋ
-14	อัน	อัน	DET	WDT	_	15	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+14	อัน	อัน	DET	WDT	PronType=Rel	15	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 15	ยาวไกล	ยาวไกล	ADJ	JJ	_	13	acl:relcl	_	SpaceAfter=No|Translit=yaːwkạil|LTranslit=yaːwkạil
 16	เพื่อ	เพื่อ	ADP	IN	_	17	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
 17	หา	หา	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=haː|LTranslit=haː
@@ -4569,7 +4569,7 @@
 9	ศิลปะ	ศิลปะ	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=śilpa|LTranslit=śilpa
 10	การส่าย	การส่าย	VERB	VV	_	9	compound	_	SpaceAfter=No|Translit=kaːrsàːy|LTranslit=kaːrsàːy
 11	ก้น	ก้น	NOUN	NN	_	10	obj	_	Translit=kə̂n|LTranslit=kə̂n
-12	อัน	อัน	DET	WDT	_	14	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+12	อัน	อัน	DET	WDT	PronType=Rel	14	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 13	เป็น	เป็น	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 14	จุด	จุด	NOUN	NN	_	9	acl:relcl	_	SpaceAfter=No|Translit=čud|LTranslit=čud
 15	ขาย	ขาย	VERB	VV	_	14	acl	_	SpaceAfter=No|Translit=kʰaːy|LTranslit=kʰaːy
@@ -5030,7 +5030,7 @@
 9	เขต	เขต	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=kʰeːt|LTranslit=kʰeːt
 10	ชาน	ชาน	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=ćʰaːn|LTranslit=ćʰaːn
 11	เมือง	เมือง	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
-12	อัน	อัน	DET	WDT	_	13	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+12	อัน	อัน	DET	WDT	PronType=Rel	13	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 13	มั่งมี	มั่งมี	ADJ	JJ	_	9	acl:relcl	_	SpaceAfter=No|Translit=mạ̀ŋmiː|LTranslit=mạ̀ŋmiː
 14	จน	จน	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 15	ถึง	ถึง	ADP	IN	_	14	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
@@ -8025,7 +8025,7 @@
 4	อัจฉริยะ	อัจฉริยะ	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit='ạččʰriya|LTranslit='ạččʰriya
 5	และ	และ	CCONJ	CC	_	6	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 6	การฟื้นฟู	การฟื้นฟู	VERB	VV	_	3	conj	_	SpaceAfter=No|Translit=kaːrfü̂ːnfuː|LTranslit=kaːrfü̂ːnfuː
-7	อัน	อัน	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+7	อัน	อัน	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 8	หนักหนาสาหัส	หนักหนาสาหัส	ADJ	JJ	_	6	acl:relcl	_	Translit=hnạkhnaːsaːhạs|LTranslit=hnạkhnaːsaːhạs
 9	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	11	nsubj	_	Gloss=I|LTranslit=čʰạn|SpaceAfter=No|Translit=čʰạn
 10	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
@@ -8362,7 +8362,7 @@
 9	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 10	การสร้าง	การสร้าง	VERB	VV	_	9	xcomp	_	SpaceAfter=No|Translit=kaːrsrâːŋ|LTranslit=kaːrsrâːŋ
 11	สมดุล	สมดุล	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=smdul|LTranslit=smdul
-12	อัน	อัน	DET	WDT	_	13	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+12	อัน	อัน	DET	WDT	PronType=Rel	13	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 13	ท้าทาย	ท้าทาย	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=dʰâːdʰaːy|LTranslit=dʰâːdʰaːy
 14	ระหว่าง	ระหว่าง	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=rahwàːŋ|LTranslit=rahwàːŋ
 15	เรื่อง	เรื่อง	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
@@ -8606,7 +8606,7 @@
 # text_en = But Cotton’s dark deeds did not occur due to some sort of compulsion to kill.
 1	แต่	แต่	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 2	การกระทำ	การกระทำ	VERB	VV	_	9	nsubj	_	SpaceAfter=No|Translit=kaːrkradʰãː|LTranslit=kaːrkradʰãː
-3	อัน	อัน	DET	WDT	_	4	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+3	อัน	อัน	DET	WDT	PronType=Rel	4	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 4	ดำมืด	ดำมืด	ADJ	JJ	_	2	acl:relcl	_	SpaceAfter=No|Translit=dãːmüːd|LTranslit=dãːmüːd
 5	ของ	ของ	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 6	ค็อตตอน	ค็อตตอน	PROPN	NNP	_	2	obl:poss	_	SpaceAfter=No|Translit=gʰɔttɔːn|LTranslit=gʰɔttɔːn
@@ -10561,7 +10561,7 @@
 4	ตก	ตก	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=tk|LTranslit=tk
 5	เฉียง	เฉียง	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=čʰiaːŋ|LTranslit=čʰiaːŋ
 6	เหนือ	เหนือ	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit=heːnüː'|LTranslit=heːnüː'
-7	อัน	อัน	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+7	อัน	อัน	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 8	ไกล	ไกล	ADJ	JJ	_	2	acl:relcl	_	SpaceAfter=No|Translit=kạil|LTranslit=kạil
 9	โพ้น	โพ้น	ADV	RB	_	8	advmod	_	Translit=bʰôːn|LTranslit=bʰôːn
 10	เขต	เขต	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=kʰeːt|LTranslit=kʰeːt
@@ -15348,7 +15348,7 @@
 17	พระอิสริยยศ	พระอิสริยยศ	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=bʰra'isriyyś|LTranslit=bʰra'isriyyś
 18	จักรพรรดิ	จักรพรรดิ	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=čạkrbʰrrdi|LTranslit=čạkrbʰrrdi
 19	โรมัน	โรมัน	PROPN	NNP	_	17	compound	_	SpaceAfter=No|Translit=roːmạn|LTranslit=roːmạn
-20	อัน	อัน	DET	WDT	_	21	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+20	อัน	อัน	DET	WDT	PronType=Rel	21	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 21	ศักดิ์สิทธิ์	ศักดิ์สิทธิ์	ADJ	JJ	_	17	acl:relcl	_	SpaceAfter=No|Translit=śạkdisidʰḏʰi|LTranslit=śạkdisidʰḏʰi
 22	ใน	ใน	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 23	ปี	ปี	NOUN	NN	_	14	obl	_	Translit=piː|LTranslit=piː
@@ -17464,7 +17464,7 @@
 33	สู่	สู่	ADP	IN	_	34	case	_	SpaceAfter=No|Translit=sùː|LTranslit=sùː
 34	สนาม	สนาม	NOUN	NN	_	32	obl	_	SpaceAfter=No|Translit=snaːm|LTranslit=snaːm
 35	รบ	รบ	VERB	VV	_	34	acl	_	SpaceAfter=No|Translit=rb|LTranslit=rb
-36	อัน	อัน	DET	WDT	_	38	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+36	อัน	อัน	DET	WDT	PronType=Rel	38	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 37	เป็น	เป็น	AUX	VC	_	38	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 38	ตำนาน	ตำนาน	NOUN	NN	_	31	acl:relcl	_	SpaceAfter=No|Translit=tãːnaːn|LTranslit=tãːnaːn
 39	ครั้ง	ครั้ง	NOUN	NNB	_	38	clf	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
@@ -19305,7 +19305,7 @@
 8	ทอดพระเนตรเห็น	ทอดพระเนตรเห็น	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=dʰɔːdbʰraneːtrhen|LTranslit=dʰɔːdbʰraneːtrhen
 9	จาก	จาก	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 10	ศีลธรรม	ศีลธรรม	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=śiːlḏʰrrm|LTranslit=śiːlḏʰrrm
-11	อัน	อัน	DET	WDT	_	12	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+11	อัน	อัน	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 12	หละหลวม	หละหลวม	ADJ	JJ	_	10	acl:relcl	_	Translit=hlahlwm|LTranslit=hlahlwm
 
 # sent_id = w01125038
@@ -22039,7 +22039,7 @@
 10	เป็น	เป็น	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 11	การส่งท้าย	การส่งท้าย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kaːrsə̀ŋdʰâːy|LTranslit=kaːrsə̀ŋdʰâːy
 12	ปี	ปี	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=piː|LTranslit=piː
-13	อัน	อัน	DET	WDT	_	14	obl:tmod	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+13	อัน	อัน	DET	WDT	PronType=Rel	14	obl:tmod	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 14	น่าทึ่ง	น่าทึ่ง	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=nàːdʰǜŋ|LTranslit=nàːdʰǜŋ
 15	สำหรับ	สำหรับ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=sãːhrạb|LTranslit=sãːhrạb
 16	เคอร์เบอร์	เคอร์เบอร์	PROPN	NNP	_	11	obl	_	Translit=gʰœːrbœːr|LTranslit=gʰœːrbœːr
@@ -27726,7 +27726,7 @@
 9	สู่	สู่	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=sùː|LTranslit=sùː
 10	การเคลื่อนย้าย	การเคลื่อนย้าย	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=kaːrgʰeːlǜː'nyâːy|LTranslit=kaːrgʰeːlǜː'nyâːy
 11	ทุน	ทุน	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=dʰun|LTranslit=dʰun
-12	อัน	อัน	DET	WDT	_	14	nsubj	_	SpaceAfter=No|Translit='ạn|LTranslit='ạn
+12	อัน	อัน	DET	WDT	PronType=Rel	14	nsubj	_	Gloss=that|LTranslit='ạn|SpaceAfter=No|Translit='ạn
 13	เป็น	เป็น	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 14	เหตุ	เหตุ	NOUN	NN	_	10	acl:relcl	_	SpaceAfter=No|Translit=heːtu|LTranslit=heːtu
 15	ให้	ให้	VERB	VV	_	14	acl	_	SpaceAfter=No|Translit=haî|LTranslit=haî
