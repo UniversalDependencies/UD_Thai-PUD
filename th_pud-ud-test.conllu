@@ -283,7 +283,7 @@
 15	วอชิงตัน	วอชิงตัน	PROPN	NNP	_	14	flat:name	_	Translit=wɔːćʰiŋtạn|LTranslit=wɔːćʰiŋtạn
 16	ถนน	ถนน	NOUN	NN	_	14	appos	_	SpaceAfter=No|Translit=tʰnn|LTranslit=tʰnn
 17	เอช	เอช	PROPN	NNP	_	16	compound	_	Translit='eːćʰ|LTranslit='eːćʰ
-18	ซึ่ง	ซึ่ง	DET	WDT	_	19	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+18	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	19	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 19	ห่าง	ห่าง	ADJ	JJ	_	9	acl:relcl	_	SpaceAfter=No|Translit=hàːŋ|LTranslit=hàːŋ
 20	ไป	ไป	PART	RP	_	19	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 21	ไม่	ไม่	PART	NEG	Polarity=Neg	22	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
@@ -1576,7 +1576,7 @@
 13	ใน	ใน	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 14	สภาพ	สภาพ	NOUN	NN	_	12	obl	_	SpaceAfter=No|Translit=sḇʰaːbʰ|LTranslit=sḇʰaːbʰ
 15	แวดล้อม	แวดล้อม	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=wæːdlɔ̂ːm|LTranslit=wæːdlɔ̂ːm
-16	ซึ่ง	ซึ่ง	DET	WDT	_	17	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+16	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	17	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 17	ครอบงำ	ครอบงำ	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=gʰrɔːbŋãː|LTranslit=gʰrɔːbŋãː
 18	โลก	โลก	NOUN	NN	_	17	obj	_	SpaceAfter=No|Translit=loːk|LTranslit=loːk
 19	และ	และ	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -1992,7 +1992,7 @@
 13	รัสเซีย	รัสเซีย	PROPN	NNP	_	11	obl:poss	_	SpaceAfter=No|Translit=rạsciaː|LTranslit=rạsciaː
 14	ใน	ใน	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 15	ไครเมีย	ไครเมีย	PROPN	NNP	_	11	obl	_	SpaceAfter=No|Translit=gʰạirmiaː|LTranslit=gʰạirmiaː
-16	ซึ่ง	ซึ่ง	DET	WDT	_	18	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+16	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	18	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 17	รัสเซีย	รัสเซีย	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No|Translit=rạsciaː|LTranslit=rạsciaː
 18	เข้า	เข้า	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=kʰaôː|LTranslit=kʰaôː
 19	ยึดครอง	ยึดครอง	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=yüdgʰrɔːŋ|LTranslit=yüdgʰrɔːŋ
@@ -2367,7 +2367,7 @@
 15	อย่าง	อย่าง	ADP	IN	_	16	case	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 16	กระเพาะ	กระเพาะ	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=krabʰɔ|LTranslit=krabʰɔ
 17	ปัสสาวะ	ปัสสาวะ	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=pạssaːwa|LTranslit=pạssaːwa
-18	ซึ่ง	ซึ่ง	DET	WDT	_	21	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+18	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	21	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 19	ไม่	ไม่	PART	NEG	Polarity=Neg	20	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 20	ได้	ได้	AUX	AS	Aspect=Perf	21	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 21	สัมผัส	สัมผัส	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=sạmpʰạs|LTranslit=sạmpʰạs
@@ -2531,7 +2531,7 @@
 31	คน	คน	NOUN	NN	_	27	ccomp	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 32	ไร้	ไร้	VERB	VV	_	31	acl	_	SpaceAfter=No|Translit=rạî|LTranslit=rạî
 33	บ้าน	บ้าน	NOUN	NN	_	32	obj	_	SpaceAfter=No|Translit=bâːn|LTranslit=bâːn
-34	ซึ่ง	ซึ่ง	DET	WDT	_	36	nsubj:pass	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+34	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	36	nsubj:pass	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 35	ถูก	ถูก	AUX	MD	Voice=Pass	36	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 36	ตั้ง	ตั้ง	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
 37	ข้อหา	ข้อหา	NOUN	NN	_	36	obj	_	SpaceAfter=No|Translit=kʰɔ̂ːhaː|LTranslit=kʰɔ̂ːhaː
@@ -2709,7 +2709,7 @@
 19	(	(	PUNCT	(	_	20	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 20	อาร์อีซีโอ	อาร์อีซีโอ	PROPN	NNP	_	14	appos	_	SpaceAfter=No|Translit='aːr'iːciː'oː|LTranslit='aːr'iːciː'oː
 21	)	)	PUNCT	)	_	20	punct	_	Translit=)|LTranslit=)
-22	ซึ่ง	ซึ่ง	DET	WDT	_	23	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+22	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	23	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 23	มี	มี	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 24	หน้าที่	หน้าที่	NOUN	NN	_	23	obj	_	SpaceAfter=No|Translit=hnâːdʰìː|LTranslit=hnâːdʰìː
 25	กำกับ	กำกับ	VERB	VV	_	23	xcomp	_	SpaceAfter=No|Translit=kãːkạb|LTranslit=kãːkạb
@@ -2778,7 +2778,7 @@
 28	เมือง	เมือง	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
 29	อย่าง	อย่าง	ADP	IN	_	30	case	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 30	ปักกิ่ง	ปักกิ่ง	PROPN	NNP	_	28	nmod	_	Translit=pạkkìŋ|LTranslit=pạkkìŋ
-31	ซึ่ง	ซึ่ง	DET	WDT	_	32	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+31	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	32	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 32	พบเห็น	พบเห็น	VERB	VV	_	30	acl:relcl	_	SpaceAfter=No|Translit=bʰbhen|LTranslit=bʰbhen
 33	หมอก	หมอก	NOUN	NN	_	32	obj	_	SpaceAfter=No|Translit=hmɔːk|LTranslit=hmɔːk
 34	ควัน	ควัน	NOUN	NN	_	33	conj	_	SpaceAfter=No|Translit=gʰwạn|LTranslit=gʰwạn
@@ -2895,7 +2895,7 @@
 33	อารมณ์	อารมณ์	NOUN	NN	_	31	obl	_	SpaceAfter=No|Translit='aːrmṇ|LTranslit='aːrmṇ
 34	ของ	ของ	ADP	IN	_	35	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 35	เขา	เขา	PRON	PRP	Person=3	30	obl:poss	_	Translit=kʰaoː|LTranslit=kʰaoː
-36	ซึ่ง	ซึ่ง	DET	WDT	_	37	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+36	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	37	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 37	ทำให้	ทำให้	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=dʰãːhaî|LTranslit=dʰãːhaî
 38	เขา	เขา	PRON	PRP	Person=3	37	obj	_	SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 39	ไม่	ไม่	PART	NEG	Polarity=Neg	40	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
@@ -3585,7 +3585,7 @@
 28	ใน	ใน	ADP	IN	_	29	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 29	เดนเวอร์	เดนเวอร์	PROPN	NNP	_	27	nmod	_	Translit=deːnwœːr|LTranslit=deːnwœːr
 30	โคโลราโด	โคโลราโด	PROPN	NNP	_	29	flat:name	_	Translit=gʰoːloːraːdoː|LTranslit=gʰoːloːraːdoː
-31	ซึ่ง	ซึ่ง	DET	WDT	_	32	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+31	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	32	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 32	มี	มี	VERB	VV	_	27	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 33	การจำหน่าย	การจำหน่าย	VERB	VV	_	32	obj	_	SpaceAfter=No|Translit=kaːrčãːhnàːy|LTranslit=kaːrčãːhnàːy
 34	กัญชา	กัญชา	NOUN	NN	_	33	obj	_	SpaceAfter=No|Translit=kạŷćʰaː|LTranslit=kạŷćʰaː
@@ -3642,7 +3642,7 @@
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 10	การผลิต	การผลิต	VERB	VV	_	8	xcomp	_	SpaceAfter=No|Translit=kaːrpʰlit|LTranslit=kaːrpʰlit
 11	ฮีโมโกลบิน	ฮีโมโกลบิน	NOUN	NN	_	10	obj	_	Translit=ḥiːmoːkoːlbin|LTranslit=ḥiːmoːkoːlbin
-12	ซึ่ง	ซึ่ง	DET	WDT	_	14	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+12	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	14	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 13	เป็น	เป็น	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 14	โปรตีน	โปรตีน	NOUN	NN	_	11	acl:relcl	_	SpaceAfter=No|Translit=poːrtiːn|LTranslit=poːrtiːn
 15	ที่	ที่	DET	WDT	PronType=Rel	16	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -3854,7 +3854,7 @@
 16	และ	และ	CCONJ	CC	_	18	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 17	แสน	แสน	ADV	RB	_	18	advmod	_	Proper=True|SpaceAfter=No|Translit=sæːn|LTranslit=sæːn
 18	มหัศจรรย์	มหัศจรรย์	ADV	RB	_	13	conj	_	Translit=mhạśčrry|LTranslit=mhạśčrry
-19	ซึ่ง	ซึ่ง	DET	WDT	_	21	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+19	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	21	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 20	ได้	ได้	AUX	AS	Aspect=Perf	21	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 21	ทิ้ง	ทิ้ง	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=dʰîŋ|LTranslit=dʰîŋ
 22	ร่องรอย	ร่องรอย	NOUN	NN	_	21	obj	_	SpaceAfter=No|Translit=rɔ̀ːŋrɔːy|LTranslit=rɔ̀ːŋrɔːy
@@ -4060,7 +4060,7 @@
 23	ทาง	ทาง	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 24	การ	การ	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=kaːr|LTranslit=kaːr
 25	เมือง	เมือง	NOUN	NN	_	24	compound	_	SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
-26	ซึ่ง	ซึ่ง	DET	WDT	_	27	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+26	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	27	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 27	อาจ	อาจ	VERB	MD	_	22	acl:relcl	_	SpaceAfter=No|Translit='aːč|LTranslit='aːč
 28	จะ	จะ	AUX	MD	_	27	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 29	สำคัญ	สำคัญ	ADJ	JJ	_	27	xcomp	_	SpaceAfter=No|Translit=sãːgʰạŷ|LTranslit=sãːgʰạŷ
@@ -4151,7 +4151,7 @@
 1	ที่	ที่	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 2	เมือง	เมือง	NOUN	NN	_	11	obl	_	Proper=True|SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
 3	ฮิลส์โบโร	ฮิลส์โบโร	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No|Translit=ḥilsboːroː|LTranslit=ḥilsboːroː
-4	ซึ่ง	ซึ่ง	DET	WDT	_	5	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+4	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 5	อยู่	อยู่	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 6	ห่าง	ห่าง	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=hàːŋ|LTranslit=hàːŋ
 7	ออก	ออก	PART	RP	_	5	compound:prt	_	SpaceAfter=No|Translit='ɔːk|LTranslit='ɔːk
@@ -4896,7 +4896,7 @@
 7	เรื่อง	เรื่อง	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
 8	ของ	ของ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 9	ตัวเอง	ตัวเอง	PRON	PRP	Person=3	7	nmod:poss	_	Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
-10	ซึ่ง	ซึ่ง	DET	WDT	_	12	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+10	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 11	ไม่	ไม่	PART	NEG	Polarity=Neg	12	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 12	ใช่	ใช่	VERB	VC	_	7	acl:relcl	_	SpaceAfter=No|Translit=ćʰaì|LTranslit=ćʰaì
 13	ข้อ	ข้อ	NOUN	NN	_	12	xcomp	_	SpaceAfter=No|Translit=kʰɔ̂ː|LTranslit=kʰɔ̂ː
@@ -5157,7 +5157,7 @@
 4	ถ่านหิน	ถ่านหิน	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=tʰàːnhin|LTranslit=tʰàːnhin
 5	ที่	ที่	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 6	บาดาร์ปูร์	บาดาร์ปูร์	PROPN	NNP	_	1	nmod	_	SpaceAfter=No|Translit=baːdaːrpuːr|LTranslit=baːdaːrpuːr
-7	ซึ่ง	ซึ่ง	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+7	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 8	อยู่	อยู่	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 9	ทาง	ทาง	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 10	ตะวัน	ตะวัน	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=tawạn|LTranslit=tawạn
@@ -6191,7 +6191,7 @@
 13	แล้ว	แล้ว	ADP	IN	_	15	cc	_	SpaceAfter=No|Translit=læ̂ːw|LTranslit=læ̂ːw
 14	ก็	ก็	ADV	RB	_	13	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 15	กลาสโกว์	กลาสโกว์	NOUN	NN	_	12	conj	_	Translit=klaːskoːw|LTranslit=klaːskoːw
-16	ซึ่ง	ซึ่ง	DET	WDT	_	18	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+16	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	18	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 17	เป็น	เป็น	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 18	ที่	ที่	NOUN	NN	_	15	acl:relcl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 19	ที่	ที่	DET	WDT	PronType=Rel	21	advmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -7497,7 +7497,7 @@
 17	บริหาร	บริหาร	VERB	VV	_	16	acl	_	SpaceAfter=No|Translit=brihaːr|LTranslit=brihaːr
 18	ฝ่าย	ฝ่าย	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=fʰàːy|LTranslit=fʰàːy
 19	แบรนด์	แบรนด์	NOUN	NN	_	18	compound	_	Translit=bæːrnd|LTranslit=bæːrnd
-20	ซึ่ง	ซึ่ง	DET	WDT	_	24	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+20	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	24	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 21	ยังคง	ยังคง	VERB	AS	Aspect=Prog	24	xcomp	_	SpaceAfter=No|Translit=yạŋgʰŋ|LTranslit=yạŋgʰŋ
 22	ทำ	ทำ	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 23	งาน	งาน	NOUN	NN	_	24	obj	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
@@ -7524,7 +7524,7 @@
 9	เดือน	เดือน	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=düaːn|LTranslit=düaːn
 10	ตุลาคม	ตุลาคม	NOUN	NN	_	9	appos	_	Translit=tulaːgʰm|LTranslit=tulaːgʰm
 11	2015	2015	NUM	CD	_	9	obl:tmod	_	Translit=2015|LTranslit=2015
-12	ซึ่ง	ซึ่ง	DET	WDT	_	14	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+12	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	14	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 13	เป็น	เป็น	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 14	เดือน	เดือน	NOUN	NN	_	9	acl:relcl	_	SpaceAfter=No|Translit=düaːn|LTranslit=düaːn
 15	ถัดมา	ถัดมา	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=tʰạdmaː|LTranslit=tʰạdmaː
@@ -7879,7 +7879,7 @@
 22	นัก	นัก	NOUN	NN	_	16	nmod	_	Proper=True|SpaceAfter=No|Translit=nạk|LTranslit=nạk
 23	ลง	ลง	VERB	VV	_	22	acl	_	Proper=True|SpaceAfter=No|Translit=lŋ|LTranslit=lŋ
 24	ทุน	ทุน	NOUN	NN	_	23	obj	_	Proper=True|Translit=dʰun|LTranslit=dʰun
-25	ซึ่ง	ซึ่ง	DET	WDT	_	31	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+25	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	31	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 26	นัก	นัก	NOUN	NN	_	31	nsubj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 27	ลง	ลง	VERB	VV	_	26	acl	_	SpaceAfter=No|Translit=lŋ|LTranslit=lŋ
 28	ทุน	ทุน	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=dʰun|LTranslit=dʰun
@@ -7922,7 +7922,7 @@
 15	ปอนด์	ปอนด์	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=pɔːnd|LTranslit=pɔːnd
 16	สเตอร์ลิง	สเตอร์ลิง	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=stœːrliŋ|LTranslit=stœːrliŋ
 17	ตก	ตก	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=tk|LTranslit=tk
-18	ซึ่ง	ซึ่ง	DET	WDT	_	20	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+18	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	20	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 19	เป็น	เป็น	AUX	VC	_	20	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 20	ประโยชน์	ประโยชน์	NOUN	NN	_	11	acl:relcl	_	SpaceAfter=No|Translit=prayoːćʰn|LTranslit=prayoːćʰn
 21	ต่อ	ต่อ	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
@@ -8421,7 +8421,7 @@
 2	แน่นอน	แน่นอน	ADV	RB	_	3	advmod	_	Translit=næ̀ːnɔːn|LTranslit=næ̀ːnɔːn
 3	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 4	บ็อบ	บ็อบ	PROPN	NNP	_	3	obj	_	SpaceAfter=No|Translit=bɔb|LTranslit=bɔb
-5	ซึ่ง	ซึ่ง	DET	WDT	_	7	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+5	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	7	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 7	แหล่ง	แหล่ง	NOUN	NN	_	4	acl:relcl	_	SpaceAfter=No|Translit=hæːlə̀ŋ|LTranslit=hæːlə̀ŋ
 8	ความฮา	ความฮา	ADJ	JJ	_	7	compound	_	SpaceAfter=No|Translit=gʰwaːmḥaː|LTranslit=gʰwaːmḥaː
@@ -8751,7 +8751,7 @@
 2	ปี	ปี	NOUN	NNB	_	12	obl:tmod	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 3	ต่อมา	ต่อมา	ADJ	JJ	_	2	amod	_	Translit=tɔ̀ːmaː|LTranslit=tɔ̀ːmaː
 4	จุททิง	จุททิง	PROPN	NNP	_	12	nsubj:pass	_	Translit=čudʰdʰiŋ|LTranslit=čudʰdʰiŋ
-5	ซึ่ง	ซึ่ง	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+5	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 6	ขณะ	ขณะ	NOUN	NN	_	8	obl:tmod	_	SpaceAfter=No|Translit=kʰṇa|LTranslit=kʰṇa
 7	นี้	นี้	DET	DT	PronType=Dem	6	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 8	อายุ	อายุ	NOUN	NN	_	4	acl:relcl	_	Translit='aːyu|LTranslit='aːyu
@@ -9732,7 +9732,7 @@
 18	เพื่อ	เพื่อ	ADP	IN	_	19	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
 19	โค่น	โค่น	VERB	VV	_	8	advcl	_	SpaceAfter=No|Translit=gʰòːn|LTranslit=gʰòːn
 20	สแล็ค	สแล็ค	PROPN	NNP	_	19	obj	_	SpaceAfter=No|Translit=slæʔgʰ|LTranslit=slæʔgʰ
-21	ซึ่ง	ซึ่ง	DET	WDT	_	23	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+21	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	23	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 22	เป็น	เป็น	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 23	ที่	ที่	PRON	PRP	_	20	acl:relcl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 24	นิยม	นิยม	VERB	VV	_	23	acl	_	SpaceAfter=No|Translit=niym|LTranslit=niym
@@ -9848,7 +9848,7 @@
 # translit = 'isnœːrcǜŋtiːdʰeːnnisdạîsudyɔːdčaːkkaːrseːmɔːlætɔ̂ːŋmiːcettạdsinkɔʔdạîsæːdŋgʰwaːmćʰǜːnćʰm
 # text_en = Isner, who produced some of his best tennis as he leveled at one set all and forced a decider, also paid his tribute.
 1	อิสเนอร์	อิสเนอร์	PROPN	NNP	_	16	nsubj	_	SpaceAfter=No|Translit='isnœːr|LTranslit='isnœːr
-2	ซึ่ง	ซึ่ง	DET	WDT	_	3	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+2	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	3	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 3	ตี	ตี	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=tiː|LTranslit=tiː
 4	เทนนิส	เทนนิส	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=dʰeːnnis|LTranslit=dʰeːnnis
 5	ได้	ได้	AUX	MD	_	3	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -9884,7 +9884,7 @@
 12	1	1	NUM	CD	_	11	nummod	_	Translit=1|LTranslit=1
 13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 14	โลก	โลก	NOUN	NN	_	11	nmod:poss	_	SpaceAfter=No|Translit=loːk|LTranslit=loːk
-15	ซึ่ง	ซึ่ง	DET	WDT	_	17	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+15	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	17	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 16	เป็น	เป็น	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 17	ความสำเร็จ	ความสำเร็จ	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=gʰwaːmsãːreč|LTranslit=gʰwaːmsãːreč
 18	ที่	ที่	DET	WDT	PronType=Rel	19	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -10453,7 +10453,7 @@
 3	ได้	ได้	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 4	รางวัล	รางวัล	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=raːŋwạl|LTranslit=raːŋwạl
 5	นี้	นี้	DET	DT	PronType=Dem	4	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
-6	ซึ่ง	ซึ่ง	DET	WDT	_	7	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+6	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	7	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 7	ออกแบบ	ออกแบบ	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit='ɔːkbæːb|LTranslit='ɔːkbæːb
 8	โดย	โดย	ADP	IN	_	9	case	_	Translit=doːy|LTranslit=doːy
 9	ฮวน	ฮวน	PROPN	NNP	_	7	obl	_	Translit=ḥwn|LTranslit=ḥwn
@@ -10672,7 +10672,7 @@
 7	5	5	NUM	CD	_	6	nummod	_	Translit=5|LTranslit=5
 8	ก่อน	ก่อน	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
 9	คริสตศักราช	คริสตศักราช	NOUN	NN	_	5	nmod	_	Translit=gʰristśạkraːćʰ|LTranslit=gʰristśạkraːćʰ
-10	ซึ่ง	ซึ่ง	DET	WDT	_	11	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+10	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	11	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 11	อาศัย	อาศัย	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit='aːśạy|LTranslit='aːśạy
 12	การนำ	การนำ	VERB	VV	_	11	obj	_	SpaceAfter=No|Translit=kaːrnãː|LTranslit=kaːrnãː
 13	เข้า	เข้า	PART	RP	_	12	compound:prt	_	SpaceAfter=No|Translit=kʰaôː|LTranslit=kʰaôː
@@ -10909,7 +10909,7 @@
 7	ประมุข	ประมุข	NOUN	NN	_	3	xcomp	_	SpaceAfter=No|Translit=pramukʰ|LTranslit=pramukʰ
 8	ของ	ของ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 9	รัฐบาล	รัฐบาล	NOUN	NN	_	7	nmod:poss	_	SpaceAfter=No|Translit=rạṭʰbaːl|LTranslit=rạṭʰbaːl
-10	ซึ่ง	ซึ่ง	DET	WDT	_	12	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+10	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 11	เป็น	เป็น	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 12	ประธาน	ประธาน	NOUN	NN	_	7	acl:relcl	_	SpaceAfter=No|Translit=praḏʰaːn|LTranslit=praḏʰaːn
 13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
@@ -10930,7 +10930,7 @@
 4	หน่วย	หน่วย	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=hnə̀wy|LTranslit=hnə̀wy
 5	ปฏิบัติการ	ปฏิบัติการ	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=pṭibạtikaːr|LTranslit=pṭibạtikaːr
 6	พิเศษ	พิเศษ	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=bʰiśeːš|LTranslit=bʰiśeːš
-7	ซึ่ง	ซึ่ง	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+7	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 8	ดำเนิน	ดำเนิน	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|Translit=dãːnein|LTranslit=dãːnein
 9	การลาดตระเวน	การลาดตระเวน	VERB	VV	_	8	obj	_	SpaceAfter=No|Translit=kaːrlaːdtraweːn|LTranslit=kaːrlaːdtraweːn
 10	และ	และ	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -11048,7 +11048,7 @@
 6	ผ่าน	ผ่าน	VERB	VV	_	5	acl	_	SpaceAfter=No|Translit=pʰàːn|LTranslit=pʰàːn
 7	ตาม	ตาม	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
 8	ฤดูกาล	ฤดูกาล	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit=ṟduːkaːl|LTranslit=ṟduːkaːl
-9	ซึ่ง	ซึ่ง	DET	WDT	_	11	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+9	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	11	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 10	พัด	พัด	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=bʰạd|LTranslit=bʰạd
 11	อยู่	อยู่	VERB	AS	Aspect=Prog	3	acl:relcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 12	เป็น	เป็น	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -11211,7 +11211,7 @@
 21	พระนัดดา	พระนัดดา	NOUN	NN	_	18	acl:relcl	_	SpaceAfter=No|Translit=bʰranạddaː|LTranslit=bʰranạddaː
 22	ขึ้น	ขึ้น	PART	RP	_	17	compound:prt	_	SpaceAfter=No|Translit=kʰü̂n|LTranslit=kʰü̂n
 23	แทน	แทน	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=dʰæːn|LTranslit=dʰæːn
-24	ซึ่ง	ซึ่ง	DET	WDT	_	27	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+24	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	27	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 25	ต่อมา	ต่อมา	ADV	RB	_	27	advmod	_	SpaceAfter=No|Translit=tɔ̀ːmaː|LTranslit=tɔ̀ːmaː
 26	เป็น	เป็น	AUX	VC	_	27	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 27	นัก	นัก	NOUN	NN	_	18	acl:relcl	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
@@ -11298,7 +11298,7 @@
 11	แยก	แยก	VERB	VV	_	10	acl	_	SpaceAfter=No|Translit=yæːk|LTranslit=yæːk
 12	ออก	ออก	PART	RP	_	11	compound:prt	_	SpaceAfter=No|Translit='ɔːk|LTranslit='ɔːk
 13	ไป	ไป	PART	RP	_	11	compound:prt	_	Translit=pại|LTranslit=pại
-14	ซึ่ง	ซึ่ง	DET	WDT	_	15	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+14	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	15	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 15	เรียก	เรียก	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|Translit=riaːk|LTranslit=riaːk
 16	ว่า	ว่า	VERB	VV	_	15	acl	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 17	เมอันเกียลี	เมอันเกียลี	PROPN	NNP	_	16	obj	_	SpaceAfter=No|Translit=meː'ạnkiaːliː|LTranslit=meː'ạnkiaːliː
@@ -11339,7 +11339,7 @@
 23	ถิ่น	ถิ่น	NOUN	NN	_	22	compound	_	SpaceAfter=No|Translit=tʰìn|LTranslit=tʰìn
 24	ซามิ	ซามิ	PROPN	NNP	_	22	compound	_	SpaceAfter=No|Translit=caːmi|LTranslit=caːmi
 25	ใต้	ใต้	NOUN	NN	_	22	compound	_	Proper=True|SpaceAfter=No|Translit=taî|LTranslit=taî
-26	ซึ่ง	ซึ่ง	DET	WDT	_	27	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+26	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	27	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 27	มี	มี	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 28	ประวัติศาสตร์	ประวัติศาสตร์	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=prawạtiśaːstr|LTranslit=prawạtiśaːstr
 29	ภาษา	ภาษา	NOUN	NN	_	28	compound	_	SpaceAfter=No|Translit=ḇʰaːšaː|LTranslit=ḇʰaːšaː
@@ -11474,7 +11474,7 @@
 18	ที่สุด	ที่สุด	ADV	RB	_	17	advmod	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
 19	ใน	ใน	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 20	แอฟริกา	แอฟริกา	PROPN	NNP	_	17	obl	_	Translit='æːfrikaː|LTranslit='æːfrikaː
-21	ซึ่ง	ซึ่ง	DET	WDT	_	22	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+21	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	22	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 22	ก่อ	ก่อ	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|Translit=kɔ̀ː|LTranslit=kɔ̀ː
 23	ตัว	ตัว	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
 24	ขึ้น	ขึ้น	PART	RP	_	22	compound:prt	_	SpaceAfter=No|Translit=kʰü̂n|LTranslit=kʰü̂n
@@ -12100,7 +12100,7 @@
 8	มหาชน	มหาชน	NOUN	NN	_	5	obl:poss	_	SpaceAfter=No|Translit=mhaːćʰn|LTranslit=mhaːćʰn
 9	ชาว	ชาว	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
 10	เดนมาร์ก	เดนมาร์ก	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit=deːnmaːrk|LTranslit=deːnmaːrk
-11	ซึ่ง	ซึ่ง	DET	WDT	_	12	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+11	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 12	คิด	คิด	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=gʰid|LTranslit=gʰid
 13	ว่า	ว่า	ADP	IN	_	16	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 14	เดนนีเวิร์ก	เดนนีเวิร์ก	PROPN	NNP	_	16	nsubj	_	SpaceAfter=No|Translit=deːnniːweirk|LTranslit=deːnniːweirk
@@ -12276,7 +12276,7 @@
 6	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 7	แม่น้ำ	แม่น้ำ	NOUN	NN	_	6	xcomp	_	Proper=True|SpaceAfter=No|Translit=mæ̀ːnã̂ː|LTranslit=mæ̀ːnã̂ː
 8	โอไฮโอ	โอไฮโอ	PROPN	NNP	_	7	flat:name	_	Translit='oːḥại'oː|LTranslit='oːḥại'oː
-9	ซึ่ง	ซึ่ง	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+9	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 10	ไหล	ไหล	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=hạil|LTranslit=hạil
 11	ลง	ลง	PART	RP	_	10	compound:prt	_	SpaceAfter=No|Translit=lŋ|LTranslit=lŋ
 12	สู่	สู่	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=sùː|LTranslit=sùː
@@ -12596,7 +12596,7 @@
 4	เรียก	เรียก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=riaːk|LTranslit=riaːk
 5	ว่า	ว่า	VERB	VV	_	4	acl	_	Translit=wàː|LTranslit=wàː
 6	volcanology	volcanology	NOUN	NN	_	5	obj	_	Translit=volcanology|LTranslit=volcanology
-7	ซึ่ง	ซึ่ง	DET	WDT	_	10	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+7	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	10	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 8	บาง	บาง	DET	DT	_	9	det	_	SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
 9	ครั้ง	ครั้ง	NOUN	NNB	_	10	obl	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
 10	สะกด	สะกด	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=sakd|LTranslit=sakd
@@ -12684,7 +12684,7 @@
 4	จืด	จืด	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=čüːd|LTranslit=čüːd
 5	ขนาด	ขนาด	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=kʰnaːd|LTranslit=kʰnaːd
 6	จิ๋ว	จิ๋ว	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=čǐw|LTranslit=čǐw
-7	ซึ่ง	ซึ่ง	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+7	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 8	แห้ง	แห้ง	ADJ	JJ	_	2	acl:relcl	_	SpaceAfter=No|Translit=hæ̂ːŋ|LTranslit=hæ̂ːŋ
 9	หมด	หมด	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=hmd|LTranslit=hmd
 10	แล้ว	แล้ว	AUX	AS	Aspect=Perf	8	aux	_	Translit=læ̂ːw|LTranslit=læ̂ːw
@@ -13238,7 +13238,7 @@
 11	ใน	ใน	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 12	เขต	เขต	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=kʰeːt|LTranslit=kʰeːt
 13	แห้งแล้ง	แห้งแล้ง	ADJ	JJ	_	12	amod	_	SpaceAfter=No|Translit=hæ̂ːŋlæ̂ːŋ|LTranslit=hæ̂ːŋlæ̂ːŋ
-14	ซึ่ง	ซึ่ง	DET	WDT	_	18	obl	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+14	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	18	obl	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 15	พื้น	พื้น	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=bʰü̂ːn|LTranslit=bʰü̂ːn
 16	ดิน	ดิน	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=din|LTranslit=din
 17	ไม่	ไม่	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
@@ -13270,7 +13270,7 @@
 17	ทะเล	ทะเล	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=dʰaleː|LTranslit=dʰaleː
 18	ทราย	ทราย	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=dʰraːy|LTranslit=dʰraːy
 19	เอง	เอง	PRON	PRP	_	17	compound	_	SpaceAfter=No|Translit='eːŋ|LTranslit='eːŋ
-20	ซึ่ง	ซึ่ง	DET	WDT	_	24	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+20	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	24	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 21	อณู	อณู	NOUN	NN	_	24	nsubj:pass	_	SpaceAfter=No|Translit='ṇuː|LTranslit='ṇuː
 22	ละเอียด	ละเอียด	ADJ	JJ	_	21	amod	_	SpaceAfter=No|Translit=la'iaːd|LTranslit=la'iaːd
 23	ถูก	ถูก	AUX	MD	Voice=Pass	24	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
@@ -13499,7 +13499,7 @@
 7	จาก	จาก	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 8	ชาว	ชาว	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
 9	คาริบ	คาริบ	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit=gʰaːrib|LTranslit=gʰaːrib
-10	ซึ่ง	ซึ่ง	DET	WDT	_	12	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+10	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 11	เป็น	เป็น	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 12	หนึ่ง	หนึ่ง	NUM	CD	_	8	acl:relcl	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 13	ใน	ใน	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -13731,7 +13731,7 @@
 5	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 6	นคร	นคร	NOUN	NN	_	5	xcomp	_	Proper=True|SpaceAfter=No|Translit=ngʰr|LTranslit=ngʰr
 7	เคปทาวน์	เคปทาวน์	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|Translit=gʰeːpdʰaːwn|LTranslit=gʰeːpdʰaːwn
-8	ซึ่ง	ซึ่ง	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+8	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 9	เป็น	เป็น	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 10	เทศบาล	เทศบาล	NOUN	NN	_	6	acl:relcl	_	SpaceAfter=No|Translit=dʰeːśbaːl|LTranslit=dʰeːśbaːl
 11	นคร	นคร	NOUN	NN	_	10	compound	_	Translit=ngʰr|LTranslit=ngʰr
@@ -13780,7 +13780,7 @@
 11	รัฐ	รัฐ	NOUN	NN	_	8	nmod:poss	_	SpaceAfter=No|Translit=rạṭʰ|LTranslit=rạṭʰ
 12	หลาย	หลาย	DET	DT	PronType=Ind	13	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
 13	คน	คน	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-14	ซึ่ง	ซึ่ง	DET	WDT	_	15	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+14	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	15	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 15	ให้	ให้	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 16	ข้อมูล	ข้อมูล	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=kʰɔ̂ːmuːl|LTranslit=kʰɔ̂ːmuːl
 17	ลับ	ลับ	ADJ	JJ	_	16	amod	_	SpaceAfter=No|Translit=lạb|LTranslit=lạb
@@ -13940,7 +13940,7 @@
 3	ชาติ	ชาติ	NOUN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=ćʰaːti|LTranslit=ćʰaːti
 4	ของ	ของ	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 5	ออสเตรเลีย	ออสเตรเลีย	PROPN	NNP	_	1	nmod:poss	_	SpaceAfter=No|Translit='ɔːsteːrliaː|LTranslit='ɔːsteːrliaː
-6	ซึ่ง	ซึ่ง	DET	WDT	_	7	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+6	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	7	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 7	ก่อตั้ง	ก่อตั้ง	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=kɔ̀ːtậŋ|LTranslit=kɔ̀ːtậŋ
 8	ขึ้น	ขึ้น	PART	RP	_	7	compound:prt	_	SpaceAfter=No|Translit=kʰü̂n|LTranslit=kʰü̂n
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -14192,7 +14192,7 @@
 # text_en = Ramesses, logistically unable to sustain a long siege, returned to Egypt.
 1	พระเจ้า	พระเจ้า	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=bʰračaôː|LTranslit=bʰračaôː
 2	แรเมซีส	แรเมซีส	PROPN	NNP	_	1	appos	_	SpaceAfter=No|Translit=ræːmeːciːs|LTranslit=ræːmeːciːs
-3	ซึ่ง	ซึ่ง	DET	WDT	_	5	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+3	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 4	ไม่	ไม่	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 5	สามารถ	สามารถ	VERB	MD	_	1	acl:relcl	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
 6	ล้อม	ล้อม	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=lɔ̂ːm|LTranslit=lɔ̂ːm
@@ -14230,7 +14230,7 @@
 15	ไป	ไป	PART	RP	_	13	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 16	ใน	ใน	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 17	ตูนิป	ตูนิป	PROPN	NNP	_	10	nmod	_	Translit=tuːnip|LTranslit=tuːnip
-18	ซึ่ง	ซึ่ง	DET	WDT	_	20	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+18	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	20	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 19	ไม่	ไม่	PART	NEG	Polarity=Neg	20	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 20	พบ	พบ	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=bʰb|LTranslit=bʰb
 21	เห็น	เห็น	VERB	VV	_	20	acl	_	SpaceAfter=No|Translit=hen|LTranslit=hen
@@ -14765,7 +14765,7 @@
 10	อิตาลี	อิตาลี	PROPN	NNP	_	2	obl	_	SpaceAfter=No|Translit='itaːliː|LTranslit='itaːliː
 11	ตอน	ตอน	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
 12	ใต้	ใต้	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=taî|LTranslit=taî
-13	ซึ่ง	ซึ่ง	DET	WDT	_	19	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+13	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	19	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 14	วิชา	วิชา	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=wićʰaː|LTranslit=wićʰaː
 15	การ	การ	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=kaːr|LTranslit=kaːr
 16	แพทย์	แพทย์	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=bʰæːdʰy|LTranslit=bʰæːdʰy
@@ -15239,7 +15239,7 @@
 6	สิบ	สิบ	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
 7	ห้า	ห้า	NUM	CD	_	8	nummod	_	SpaceAfter=No|Translit=hâː|LTranslit=hâː
 8	ปี	ปี	NOUN	NNB	_	3	clf	_	Translit=piː|LTranslit=piː
-9	ซึ่ง	ซึ่ง	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+9	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 10	พบ	พบ	VERB	VV	_	2	advcl	_	SpaceAfter=No|Translit=bʰb|LTranslit=bʰb
 11	หลักฐาน	หลักฐาน	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=hlạkṭʰaːn|LTranslit=hlạkṭʰaːn
 12	จาก	จาก	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
@@ -15700,7 +15700,7 @@
 10	หน่วย	หน่วย	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=hnə̀wy|LTranslit=hnə̀wy
 11	งาน	งาน	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
 12	ใหม่	ใหม่	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=haimə̀|LTranslit=haimə̀
-13	ซึ่ง	ซึ่ง	DET	WDT	_	14	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+13	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	14	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 14	อยู่	อยู่	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 15	ได้	ได้	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 16	เพียง	เพียง	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
@@ -15770,7 +15770,7 @@
 22	ทะเล	ทะเล	NOUN	NN	_	16	obl	_	Proper=True|SpaceAfter=No|Translit=dʰaleː|LTranslit=dʰaleː
 23	ใต้	ใต้	NOUN	NN	_	22	flat:name	_	Proper=True|Translit=taî|LTranslit=taî
 24	(	(	PUNCT	(	_	28	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-25	ซึ่ง	ซึ่ง	DET	WDT	_	28	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+25	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	28	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 26	ทริกซ์	ทริกซ์	PROPN	NNP	_	28	nsubj	_	SpaceAfter=No|Translit=dʰrikc|LTranslit=dʰrikc
 27	ได้	ได้	AUX	AS	Aspect=Perf	28	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 28	กลับ	กลับ	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|Translit=klạb|LTranslit=klạb
@@ -15854,7 +15854,7 @@
 # translit = činpʰiŋheːmy cǜŋtiːbʰimbʰnaipiː 1610 mæ̂ːčapʰnwkrüàːŋkaòː. tæ̀ːkɔʔsrâːŋnæːwnôːmpạinaidʰiśdʰaːŋkʰɔːŋkaːrprabʰạnḏʰ'isralægʰwaːmkiàːwkʰɔ̂ːŋkạbčitwidʰyaː
 # text_en = Jin Ping Mei, published in 1610, although incorporating earlier material, marks the trend toward independent composition and concern with psychology.
 1	จินผิงเหมย	จินผิงเหมย	PROPN	NNP	_	15	nsubj	_	Translit=činpʰiŋheːmy|LTranslit=činpʰiŋheːmy
-2	ซึ่ง	ซึ่ง	DET	WDT	_	3	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+2	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	3	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 3	ตีพิมพ์	ตีพิมพ์	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=tiːbʰimbʰ|LTranslit=tiːbʰimbʰ
 4	ใน	ใน	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 5	ปี	ปี	NOUN	NN	_	3	obl	_	Translit=piː|LTranslit=piː
@@ -16087,7 +16087,7 @@
 10	สาเหตุ	สาเหตุ	NOUN	NN	_	2	ccomp	_	SpaceAfter=No|Translit=saːheːtu|LTranslit=saːheːtu
 11	ของ	ของ	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 12	ความเดือดร้อน	ความเดือดร้อน	VERB	VV	_	10	nmod:poss	_	SpaceAfter=No|Translit=gʰwaːmdüaːdrɔ̂ːn|LTranslit=gʰwaːmdüaːdrɔ̂ːn
-13	ซึ่ง	ซึ่ง	DET	WDT	_	14	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+13	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	14	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 14	กระตุ้น	กระตุ้น	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=kratûn|LTranslit=kratûn
 15	ให้	ให้	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 16	เกิด	เกิด	VERB	VV	_	15	xcomp	_	SpaceAfter=No|Translit=keid|LTranslit=keid
@@ -16953,7 +16953,7 @@
 1	กล้วย	กล้วย	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=klə̂wy|LTranslit=klə̂wy
 2	และ	และ	CCONJ	CC	_	3	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 3	กล้าย	กล้าย	NOUN	NN	_	1	conj	_	SpaceAfter=No|Translit=klâːy|LTranslit=klâːy
-4	ซึ่ง	ซึ่ง	DET	WDT	_	5	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+4	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	5	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 5	นำ	นำ	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=nãː|LTranslit=nãː
 6	มา	มา	PART	RP	_	5	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 7	ปลูก	ปลูก	VERB	VV	_	5	acl	_	SpaceAfter=No|Translit=pluːk|LTranslit=pluːk
@@ -16961,7 +16961,7 @@
 9	แรก	แรก	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=ræːk|LTranslit=ræːk
 10	ใน	ใน	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 11	เอเชียตะวันออกเฉียงใต้	เอเชียตะวันออกเฉียงใต้	PROPN	NNP	_	7	obl	_	SpaceAfter=No|Translit='eːćʰiaːtawạnɔː'kčʰiaːŋtaî|LTranslit='eːćʰiaːtawạnɔː'kčʰiaːŋtaî
-12	ซึ่ง	ซึ่ง	DET	WDT	_	13	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+12	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	13	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 13	น่า	น่า	VERB	MD	_	11	acl:relcl	_	SpaceAfter=No|Translit=nàː|LTranslit=nàː
 14	จะ	จะ	AUX	MD	_	13	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 15	เป็น	เป็น	AUX	VC	_	16	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -17111,7 +17111,7 @@
 # text_en = The success American Motors' compact-sized Rambler models spurred GM and Ford to introduce their own downsized cars in 1960.
 1	โมเดล	โมเดล	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=moːdeːl|LTranslit=moːdeːl
 2	แรมเบลอร์	แรมเบลอร์	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit=ræːmbeːlɔːr|LTranslit=ræːmbeːlɔːr
-3	ซึ่ง	ซึ่ง	DET	WDT	_	5	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+3	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 4	เป็น	เป็น	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 5	รถยนต์	รถยนต์	NOUN	NN	_	1	acl:relcl	_	SpaceAfter=No|Translit=rtʰynt|LTranslit=rtʰynt
 6	อเมริกัน	อเมริกัน	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit='meːrikạn|LTranslit='meːrikạn
@@ -17322,7 +17322,7 @@
 11	10	10	NUM	CD	_	12	nummod	_	Translit=10|LTranslit=10
 12	ล้าน	ล้าน	NUM	CD	_	9	obl	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
 13	คน	คน	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-14	ซึ่ง	ซึ่ง	DET	WDT	_	18	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+14	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	18	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 15	ส่วน	ส่วน	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 16	ใหญ่	ใหญ่	ADJ	JJ	_	15	amod	_	SpaceAfter=No|Translit=haiŷə̀|LTranslit=haiŷə̀
 17	เป็น	เป็น	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -17454,7 +17454,7 @@
 23	เป็น	เป็น	AUX	VC	_	24	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 24	กอง	กอง	NOUN	NN	_	21	acl:relcl	_	SpaceAfter=No|Translit=kɔːŋ|LTranslit=kɔːŋ
 25	กำลัง	กำลัง	NOUN	NN	_	24	compound	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
-26	ซึ่ง	ซึ่ง	DET	WDT	_	27	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+26	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	27	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 27	ประสบ	ประสบ	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=prasb|LTranslit=prasb
 28	ผล	ผล	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=pʰl|LTranslit=pʰl
 29	สำเร็จ	สำเร็จ	VERB	VV	_	28	acl	_	SpaceAfter=No|Translit=sãːreč|LTranslit=sãːreč
@@ -17961,7 +17961,7 @@
 # text_en = The radar system for which Alvarez is best known and which has played a major role in aviation, most particularly in the post war Berlin airlift, was Ground Controlled Approach (GCA).
 1	ระบบ	ระบบ	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=rabb|LTranslit=rabb
 2	เรดาร์	เรดาร์	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=reːdaːr|LTranslit=reːdaːr
-3	ซึ่ง	ซึ่ง	DET	WDT	_	6	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+3	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	6	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 4	อัลวาเรซ	อัลวาเรซ	PROPN	NNP	_	6	obj	_	SpaceAfter=No|Translit='ạlwaːreːc|LTranslit='ạlwaːreːc
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 6	ที่	ที่	PRON	PRP	_	1	acl:relcl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -18489,7 +18489,7 @@
 4	เกียรติยศ	เกียรติยศ	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=kiaːrtiyś|LTranslit=kiaːrtiyś
 5	อีก	อีก	DET	DT	_	6	det	_	SpaceAfter=No|Translit='iːk|LTranslit='iːk
 6	รางวัล	รางวัล	NOUN	NNB	_	3	clf	_	Translit=raːŋwạl|LTranslit=raːŋwạl
-7	ซึ่ง	ซึ่ง	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+7	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 8	ประกอบ	ประกอบ	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|Translit=prakɔːb|LTranslit=prakɔːb
 9	ด้วย	ด้วย	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 10	ตุ๊กตา	ตุ๊กตา	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=túktaː|LTranslit=túktaː
@@ -18686,7 +18686,7 @@
 5	ใน	ใน	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 6	มหาวิทยาลัย	มหาวิทยาลัย	NOUN	NN	_	4	obl	_	Proper=True|SpaceAfter=No|Translit=mhaːwidʰyaːlạy|LTranslit=mhaːwidʰyaːlạy
 7	เอดินบะระ	เอดินบะระ	PROPN	NNP	_	6	flat:name	_	Translit='eːdinbara|LTranslit='eːdinbara
-8	ซึ่ง	ซึ่ง	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+8	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 9	เป็น	เป็น	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 10	สถานที่	สถานที่	NOUN	NN	_	6	acl:relcl	_	SpaceAfter=No|Translit=stʰaːndʰìː|LTranslit=stʰaːndʰìː
 11	ที่	ที่	DET	WDT	PronType=Rel	13	advmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -18968,7 +18968,7 @@
 16	แรก	แรก	ADJ	JJ	_	15	amod	_	SpaceAfter=No|Translit=ræːk|LTranslit=ræːk
 17	ของ	ของ	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 18	ดิสนีย์	ดิสนีย์	PROPN	NNP	_	8	nmod:poss	_	SpaceAfter=No|Translit=disniːy|LTranslit=disniːy
-19	ซึ่ง	ซึ่ง	DET	WDT	_	20	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+19	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	20	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 20	ตรงข้าม	ตรงข้าม	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=trŋkʰâːm|LTranslit=trŋkʰâːm
 21	กับ	กับ	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 22	ความเป็น	เป็น	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit=gʰwaːmpen|LTranslit=pen
@@ -19252,7 +19252,7 @@
 11	ให้	ให้	VERB	VV	_	9	acl	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 12	พวก	พวก	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 13	ทอรี่	ทอรี่	PROPN	NNP	_	12	compound	_	SpaceAfter=No|Translit=dʰɔːrìː|LTranslit=dʰɔːrìː
-14	ซึ่ง	ซึ่ง	DET	WDT	_	15	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+14	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	15	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 15	นำ	นำ	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=nãː|LTranslit=nãː
 16	โดย	โดย	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 17	ลอร์ด	ลอร์ด	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=lɔːrd|LTranslit=lɔːrd
@@ -19615,7 +19615,7 @@
 12	ชาย	ชาย	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=ćʰaːy|LTranslit=ćʰaːy
 13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 14	ราฟเฟอร์ตี้	ราฟเฟอร์ตี้	PROPN	NNP	_	11	nmod:poss	_	Translit=raːffœːrtîː|LTranslit=raːffœːrtîː
-15	ซึ่ง	ซึ่ง	DET	WDT	_	17	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+15	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	17	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 16	เป็น	เป็น	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 17	นัก	นัก	NOUN	NN	_	10	acl:relcl	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 18	ร้อง	ร้อง	VERB	VV	_	17	acl	_	SpaceAfter=No|Translit=rɔ̂ːŋ|LTranslit=rɔ̂ːŋ
@@ -19681,7 +19681,7 @@
 9	กับ	กับ	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 10	ฮิวจ์	ฮิวจ์	PROPN	NNP	_	8	obl	_	Translit=ḥiwč|LTranslit=ḥiwč
 11	เมอร์ฟี	เมอร์ฟี	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No|Translit=mœːrfiː|LTranslit=mœːrfiː
-12	ซึ่ง	ซึ่ง	DET	WDT	_	13	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+12	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	13	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 13	เสียชีวิต	เสียชีวิต	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=siaːćʰiːwit|LTranslit=siaːćʰiːwit
 14	ใน	ใน	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 15	ปี	ปี	NOUN	NN	_	13	obl	_	Translit=piː|LTranslit=piː
@@ -20023,7 +20023,7 @@
 14	ใน	ใน	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 15	ปี	ปี	NOUN	NN	_	5	nmod	_	Translit=piː|LTranslit=piː
 16	2011	2011	NUM	CD	_	15	appos	_	Translit=2011|LTranslit=2011
-17	ซึ่ง	ซึ่ง	DET	WDT	_	18	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+17	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	18	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 18	กำกับ	กำกับ	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=kãːkạb|LTranslit=kãːkạb
 19	โดย	โดย	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 20	ลาสเซอ	ลาสเซอ	PROPN	NNP	_	18	obl	_	Translit=laːscœː|LTranslit=laːscœː
@@ -20117,7 +20117,7 @@
 11	วิทยาศาสตร์	วิทยาศาสตร์	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=widʰyaːśaːstr|LTranslit=widʰyaːśaːstr
 12	เรื่อง	เรื่อง	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
 13	ลูปเปอร์	ลูปเปอร์	PROPN	NNP	_	8	appos	_	Translit=luːppœːr|LTranslit=luːppœːr
-14	ซึ่ง	ซึ่ง	DET	WDT	_	15	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+14	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	15	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 15	กำกับ	กำกับ	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=kãːkạb|LTranslit=kãːkạb
 16	โดย	โดย	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 17	ไรอัน	ไรอัน	PROPN	NNP	_	15	obl	_	Translit=rại'ạn|LTranslit=rại'ạn
@@ -20930,7 +20930,7 @@
 19	เน้น	เน้น	VERB	VV	_	2	conj	_	SpaceAfter=No|Translit=nêːn|LTranslit=nêːn
 20	ถึง	ถึง	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 21	มนุษยธรรม	มนุษยธรรม	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=mnušyḏʰrrm|LTranslit=mnušyḏʰrrm
-22	ซึ่ง	ซึ่ง	DET	WDT	_	24	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+22	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	24	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 23	มี	มี	VERB	VV	_	24	xcomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 24	อยู่	อยู่	VERB	AS	Aspect=Prog	21	acl:relcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 25	เป็น	เป็น	AUX	VC	_	26	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -21129,7 +21129,7 @@
 6	หนึ่ง	หนึ่ง	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 7	ชื่อ	ชื่อ	NOUN	NN	_	2	xcomp	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 8	ออสการ์	ออสการ์	PROPN	NNP	_	7	compound	_	SpaceAfter=No|Translit='ɔːskaːr|LTranslit='ɔːskaːr
-9	ซึ่ง	ซึ่ง	DET	WDT	_	11	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+9	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	11	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 10	เป็น	เป็น	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 11	ศิลปิน	ศิลปิน	NOUN	NN	_	8	acl:relcl	_	SpaceAfter=No|Translit=śilpin|LTranslit=śilpin
 12	การ์ตูน	การ์ตูน	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=kaːrtuːn|LTranslit=kaːrtuːn
@@ -22346,7 +22346,7 @@
 14	ทั้ง	ทั้ง	DET	DT	_	16	det	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 15	สอง	สอง	NUM	CD	_	16	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
 16	ฝ่าย	ฝ่าย	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=fʰàːy|LTranslit=fʰàːy
-17	ซึ่ง	ซึ่ง	DET	WDT	_	19	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+17	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	19	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 18	เป็น	เป็น	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 19	ศัตรู	ศัตรู	NOUN	NN	_	12	acl:relcl	_	SpaceAfter=No|Translit=śạtruː|LTranslit=śạtruː
 20	กัน	กัน	PRON	PRP	_	19	obl	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
@@ -22919,7 +22919,7 @@
 7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 8	พรรค	พรรค	NOUN	NN	_	4	obl:poss	_	Proper=True|SpaceAfter=No|Translit=bʰrrgʰ|LTranslit=bʰrrgʰ
 9	รีพับลิกัน	รีพับลิกัน	PROPN	NNP	_	8	flat:name	_	Translit=riːbʰạblikạn|LTranslit=riːbʰạblikạn
-10	ซึ่ง	ซึ่ง	DET	WDT	_	13	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+10	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	13	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 11	ราชิดา	ราชิดา	PROPN	NNP	_	13	nsubj	_	Translit=raːćʰidaː|LTranslit=raːćʰidaː
 12	ดาติ	ดาติ	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No|Translit=daːti|LTranslit=daːti
 13	สนับสนุน	สนับสนุน	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|Translit=snạbsnun|LTranslit=snạbsnun
@@ -23131,7 +23131,7 @@
 3	สอง	สอง	NUM	CD	_	1	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
 4	ยื่น	ยื่น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǜːn|LTranslit=yǜːn
 5	อุทธรณ์	อุทธรณ์	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit='udʰḏʰrṇ|LTranslit='udʰḏʰrṇ
-6	ซึ่ง	ซึ่ง	DET	WDT	_	12	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+6	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	12	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 7	ศาล	ศาล	NOUN	NN	_	12	nsubj	_	Proper=True|SpaceAfter=No|Translit=śaːl|LTranslit=śaːl
 8	ยุติธรรม	ยุติธรรม	NOUN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No|Translit=yutiḏʰrrm|LTranslit=yutiḏʰrrm
 9	สูง	สูง	ADJ	JJ	_	7	amod	_	Proper=True|SpaceAfter=No|Translit=suːŋ|LTranslit=suːŋ
@@ -23257,7 +23257,7 @@
 1	สภา	สภา	NOUN	NN	_	21	nsubj	_	Proper=True|SpaceAfter=No|Translit=sḇʰaː|LTranslit=sḇʰaː
 2	ดิจิทัล	ดิจิทัล	ADJ	JJ	_	1	amod	_	Proper=True|SpaceAfter=No|Translit=dičidʰạl|LTranslit=dičidʰạl
 3	ฝรั่งเศส	ฝรั่งเศส	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No|Translit=fʰrạ̀ŋśeːs|LTranslit=fʰrạ̀ŋśeːs
-4	ซึ่ง	ซึ่ง	DET	WDT	_	5	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+4	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 5	ให้	ให้	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 6	คำ	คำ	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=gʰãː|LTranslit=gʰãː
 7	แนะนำ	แนะนำ	VERB	VV	_	6	acl	_	SpaceAfter=No|Translit=nænãː|LTranslit=nænãː
@@ -23638,7 +23638,7 @@
 4	สูง	สูง	ADJ	JJ	_	1	acl:relcl	_	SpaceAfter=No|Translit=suːŋ|LTranslit=suːŋ
 5	กว่า	กว่า	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 6	มาก	มาก	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
-7	ซึ่ง	ซึ่ง	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+7	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 8	เกิน	เกิน	ADJ	JJ	_	1	acl:relcl	_	SpaceAfter=No|Translit=kein|LTranslit=kein
 9	ค่า	ค่า	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=gʰàː|LTranslit=gʰàː
 10	เฉลี่ย	เฉลี่ย	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=čʰeːlìːy|LTranslit=čʰeːlìːy
@@ -23651,7 +23651,7 @@
 17	เดียว	เดียว	ADJ	JJ	_	15	amod	_	SpaceAfter=No|Translit=diaːw|LTranslit=diaːw
 18	กัน	กัน	PRON	PRP	_	17	obl	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 19	อย่างชัดเจน	อย่างชัดเจน	ADJ	JJ	_	8	advmod	_	Translit='yàːŋćʰạdčeːn|LTranslit='yàːŋćʰạdčeːn
-20	ซึ่ง	ซึ่ง	DET	WDT	_	21	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+20	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	21	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 21	เท่า	เท่า	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|Translit=dʰaòː|LTranslit=dʰaòː
 22	กับ	กับ	ADP	IN	_	24	case	_	Translit=kạb|LTranslit=kạb
 23	1.365	1.365	NUM	CD	_	24	nummod	_	Translit=1.365|LTranslit=1.365
@@ -24618,7 +24618,7 @@
 6	การกระทำ	การกระทำ	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=kaːrkradʰãː|LTranslit=kaːrkradʰãː
 7	อื่น	อื่น	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit='ǜːn|LTranslit='ǜːn
 8	ๆ	ๆ	SYM	SYM	_	7	dep	_	Translit=.|LTranslit=.
-9	ซึ่ง	ซึ่ง	DET	WDT	_	11	obj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+9	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	11	obj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 10	ได้	ได้	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 11	วางแผน	วางแผน	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|Translit=waːŋpʰæːn|LTranslit=waːŋpʰæːn
 12	ไว้	ไว้	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=wạî|LTranslit=wạî
@@ -24770,7 +24770,7 @@
 8	หุ่น	หุ่น	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=hùn|LTranslit=hùn
 9	กระบอก	กระบอก	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=krabɔːk|LTranslit=krabɔːk
 10	เก่า	เก่า	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=kaòː|LTranslit=kaòː
-11	ซึ่ง	ซึ่ง	DET	WDT	_	14	nsubj:pass	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+11	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	14	nsubj:pass	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 12	ได้	ได้	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 13	ถูก	ถูก	AUX	MD	Voice=Pass	14	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 14	ทิ้ง	ทิ้ง	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|Translit=dʰîŋ|LTranslit=dʰîŋ
@@ -24951,7 +24951,7 @@
 2	สาธารณะ	สาธารณะ	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=saːḏʰaːrṇa|LTranslit=saːḏʰaːrṇa
 3	โกลเด้น	โกลเด้น	ADJ	JJ	_	4	amod	_	Proper=True|SpaceAfter=No|Translit=koːldêːn|LTranslit=koːldêːn
 4	เกต	เกต	NOUN	NN	_	1	compound	_	Proper=True|SpaceAfter=No|Translit=keːt|LTranslit=keːt
-5	ซึ่ง	ซึ่ง	DET	WDT	_	6	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+5	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	6	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 6	มี	มี	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 7	ความยาว	ความยาว	ADJ	JJ	_	6	obj	_	SpaceAfter=No|Translit=gʰwaːmyaːw|LTranslit=gʰwaːmyaːw
 8	มาก	มาก	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
@@ -25186,7 +25186,7 @@
 15	ใน	ใน	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 16	เวลา	เวลา	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=weːlaː|LTranslit=weːlaː
 17	นั้น	นั้น	DET	DT	PronType=Dem	16	det	_	Gloss=that|LTranslit=nận|Translit=nận
-18	ซึ่ง	ซึ่ง	DET	WDT	_	19	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+18	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	19	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 19	รู้จัก	รู้จัก	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=rûːčạk|LTranslit=rûːčạk
 20	กัน	กัน	PRON	PRP	_	19	obj	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 21	ใน	ใน	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -25731,7 +25731,7 @@
 24	ใน	ใน	ADP	IN	_	25	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 25	ซึดบาเดิน	ซึดบาเดิน	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=cüdbaːdein|LTranslit=cüdbaːdein
 26	ที่	ที่	NOUN	NN	_	23	appos	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-27	ซึ่ง	ซึ่ง	DET	WDT	_	30	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+27	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	30	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 28	เขา	เขา	PRON	PRP	Person=3	30	nsubj	_	SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 29	ได้	ได้	AUX	AS	Aspect=Perf	30	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 30	อาศัยอยู่	อาศัยอยู่	VERB	VV	_	26	acl:relcl	_	SpaceAfter=No|Translit='aːśạyɔːyùː|LTranslit='aːśạyɔːyùː
@@ -25932,7 +25932,7 @@
 10	บ้าน	บ้าน	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=bâːn|LTranslit=bâːn
 11	เอื้ออาทร	เอื้ออาทร	VERB	VV	_	10	acl	_	SpaceAfter=No|Translit='üâː'aːdʰr|LTranslit='üâː'aːdʰr
 12	ที่	ที่	NOUN	NN	_	10	appos	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
-13	ซึ่ง	ซึ่ง	DET	WDT	_	18	advmod	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+13	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	18	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 14	ประชากร	ประชากร	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=praćʰaːkr|LTranslit=praćʰaːkr
 15	ส่วน	ส่วน	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 16	ใหญ่	ใหญ่	ADJ	JJ	_	15	amod	_	SpaceAfter=No|Translit=haiŷə̀|LTranslit=haiŷə̀
@@ -26371,7 +26371,7 @@
 13	แนว	แนว	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit=næːw|LTranslit=næːw
 14	ทะเล	ทะเล	NOUN	NN	_	13	compound	_	Proper=True|SpaceAfter=No|Translit=dʰaleː|LTranslit=dʰaleː
 15	เมดิเตอร์เรเนียน	เมดิเตอร์เรเนียน	PROPN	NNP	_	13	compound	_	Translit=meːditœːrreːniaːn|LTranslit=meːditœːrreːniaːn
-16	ซึ่ง	ซึ่ง	DET	WDT	_	18	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+16	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	18	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 17	เป็น	เป็น	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 18	กลวิธี	กลวิธี	NOUN	NN	_	5	acl:relcl	_	SpaceAfter=No|Translit=klwiḏʰiː|LTranslit=klwiḏʰiː
 19	ที่	ที่	DET	WDT	PronType=Rel	20	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
@@ -26451,7 +26451,7 @@
 2	เรียน	เรียน	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=riaːn|LTranslit=riaːn
 3	เหล่า	เหล่า	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=heːlàː|LTranslit=heːlàː
 4	นี้	นี้	DET	DT	PronType=Dem	3	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
-5	ซึ่ง	ซึ่ง	DET	WDT	_	7	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+5	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	7	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 6	ได้	ได้	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 7	รับ	รับ	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=rạb|LTranslit=rạb
 8	เงิน	เงิน	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=ŋein|LTranslit=ŋein
@@ -26695,7 +26695,7 @@
 13	เข้า	เข้า	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=kʰaôː|LTranslit=kʰaôː
 14	หา	หา	VERB	VV	_	13	xcomp	_	SpaceAfter=No|Translit=haː|LTranslit=haː
 15	ทะเล	ทะเล	NOUN	NN	_	14	obj	_	Translit=dʰaleː|LTranslit=dʰaleː
-16	ซึ่ง	ซึ่ง	DET	WDT	_	17	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+16	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	17	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 17	แสดง	แสดง	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=sæːdŋ|LTranslit=sæːdŋ
 18	ถึง	ถึง	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 19	ความรัก	ความรัก	VERB	VV	_	17	obl	_	SpaceAfter=No|Translit=gʰwaːmrạk|LTranslit=gʰwaːmrạk
@@ -26849,7 +26849,7 @@
 20	ยัง	ยัง	VERB	AS	Aspect=Prog	22	xcomp	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 21	หลงเหลือ	หลงเหลือ	VERB	VV	_	20	xcomp	_	SpaceAfter=No|Translit=hlŋheːlüː'|LTranslit=hlŋheːlüː'
 22	อยู่	อยู่	VERB	AS	Aspect=Prog	17	acl:relcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
-23	ซึ่ง	ซึ่ง	DET	WDT	_	28	nsubj:pass	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+23	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	28	nsubj:pass	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 24	ภาย	ภาย	NOUN	NN	_	28	obl:tmod	_	SpaceAfter=No|Translit=ḇʰaːy|LTranslit=ḇʰaːy
 25	หลัง	หลัง	ADJ	JJ	_	24	amod	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 26	ได้	ได้	AUX	AS	Aspect=Perf	28	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -27448,7 +27448,7 @@
 17	ระหว่าง	ระหว่าง	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=rahwàːŋ|LTranslit=rahwàːŋ
 18	ทั้ง	ทั้ง	DET	DT	_	19	det	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 19	สอง	สอง	NUM	CD	_	12	obl	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-20	ซึ่ง	ซึ่ง	DET	WDT	_	21	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+20	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	21	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 21	นำ	นำ	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=nãː|LTranslit=nãː
 22	ไป	ไป	PART	RP	_	21	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 23	สู่	สู่	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=sùː|LTranslit=sùː
@@ -27483,7 +27483,7 @@
 19	รูปแบบ	รูปแบบ	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=ruːpbæːb|LTranslit=ruːpbæːb
 20	ใน	ใน	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 21	การเรียบเรียง	การเรียบเรียง	VERB	VV	_	19	nmod	_	SpaceAfter=No|Translit=kaːrriaːbriaːŋ|LTranslit=kaːrriaːbriaːŋ
-22	ซึ่ง	ซึ่ง	DET	WDT	_	25	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+22	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	25	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 23	ต่อมา	ต่อมา	ADV	RB	_	25	advmod	_	SpaceAfter=No|Translit=tɔ̀ːmaː|LTranslit=tɔ̀ːmaː
 24	เป็น	เป็น	AUX	VC	_	25	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 25	รูปแบบ	รูปแบบ	NOUN	NN	_	19	acl:relcl	_	SpaceAfter=No|Translit=ruːpbæːb|LTranslit=ruːpbæːb
@@ -27618,7 +27618,7 @@
 7	‘	‘	PUNCT	``	_	8	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 8	แอนดีสเดติโปอันดิโน	แอนดีสเดติโปอันดิโน	PROPN	NNP	_	6	obj	_	Translit='æːndiːsdeːtipoː'ạndinoː|LTranslit='æːndiːsdeːtipoː'ạndinoː
 9	’	’	PUNCT	''	_	11	punct	_	Translit=’|LTranslit=’
-10	ซึ่ง	ซึ่ง	DET	WDT	_	11	nsubj	_	Translit=cǜŋ|LTranslit=cǜŋ
+10	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	11	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|Translit=cǜŋ
 11	ก่อ	ก่อ	VERB	VV	_	8	acl:relcl	_	Translit=kɔ̀ː|LTranslit=kɔ̀ː
 12	ตัว	ตัว	NOUN	NN	_	11	obj	_	Translit=tuaː|LTranslit=tuaː
 13	จาก	จาก	ADP	IN	_	14	case	_	Translit=čaːk|LTranslit=čaːk
@@ -27661,7 +27661,7 @@
 24	การปฏิวัติ	การปฏิวัติ	VERB	VV	_	23	obj	_	Proper=True|SpaceAfter=No|Translit=kaːrpṭiwạti|LTranslit=kaːrpṭiwạti
 25	แห่ง	แห่ง	ADP	IN	_	26	case	_	Proper=True|SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
 26	การปลดปล่อย	การปลดปล่อย	VERB	VV	_	24	obl:poss	_	Proper=True|Translit=kaːrpldplɔ̀ːy|LTranslit=kaːrpldplɔ̀ːy
-27	ซึ่ง	ซึ่ง	DET	WDT	_	28	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+27	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	28	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 28	โค่นล้ม	โค่นล้ม	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=gʰòːnlə̂m|LTranslit=gʰòːnlə̂m
 29	เขา	เขา	PRON	PRP	Person=3	28	obj	_	SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 30	ใน	ใน	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -28163,7 +28163,7 @@
 23	จาก	จาก	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 24	ฝ่าย	ฝ่าย	NOUN	NN	_	21	obl	_	SpaceAfter=No|Translit=fʰàːy|LTranslit=fʰàːy
 25	ซีซาร์	ซีซาร์	PROPN	NNP	_	24	compound	_	SpaceAfter=No|Translit=ciːcaːr|LTranslit=ciːcaːr
-26	ซึ่ง	ซึ่ง	DET	WDT	_	27	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+26	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	27	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 27	สนับสนุน	สนับสนุน	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=snạbsnun|LTranslit=snạbsnun
 28	เขา	เขา	PRON	PRP	Person=3	27	obj	_	SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 29	ตาม	ตาม	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
@@ -28184,7 +28184,7 @@
 8	จาก	จาก	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 9	คิวริโอ	คิวริโอ	PROPN	NNP	_	3	obl	_	SpaceAfter=No|Translit=gʰiwri'oː|LTranslit=gʰiwri'oː
 10	ผู้	ผู้	NOUN	NN	_	9	appos	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
-11	ซึ่ง	ซึ่ง	DET	WDT	_	12	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+11	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	12	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 12	หมด	หมด	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=hmd|LTranslit=hmd
 13	วาระ	วาระ	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=waːra|LTranslit=waːra
 14	ใน	ใน	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -28209,7 +28209,7 @@
 11	มาร์โค	มาร์โค	PROPN	NNP	_	13	obj	_	Translit=maːrgʰoː|LTranslit=maːrgʰoː
 12	อันโตนิโอ	อันโตนิโอ	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No|Translit='ạntoːni'oː|LTranslit='ạntoːni'oː
 13	อยู่	อยู่	VERB	AS	Aspect=Prog	0	root	_	Translit='yùː|LTranslit='yùː
-14	ซึ่ง	ซึ่ง	DET	WDT	_	16	nsubj	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+14	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	16	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 15	จะ	จะ	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 16	อยู่	อยู่	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 17	ใน	ใน	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
