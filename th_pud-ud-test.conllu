@@ -1964,7 +1964,7 @@
 12	‘	‘	PUNCT	``	_	11	punct	_	Proper=True|SpaceAfter=No|Translit=‘|LTranslit=‘
 13	นี่	นี่	PRON	PRD	PronType=Dem	16	obl	_	Gloss=this|LTranslit=nìː|Translit=nìː
 14	พวก	พวก	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
-15	นาย	นาย	PRON	PRP	Person=2	14	compound	_	SpaceAfter=No|Translit=naːy|LTranslit=naːy
+15	นาย	นาย	PRON	PRP	Person=2|PronType=Prs	14	compound	_	Gloss=you|LTranslit=naːy|SpaceAfter=No|Translit=naːy
 16	เห็น	เห็น	VERB	VV	_	9	ccomp	_	SpaceAfter=No|Translit=hen|LTranslit=hen
 17	นี่	นี่	PRON	PRD	PronType=Dem	16	obj	_	Gloss=this|LTranslit=nìː|SpaceAfter=No|Translit=nìː
 18	ไหม	ไหม	PART	EP	PronType=Int	16	discourse	_	Proper=True|SpaceAfter=No|Translit=hạim|LTranslit=hạim
