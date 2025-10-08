@@ -1936,7 +1936,7 @@
 # text_en = Not everyone can rise above it.
 1	ไม่	ไม่	PART	NEG	Polarity=Neg	2	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 2	ใช่	ใช่	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=ćʰaì|LTranslit=ćʰaì
-3	ทุก	ทุก	DET	DT	_	4	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+3	ทุก	ทุก	DET	DT	PronType=Tot	4	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 4	คน	คน	NOUN	NNB	_	2	xcomp	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 5	ที่	ที่	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 6	สามารถ	สามารถ	VERB	MD	_	2	advcl	_	SpaceAfter=No|Translit=saːmaːrtʰ|LTranslit=saːmaːrtʰ
@@ -2787,7 +2787,7 @@
 37	ปอด	ปอด	NOUN	NN	_	36	obj	_	SpaceAfter=No|Translit=pɔːd|LTranslit=pɔːd
 38	สำลัก	สำลัก	VERB	VV	_	36	xcomp	_	SpaceAfter=No|Translit=sãːlạk|LTranslit=sãːlạk
 39	ได้	ได้	AUX	MD	_	38	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
-40	ทุก	ทุก	DET	DT	_	41	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+40	ทุก	ทุก	DET	DT	PronType=Tot	41	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 41	วัน	วัน	NOUN	NNB	_	38	obl:tmod	_	Translit=wạn|LTranslit=wạn
 
 # sent_id = n01038021
@@ -3427,7 +3427,7 @@
 # text = ทุกวันนี้โทรศัพท์มือถือของเราเป็นมากกว่าโทรศัพท์
 # translit = dʰukwạnnîːdʰoːrśạbʰdʰmüː'tʰüː'kʰɔːŋraoːpenmaːkkwàːdʰoːrśạbʰdʰ
 # text_en = Our cellphones are so much more than phones these days.
-1	ทุก	ทุก	DET	DT	_	2	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+1	ทุก	ทุก	DET	DT	PronType=Tot	2	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 2	วัน	วัน	NOUN	NNB	_	8	obl:tmod	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
 3	นี้	นี้	DET	DT	PronType=Dem	2	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 4	โทรศัพท์	โทรศัพท์	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=dʰoːrśạbʰdʰ|LTranslit=dʰoːrśạbʰdʰ
@@ -5934,7 +5934,7 @@
 12	ของ	ของ	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 13	คุณ	คุณ	PRON	PRP	Person=2	11	nmod:poss	_	SpaceAfter=No|Translit=gʰuṇ|LTranslit=gʰuṇ
 14	ได้	ได้	AUX	MD	_	8	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
-15	ทุก	ทุก	DET	DT	_	16	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+15	ทุก	ทุก	DET	DT	PronType=Tot	16	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 16	เมื่อ	เมื่อ	NOUN	NNB	_	8	obl:tmod	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 17	ที่	ที่	DET	WDT	PronType=Rel	18	obl:tmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 18	ต้องการ	ต้องการ	VERB	VV	_	16	acl:relcl	_	Translit=tɔ̂ːŋkaːr|LTranslit=tɔ̂ːŋkaːr
@@ -6902,7 +6902,7 @@
 25	และ	และ	CCONJ	CC	_	26	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 26	ครอบคลุม	ครอบคลุม	VERB	VV	_	22	conj	_	SpaceAfter=No|Translit=gʰrɔːbgʰlum|LTranslit=gʰrɔːbgʰlum
 27	เกือบ	เกือบ	DET	DT	_	29	det	_	SpaceAfter=No|Translit=küaːb|LTranslit=küaːb
-28	ทุก	ทุก	DET	DT	_	29	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+28	ทุก	ทุก	DET	DT	PronType=Tot	29	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 29	รัฐ	รัฐ	NOUN	NNB	_	26	obj	_	SpaceAfter=No|Translit=rạṭʰ|LTranslit=rạṭʰ
 30	ใน	ใน	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 31	สหภาพ	สหภาพ	NOUN	NN	_	29	nmod	_	Proper=True|Translit=shḇʰaːbʰ|LTranslit=shḇʰaːbʰ
@@ -7644,7 +7644,7 @@
 2	ทุน	ทุน	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=dʰun|LTranslit=dʰun
 3	จะ	จะ	AUX	MD	_	4	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 4	เปลี่ยน	เปลี่ยน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=peːlìːyn|LTranslit=peːlìːyn
-5	ทุก	ทุก	DET	DT	_	6	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+5	ทุก	ทุก	DET	DT	PronType=Tot	6	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 6	เดือน	เดือน	NOUN	NNB	_	4	obl:tmod	_	Translit=düaːn|LTranslit=düaːn
 7	และ	และ	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 8	ราคา	ราคา	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=raːgʰaː|LTranslit=raːgʰaː
@@ -10316,7 +10316,7 @@
 # text_en = Not all transformations in the region have been successful.
 1	ไม่	ไม่	PART	NEG	Polarity=Neg	2	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 2	ใช่	ใช่	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=ćʰaì|LTranslit=ćʰaì
-3	ทุก	ทุก	DET	DT	_	4	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+3	ทุก	ทุก	DET	DT	PronType=Tot	4	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 4	การเปลี่ยนแปลง	การเปลี่ยนแปลง	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=kaːrpeːlìːynpæːlŋ|LTranslit=kaːrpeːlìːynpæːlŋ
 5	ใน	ใน	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 6	ภูมิภาค	ภูมิภาค	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=ḇʰuːmiḇʰaːgʰ|LTranslit=ḇʰuːmiḇʰaːgʰ
@@ -10464,7 +10464,7 @@
 14	แบบ	แบบ	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=bæːb|LTranslit=bæːb
 15	ประติมากรรม	ประติมากรรม	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=pratimaːkrrm|LTranslit=pratimaːkrrm
 16	และ	และ	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-17	ทุก	ทุก	DET	DT	_	18	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+17	ทุก	ทุก	DET	DT	PronType=Tot	18	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 18	รายละเอียด	รายละเอียด	NOUN	NNB	_	19	nsubj	_	SpaceAfter=No|Translit=raːyla'iaːd|LTranslit=raːyla'iaːd
 19	มี	มี	VERB	VV	_	12	conj	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 20	ความหมาย	ความหมาย	NOUN	NN	_	19	obj	_	Translit=gʰwaːmhmaːy|LTranslit=gʰwaːmhmaːy
@@ -14804,7 +14804,7 @@
 18	คำ	คำ	NOUN	NN	_	17	obj	_	SpaceAfter=No|Translit=gʰãː|LTranslit=gʰãː
 19	ร้อง	ร้อง	VERB	VV	_	18	acl	_	SpaceAfter=No|Translit=rɔ̂ːŋ|LTranslit=rɔ̂ːŋ
 20	นั้น	นั้น	DET	DT	PronType=Dem	18	det	_	Gloss=that|LTranslit=nận|SpaceAfter=No|Translit=nận
-21	ทุก	ทุก	DET	DT	_	22	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+21	ทุก	ทุก	DET	DT	PronType=Tot	22	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 22	ครั้ง	ครั้ง	NOUN	NNB	_	17	obl	_	Translit=gʰrậŋ|LTranslit=gʰrậŋ
 
 # sent_id = w01062063
@@ -14867,7 +14867,7 @@
 11	ประจำ	ประจำ	VERB	VV	_	10	acl	_	SpaceAfter=No|Translit=pračãː|LTranslit=pračãː
 12	วัน	วัน	NOUN	NN	_	11	obj	_	Translit=wạn|LTranslit=wạn
 13	และ	และ	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-14	ทุก	ทุก	DET	DT	_	15	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+14	ทุก	ทุก	DET	DT	PronType=Tot	15	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 15	องค์	องค์	NOUN	NNB	_	16	nsubj	_	SpaceAfter=No|Translit='ŋgʰ|LTranslit='ŋgʰ
 16	มี	มี	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 17	พิธี	พิธี	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=bʰiḏʰiː|LTranslit=bʰiḏʰiː
@@ -16222,7 +16222,7 @@
 11	มิ	มิ	PART	NEG	Polarity=Neg	12	advmod	_	SpaceAfter=No|Translit=mi|LTranslit=mi
 12	ให้	ให้	VERB	VV	_	8	ccomp	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 13	เชื่อ	เชื่อ	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=ćʰüàː|LTranslit=ćʰüàː
-14	ทุก	ทุก	DET	DT	_	15	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+14	ทุก	ทุก	DET	DT	PronType=Tot	15	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 15	อย่าง	อย่าง	NOUN	NNB	_	13	obj	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 16	ใน	ใน	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 17	มัลเลอุส	มัลเลอุส	PROPN	NNP	_	15	nmod	_	Translit=mạlleː'us|LTranslit=mạlleː'us
@@ -18898,7 +18898,7 @@
 11	ว่า	ว่า	ADP	IN	_	16	mark	_	Translit=wàː|LTranslit=wàː
 12	“	“	PUNCT	``	_	16	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 13	หนังสือ	หนังสือ	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=hnạŋsüː'|LTranslit=hnạŋsüː'
-14	ทุก	ทุก	DET	DT	_	15	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+14	ทุก	ทุก	DET	DT	PronType=Tot	15	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 15	เล่ม	เล่ม	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=lèːm|LTranslit=lèːm
 16	คือ	คือ	VERB	VC	_	10	xcomp	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 17	โค้ง	โค้ง	NOUN	NN	_	16	xcomp	_	SpaceAfter=No|Translit=gʰôːŋ|LTranslit=gʰôːŋ
@@ -21913,7 +21913,7 @@
 2	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 3	เพราะ	เพราะ	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
 4	ว่า	ว่า	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-5	ทุก	ทุก	DET	DT	_	6	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+5	ทุก	ทุก	DET	DT	PronType=Tot	6	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 6	ปาฏิหาริย์	ปาฏิหาริย์	NOUN	NNB	_	11	nsubj	_	SpaceAfter=No|Translit=paːṭihaːriy|LTranslit=paːṭihaːriy
 7	และ	และ	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 8	แต่ละ	แต่ละ	DET	DT	PronType=Tot	9	det	_	Gloss=each,every|LTranslit=tæ̀ːla|SpaceAfter=No|Translit=tæ̀ːla
@@ -21922,7 +21922,7 @@
 11	มี	มี	VERB	VV	_	1	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 12	ผล	ผล	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=pʰl|LTranslit=pʰl
 13	เหนือ	เหนือ	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=heːnüː'|LTranslit=heːnüː'
-14	ทุก	ทุก	DET	DT	_	15	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+14	ทุก	ทุก	DET	DT	PronType=Tot	15	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 15	อย่าง	อย่าง	NOUN	NNB	_	11	obl	_	Translit='yàːŋ|LTranslit='yàːŋ
 
 # sent_id = n02041014
@@ -24227,7 +24227,7 @@
 5	แล้ว	แล้ว	ADV	RB	_	3	advmod	_	ToDo=ex-adp-child|Translit=læ̂ːw|LTranslit=læ̂ːw
 6	ไม่	ไม่	PART	NEG	Polarity=Neg	7	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 7	ใช่	ใช่	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=ćʰaì|LTranslit=ćʰaì
-8	ทุก	ทุก	DET	DT	_	9	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+8	ทุก	ทุก	DET	DT	PronType=Tot	9	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 9	คน	คน	NOUN	NNB	_	7	xcomp	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 10	ใน	ใน	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 11	พรรค	พรรค	NOUN	NN	_	9	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=bʰrrgʰ|LTranslit=bʰrrgʰ
@@ -24695,7 +24695,7 @@
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 7	การละเล่น	การละเล่น	VERB	VV	_	1	advcl	_	SpaceAfter=No|Translit=kaːrlalèːn|LTranslit=kaːrlalèːn
 8	สำหรับ	สำหรับ	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=sãːhrạb|LTranslit=sãːhrạb
-9	ทุก	ทุก	DET	DT	_	10	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+9	ทุก	ทุก	DET	DT	PronType=Tot	10	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 10	คน	คน	NOUN	NNB	_	7	obl	_	Translit=gʰn|LTranslit=gʰn
 11	โรง	โรง	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=roːŋ|LTranslit=roːŋ
 12	ละคร	ละคร	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=lagʰr|LTranslit=lagʰr
@@ -24713,7 +24713,7 @@
 24	ดึงดูด	ดึงดูด	VERB	VV	_	23	xcomp	_	SpaceAfter=No|Translit=düŋduːd|LTranslit=düŋduːd
 25	ผู้คน	ผู้คน	NOUN	NN	_	23	obj	_	SpaceAfter=No|Translit=pʰûːgʰn|LTranslit=pʰûːgʰn
 26	จาก	จาก	ADP	IN	_	28	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
-27	ทุก	ทุก	DET	DT	_	28	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+27	ทุก	ทุก	DET	DT	PronType=Tot	28	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 28	สารทิศ	สารทิศ	NOUN	NNB	_	25	nmod	_	Translit=saːrdʰiś|LTranslit=saːrdʰiś
 
 # sent_id = w02001069
@@ -25628,7 +25628,7 @@
 # text = ทุกวันนี้ซากปรักหักพังกว้างใหญ่สามารถเห็นได้จากตรงนี้
 # translit = dʰukwạnnîːcaːkprạkhạkbʰạŋkwâːŋhaiŷə̀saːmaːrtʰhendạîčaːktrŋnîː
 # text_en = Today, expansive ruins can be viewed there.
-1	ทุก	ทุก	DET	DT	_	2	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+1	ทุก	ทุก	DET	DT	PronType=Tot	2	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 2	วัน	วัน	NOUN	NNB	_	9	obl:tmod	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
 3	นี้	นี้	DET	DT	PronType=Dem	2	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 4	ซาก	ซาก	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=caːk|LTranslit=caːk
@@ -26240,12 +26240,12 @@
 18	ภูมิศาสตร์	ภูมิศาสตร์	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=ḇʰuːmiśaːstr|LTranslit=ḇʰuːmiśaːstr
 19	กรีซ	กรีซ	PROPN	NNP	_	18	compound	_	Translit=kriːc|LTranslit=kriːc
 20	โดย	โดย	ADP	IN	_	30	mark	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
-21	ทุก	ทุก	DET	DT	_	22	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+21	ทุก	ทุก	DET	DT	PronType=Tot	22	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 22	เกาะ	เกาะ	NOUN	NNB	_	30	nsubj:pass	_	Translit=kɔ|LTranslit=kɔ
-23	ทุก	ทุก	DET	DT	_	24	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+23	ทุก	ทุก	DET	DT	PronType=Tot	24	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 24	หุบ	หุบ	NOUN	NNB	_	22	conj	_	SpaceAfter=No|Translit=hub|LTranslit=hub
 25	เขา	เขา	NOUN	NN	_	24	compound	_	Translit=kʰaoː|LTranslit=kʰaoː
-26	ทุก	ทุก	DET	DT	_	27	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+26	ทุก	ทุก	DET	DT	PronType=Tot	27	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 27	ที่	ที่	NOUN	NNB	_	22	conj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 28	ราบ	ราบ	ADJ	JJ	_	27	amod	_	SpaceAfter=No|Translit=raːb|LTranslit=raːb
 29	ถูก	ถูก	AUX	MD	Voice=Pass	30	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
@@ -26522,7 +26522,7 @@
 2	หลีก	หลีก	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=hliːk|LTranslit=hliːk
 3	หนี	หนี	VERB	VV	_	2	acl	_	SpaceAfter=No|Translit=hniː|LTranslit=hniː
 4	จาก	จาก	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
-5	ทุก	ทุก	DET	DT	_	6	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+5	ทุก	ทุก	DET	DT	PronType=Tot	6	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 6	สิ่ง	สิ่ง	NOUN	NNB	_	2	obl	_	Translit=sìŋ|LTranslit=sìŋ
 7	ตระกูล	ตระกูล	NOUN	NN	_	10	nsubj	_	Proper=True|SpaceAfter=No|Translit=trakuːl|LTranslit=trakuːl
 8	เรอมิส	เรอมิส	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No|Translit=rœːmis|LTranslit=rœːmis
@@ -26892,7 +26892,7 @@
 23	จาก	จาก	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 24	ความผิด	ความผิด	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=gʰwaːmpʰid|LTranslit=gʰwaːmpʰid
 25	อาญา	อาญา	NOUN	NN	_	24	obj	_	SpaceAfter=No|Translit='aːŷaː|LTranslit='aːŷaː
-26	ทุก	ทุก	DET	DT	_	27	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+26	ทุก	ทุก	DET	DT	PronType=Tot	27	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 27	มาตรา	มาตรา	NOUN	NNB	_	24	clf	_	Translit=maːtraː|LTranslit=maːtraː
 
 # sent_id = w04003054
