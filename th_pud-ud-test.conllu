@@ -6901,7 +6901,7 @@
 24	ใหญ่โต	ใหญ่โต	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=haiŷə̀toː|LTranslit=haiŷə̀toː
 25	และ	และ	CCONJ	CC	_	26	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 26	ครอบคลุม	ครอบคลุม	VERB	VV	_	22	conj	_	SpaceAfter=No|Translit=gʰrɔːbgʰlum|LTranslit=gʰrɔːbgʰlum
-27	เกือบ	เกือบ	DET	DT	_	29	det	_	SpaceAfter=No|Translit=küaːb|LTranslit=küaːb
+27	เกือบ	เกือบ	DET	DT	PronType=Ind	29	det	_	Gloss=almost|LTranslit=küaːb|SpaceAfter=No|Translit=küaːb
 28	ทุก	ทุก	DET	DT	PronType=Tot	29	det	_	Gloss=each|LTranslit=dʰuk|SpaceAfter=No|Translit=dʰuk
 29	รัฐ	รัฐ	NOUN	NNB	_	26	obj	_	SpaceAfter=No|Translit=rạṭʰ|LTranslit=rạṭʰ
 30	ใน	ใน	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -12039,7 +12039,7 @@
 13	กอง	กอง	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=kɔːŋ|LTranslit=kɔːŋ
 14	ทัพ	ทัพ	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=dʰạbʰ|LTranslit=dʰạbʰ
 15	เดนมาร์ก	เดนมาร์ก	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=deːnmaːrk|LTranslit=deːnmaːrk
-16	เกือบ	เกือบ	DET	DT	_	17	det	_	SpaceAfter=No|Translit=küaːb|LTranslit=küaːb
+16	เกือบ	เกือบ	DET	DT	PronType=Ind	17	det	_	Gloss=almost|LTranslit=küaːb|SpaceAfter=No|Translit=küaːb
 17	ทั้งหมด	ทั้งหมด	DET	DT	PronType=Tot	13	det	_	Gloss=all|LTranslit=dʰậŋhmd|SpaceAfter=No|Translit=dʰậŋhmd
 18	ประสบ	ประสบ	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=prasb|LTranslit=prasb
 19	ความสำเร็จ	ความสำเร็จ	VERB	VV	_	18	obj	_	SpaceAfter=No|Translit=gʰwaːmsãːreč|LTranslit=gʰwaːmsãːreč
