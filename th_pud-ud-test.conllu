@@ -15775,7 +15775,7 @@
 27	ได้	ได้	AUX	AS	Aspect=Perf	28	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 28	กลับ	กลับ	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|Translit=klạb|LTranslit=klạb
 29	มา	มา	PART	RP	_	28	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
-30	อีก	อีก	PROPN	NNP	_	28	obj	_	SpaceAfter=No|Translit='iːk|LTranslit='iːk
+30	อีก	อีก	ADV	RB	_	28	advmod	_	SpaceAfter=No|Translit='iːk|LTranslit='iːk
 31	)	)	PUNCT	)	_	28	punct	_	Translit=)|LTranslit=)
 
 # sent_id = w01073054
@@ -21411,7 +21411,7 @@
 9	เป็น	เป็น	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 10	ทรัพยากร	ทรัพยากร	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=dʰrạbʰyaːkr|LTranslit=dʰrạbʰyaːkr
 11	ธรรมชาติ	ธรรมชาติ	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=ḏʰrrmćʰaːti|LTranslit=ḏʰrrmćʰaːti
-12	ที่	ที่	DET	WDT	_	17	obj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+12	ที่	ที่	DET	WDT	_	17	obl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 13	นัก	นัก	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 14	ลง	ลง	VERB	VV	_	13	acl	_	SpaceAfter=No|Translit=lŋ|LTranslit=lŋ
 15	ทุน	ทุน	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=dʰun|LTranslit=dʰun
@@ -22682,7 +22682,7 @@
 12	ไม่	ไม่	PART	NEG	Polarity=Neg	13	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 13	ได้	ได้	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 14	รับ	รับ	VERB	VV	_	2	acl	_	SpaceAfter=No|Translit=rạb|LTranslit=rạb
-15	การเอ่ย	การเอ่ย	VERB	VV	_	14	obj	_	SpaceAfter=No|Translit=kaːr'èːy|LTranslit=kaːr'èːy
+15	การเอ่ย	การเอ่ย	VERB	VV	_	14	compound	_	SpaceAfter=No|Translit=kaːr'èːy|LTranslit=kaːr'èːy
 16	ถึง	ถึง	ADP	IN	_	15	case	_	Translit=tʰüŋ|LTranslit=tʰüŋ
 
 # sent_id = n03001019
