@@ -1302,7 +1302,7 @@
 25	อธิบาย	อธิบาย	VERB	VV	_	22	acl	_	SpaceAfter=No|Translit='ḏʰibaːy|LTranslit='ḏʰibaːy
 26	ว่า	ว่า	ADP	IN	_	33	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 27	เหตุ	เหตุ	NOUN	NN	_	33	obl	_	SpaceAfter=No|Translit=heːtu|LTranslit=heːtu
-28	ใด	ใด	DET	WDT	_	27	det	_	SpaceAfter=No|Translit=dai|LTranslit=dai
+28	ใด	ใด	DET	WDT	PronType=Ind	27	det	_	Gloss=any,which|LTranslit=dai|SpaceAfter=No|Translit=dai
 29	ส่วน	ส่วน	NOUN	NN	_	33	nsubj:pass	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 30	นั้น	นั้น	DET	DT	PronType=Dem	29	det	_	Gloss=that|LTranslit=nận|SpaceAfter=No|Translit=nận
 31	จึง	จึง	ADP	IN	_	33	mark	_	SpaceAfter=No|Translit=čüŋ|LTranslit=čüŋ
@@ -12072,7 +12072,7 @@
 20	อยู่	อยู่	VERB	AS	Aspect=Prog	8	conj	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 21	ว่า	ว่า	ADP	IN	_	26	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 22	เหตุ	เหตุ	NOUN	NN	_	26	nsubj	_	SpaceAfter=No|Translit=heːtu|LTranslit=heːtu
-23	ใด	ใด	DET	WDT	_	22	det	_	SpaceAfter=No|Translit=dai|LTranslit=dai
+23	ใด	ใด	DET	WDT	PronType=Ind	22	det	_	Gloss=any,which|LTranslit=dai|SpaceAfter=No|Translit=dai
 24	จึง	จึง	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=čüŋ|LTranslit=čüŋ
 25	ไม่	ไม่	PART	NEG	Polarity=Neg	26	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 26	ใช้	ใช้	VERB	VV	_	20	advcl	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
@@ -14237,7 +14237,7 @@
 22	ทหาร	ทหาร	NOUN	NN	_	21	obj	_	SpaceAfter=No|Translit=dʰhaːr|LTranslit=dʰhaːr
 23	อียิปต์	อียิปต์	PROPN	NNP	_	22	compound	_	SpaceAfter=No|Translit='iːyipt|LTranslit='iːyipt
 24	นาย	นาย	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=naːy|LTranslit=naːy
-25	ใด	ใด	DET	WDT	_	24	det	_	SpaceAfter=No|Translit=dai|LTranslit=dai
+25	ใด	ใด	DET	WDT	PronType=Ind	24	det	_	Gloss=any,which|LTranslit=dai|SpaceAfter=No|Translit=dai
 26	เลย	เลย	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=leːy|LTranslit=leːy
 27	นับ	นับ	VERB	VV	_	29	case	_	SpaceAfter=No|Translit=nạb|LTranslit=nạb
 28	แต่	แต่	ADP	IN	_	27	fixed	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
@@ -14395,7 +14395,7 @@
 7	จันทร์	จันทร์	PROPN	NNP	_	6	compound	_	SpaceAfter=No|Translit=čạndʰr|LTranslit=čạndʰr
 8	ใน	ใน	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 9	วัน	วัน	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
-10	ใด	ใด	DET	WDT	_	9	det	_	SpaceAfter=No|Translit=dai|LTranslit=dai
+10	ใด	ใด	DET	WDT	PronType=Ind	9	det	_	Gloss=any,which|LTranslit=dai|SpaceAfter=No|Translit=dai
 11	วัน	วัน	NOUN	NN	_	9	conj	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
 12	หนึ่ง	หนึ่ง	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 13	เมื่อ	เมื่อ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
@@ -16249,7 +16249,7 @@
 15	ทฤษฎี	ทฤษฎี	NOUN	NN	_	30	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=dʰṟšḍiː|LTranslit=dʰṟšḍiː
 16	แล้ว	แล้ว	ADV	RB	_	29	advmod	_	SpaceAfter=No|Translit=læ̂ːw|LTranslit=læ̂ːw
 17	ผู้	ผู้	NOUN	NN	_	29	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
-18	ใด	ใด	DET	WDT	_	17	det	_	SpaceAfter=No|Translit=dai|LTranslit=dai
+18	ใด	ใด	DET	WDT	PronType=Ind	17	det	_	Gloss=any,which|LTranslit=dai|SpaceAfter=No|Translit=dai
 19	ก็ตาม	ก็ตาม	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=kɔʔtaːm|LTranslit=kɔʔtaːm
 20	ที่	ที่	DET	WDT	PronType=Rel	22	nsubj:pass	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 21	ถูก	ถูก	AUX	MD	Voice=Pass	22	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
@@ -19813,7 +19813,7 @@
 7	จารึก	จารึก	VERB	VV	_	6	acl	_	SpaceAfter=No|Translit=čaːrük|LTranslit=čaːrük
 8	หรือ	หรือ	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
 9	ข้อความ	ข้อความ	NOUN	NN	_	6	conj	_	SpaceAfter=No|Translit=kʰɔ̂ːgʰwaːm|LTranslit=kʰɔ̂ːgʰwaːm
-10	ใด	ใด	DET	WDT	_	9	det	_	SpaceAfter=No|Translit=dai|LTranslit=dai
+10	ใด	ใด	DET	WDT	PronType=Ind	9	det	_	Gloss=any,which|LTranslit=dai|SpaceAfter=No|Translit=dai
 11	ใน	ใน	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 12	อารยธรรม	อารยธรรม	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit='aːryḏʰrrm|LTranslit='aːryḏʰrrm
 13	เมโสอเมริกัน	เมโสอเมริกัน	PROPN	NNP	_	12	compound	_	SpaceAfter=No|Translit=meːs'oːmeːrikạn|LTranslit=meːs'oːmeːrikạn
@@ -24601,7 +24601,7 @@
 33	จะ	จะ	AUX	MD	_	34	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 34	ส่ง	ส่ง	VERB	VV	_	24	ccomp	_	SpaceAfter=No|Translit=sə̀ŋ|LTranslit=sə̀ŋ
 35	ผล	ผล	NOUN	NN	_	34	obj	_	SpaceAfter=No|Translit=pʰl|LTranslit=pʰl
-36	ใด	ใด	DET	WDT	_	35	det	_	SpaceAfter=No|Translit=dai|LTranslit=dai
+36	ใด	ใด	DET	WDT	PronType=Ind	35	det	_	Gloss=any,which|LTranslit=dai|SpaceAfter=No|Translit=dai
 37	ๆ	ๆ	PUNCT	PUNCT	_	36	punct	_	Translit=.|LTranslit=.
 38	หรือไม่	หรือไม่	PART	EP	_	34	discourse	_	Translit=hrüː'mạì|LTranslit=hrüː'mạì
 
