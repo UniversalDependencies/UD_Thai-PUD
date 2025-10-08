@@ -196,7 +196,7 @@
 11	ทำ	ทำ	VERB	VV	_	7	acl:relcl	_	Translit=dʰãː|LTranslit=dʰãː
 12	มัน	มัน	PRON	PRP	Person=3	16	reparandum	_	Translit=mạn|LTranslit=mạn
 13	—	—	PUNCT	-	_	12	punct	_	Translit=—|LTranslit=—
-14	ที่	ที่	PRON	PRP	_	18	obl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+14	ที่	ที่	PRON	PRP	PronType=Rel	18	obl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 15	จริง	จริง	ADJ	JJ	_	14	amod	_	Translit=čriŋ|LTranslit=čriŋ
 16	มัน	มัน	PRON	PRP	Person=3	18	obl	_	SpaceAfter=No|Translit=mạn|LTranslit=mạn
 17	ไม่	ไม่	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
@@ -4908,7 +4908,7 @@
 # text = ที่นำมาแสดงเป็นครั้งแรกอีกอย่างก็คือ แผนที่ต่างๆ ของกระทรวงกลาโหมของบริเตนที่แสดงสมรภูมิสงครามเย็นและใช้ในข้อสอบของวิทยาลัยทหาร
 # translit = dʰìːnãːmaːsæːdŋpengʰrậŋræːk'iːkɔːyàːŋkɔʔgʰüː' pʰæːndʰìːtàːŋ. kʰɔːŋkradʰrwŋklaːhoːmkʰɔːŋbriteːndʰìːsæːdŋsmrḇʰuːmisŋgʰraːmyenlæćʰaînaikʰɔ̂ːsɔːbkʰɔːŋwidʰyaːlạydʰhaːr
 # text_en = Also being exhibited for the first time are British Ministry of Defence maps which imagine cold war battles and which were used in military college exams.
-1	ที่	ที่	PRON	PRP	_	2	obj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+1	ที่	ที่	PRON	PRP	PronType=Rel	2	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 2	นำ	นำ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=nãː|LTranslit=nãː
 3	มา	มา	PART	RP	_	2	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 4	แสดง	แสดง	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=sæːdŋ|LTranslit=sæːdŋ
@@ -5472,7 +5472,7 @@
 12	ไม่	ไม่	PART	NEG	Polarity=Neg	13	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 13	สงบ	สงบ	VERB	VV	_	9	conj	_	SpaceAfter=No|Translit=sŋb|LTranslit=sŋb
 14	กว่า	กว่า	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
-15	ที่	ที่	PRON	PRP	_	17	nsubj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+15	ที่	ที่	PRON	PRP	PronType=Rel	17	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 16	เป็น	เป็น	VERB	VC	_	17	xcomp	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 17	อยู่	อยู่	VERB	AS	Aspect=Prog	9	xcomp	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 18	ไป	ไป	PART	RP	_	9	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
@@ -7562,7 +7562,7 @@
 19	คะแนน	คะแนน	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=gʰanæːn|LTranslit=gʰanæːn
 20	เบร็กซิต	เบร็กซิต	PROPN	NNP	_	19	compound	_	Translit=beːrɔʔkcit|LTranslit=beːrɔʔkcit
 21	แต่	แต่	CCONJ	CC	_	27	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
-22	ที่	ที่	PRON	PRP	_	27	obl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+22	ที่	ที่	PRON	PRP	PronType=Rel	27	obl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 23	จริง	จริง	ADJ	JJ	_	22	amod	_	SpaceAfter=No|Translit=čriŋ|LTranslit=čriŋ
 24	การจัด	การจัด	VERB	VV	_	27	nsubj	_	SpaceAfter=No|Translit=kaːrčạd|LTranslit=kaːrčạd
 25	จ้าง	จ้าง	VERB	VV	_	24	xcomp	_	SpaceAfter=No|Translit=čâːŋ|LTranslit=čâːŋ
@@ -7855,7 +7855,7 @@
 # text = ที่ตามมาคือกองทุนผลตอบแทนเป้าหมายหลายกลยุทธ์สำหรับนักลงทุนและกองทุนรายได้เป้าหมายหลายกลยุทธ์สำหรับนักลงทุน ซึ่งนักลงทุนก็ได้ลงทุนไป 2 พันล้านปอนด์ และ 1.4 พันล้านปอนด์ตามลำดับ
 # translit = dʰìːtaːmmaːgʰüː'kɔːŋdʰunpʰltɔːbdʰæːnpaôːhmaːyhlaːyklyudʰḏʰsãːhrạbnạklŋdʰunlækɔːŋdʰunraːydạîpaôːhmaːyhlaːyklyudʰḏʰsãːhrạbnạklŋdʰun cǜŋnạklŋdʰunkɔʔdạîlŋdʰunpại 2 bʰạnlâːnpɔːnd læ 1.4 bʰạnlâːnpɔːndtaːmlãːdạb
 # text_en = It was followed by the Aviva Investors Multi Strategy Target Return and Income funds, into which investors put £2bn and £1.4bn respectively.
-1	ที่	ที่	PRON	PRP	_	2	nsubj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+1	ที่	ที่	PRON	PRP	PronType=Rel	2	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 2	ตาม	ตาม	VERB	VV	_	4	csubj	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
 3	มา	มา	PART	RP	_	2	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 4	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
@@ -8555,7 +8555,7 @@
 # translit = dʰaòːdʰìːpʰàːnmaːciːriːssɔːŋyạŋćʰaîdạîhrüː'peːlàː
 # text_en = Is series two working so far?
 1	เท่า	เท่า	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰaòː|LTranslit=dʰaòː
-2	ที่	ที่	PRON	PRP	_	3	nsubj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+2	ที่	ที่	PRON	PRP	PronType=Rel	3	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 3	ผ่าน	ผ่าน	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=pʰàːn|LTranslit=pʰàːn
 4	มา	มา	PART	RP	_	3	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 5	ซีรีส์	ซีรีส์	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=ciːriːs|LTranslit=ciːriːs
@@ -9373,7 +9373,7 @@
 4	ที่	ที่	DET	WDT	PronType=Rel	6	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 5	ไม่	ไม่	PART	NEG	Polarity=Neg	6	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 6	มี	มี	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
-7	ที่	ที่	PRON	PRP	_	6	obj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+7	ที่	ที่	PRON	PRP	PronType=Rel	6	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	สิ้นสุด	สิ้นสุด	VERB	VV	_	7	acl	_	SpaceAfter=No|Translit=sînsud|LTranslit=sînsud
 9	ของ	ของ	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 10	จีน	จีน	PROPN	NNP	_	1	obl:poss	_	SpaceAfter=No|Translit=čiːn|LTranslit=čiːn
@@ -9734,7 +9734,7 @@
 20	สแล็ค	สแล็ค	PROPN	NNP	_	19	obj	_	SpaceAfter=No|Translit=slæʔgʰ|LTranslit=slæʔgʰ
 21	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	23	nsubj	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 22	เป็น	เป็น	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-23	ที่	ที่	PRON	PRP	_	20	acl:relcl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+23	ที่	ที่	PRON	PRP	PronType=Rel	20	acl:relcl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 24	นิยม	นิยม	VERB	VV	_	23	acl	_	SpaceAfter=No|Translit=niym|LTranslit=niym
 25	ใน	ใน	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 26	อุตสาหกรรม	อุตสาหกรรม	NOUN	NN	_	23	nmod	_	ToDo=nmod|Translit='utsaːhkrrm|LTranslit='utsaːhkrrm
@@ -11358,7 +11358,7 @@
 3	ของ	ของ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 4	คอเคซัส	คอเคซัส	PROPN	NNP	_	1	nmod:poss	_	SpaceAfter=No|Translit=gʰɔːgʰeːcạs|LTranslit=gʰɔːgʰeːcạs
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-6	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+6	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 7	รู้จัก	รู้จัก	VERB	VV	_	6	acl	_	SpaceAfter=No|Translit=rûːčạk|LTranslit=rûːčạk
 8	กัน	กัน	PRON	PRP	_	7	obj	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -11803,7 +11803,7 @@
 4	แห่ง	แห่ง	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
 5	ที่	ที่	DET	WDT	PronType=Rel	7	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-7	ที่	ที่	PRON	PRP	_	1	acl:relcl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+7	ที่	ที่	PRON	PRP	PronType=Rel	1	acl:relcl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	โดดเด่น	โดดเด่น	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=doːddèːn|LTranslit=doːddèːn
 9	ที่สุด	ที่สุด	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
 10	ใน	ใน	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -13042,7 +13042,7 @@
 3	นี้	นี้	DET	DT	PronType=Dem	2	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 4	ไม่	ไม่	PART	NEG	Polarity=Neg	6	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-6	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+6	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 7	นิยม	นิยม	VERB	VV	_	6	acl	_	SpaceAfter=No|Translit=niym|LTranslit=niym
 8	นัก	นัก	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 9	เนื่อง	เนื่อง	ADP	IN	_	13	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
@@ -14154,7 +14154,7 @@
 # text = ที่จริงแล้ว รายงานเชิงวิชาการเกี่ยวกับการรบฉบับแรกโดยเจมส์ เฮนรี่ เบรสเต็ด ในปี 1903 กล่าวยกย่องแหล่งข้อมูลที่ให้มีการสร้างการรบใหม่ด้วยความแน่ใจ
 # translit = dʰìːčriŋlæ̂ːw raːyŋaːnćʰeiŋwićʰaːkaːrkiàːwkạbkaːrrbčʰbạbræːkdoːyčeːms ḥeːnrìː beːrsted naipiː 1903 klàːwykyɔ̀ːŋhæːlə̀ŋkʰɔ̂ːmuːldʰìːhaîmiːkaːrsrâːŋkaːrrbhaimə̀də̂wygʰwaːmnæ̀ːčai
 # text_en = Indeed, the first scholarly report on the battle, by James Henry Breasted in 1903, praised the sources that allowed the reconstruction the battle with certainty.
-1	ที่	ที่	PRON	PRP	_	19	obl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+1	ที่	ที่	PRON	PRP	PronType=Rel	19	obl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 2	จริง	จริง	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=čriŋ|LTranslit=čriŋ
 3	แล้ว	แล้ว	ADV	RB	_	1	advmod	_	Translit=læ̂ːw|LTranslit=læ̂ːw
 4	รายงาน	รายงาน	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=raːyŋaːn|LTranslit=raːyŋaːn
@@ -14296,7 +14296,7 @@
 9	และ	และ	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 10	เฮโรเดียส	เฮโรเดียส	PROPN	NNP	_	7	conj	_	SpaceAfter=No|Translit=ḥeːroːdiaːs|LTranslit=ḥeːroːdiaːs
 11	เป็น	เป็น	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-12	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+12	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 13	ถกเถียง	ถกเถียง	VERB	VV	_	12	acl	_	SpaceAfter=No|Translit=tʰktʰiaːŋ|LTranslit=tʰktʰiaːŋ
 14	กัน	กัน	PRON	PRP	_	13	obl	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 15	ใน	ใน	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -14964,7 +14964,7 @@
 9	นี้	นี้	DET	DT	PronType=Dem	8	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 10	ยังคง	ยังคง	VERB	AS	Aspect=Prog	0	root	_	SpaceAfter=No|Translit=yạŋgʰŋ|LTranslit=yạŋgʰŋ
 11	เป็น	เป็น	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-12	ที่	ที่	PRON	PRP	_	10	xcomp	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+12	ที่	ที่	PRON	PRP	PronType=Rel	10	xcomp	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 13	โต้เถียง	โต้เถียง	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=tôːtʰiaːŋ|LTranslit=tôːtʰiaːŋ
 14	อยู่	อยู่	VERB	AS	Aspect=Prog	12	acl	_	Translit='yùː|LTranslit='yùː
 15	แต่	แต่	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
@@ -15609,7 +15609,7 @@
 4	ว่า	ว่า	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 5	ฮิสปาเนีย	ฮิสปาเนีย	PROPN	NNP	_	4	obj	_	SpaceAfter=No|Translit=ḥispaːniaː|LTranslit=ḥispaːniaː
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-7	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+7	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	โต้แย้ง	โต้แย้ง	VERB	VV	_	7	acl	_	SpaceAfter=No|Translit=tôːyæ̂ːŋ|LTranslit=tôːyæ̂ːŋ
 9	มากมาย	มากมาย	ADV	RB	_	8	advmod	_	Translit=maːkmaːy|LTranslit=maːkmaːy
 10	และ	และ	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -17964,7 +17964,7 @@
 3	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	6	advmod	_	Gloss=which,that|LTranslit=cǜŋ|SpaceAfter=No|Translit=cǜŋ
 4	อัลวาเรซ	อัลวาเรซ	PROPN	NNP	_	6	obj	_	SpaceAfter=No|Translit='ạlwaːreːc|LTranslit='ạlwaːreːc
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-6	ที่	ที่	PRON	PRP	_	1	acl:relcl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+6	ที่	ที่	PRON	PRP	PronType=Rel	1	acl:relcl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 7	รู้จัก	รู้จัก	VERB	VV	_	6	acl	_	SpaceAfter=No|Translit=rûːčạk|LTranslit=rûːčạk
 8	อย่างดี	อย่างดี	ADJ	JJ	_	6	advmod	_	SpaceAfter=No|Translit='yàːŋdiː|LTranslit='yàːŋdiː
 9	และ	และ	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -19764,7 +19764,7 @@
 20	ทาง	ทาง	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 21	วัฒนธรรม	วัฒนธรรม	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=wạḑʰnḏʰrrm|LTranslit=wạḑʰnḏʰrrm
 22	ของ	ของ	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-23	ที่	ที่	PRON	PRP	_	19	obl:poss	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+23	ที่	ที่	PRON	PRP	PronType=Rel	19	obl:poss	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 24	ราบ	ราบ	ADJ	JJ	_	23	amod	_	SpaceAfter=No|Translit=raːb|LTranslit=raːb
 25	ลุ่ม	ลุ่ม	ADJ	JJ	_	24	conj	_	SpaceAfter=No|Translit=lùm|LTranslit=lùm
 26	ต่ำ	ต่ำ	ADJ	JJ	_	23	amod	_	SpaceAfter=No|Translit=tã̀ː|LTranslit=tã̀ː
@@ -21267,7 +21267,7 @@
 1	หลัง	หลัง	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	เป็น	เป็น	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-4	ที่	ที่	PRON	PRP	_	25	advcl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+4	ที่	ที่	PRON	PRP	PronType=Rel	25	advcl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 5	ชัดเจน	ชัดเจน	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=ćʰạdčeːn|LTranslit=ćʰạdčeːn
 6	แล้ว	แล้ว	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No|Translit=læ̂ːw|LTranslit=læ̂ːw
 7	ว่า	ว่า	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -21548,7 +21548,7 @@
 14	คีย์บอร์ด	คีย์บอร์ด	NOUN	NN	_	12	obl	_	SpaceAfter=No|Translit=gʰiːybɔːrd|LTranslit=gʰiːybɔːrd
 15	ซึ่ง	ซึ่ง	ADP	IN	_	17	mark	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
 16	เป็น	เป็น	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-17	ที่	ที่	PRON	PRP	_	6	advcl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+17	ที่	ที่	PRON	PRP	PronType=Rel	6	advcl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 18	เฝ้า	เฝ้า	VERB	VV	_	17	acl	_	SpaceAfter=No|Translit=fʰaôː|LTranslit=fʰaôː
 19	ลุ้น	ลุ้น	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=lûn|LTranslit=lûn
 20	กัน	กัน	PRON	PRP	_	19	obj	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
@@ -22801,7 +22801,7 @@
 21	ไม่	ไม่	PART	NEG	Polarity=Neg	22	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 22	ค่อย	ค่อย	ADV	RB	_	24	advmod	_	SpaceAfter=No|Translit=gʰɔ̀ːy|LTranslit=gʰɔ̀ːy
 23	เป็น	เป็น	AUX	VC	_	24	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-24	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+24	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 25	น่าพอใจ	น่าพอใจ	VERB	VV	_	24	amod	_	Translit=nàːbʰɔːčai|LTranslit=nàːbʰɔːčai
 
 # sent_id = n03003025
@@ -23693,7 +23693,7 @@
 # translit = čaːkdʰìːklàːwmaː kaːrtạdsinčaipen'ãːnaːčbʰiśeːškʰɔːŋḏʰnaːgʰaːrklaːŋyuroːplægʰŋčaduːmạìheːmaːasmhaːkḏʰnaːgʰaːrčaklàːwtʰüŋrüàːŋnậnnainaːmkʰɔːŋtn'eːŋdoːytạdgʰwaːmpenpạidạînaikaːrmɔːŋhaːdʰaːŋlüaːk'ǜːn
 # text_en = As stated, the decision is the prerogative of the ECB and would appear inappropriate for the Bank to speak on its behalf by excluding the possibility of looking at other alternatives.
 1	จาก	จาก	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
-2	ที่	ที่	PRON	PRP	_	3	obj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+2	ที่	ที่	PRON	PRP	PronType=Rel	3	obj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 3	กล่าว	กล่าว	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=klàːw|LTranslit=klàːw
 4	มา	มา	PART	RP	_	3	compound:prt	_	Translit=maː|LTranslit=maː
 5	การตัดสินใจ	การตัดสินใจ	VERB	VV	_	7	nsubj	_	SpaceAfter=No|Translit=kaːrtạdsinčai|LTranslit=kaːrtạdsinčai
@@ -23935,7 +23935,7 @@
 15	วอลสตรีท	วอลสตรีท	PROPN	NNP	_	13	obl	_	SpaceAfter=No|Translit=wɔːlstriːdʰ|LTranslit=wɔːlstriːdʰ
 16	ยิ่ง	ยิ่ง	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=yìŋ|LTranslit=yìŋ
 17	กว่า	กว่า	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
-18	ที่	ที่	PRON	PRP	_	19	nsubj	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+18	ที่	ที่	PRON	PRP	PronType=Rel	19	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 19	เคย	เคย	AUX	AS	Aspect=Perf	16	xcomp	_	Translit=gʰeːy|LTranslit=gʰeːy
 20	และ	และ	CCONJ	CC	_	21	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 21	มาก	มาก	ADV	RB	_	9	conj	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
@@ -24592,7 +24592,7 @@
 24	ยัง	ยัง	VERB	AS	Aspect=Prog	15	conj	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 25	ไม่	ไม่	PART	NEG	Polarity=Neg	24	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 26	เป็น	เป็น	AUX	VC	_	27	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-27	ที่	ที่	PRON	PRP	_	24	xcomp	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+27	ที่	ที่	PRON	PRP	PronType=Rel	24	xcomp	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 28	แน่ชัด	แน่ชัด	ADJ	JJ	_	27	amod	_	SpaceAfter=No|Translit=næ̀ːćʰạd|LTranslit=næ̀ːćʰạd
 29	ว่า	ว่า	ADP	IN	_	34	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 30	การเพิ่ม	การเพิ่ม	VERB	VV	_	34	nsubj	_	SpaceAfter=No|Translit=kaːrbʰeìm|LTranslit=kaːrbʰeìm
@@ -25232,7 +25232,7 @@
 4	มนุษย์	มนุษย์	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=mnušy|LTranslit=mnušy
 5	ที่	ที่	DET	WDT	PronType=Rel	7	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-7	ที่	ที่	PRON	PRP	_	4	acl:relcl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+7	ที่	ที่	PRON	PRP	PronType=Rel	4	acl:relcl	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	รู้จัก	รู้จัก	VERB	VV	_	7	acl	_	SpaceAfter=No|Translit=rûːčạk|LTranslit=rûːčạk
 9	ที่สุด	ที่สุด	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
 10	จาก	จาก	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
@@ -25282,7 +25282,7 @@
 7	ทองแดง	ทองแดง	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=dʰɔːŋdæːŋ|LTranslit=dʰɔːŋdæːŋ
 8	ก็	ก็	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 9	เป็น	เป็น	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-10	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+10	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 11	น่าสังเกต	น่าสังเกต	VERB	VV	_	10	amod	_	SpaceAfter=No|Translit=nàːsạŋkeːt|LTranslit=nàːsạŋkeːt
 12	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 13	ทาง	ทาง	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
@@ -25301,7 +25301,7 @@
 6	ใน	ใน	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 7	ชนบท	ชนบท	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit=ćʰnbdʰ|LTranslit=ćʰnbdʰ
 8	เป็น	เป็น	AUX	VC	_	9	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-9	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+9	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 10	ตื่นตระหนก	ตื่นตระหนก	VERB	VV	_	9	acl	_	SpaceAfter=No|Translit=tǜːntrahnk|LTranslit=tǜːntrahnk
 11	ต่อ	ต่อ	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 12	ศาล	ศาล	NOUN	NN	_	10	obl	_	Proper=True|SpaceAfter=No|Translit=śaːl|LTranslit=śaːl
@@ -25320,7 +25320,7 @@
 1	เหตุการณ์	เหตุการณ์	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=heːtukaːrṇ|LTranslit=heːtukaːrṇ
 2	นี้	นี้	DET	DT	PronType=Dem	1	det	_	Gloss=this|LTranslit=nîː|SpaceAfter=No|Translit=nîː
 3	เป็น	เป็น	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-4	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+4	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 5	รู้	รู้	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=rûː|LTranslit=rûː
 6	กัน	กัน	PRON	PRP	_	5	obl	_	SpaceAfter=No|Translit=kạn|LTranslit=kạn
 7	ใน	ใน	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -25925,7 +25925,7 @@
 3	และ	และ	CCONJ	CC	_	4	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 4	ลากงต์	ลากงต์	PROPN	NNP	_	1	conj	_	SpaceAfter=No|Translit=laːkŋt|LTranslit=laːkŋt
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-6	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+6	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 7	ตั้ง	ตั้ง	VERB	VV	_	6	acl	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
 8	หลัก	หลัก	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=hlạk|LTranslit=hlạk
 9	ของ	ของ	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
@@ -27122,7 +27122,7 @@
 15	คอร์ซิกา	คอร์ซิกา	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=gʰɔːrcikaː|LTranslit=gʰɔːrcikaː
 16	เริ่ม	เริ่ม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=reìm|LTranslit=reìm
 17	เป็น	เป็น	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-18	ที่	ที่	PRON	PRP	_	16	xcomp	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+18	ที่	ที่	PRON	PRP	PronType=Rel	16	xcomp	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 19	จับตา	จับตา	VERB	VV	_	18	acl	_	SpaceAfter=No|Translit=čạbtaː|LTranslit=čạbtaː
 20	มอง	มอง	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=mɔːŋ|LTranslit=mɔːŋ
 21	อย่างรวดเร็ว	อย่างรวดเร็ว	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit='yàːŋrwdrew|LTranslit='yàːŋrwdrew
@@ -27468,7 +27468,7 @@
 4	นั้น	นั้น	DET	DT	PronType=Dem	2	det	_	Gloss=that|LTranslit=nận|Translit=nận
 5	ไม่	ไม่	PART	NEG	Polarity=Neg	7	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-7	ที่	ที่	PRON	PRP	_	0	root	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+7	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	แน่ชัด	แน่ชัด	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=næ̀ːćʰạd|LTranslit=næ̀ːćʰạd
 9	ว่า	ว่า	VERB	VV	_	7	acl	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 10	ใคร	ใคร	PRON	WP	_	9	obj	_	SpaceAfter=No|Translit=gʰair|LTranslit=gʰair
