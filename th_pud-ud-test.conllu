@@ -3924,7 +3924,7 @@
 24	ความงาม	ความงาม	ADJ	JJ	_	23	obj	_	SpaceAfter=No|Translit=gʰwaːmŋaːm|LTranslit=gʰwaːmŋaːm
 25	แบบ	แบบ	NOUN	NN	_	24	compound	_	SpaceAfter=No|Translit=bæːb|LTranslit=bæːb
 26	ของ	ของ	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-27	ตนเอง	ตนเอง	PRON	PRP	Person=3	25	nmod:poss	_	Translit=tn'eːŋ|LTranslit=tn'eːŋ
+27	ตนเอง	ตนเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	25	nmod:poss	_	Gloss=self|LTranslit=tn'eːŋ|Translit=tn'eːŋ
 
 # sent_id = n01053041
 # parallel_id = pud/n01053041
@@ -11091,7 +11091,7 @@
 22	สลาฟ	สลาฟ	PROPN	NNP	_	21	compound	_	SpaceAfter=No|Translit=slaːf|LTranslit=slaːf
 23	จะ	จะ	AUX	MD	_	24	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 24	สถาปนา	สถาปนา	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=stʰaːpnaː|LTranslit=stʰaːpnaː
-25	ตนเอง	ตนเอง	PRON	PRP	Person=3	24	obj	_	SpaceAfter=No|Translit=tn'eːŋ|LTranslit=tn'eːŋ
+25	ตนเอง	ตนเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	24	obj	_	Gloss=self|LTranslit=tn'eːŋ|SpaceAfter=No|Translit=tn'eːŋ
 26	ใน	ใน	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 27	คริสต์ศตวรรษ	คริสต์ศตวรรษ	NOUN	NN	_	24	obl	_	SpaceAfter=No|Translit=gʰristśtwrrš|LTranslit=gʰristśtwrrš
 28	ที่	ที่	NOUN	NN	_	27	compound	_	Translit=dʰìː|LTranslit=dʰìː
@@ -21256,7 +21256,7 @@
 13	มี	มี	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 14	รัฐบาล	รัฐบาล	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=rạṭʰbaːl|LTranslit=rạṭʰbaːl
 15	ปกครอง	ปกครอง	VERB	VV	_	14	acl	_	SpaceAfter=No|Translit=pkgʰrɔːŋ|LTranslit=pkgʰrɔːŋ
-16	ตนเอง	ตนเอง	PRON	PRP	Person=3	15	obj	_	SpaceAfter=No|Translit=tn'eːŋ|LTranslit=tn'eːŋ
+16	ตนเอง	ตนเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	15	obj	_	Gloss=self|LTranslit=tn'eːŋ|SpaceAfter=No|Translit=tn'eːŋ
 17	แทน	แทน	VERB	VV	_	13	acl	_	Translit=dʰæːn|LTranslit=dʰæːn
 
 # sent_id = w01150047
@@ -23720,7 +23720,7 @@
 26	ใน	ใน	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 27	นาม	นาม	NOUN	NN	_	22	obl	_	SpaceAfter=No|Translit=naːm|LTranslit=naːm
 28	ของ	ของ	ADP	IN	_	29	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-29	ตนเอง	ตนเอง	PRON	PRP	Person=3	27	nmod:poss	_	SpaceAfter=No|Translit=tn'eːŋ|LTranslit=tn'eːŋ
+29	ตนเอง	ตนเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	27	nmod:poss	_	Gloss=self|LTranslit=tn'eːŋ|SpaceAfter=No|Translit=tn'eːŋ
 30	โดย	โดย	ADP	IN	_	31	mark	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 31	ตัด	ตัด	VERB	VV	_	22	advcl	_	SpaceAfter=No|Translit=tạd|LTranslit=tạd
 32	ความเป็นไป	ความเป็นไป	VERB	VV	_	31	obj	_	SpaceAfter=No|Translit=gʰwaːmpenpại|LTranslit=gʰwaːmpenpại
@@ -26228,7 +26228,7 @@
 6	เล็ก	เล็ก	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=lek|LTranslit=lek
 7	ๆ	ๆ	SYM	SYM	_	6	dep	_	Translit=.|LTranslit=.
 8	ปกครอง	ปกครอง	VERB	VV	_	5	acl	_	SpaceAfter=No|Translit=pkgʰrɔːŋ|LTranslit=pkgʰrɔːŋ
-9	ตนเอง	ตนเอง	PRON	PRP	Person=3	8	obj	_	SpaceAfter=No|Translit=tn'eːŋ|LTranslit=tn'eːŋ
+9	ตนเอง	ตนเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	8	obj	_	Gloss=self|LTranslit=tn'eːŋ|SpaceAfter=No|Translit=tn'eːŋ
 10	หลาย	หลาย	DET	DT	PronType=Ind	11	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
 11	แห่ง	แห่ง	NOUN	NNB	_	5	clf	_	Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
 12	ซึ่ง	ซึ่ง	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
@@ -26286,14 +26286,14 @@
 20	เขต	เขต	NOUN	NN	_	16	conj	_	SpaceAfter=No|Translit=kʰeːt|LTranslit=kʰeːt
 21	พื้นที่	พื้นที่	NOUN	NN	_	20	compound	_	SpaceAfter=No|Translit=bʰü̂ːndʰìː|LTranslit=bʰü̂ːndʰìː
 22	ปกครอง	ปกครอง	VERB	VV	_	21	acl	_	SpaceAfter=No|Translit=pkgʰrɔːŋ|LTranslit=pkgʰrɔːŋ
-23	ตนเอง	ตนเอง	PRON	PRP	_	22	obj	_	SpaceAfter=No|Translit=tn'eːŋ|LTranslit=tn'eːŋ
+23	ตนเอง	ตนเอง	PRON	PRP	PronType=Prs|Reflex=Yes	22	obj	_	Gloss=self|LTranslit=tn'eːŋ|SpaceAfter=No|Translit=tn'eːŋ
 24	พร้อม	พร้อม	VERB	VV	_	20	acl	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
 25	ด้วย	ด้วย	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 26	ระบบ	ระบบ	NOUN	NN	_	24	obl	_	SpaceAfter=No|Translit=rabb|LTranslit=rabb
 27	การ	การ	NOUN	NN	_	26	compound	_	SpaceAfter=No|Translit=kaːr|LTranslit=kaːr
 28	เมือง	เมือง	NOUN	NN	_	26	compound	_	SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
 29	ของ	ของ	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-30	ตนเอง	ตนเอง	PRON	PRP	_	26	nmod:poss	_	Translit=tn'eːŋ|LTranslit=tn'eːŋ
+30	ตนเอง	ตนเอง	PRON	PRP	PronType=Prs|Reflex=Yes	26	nmod:poss	_	Gloss=self|LTranslit=tn'eːŋ|Translit=tn'eːŋ
 
 # sent_id = w03006024
 # parallel_id = pud/w03006024
@@ -26318,7 +26318,7 @@
 16	เป็น	เป็น	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 17	ภาษา	ภาษา	NOUN	NN	_	13	acl:relcl	_	SpaceAfter=No|Translit=ḇʰaːšaː|LTranslit=ḇʰaːšaː
 18	ของ	ของ	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-19	ตนเอง	ตนเอง	PRON	PRP	_	17	nmod:poss	_	SpaceAfter=No|Translit=tn'eːŋ|LTranslit=tn'eːŋ
+19	ตนเอง	ตนเอง	PRON	PRP	PronType=Prs|Reflex=Yes	17	nmod:poss	_	Gloss=self|LTranslit=tn'eːŋ|SpaceAfter=No|Translit=tn'eːŋ
 20	ได้	ได้	AUX	MD	_	10	aux	_	Translit=dạî|LTranslit=dạî
 
 # sent_id = w03007008
