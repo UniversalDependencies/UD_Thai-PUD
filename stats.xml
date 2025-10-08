@@ -45,7 +45,7 @@
     <feat name="PronType" value="Ind" upos="DET">113</feat><!-- หลาย, อีก, บาง, ใด -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">15</feat><!-- หรือเปล่า, หรือไม่, อะไร, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
     <feat name="PronType" value="Prs" upos="PRON">414</feat><!-- เขา, เธอ, เรา, ฉัน, มัน, ผม, คุณ, ตัวเอง -->
-    <feat name="PronType" value="Rel" upos="DET,PRON">616</feat><!-- ที่, ซึ่ง -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">623</feat><!-- ที่, ซึ่ง, ใคร -->
     <feat name="PronType" value="Tot" upos="DET,PRON">68</feat><!-- ทุก, ทั้ง, ทั้งหมด, แต่ละ -->
     <feat name="Reflex" value="Yes" upos="PRON">8</feat><!-- ตัวเอง -->
     <feat name="Typo" value="Yes" upos="PROPN">4</feat><!-- ซิกูร์, บัวโนส, ฟยอกูร์, มาเร -->

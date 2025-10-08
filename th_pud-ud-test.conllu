@@ -2491,7 +2491,7 @@
 19	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	17	conj	_	Gloss=you,she|LTranslit=ḏʰœː|SpaceAfter=No|Translit=ḏʰœː
 20	จะ	จะ	AUX	MD	_	22	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 21	เป็น	เป็น	AUX	VC	_	22	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-22	ใคร	ใคร	PRON	WP	_	3	advcl	_	Translit=gʰair|LTranslit=gʰair
+22	ใคร	ใคร	PRON	WP	PronType=Rel	3	advcl	_	Gloss=who|LTranslit=gʰair|Translit=gʰair
 
 # sent_id = n01035004
 # parallel_id = pud/n01035004
@@ -8251,7 +8251,7 @@
 6	เยี่ยม	เยี่ยม	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=yiàːm|LTranslit=yiàːm
 7	ขนาด	ขนาด	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=kʰnaːd|LTranslit=kʰnaːd
 8	นั้น	นั้น	DET	DT	PronType=Dem	7	det	_	Gloss=that|LTranslit=nận|Translit=nận
-9	ใคร	ใคร	PRON	WP	_	11	nsubj	_	SpaceAfter=No|Translit=gʰair|LTranslit=gʰair
+9	ใคร	ใคร	PRON	WP	PronType=Rel	11	nsubj	_	Gloss=who|LTranslit=gʰair|SpaceAfter=No|Translit=gʰair
 10	จะ	จะ	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 11	ว่า	ว่า	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 12	ได้	ได้	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
@@ -10260,7 +10260,7 @@
 # translit = sãːhrạbgʰairkɔʔtaːmdʰìːtɔ̂ːŋkaːrhenngʰrhlwŋnaiḇʰaːwadʰìːčʰeidčʰaːydʰìːsud bʰṟśčikaːyngʰüː'weːlaːdiːdʰìːgʰwrpại
 # text_en = For anyone who wants to see the capital in all its glory, November's a great time to go.
 1	สำหรับ	สำหรับ	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=sãːhrạb|LTranslit=sãːhrạb
-2	ใคร	ใคร	PRON	WP	_	16	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=gʰair|LTranslit=gʰair
+2	ใคร	ใคร	PRON	WP	PronType=Rel	16	nmod	_	Gloss=who|LTranslit=gʰair|SpaceAfter=No|ToDo=nmod|Translit=gʰair
 3	ก็ตาม	ก็ตาม	ADJ	JJ	_	2	amod	_	SpaceAfter=No|Translit=kɔʔtaːm|LTranslit=kɔʔtaːm
 4	ที่	ที่	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 5	ต้องการ	ต้องการ	VERB	VV	_	2	acl:relcl	_	SpaceAfter=No|Translit=tɔ̂ːŋkaːr|LTranslit=tɔ̂ːŋkaːr
@@ -21564,7 +21564,7 @@
 # text_en = One doesn't know in which way both dramatists would have worked together.
 1	ไม่	ไม่	PART	NEG	Polarity=Neg	2	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 2	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
-3	ใคร	ใคร	PRON	WP	_	2	obj	_	SpaceAfter=No|Translit=gʰair|LTranslit=gʰair
+3	ใคร	ใคร	PRON	WP	PronType=Rel	2	obj	_	Gloss=who|LTranslit=gʰair|SpaceAfter=No|Translit=gʰair
 4	รู้	รู้	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=rûː|LTranslit=rûː
 5	เลย	เลย	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=leːy|LTranslit=leːy
 6	ว่า	ว่า	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -24452,7 +24452,7 @@
 3	ว่า	ว่า	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 4	ไม่	ไม่	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 5	มี	มี	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
-6	ใคร	ใคร	PRON	WP	_	5	obj	_	SpaceAfter=No|Translit=gʰair|LTranslit=gʰair
+6	ใคร	ใคร	PRON	WP	PronType=Rel	5	obj	_	Gloss=who|LTranslit=gʰair|SpaceAfter=No|Translit=gʰair
 7	ที่	ที่	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	รอ	รอ	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=rɔː|LTranslit=rɔː
 9	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	10	obj	_	Gloss=we|LTranslit=raoː|SpaceAfter=No|Translit=raoː
@@ -26379,7 +26379,7 @@
 21	ไม่	ไม่	PART	NEG	Polarity=Neg	22	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 22	เคย	เคย	AUX	AS	Aspect=Perf	20	aux	_	SpaceAfter=No|Translit=gʰeːy|LTranslit=gʰeːy
 23	มี	มี	VERB	VV	_	20	xcomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
-24	ใคร	ใคร	PRON	WP	_	20	obj	_	SpaceAfter=No|Translit=gʰair|LTranslit=gʰair
+24	ใคร	ใคร	PRON	WP	PronType=Rel	20	obj	_	Gloss=who|LTranslit=gʰair|SpaceAfter=No|Translit=gʰair
 25	ใช้	ใช้	VERB	VV	_	23	xcomp	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 26	มา	มา	PART	RP	_	25	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 27	ก่อน	ก่อน	ADV	RB	_	25	advmod	_	Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
@@ -27471,7 +27471,7 @@
 7	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
 8	แน่ชัด	แน่ชัด	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=næ̀ːćʰạd|LTranslit=næ̀ːćʰạd
 9	ว่า	ว่า	VERB	VV	_	7	acl	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-10	ใคร	ใคร	PRON	WP	_	9	obj	_	SpaceAfter=No|Translit=gʰair|LTranslit=gʰair
+10	ใคร	ใคร	PRON	WP	PronType=Rel	9	obj	_	Gloss=who|LTranslit=gʰair|SpaceAfter=No|Translit=gʰair
 11	ระหว่าง	ระหว่าง	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=rahwàːŋ|LTranslit=rahwàːŋ
 12	สอง	สอง	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
 13	คน	คน	NOUN	NNB	_	10	nmod	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
