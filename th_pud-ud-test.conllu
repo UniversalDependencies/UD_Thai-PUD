@@ -4601,7 +4601,7 @@
 16	“	“	PUNCT	``	_	17	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 17	Knuck	Knuck	VERB	VV	_	15	appos	_	Proper=True|Translit=Knuck|LTranslit=Knuck
 18	If	If	ADP	IN	_	20	mark	_	Proper=True|Translit=If|LTranslit=If
-19	You	You	PRON	PRP	Person=2	20	nsubj	_	Proper=True|Translit=You|LTranslit=You
+19	You	You	PRON	PRP	Foreign=Yes|Person=2|PronType=Prs	20	nsubj	_	Lang=en|Proper=True|Translit=You|LTranslit=You
 20	Buck	Buck	VERB	VV	_	17	advcl	_	Proper=True|SpaceAfter=No|Translit=Buck|LTranslit=Buck
 21	”	”	PUNCT	''	_	17	punct	_	Translit=”|LTranslit=”
 22	เวอร์ชัน	เวอร์ชัน	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=wœːrćʰạn|LTranslit=wœːrćʰạn
@@ -19048,7 +19048,7 @@
 1	เรียลลี	เรียลลี	ADV	RB	_	3	advmod	_	Proper=True|Translit=riaːlliː|LTranslit=riaːlliː
 2	เรียลลี	เรียลลี	ADV	RB	_	1	conj	_	Proper=True|Translit=riaːlliː|LTranslit=riaːlliː
 3	เลิฟ	เลิฟ	VERB	VV	_	5	csubj	_	Proper=True|Translit=leif|LTranslit=leif
-4	ยู	ยู	PRON	PRP	Person=2	3	obj	_	Proper=True|Translit=yuː|LTranslit=yuː
+4	ยู	ยู	PRON	PRP	Foreign=Yes|Person=2|PronType=Prs	3	obj	_	Lang=en|Proper=True|Translit=yuː|LTranslit=yuː
 5	ออก	ออก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit='ɔːk|LTranslit='ɔːk
 6	วาง	วาง	VERB	VV	_	5	acl	_	SpaceAfter=No|Translit=waːŋ|LTranslit=waːŋ
 7	จำหน่าย	จำหน่าย	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=čãːhnàːy|LTranslit=čãːhnàːy
@@ -19143,7 +19143,7 @@
 11	ที่	ที่	NOUN	NN	_	10	compound	_	Translit=dʰìː|LTranslit=dʰìː
 12	96	96	NUM	CD	_	11	nummod	_	Translit=96|LTranslit=96
 13	Thought	Thought	VERB	VV	_	17	csubj	_	Proper=True|Translit=Thought|LTranslit=Thought
-14	'Ya	'Ya	PRON	PRP	Person=2	15	nsubj	_	Proper=True|Translit='Ya|LTranslit='Ya
+14	'Ya	'Ya	PRON	PRP	Foreign=Yes|Person=2|PronType=Prs	15	nsubj	_	Lang=en|Proper=True|Translit='Ya|LTranslit='Ya
 15	Knew	Knew	VERB	VV	_	13	ccomp	_	Proper=True|Translit=Knew|LTranslit=Knew
 16	ก็	ก็	ADV	RB	_	17	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 17	ไต่	ไต่	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tạì|LTranslit=tạì
@@ -19653,7 +19653,7 @@
 13	ฟาเธอร์	ฟาเธอร์	NOUN	NN	_	14	nsubj	_	Proper=True|Translit=faːḏʰœːr|LTranslit=faːḏʰœːr
 14	ดินท์	ดินท์	VERB	MD	_	7	appos	_	Proper=True|Translit=dindʰ|LTranslit=dindʰ
 15	ไลค์	ไลค์	VERB	VV	_	14	xcomp	_	Proper=True|Translit=lạigʰ|LTranslit=lạigʰ
-16	มี	มี	PRON	PRP	Person=1	14	obj	_	Proper=True|Translit=miː|LTranslit=miː
+16	มี	มี	PRON	PRP	Foreign=Yes|Person=1|PronType=Prs	14	obj	_	Lang=en|Proper=True|Translit=miː|LTranslit=miː
 17	เอนีเวย์	เอนีเวย์	ADV	RB	_	14	advmod	_	Proper=True|SpaceAfter=No|Translit='eːniːweːy|LTranslit='eːniːweːy
 18	”	”	PUNCT	''	_	14	punct	_	Translit=”|LTranslit=”
 19	ใน	ใน	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
