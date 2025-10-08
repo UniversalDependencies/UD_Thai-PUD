@@ -3169,7 +3169,7 @@
 36	เฉลี่ย	เฉลี่ย	ADJ	JJ	_	31	conj	_	SpaceAfter=No|Translit=čʰeːlìːy|LTranslit=čʰeːlìːy
 37	ประมาณ	ประมาณ	ADV	RB	_	36	advmod	_	SpaceAfter=No|Translit=pramaːṇ|LTranslit=pramaːṇ
 38	คน	คน	NOUN	NN	_	36	obl	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-39	ละ	ละ	DET	DT	_	38	det	_	Translit=la|LTranslit=la
+39	ละ	ละ	DET	DT	PronType=Tot	38	det	_	Gloss=each|LTranslit=la|Translit=la
 40	15,000	15,000	NUM	CD	_	41	nummod	_	Translit=15,000|LTranslit=15,000
 41	ดอลลาร์	ดอลลาร์	NOUN	NNB	_	36	obl	_	Translit=dɔːllaːr|LTranslit=dɔːllaːr
 
