@@ -37,17 +37,17 @@
     <feat name="Aspect" value="Perf" upos="AUX,VERB">289</feat><!-- ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว -->
     <feat name="Aspect" value="Prog" upos="AUX,VERB">112</feat><!-- อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง -->
     <feat name="ExtPos" value="ADV" upos="ADP">1</feat><!-- อย่าง -->
-    <feat name="Foreign" value="Yes" upos="DET,PRON">12</feat><!-- เดอะ, 'Ya, You, มี, ยู -->
+    <feat name="Foreign" value="Yes" upos="ADJ,ADP,CCONJ,DET,NOUN,PRON">24</feat><!-- เดอะ, อะ, 'Ya, You, นาว, นิว, พาวเวอร์, มี, ยู, วิง -->
     <feat name="Person" value="1" upos="PRON">103</feat><!-- เรา, ฉัน, ผม, ข้าพเจ้า, มี -->
     <feat name="Person" value="2" upos="PRON">19</feat><!-- คุณ, 'Ya, You, นาย, ยู -->
     <feat name="Person" value="3" upos="PRON">325</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง -->
     <feat name="Polarity" value="Neg" upos="PART">205</feat><!-- ไม่, ความไม่, มิ, อย่างไม่, การไม่ -->
-    <feat name="PronType" value="Art" upos="DET">8</feat><!-- เดอะ -->
+    <feat name="PronType" value="Art" upos="DET">11</feat><!-- เดอะ, อะ -->
     <feat name="PronType" value="Dem" upos="DET,PRON">294</feat><!-- นี้, นั้น, นี่, นั่น, ดังกล่าว, นั้นเอง, อื่น -->
     <feat name="PronType" value="Ind" upos="DET,PRON">120</feat><!-- หลาย, อีก, บาง, ใด, ต่าง, เกือบ -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">25</feat><!-- อะไร, หรือเปล่า, หรือไม่, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
-    <feat name="PronType" value="Prs" upos="PRON">543</feat><!-- เขา, กัน, เธอ, เรา, ฉัน, มัน, พระองค์, ผม, คุณ, เอง -->
-    <feat name="PronType" value="Rel" upos="DET,PRON">653</feat><!-- ที่, ซึ่ง, อัน, ผู้, ใคร, ไหน -->
+    <feat name="PronType" value="Prs" upos="PRON">547</feat><!-- เขา, กัน, เธอ, เรา, ฉัน, มัน, พระองค์, ผม, คุณ, เอง -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">654</feat><!-- ที่, ซึ่ง, อัน, ผู้, ใคร, ไหน -->
     <feat name="PronType" value="Tot" upos="DET,PRON">70</feat><!-- ทุก, ทั้ง, ทั้งหมด, แต่ละ, คนละ, ละ -->
     <feat name="Reflex" value="Yes" upos="PRON">26</feat><!-- เอง, ตนเอง, ตัวเอง -->
     <feat name="Typo" value="Yes" upos="PROPN">4</feat><!-- ซิกูร์, บัวโนส, ฟยอกูร์, มาเร -->
@@ -82,15 +82,15 @@
     <dep name="goeswith">4</dep>
     <dep name="iobj">2</dep>
     <dep name="mark">562</dep>
-    <dep name="nmod">506</dep>
+    <dep name="nmod">597</dep>
     <dep name="nmod:poss">438</dep>
     <dep name="nsubj">1620</dep>
     <dep name="nsubj:pass">70</dep>
     <dep name="nummod">372</dep>
     <dep name="obj">1732</dep>
-    <dep name="obl">1420</dep>
+    <dep name="obl">1419</dep>
     <dep name="obl:poss">91</dep>
-    <dep name="obl:tmod">252</dep>
+    <dep name="obl:tmod">162</dep>
     <dep name="parataxis">5</dep>
     <dep name="punct">274</dep>
     <dep name="reparandum">1</dep>
