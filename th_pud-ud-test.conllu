@@ -383,8 +383,8 @@
 14	ใช้	ใช้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 15	เงิน	เงิน	NOUN	NN	_	14	obj	_	Translit=ŋein|LTranslit=ŋein
 16	103.7	103.7	NUM	CD	_	17	nummod	_	Translit=103.7|LTranslit=103.7
-17	ล้าน	ล้าน	NUM	CD	_	18	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
-18	ดอลลาร์	ดอลลาร์	NOUN	NNB	_	15	clf	_	Translit=dɔːllaːr|LTranslit=dɔːllaːr
+17	ล้าน	ล้าน	NUM	CD	_	15	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
+18	ดอลลาร์	ดอลลาร์	NOUN	NNB	_	17	clf	_	Translit=dɔːllaːr|LTranslit=dɔːllaːr
 
 # sent_id = n01005024
 # parallel_id = pud/n01005024
@@ -432,8 +432,8 @@
 10	ใช้	ใช้	VERB	VV	_	5	ccomp	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 11	เวลา	เวลา	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=weːlaː|LTranslit=weːlaː
 12	ประมาณ	ประมาณ	ADV	RB	_	13	advmod	_	Translit=pramaːṇ|LTranslit=pramaːṇ
-13	4	4	NUM	CD	_	14	nummod	_	Translit=4|LTranslit=4
-14	นาที	นาที	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=naːdʰiː|LTranslit=naːdʰiː
+13	4	4	NUM	CD	_	11	nummod	_	Translit=4|LTranslit=4
+14	นาที	นาที	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=naːdʰiː|LTranslit=naːdʰiː
 15	ใน	ใน	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 16	การข้าม	การข้าม	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=kaːrkʰâːm|LTranslit=kaːrkʰâːm
 17	แม่น้ำ	แม่น้ำ	NOUN	NN	_	16	obj	_	Proper=True|SpaceAfter=No|Translit=mæ̀ːnã̂ː|LTranslit=mæ̀ːnã̂ː
@@ -625,8 +625,8 @@
 8	บุตร	บุตร	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=butr|LTranslit=butr
 9	สาว	สาว	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=saːw|LTranslit=saːw
 10	วัย	วัย	NOUN	NN	_	8	compound	_	Translit=wạy|LTranslit=wạy
-11	2	2	NUM	CD	_	12	nummod	_	Translit=2|LTranslit=2
-12	ขวบ	ขวบ	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=kʰwb|LTranslit=kʰwb
+11	2	2	NUM	CD	_	10	nummod	_	Translit=2|LTranslit=2
+12	ขวบ	ขวบ	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=kʰwb|LTranslit=kʰwb
 13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 14	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	8	nmod:poss	_	Gloss=you,she|SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
 15	ด้วย	ด้วย	ADV	RB	_	3	advmod	_	Translit=də̂wy|LTranslit=də̂wy
@@ -710,16 +710,16 @@
 2	แรก	แรก	ADJ	JJ	_	1	amod	_	Translit=ræːk|LTranslit=ræːk
 3	หญิง	หญิง	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=hŷiŋ|LTranslit=hŷiŋ
 4	ยาซีดี	ยาซีดี	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=yaːciːdiː|LTranslit=yaːciːdiː
-5	คน	คน	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-6	หนึ่ง	หนึ่ง	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+5	คน	คน	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+6	หนึ่ง	หนึ่ง	NUM	CD	_	3	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 7	เริ่ม	เริ่ม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=reìm|LTranslit=reìm
 8	ร้องไห้	ร้องไห้	VERB	VV	_	7	xcomp	_	Translit=rɔ̂ːŋhạî|LTranslit=rɔ̂ːŋhạî
 9	แล้ว	แล้ว	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=læ̂ːw|LTranslit=læ̂ːw
 10	ตาม	ตาม	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
 11	ด้วย	ด้วย	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 12	เพื่อน	เพื่อน	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=bʰüàːn|LTranslit=bʰüàːn
-13	คน	คน	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-14	หนึ่ง	หนึ่ง	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+13	คน	คน	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+14	หนึ่ง	หนึ่ง	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 15	ของ	ของ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 16	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	12	nmod:poss	_	Gloss=you,she|Translit=ḏʰœː|LTranslit=ḏʰœː
 
@@ -780,8 +780,8 @@
 24	มี	มี	VERB	VV	_	23	acl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 25	ฝีมือ	ฝีมือ	NOUN	NN	_	24	obj	_	SpaceAfter=No|Translit=fʰiːmüː'|LTranslit=fʰiːmüː'
 26	หลาย	หลาย	DET	DT	PronType=Ind	28	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
-27	ร้อย	ร้อย	NUM	CD	_	28	nummod	_	SpaceAfter=No|Translit=rɔ̂ːy|LTranslit=rɔ̂ːy
-28	ตำแหน่ง	ตำแหน่ง	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=tãːhæːnə̀ŋ|LTranslit=tãːhæːnə̀ŋ
+27	ร้อย	ร้อย	NUM	CD	_	23	nummod	_	SpaceAfter=No|Translit=rɔ̂ːy|LTranslit=rɔ̂ːy
+28	ตำแหน่ง	ตำแหน่ง	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=tãːhæːnə̀ŋ|LTranslit=tãːhæːnə̀ŋ
 29	จน	จน	ADP	IN	ExtPos=ADP	31	case	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 30	ถึง	ถึง	ADP	IN	_	29	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 31	ปี	ปี	NOUN	NN	_	15	obl	_	Translit=piː|LTranslit=piː
@@ -989,8 +989,8 @@
 4	ด้าน	ด้าน	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=dâːn|LTranslit=dâːn
 5	การ	การ	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=kaːr|LTranslit=kaːr
 6	คมนาคม	คมนาคม	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=gʰmnaːgʰm|LTranslit=gʰmnaːgʰm
-7	ท่าน	ท่าน	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=dʰàːn|LTranslit=dʰàːn
-8	หนึ่ง	หนึ่ง	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+7	ท่าน	ท่าน	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=dʰàːn|LTranslit=dʰàːn
+8	หนึ่ง	หนึ่ง	NUM	CD	_	2	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 9	เตือน	เตือน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tüaːn|LTranslit=tüaːn
 10	ว่า	ว่า	ADP	IN	_	17	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 11	อินเทอร์เน็ต	อินเทอร์เน็ต	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit='indʰœːrnet|LTranslit='indʰœːrnet
@@ -1667,8 +1667,8 @@
 33	อัตรา	อัตรา	NOUN	NN	_	32	obj	_	SpaceAfter=No|Translit='ạtraː|LTranslit='ạtraː
 34	เพียง	เพียง	ADV	RB	_	36	advmod	_	SpaceAfter=No|Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
 35	ราว	ราว	ADV	RB	_	36	advmod	_	Translit=raːw|LTranslit=raːw
-36	66	66	NUM	CD	_	37	nummod	_	SpaceAfter=No|Translit=66|LTranslit=66
-37	%	%	SYM	SYM	_	33	clf	_	Translit=%|LTranslit=%
+36	66	66	NUM	CD	_	33	nummod	_	SpaceAfter=No|Translit=66|LTranslit=66
+37	%	%	SYM	SYM	_	36	clf	_	Translit=%|LTranslit=%
 38	กว่า	กว่า	ADV	RB	_	36	advmod	_	Translit=kwàː|LTranslit=kwàː
 
 # sent_id = n01024013
@@ -1709,8 +1709,8 @@
 31	ได้	ได้	AUX	MD	_	24	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 32	เป็น	เป็น	AUX	VC	_	33	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 33	เวลา	เวลา	NOUN	NN	_	24	acl	_	SpaceAfter=No|Translit=weːlaː|LTranslit=weːlaː
-34	หก	หก	NUM	CD	_	35	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
-35	เดือน	เดือน	NOUN	NNB	_	33	clf	_	Translit=düaːn|LTranslit=düaːn
+34	หก	หก	NUM	CD	_	33	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
+35	เดือน	เดือน	NOUN	NNB	_	34	clf	_	Translit=düaːn|LTranslit=düaːn
 36	โดย	โดย	ADP	IN	_	38	mark	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 37	ไม่	ไม่	PART	NEG	Polarity=Neg	38	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 38	มี	มี	VERB	VV	_	20	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -2478,9 +2478,9 @@
 6	ให้	ให้	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 7	แก่	แก่	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kæ̀ː|LTranslit=kæ̀ː
 8	ประธานาธิบดี	ประธานาธิบดี	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=praḏʰaːnaːḏʰibdiː|LTranslit=praḏʰaːnaːḏʰibdiː
-9	คน	คน	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+9	คน	คน	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 10	ที่	ที่	NOUN	NN	_	9	compound	_	Translit=dʰìː|LTranslit=dʰìː
-11	45	45	NUM	CD	_	9	nummod	_	Translit=45|LTranslit=45
+11	45	45	NUM	CD	_	8	nummod	_	Translit=45|LTranslit=45
 12	ของ	ของ	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 13	สหรัฐ	สหรัฐ	NOUN	NN	_	8	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=shrạṭʰ|LTranslit=shrạṭʰ
 14	อเมริกา	อเมริกา	PROPN	NNP	_	13	flat:name	_	Translit='meːrikaː|LTranslit='meːrikaː
@@ -3163,8 +3163,8 @@
 30	จาก	จาก	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 31	จำนวน	จำนวน	NOUN	NN	_	28	obl	_	Translit=čãːnwn|LTranslit=čãːnwn
 32	1.5	1.5	NUM	CD	_	33	nummod	_	Translit=1.5|LTranslit=1.5
-33	ล้าน	ล้าน	NUM	CD	_	34	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
-34	ดอลลาร์	ดอลลาร์	NOUN	NNB	_	31	clf	_	Translit=dɔːllaːr|LTranslit=dɔːllaːr
+33	ล้าน	ล้าน	NUM	CD	_	31	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
+34	ดอลลาร์	ดอลลาร์	NOUN	NNB	_	33	clf	_	Translit=dɔːllaːr|LTranslit=dɔːllaːr
 35	หรือ	หรือ	CCONJ	CC	_	36	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
 36	เฉลี่ย	เฉลี่ย	ADJ	JJ	_	31	conj	_	SpaceAfter=No|Translit=čʰeːlìːy|LTranslit=čʰeːlìːy
 37	ประมาณ	ประมาณ	ADV	RB	_	36	advmod	_	SpaceAfter=No|Translit=pramaːṇ|LTranslit=pramaːṇ
@@ -3191,8 +3191,8 @@
 11	จ้าง	จ้าง	VERB	VV	_	4	conj	_	SpaceAfter=No|Translit=čâːŋ|LTranslit=čâːŋ
 12	งาน	งาน	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
 13	กว่า	กว่า	ADV	RB	_	14	advmod	_	Translit=kwàː|LTranslit=kwàː
-14	6,000	6,000	NUM	CD	_	15	nummod	_	Translit=6,000|LTranslit=6,000
-15	คน	คน	NOUN	NNB	_	12	clf	_	Translit=gʰn|LTranslit=gʰn
+14	6,000	6,000	NUM	CD	_	12	nummod	_	Translit=6,000|LTranslit=6,000
+15	คน	คน	NOUN	NNB	_	14	clf	_	Translit=gʰn|LTranslit=gʰn
 
 # sent_id = n01043025
 # parallel_id = pud/n01043025
@@ -3327,8 +3327,8 @@
 17	ชาว	ชาว	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
 18	ควิเบก	ควิเบก	PROPN	NNP	_	15	compound	_	SpaceAfter=No|Translit=gʰwibeːk|LTranslit=gʰwibeːk
 19	อย่างน้อย	อย่างน้อย	ADJ	JJ	_	20	advmod	_	Translit='yàːŋnɔ̂ːy|LTranslit='yàːŋnɔ̂ːy
-20	6	6	NUM	CD	_	21	nummod	_	Translit=6|LTranslit=6
-21	คน	คน	NOUN	NNB	_	15	clf	_	Translit=gʰn|LTranslit=gʰn
+20	6	6	NUM	CD	_	15	nummod	_	Translit=6|LTranslit=6
+21	คน	คน	NOUN	NNB	_	20	clf	_	Translit=gʰn|LTranslit=gʰn
 22	ถูก	ถูก	AUX	MD	Voice=Pass	23	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 23	เพ่งเล็ง	เพ่งเล็ง	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=bʰèːŋleŋ|LTranslit=bʰèːŋleŋ
 24	ใน	ใน	ADP	IN	_	25	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -3901,8 +3901,8 @@
 1	ด้วย	ด้วย	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 2	อายุ	อายุ	NOUN	NN	_	8	nmod	_	SpaceAfter=No|ToDo=nmod|Translit='aːyu|LTranslit='aːyu
 3	เพียง	เพียง	ADV	RB	_	4	advmod	_	Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
-4	20	20	NUM	CD	_	5	nummod	_	Translit=20|LTranslit=20
-5	ปี	ปี	NOUN	NNB	_	2	clf	_	Translit=piː|LTranslit=piː
+4	20	20	NUM	CD	_	2	nummod	_	Translit=20|LTranslit=20
+5	ปี	ปี	NOUN	NNB	_	4	clf	_	Translit=piː|LTranslit=piː
 6	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	8	nsubj	_	Gloss=you,she|SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
 7	เป็น	เป็น	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 8	กระบอก	กระบอก	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=krabɔːk|LTranslit=krabɔːk
@@ -4752,8 +4752,8 @@
 9	อ้าง	อ้าง	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit='âːŋ|LTranslit='âːŋ
 10	นัก	นัก	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 11	วิชาการ	วิชาการ	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=wićʰaːkaːr|LTranslit=wićʰaːkaːr
-12	สอง	สอง	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-13	คน	คน	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+12	สอง	สอง	NUM	CD	_	10	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+13	คน	คน	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 14	ที่	ที่	DET	WDT	PronType=Rel	15	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 15	บอก	บอก	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=bɔːk|LTranslit=bɔːk
 16	ว่า	ว่า	ADP	IN	_	20	mark	_	Translit=wàː|LTranslit=wàː
@@ -5106,8 +5106,8 @@
 1	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 2	ลูกเรือ	ลูกเรือ	NOUN	NN	_	1	obj	_	SpaceAfter=No|Translit=luːkrüaː|LTranslit=luːkrüaː
 3	กว่า	กว่า	ADV	RB	_	4	advmod	_	Translit=kwàː|LTranslit=kwàː
-4	330	330	NUM	CD	_	5	nummod	_	Translit=330|LTranslit=330
-5	นาย	นาย	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=naːy|LTranslit=naːy
+4	330	330	NUM	CD	_	2	nummod	_	Translit=330|LTranslit=330
+5	นาย	นาย	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=naːy|LTranslit=naːy
 6	บน	บน	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=bn|LTranslit=bn
 7	เรือ	เรือ	NOUN	NN	_	1	obl	_	Translit=rüaː|LTranslit=rüaː
 
@@ -5191,8 +5191,8 @@
 3	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	4	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 4	ใช้	ใช้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 5	เวลา	เวลา	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=weːlaː|LTranslit=weːlaː
-6	สี่	สี่	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
-7	ปี	ปี	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
+6	สี่	สี่	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
+7	ปี	ปี	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 8	กับ	กับ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 9	สถานี	สถานี	NOUN	NN	_	4	obl	_	Proper=True|SpaceAfter=No|Translit=stʰaːniː|LTranslit=stʰaːniː
 10	วิทยุ	วิทยุ	NOUN	NN	_	9	flat:name	_	Proper=True|SpaceAfter=No|Translit=widʰyu|LTranslit=widʰyu
@@ -5428,8 +5428,8 @@
 9	ใต้	ใต้	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=taî|LTranslit=taî
 10	แก้ว	แก้ว	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit=kæ̂ːw|LTranslit=kæ̂ːw
 11	คว่ำ	คว่ำ	VERB	VV	_	10	acl	_	Translit=gʰwã̀ː|LTranslit=gʰwã̀ː
-12	3	3	NUM	CD	_	13	nummod	_	Translit=3|LTranslit=3
-13	ใบ	ใบ	NOUN	NNB	_	10	clf	_	Translit=bai|LTranslit=bai
+12	3	3	NUM	CD	_	10	nummod	_	Translit=3|LTranslit=3
+13	ใบ	ใบ	NOUN	NNB	_	12	clf	_	Translit=bai|LTranslit=bai
 
 # sent_id = n01075044
 # parallel_id = pud/n01075044
@@ -5861,22 +5861,22 @@
 8	บัญชี	บัญชี	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=bạŷćʰiː|LTranslit=bạŷćʰiː
 9	เทสโก้	เทสโก้	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit=dʰeːskôː|LTranslit=dʰeːskôː
 10	ได้	ได้	AUX	MD	_	6	aux	_	Translit=dạî|LTranslit=dạî
-11	4	4	NUM	CD	_	12	nummod	_	Translit=4|LTranslit=4
-12	บัญชี	บัญชี	NOUN	NNB	_	8	clf	_	Translit=bạŷćʰiː|LTranslit=bạŷćʰiː
+11	4	4	NUM	CD	_	8	nummod	_	Translit=4|LTranslit=4
+12	บัญชี	บัญชี	NOUN	NNB	_	11	clf	_	Translit=bạŷćʰiː|LTranslit=bạŷćʰiː
 13	และ	และ	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 14	รับ	รับ	VERB	VV	_	7	conj	_	SpaceAfter=No|Translit=rạb|LTranslit=rạb
 15	ผล	ผล	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=pʰl|LTranslit=pʰl
 16	ตอบแทน	ตอบแทน	VERB	VV	_	15	acl	_	Translit=tɔːbdʰæːn|LTranslit=tɔːbdʰæːn
-17	3	3	NUM	CD	_	18	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
-18	%	%	SYM	SYM	_	15	clf	_	Translit=%|LTranslit=%
+17	3	3	NUM	CD	_	15	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
+18	%	%	SYM	SYM	_	17	clf	_	Translit=%|LTranslit=%
 19	จาก	จาก	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 20	เงิน	เงิน	NOUN	NN	_	14	obl	_	Translit=ŋein|LTranslit=ŋein
-21	12,000	12,000	NUM	CD	_	22	nummod	_	Translit=12,000|LTranslit=12,000
-22	ปอนด์	ปอนด์	NOUN	NNB	_	20	clf	_	Translit=pɔːnd|LTranslit=pɔːnd
+21	12,000	12,000	NUM	CD	_	20	nummod	_	Translit=12,000|LTranslit=12,000
+22	ปอนด์	ปอนด์	NOUN	NNB	_	21	clf	_	Translit=pɔːnd|LTranslit=pɔːnd
 23	เป็น	เป็น	AUX	VC	_	24	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 24	เงิน	เงิน	NOUN	NN	_	14	acl	_	Translit=ŋein|LTranslit=ŋein
-25	360	360	NUM	CD	_	26	nummod	_	Translit=360|LTranslit=360
-26	ปอนด์	ปอนด์	NOUN	NNB	_	24	clf	_	Translit=pɔːnd|LTranslit=pɔːnd
+25	360	360	NUM	CD	_	24	nummod	_	Translit=360|LTranslit=360
+26	ปอนด์	ปอนด์	NOUN	NNB	_	25	clf	_	Translit=pɔːnd|LTranslit=pɔːnd
 
 # sent_id = n01084023
 # parallel_id = pud/n01084023
@@ -5900,10 +5900,10 @@
 15	ยอด	ยอด	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=yɔːd|LTranslit=yɔːd
 16	เงิน	เงิน	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=ŋein|LTranslit=ŋein
 17	ฝาก	ฝาก	VERB	VV	_	16	acl	_	Translit=fʰaːk|LTranslit=fʰaːk
-18	3,000	3,000	NUM	CD	_	21	nummod	_	SpaceAfter=No|Translit=3,000|LTranslit=3,000
+18	3,000	3,000	NUM	CD	_	15	nummod	_	SpaceAfter=No|Translit=3,000|LTranslit=3,000
 19	-	-	PUNCT	-	_	20	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
 20	5,000	5,000	NUM	CD	_	18	nmod	_	Translit=5,000|LTranslit=5,000
-21	ปอนด์	ปอนด์	NOUN	NNB	_	15	clf	_	Translit=pɔːnd|LTranslit=pɔːnd
+21	ปอนด์	ปอนด์	NOUN	NNB	_	18	clf	_	Translit=pɔːnd|LTranslit=pɔːnd
 22	เมื่อ	เมื่อ	ADP	IN	_	23	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 23	เพิ่ม	เพิ่ม	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=bʰeìm|LTranslit=bʰeìm
 24	ตัว	ตัว	NOUN	NN	_	23	obj	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
@@ -5945,8 +5945,8 @@
 # translit = 'ạtraː 3% nîːmiːpʰlkạbpʰûːtʰüː'bạtrnekdʰaːrdʰìːtɔ̂ːŋkaːrkûːyüːmŋeinrahwàːŋ 15,001-19,999 pɔːnd penweːlaː 2-3 piːćʰèːnkạn
 # text_en = That 3% rate also applies to Nectar cardholders looking to borrow from £15,001-£19,999 over a period of between two and three years.
 1	อัตรา	อัตรา	NOUN	NN	_	5	nsubj	_	Translit='ạtraː|LTranslit='ạtraː
-2	3	3	NUM	CD	_	3	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
-3	%	%	SYM	SYM	_	1	clf	_	Translit=%|LTranslit=%
+2	3	3	NUM	CD	_	1	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
+3	%	%	SYM	SYM	_	2	clf	_	Translit=%|LTranslit=%
 4	นี้	นี้	DET	DT	PronType=Dem	1	det	_	Gloss=this|SpaceAfter=No|Translit=nîː|LTranslit=nîː
 5	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 6	ผล	ผล	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=pʰl|LTranslit=pʰl
@@ -5966,10 +5966,10 @@
 20	ปอนด์	ปอนด์	NOUN	NNB	_	14	obl	_	Translit=pɔːnd|LTranslit=pɔːnd
 21	เป็น	เป็น	AUX	VC	_	22	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 22	เวลา	เวลา	NOUN	NN	_	13	acl	_	Translit=weːlaː|LTranslit=weːlaː
-23	2	2	NUM	CD	_	26	nummod	_	SpaceAfter=No|Translit=2|LTranslit=2
+23	2	2	NUM	CD	_	22	nummod	_	SpaceAfter=No|Translit=2|LTranslit=2
 24	-	-	PUNCT	-	_	25	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
 25	3	3	NUM	CD	_	23	nmod	_	Translit=3|LTranslit=3
-26	ปี	ปี	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
+26	ปี	ปี	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 27	เช่น	เช่น	VERB	VC	_	5	acl	_	SpaceAfter=No|Translit=ćʰèːn|LTranslit=ćʰèːn
 28	กัน	กัน	PRON	PRP	PronType=Prs	27	xcomp	_	Gloss=it|Translit=kạn|LTranslit=kạn
 
@@ -6338,8 +6338,8 @@
 10	หน้า	หน้า	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=hnâː|LTranslit=hnâː
 11	ของ	ของ	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 12	ผู้หญิง	ผู้หญิง	NOUN	NN	_	10	nmod:poss	_	SpaceAfter=No|Translit=pʰûːhŷiŋ|LTranslit=pʰûːhŷiŋ
-13	คน	คน	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-14	หนึ่ง	หนึ่ง	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+13	คน	คน	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+14	หนึ่ง	หนึ่ง	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 15	ก็	ก็	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 16	คอย	คอย	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=gʰɔːy|LTranslit=gʰɔːy
 17	โผล่	โผล่	VERB	VV	_	16	xcomp	_	SpaceAfter=No|Translit=pʰoːlə̀|LTranslit=pʰoːlə̀
@@ -6604,8 +6604,8 @@
 2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 3	สหภาพ	สหภาพ	NOUN	NN	_	1	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=shḇʰaːbʰ|LTranslit=shḇʰaːbʰ
 4	ยุโรป	ยุโรป	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No|Translit=yuroːp|LTranslit=yuroːp
-5	คน	คน	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-6	หนึ่ง	หนึ่ง	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+5	คน	คน	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+6	หนึ่ง	หนึ่ง	NUM	CD	_	1	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 7	กล่าว	กล่าว	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=klàːw|LTranslit=klàːw
 8	ว่า	ว่า	ADP	IN	_	15	mark	_	Translit=wàː|LTranslit=wàː
 9	"	"	PUNCT	``	_	15	punct	_	SpaceAfter=No|Translit="|LTranslit="
@@ -6964,8 +6964,8 @@
 5	มี	มี	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 6	หอคอย	หอคอย	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=hɔːgʰɔːy|LTranslit=hɔːgʰɔːy
 7	สุเหร่า	สุเหร่า	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=suheːràː|LTranslit=suheːràː
-8	สอง	สอง	NUM	CD	_	9	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-9	แห่ง	แห่ง	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
+8	สอง	สอง	NUM	CD	_	6	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+9	แห่ง	แห่ง	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
 10	ตั้ง	ตั้ง	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
 11	ตระหง่าน	ตระหง่าน	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=trahŋàːn|LTranslit=trahŋàːn
 12	อยู่	อยู่	VERB	AS	Aspect=Prog	5	xcomp	_	Translit='yùː|LTranslit='yùː
@@ -7470,8 +7470,8 @@
 22	แล้ว	แล้ว	AUX	AS	Aspect=Perf	19	aux	_	SpaceAfter=No|Translit=læ̂ːw|LTranslit=læ̂ːw
 23	กว่า	กว่า	ADV	RB	_	25	advmod	_	Translit=kwàː|LTranslit=kwàː
 24	16,000	16,000	NUM	CD	_	25	nummod	_	Translit=16,000|LTranslit=16,000
-25	ล้าน	ล้าน	NUM	CD	_	26	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
-26	ยูโร	ยูโร	NOUN	NNB	_	20	clf	_	Translit=yuːroː|LTranslit=yuːroː
+25	ล้าน	ล้าน	NUM	CD	_	20	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
+26	ยูโร	ยูโร	NOUN	NNB	_	25	clf	_	Translit=yuːroː|LTranslit=yuːroː
 
 # sent_id = n01107008
 # parallel_id = pud/n01107008
@@ -7737,8 +7737,8 @@
 9	หุ้น	หุ้น	NOUN	NN	_	1	conj	_	SpaceAfter=No|Translit=hûn|LTranslit=hûn
 10	กู้	กู้	VERB	VV	_	9	acl	_	SpaceAfter=No|Translit=kûː|LTranslit=kûː
 11	มูลค่า	มูลค่า	NOUN	NN	_	9	compound	_	Translit=muːlgʰàː|LTranslit=muːlgʰàː
-12	10,000	10,000	NUM	CD	_	13	nummod	_	Translit=10,000|LTranslit=10,000
-13	ปอนด์	ปอนด์	NOUN	NNB	_	11	clf	_	Translit=pɔːnd|LTranslit=pɔːnd
+12	10,000	10,000	NUM	CD	_	11	nummod	_	Translit=10,000|LTranslit=10,000
+13	ปอนด์	ปอนด์	NOUN	NNB	_	12	clf	_	Translit=pɔːnd|LTranslit=pɔːnd
 14	คาด	คาด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰaːd|LTranslit=gʰaːd
 15	ว่า	ว่า	ADP	IN	_	18	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 16	จะ	จะ	AUX	MD	_	18	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -7746,8 +7746,8 @@
 18	รับ	รับ	VERB	VV	_	14	ccomp	_	SpaceAfter=No|Translit=rạb|LTranslit=rạb
 19	ผล	ผล	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=pʰl|LTranslit=pʰl
 20	ตอบแทน	ตอบแทน	VERB	VV	_	19	acl	_	Translit=tɔːbdʰæːn|LTranslit=tɔːbdʰæːn
-21	125	125	NUM	CD	_	22	nummod	_	Translit=125|LTranslit=125
-22	ปอนด์	ปอนด์	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=pɔːnd|LTranslit=pɔːnd
+21	125	125	NUM	CD	_	19	nummod	_	Translit=125|LTranslit=125
+22	ปอนด์	ปอนด์	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=pɔːnd|LTranslit=pɔːnd
 23	ต่อ	ต่อ	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 24	ปี	ปี	NOUN	NN	_	18	obl	_	Translit=piː|LTranslit=piː
 
@@ -8322,8 +8322,8 @@
 12	หนัง	หนัง	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=hnạŋ|LTranslit=hnạŋ
 13	มา	มา	PART	RP	_	11	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 14	แล้ว	แล้ว	AUX	AS	Aspect=Perf	11	aux	_	Translit=læ̂ːw|LTranslit=læ̂ːw
-15	8	8	NUM	CD	_	16	nummod	_	Translit=8|LTranslit=8
-16	เรื่อง	เรื่อง	NOUN	NNB	_	12	clf	_	Translit=rüàːŋ|LTranslit=rüàːŋ
+15	8	8	NUM	CD	_	12	nummod	_	Translit=8|LTranslit=8
+16	เรื่อง	เรื่อง	NOUN	NNB	_	15	clf	_	Translit=rüàːŋ|LTranslit=rüàːŋ
 
 # sent_id = n01118017
 # parallel_id = pud/n01118017
@@ -8635,8 +8635,8 @@
 8	ใน	ใน	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 9	หมู่	หมู่	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=hmùː|LTranslit=hmùː
 10	บ้าน	บ้าน	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=bâːn|LTranslit=bâːn
-11	แห่ง	แห่ง	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
-12	หนึ่ง	หนึ่ง	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+11	แห่ง	แห่ง	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
+12	หนึ่ง	หนึ่ง	NUM	CD	_	9	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 13	ใกล้	ใกล้	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=kailə̂|LTranslit=kailə̂
 14	ๆ	ๆ	SYM	SYM	_	15	dep	_	Proper=True|ToDo=ex-adp-child|Translit=.|LTranslit=.
 15	ซันเดอร์แลนด์	ซันเดอร์แลนด์	PROPN	NNP	_	9	nmod	_	Translit=cạndœːrlæːnd|LTranslit=cạndœːrlæːnd
@@ -8767,8 +8767,8 @@
 18	ใน	ใน	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 19	ข้อหา	ข้อหา	NOUN	NN	_	12	obl	_	SpaceAfter=No|Translit=kʰɔ̂ːhaː|LTranslit=kʰɔ̂ːhaː
 20	ฆาตกรรม	ฆาตกรรม	NOUN	NN	_	19	compound	_	SpaceAfter=No|Translit=qʰaːtkrrm|LTranslit=qʰaːtkrrm
-21	สอง	สอง	NUM	CD	_	22	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-22	คดี	คดี	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gʰdiː|LTranslit=gʰdiː
+21	สอง	สอง	NUM	CD	_	19	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+22	คดี	คดี	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=gʰdiː|LTranslit=gʰdiː
 23	และ	และ	CCONJ	CC	_	24	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 24	จัดการ	จัดการ	VERB	VV	_	19	conj	_	SpaceAfter=No|Translit=čạdkaːr|LTranslit=čạdkaːr
 25	กับ	กับ	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
@@ -9085,8 +9085,8 @@
 2	ฟลอริดา	ฟลอริดา	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit=flɔːridaː|LTranslit=flɔːridaː
 3	กว่า	กว่า	ADV	RB	_	5	advmod	_	Translit=kwàː|LTranslit=kwàː
 4	5.7	5.7	NUM	CD	_	5	nummod	_	Translit=5.7|LTranslit=5.7
-5	ล้าน	ล้าน	NUM	CD	_	6	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
-6	คน	คน	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+5	ล้าน	ล้าน	NUM	CD	_	1	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
+6	คน	คน	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 7	ออก	ออก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit='ɔːk|LTranslit='ɔːk
 8	เสียง	เสียง	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=siaːŋ|LTranslit=siaːŋ
 9	ลง	ลง	VERB	VV	_	7	acl	_	SpaceAfter=No|Translit=lŋ|LTranslit=lŋ
@@ -9174,8 +9174,8 @@
 2	ยัง	ยัง	VERB	AS	Aspect=Prog	0	root	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 3	เขียน	เขียน	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=kʰiaːn|LTranslit=kʰiaːn
 4	หนังสือ	หนังสือ	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=hnạŋsüː'|LTranslit=hnạŋsüː'
-5	สอง	สอง	NUM	CD	_	6	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-6	เล่ม	เล่ม	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=lèːm|LTranslit=lèːm
+5	สอง	สอง	NUM	CD	_	4	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+6	เล่ม	เล่ม	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=lèːm|LTranslit=lèːm
 7	ที่	ที่	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 8	เหลือ	เหลือ	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|Translit=heːlüː'|LTranslit=heːlüː'
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -9578,8 +9578,8 @@
 5	ดี	ดี	ADJ	JJ	_	3	acl:relcl	_	SpaceAfter=No|Translit=diː|LTranslit=diː
 6	ของ	ของ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 7	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	3	nmod:poss	_	Gloss=I|SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
-8	คน	คน	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-9	หนึ่ง	หนึ่ง	NUM	CD	_	8	nummod	_	Translit=hnǜŋ|LTranslit=hnǜŋ
+8	คน	คน	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+9	หนึ่ง	หนึ่ง	NUM	CD	_	3	nummod	_	Translit=hnǜŋ|LTranslit=hnǜŋ
 10	ก็	ก็	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 11	เลย	เลย	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=leːy|LTranslit=leːy
 12	แย่	แย่	ADJ	JJ	_	3	ccomp	_	SpaceAfter=No|Translit=yæ̀ː|LTranslit=yæ̀ː
@@ -9928,8 +9928,8 @@
 # text_en = Two Australians, who by their own admission are terrible golfers, bluffed their way into a premier golf tournament in North Korea.
 1	ชาว	ชาว	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
 2	ออสเตรเลีย	ออสเตรเลีย	PROPN	NNP	_	1	compound	_	SpaceAfter=No|Translit='ɔːsteːrliaː|LTranslit='ɔːsteːrliaː
-3	สอง	สอง	NUM	CD	_	4	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-4	คน	คน	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+3	สอง	สอง	NUM	CD	_	1	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+4	คน	คน	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 5	ผู้	ผู้	DET	WDT	PronType=Rel	6	nsubj	_	Gloss=that|SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
 6	ยอมรับ	ยอมรับ	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No|Translit=yɔːmrạb|LTranslit=yɔːmrạb
 7	ว่า	ว่า	ADP	IN	_	9	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -9967,8 +9967,8 @@
 9	ระหว่าง	ระหว่าง	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=rahwàːŋ|LTranslit=rahwàːŋ
 10	ที่	ที่	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 11	ดิน	ดิน	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=din|LTranslit=din
-12	สอง	สอง	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-13	แปลง	แปลง	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=pæːlŋ|LTranslit=pæːlŋ
+12	สอง	สอง	NUM	CD	_	10	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+13	แปลง	แปลง	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=pæːlŋ|LTranslit=pæːlŋ
 14	ได้	ได้	AUX	MD	_	4	aux	_	Translit=dạî|LTranslit=dạî
 15	และ	และ	CCONJ	CC	_	18	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 16	ก็	ก็	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
@@ -10154,8 +10154,8 @@
 5	มี	มี	VERB	VV	_	3	ccomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 6	อาสาสมัคร	อาสาสมัคร	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit='aːsaːsmạgʰr|LTranslit='aːsaːsmạgʰr
 7	ถึง	ถึง	ADV	RB	_	8	advmod	_	Translit=tʰüŋ|LTranslit=tʰüŋ
-8	1,200	1,200	NUM	CD	_	9	nummod	_	Translit=1,200|LTranslit=1,200
-9	คน	คน	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+8	1,200	1,200	NUM	CD	_	6	nummod	_	Translit=1,200|LTranslit=1,200
+9	คน	คน	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 10	ทำ	ทำ	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 11	งาน	งาน	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
 12	กับ	กับ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
@@ -10916,8 +10916,8 @@
 14	สภา	สภา	NOUN	NN	_	12	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=sḇʰaː|LTranslit=sḇʰaː
 15	แห่ง	แห่ง	ADP	IN	_	16	case	_	Proper=True|SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
 16	รัฐ	รัฐ	NOUN	NN	_	14	nmod:poss	_	Proper=True|Translit=rạṭʰ|LTranslit=rạṭʰ
-17	5	5	NUM	CD	_	18	nummod	_	Translit=5|LTranslit=5
-18	คน	คน	NOUN	NNB	_	14	clf	_	Translit=gʰn|LTranslit=gʰn
+17	5	5	NUM	CD	_	14	nummod	_	Translit=5|LTranslit=5
+18	คน	คน	NOUN	NNB	_	17	clf	_	Translit=gʰn|LTranslit=gʰn
 
 # sent_id = w01007070
 # parallel_id = pud/w01007070
@@ -11466,8 +11466,8 @@
 10	ยอด	ยอด	NOUN	NN	_	6	conj	_	Proper=True|SpaceAfter=No|Translit=yɔːd|LTranslit=yɔːd
 11	เขา	เขา	NOUN	NN	_	10	flat:name	_	Proper=True|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 12	เคนยา	เคนยา	PROPN	NNP	_	10	flat:name	_	Translit=gʰeːnyaː|LTranslit=gʰeːnyaː
-13	สอง	สอง	NUM	CD	_	14	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-14	ยอด	ยอด	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yɔːd|LTranslit=yɔːd
+13	สอง	สอง	NUM	CD	_	6	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+14	ยอด	ยอด	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=yɔːd|LTranslit=yɔːd
 15	เขา	เขา	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 16	ที่	ที่	DET	WDT	PronType=Rel	17	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 17	สูง	สูง	ADJ	JJ	_	14	acl:relcl	_	SpaceAfter=No|Translit=suːŋ|LTranslit=suːŋ
@@ -11619,10 +11619,10 @@
 19	ของ	ของ	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 20	เด็ก	เด็ก	NOUN	NN	_	18	nmod:poss	_	SpaceAfter=No|Translit=dek|LTranslit=dek
 21	อายุ	อายุ	NOUN	NN	_	20	compound	_	Translit='aːyu|LTranslit='aːyu
-22	5	5	NUM	CD	_	25	nummod	_	Translit=5|LTranslit=5
+22	5	5	NUM	CD	_	21	nummod	_	Translit=5|LTranslit=5
 23	ถึง	ถึง	ADP	IN	_	24	case	_	Translit=tʰüŋ|LTranslit=tʰüŋ
 24	14	14	NUM	CD	_	22	nmod	_	Translit=14|LTranslit=14
-25	ปี	ปี	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
+25	ปี	ปี	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 26	เป็น	เป็น	AUX	VC	_	27	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 27	แรงงาน	แรงงาน	NOUN	NN	_	15	ccomp	_	SpaceAfter=No|Translit=ræːŋŋaːn|LTranslit=ræːŋŋaːn
 28	เด็ก	เด็ก	NOUN	NN	_	27	compound	_	Translit=dek|LTranslit=dek
@@ -11633,10 +11633,10 @@
 33	ของ	ของ	ADP	IN	_	34	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 34	เด็ก	เด็ก	NOUN	NN	_	32	nmod:poss	_	SpaceAfter=No|Translit=dek|LTranslit=dek
 35	วัย	วัย	NOUN	NN	_	34	compound	_	Translit=wạy|LTranslit=wạy
-36	7	7	NUM	CD	_	39	nummod	_	Translit=7|LTranslit=7
+36	7	7	NUM	CD	_	35	nummod	_	Translit=7|LTranslit=7
 37	ถึง	ถึง	ADP	IN	_	38	case	_	Translit=tʰüŋ|LTranslit=tʰüŋ
 38	14	14	NUM	CD	_	36	nmod	_	Translit=14|LTranslit=14
-39	ปี	ปี	NOUN	NNB	_	35	clf	_	Translit=piː|LTranslit=piː
+39	ปี	ปี	NOUN	NNB	_	36	clf	_	Translit=piː|LTranslit=piː
 40	ทำ	ทำ	VERB	VV	_	27	conj	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 41	งาน	งาน	NOUN	NN	_	40	obj	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
 42	และ	และ	CCONJ	CC	_	43	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -11799,8 +11799,8 @@
 # text_en = Two of the most notable Mediterranean civilisations in classical antiquity were the Greek city states and the Phoenicians, both of which extensively colonised the coastlines of the Mediterranean.
 1	อารยธรรม	อารยธรรม	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit='aːryḏʰrrm|LTranslit='aːryḏʰrrm
 2	เมดิเตอร์เรเนียน	เมดิเตอร์เรเนียน	PROPN	NNP	_	1	compound	_	Translit=meːditœːrreːniaːn|LTranslit=meːditœːrreːniaːn
-3	2	2	NUM	CD	_	4	nummod	_	Translit=2|LTranslit=2
-4	แห่ง	แห่ง	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
+3	2	2	NUM	CD	_	1	nummod	_	Translit=2|LTranslit=2
+4	แห่ง	แห่ง	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
 5	ที่	ที่	DET	WDT	PronType=Rel	7	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 7	ที่	ที่	PRON	PRP	PronType=Rel	1	acl:relcl	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -12491,8 +12491,8 @@
 6	พึ่งพา	พึ่งพา	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰǜŋbʰaː|LTranslit=bʰǜŋbʰaː
 7	น้ำ	น้ำ	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=nã̂ː|LTranslit=nã̂ː
 8	ถึง	ถึง	ADV	RB	_	9	advmod	_	Translit=tʰüŋ|LTranslit=tʰüŋ
-9	80	80	NUM	CD	_	10	nummod	_	SpaceAfter=No|Translit=80|LTranslit=80
-10	%	%	SYM	SYM	_	7	clf	_	Translit=%|LTranslit=%
+9	80	80	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=80|LTranslit=80
+10	%	%	SYM	SYM	_	9	clf	_	Translit=%|LTranslit=%
 11	จาก	จาก	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 12	สาขา	สาขา	NOUN	NN	_	10	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=saːkʰaː|LTranslit=saːkʰaː
 13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
@@ -13001,8 +13001,8 @@
 11	แบบ	แบบ	NOUN	NN	_	8	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=bæːb|LTranslit=bæːb
 12	จำลอง	จำลอง	ADJ	JJ	_	11	amod	_	SpaceAfter=No|Translit=čãːlɔːŋ|LTranslit=čãːlɔːŋ
 13	แบบ	แบบ	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=bæːb|LTranslit=bæːb
-14	เจ็ด	เจ็ด	NUM	CD	_	15	nummod	_	SpaceAfter=No|Translit=čed|LTranslit=čed
-15	ทวีป	ทวีป	NOUN	NNB	_	13	clf	_	Translit=dʰwiːp|LTranslit=dʰwiːp
+14	เจ็ด	เจ็ด	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=čed|LTranslit=čed
+15	ทวีป	ทวีป	NOUN	NNB	_	14	clf	_	Translit=dʰwiːp|LTranslit=dʰwiːp
 
 # sent_id = w01037080
 # parallel_id = pud/w01037080
@@ -13399,8 +13399,8 @@
 13	ฟ้า	ฟ้า	NOUN	NN	_	12	compound	_	SpaceAfter=No|Translit=fâː|LTranslit=fâː
 14	ผ่า	ผ่า	VERB	VV	_	13	acl	_	SpaceAfter=No|Translit=pʰàː|LTranslit=pʰàː
 15	เพียง	เพียง	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
-16	เจ็ด	เจ็ด	NUM	CD	_	17	nummod	_	SpaceAfter=No|Translit=čed|LTranslit=čed
-17	วัน	วัน	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
+16	เจ็ด	เจ็ด	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=čed|LTranslit=čed
+17	วัน	วัน	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
 18	ต่อ	ต่อ	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 19	ปี	ปี	NOUN	NN	_	17	nmod	_	Translit=piː|LTranslit=piː
 
@@ -13417,8 +13417,8 @@
 6	ประชากร	ประชากร	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=praćʰaːkr|LTranslit=praćʰaːkr
 7	เกือบ	เกือบ	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=küaːb|LTranslit=küaːb
 8	ครึ่ง	ครึ่ง	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=gʰrǜŋ|LTranslit=gʰrǜŋ
-9	ล้าน	ล้าน	NUM	CD	_	10	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
-10	คน	คน	NOUN	NNB	_	6	clf	_	Translit=gʰn|LTranslit=gʰn
+9	ล้าน	ล้าน	NUM	CD	_	6	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
+10	คน	คน	NOUN	NNB	_	9	clf	_	Translit=gʰn|LTranslit=gʰn
 11	ทำให้	ทำให้	VERB	VV	_	5	acl	_	SpaceAfter=No|Translit=dʰãːhaî|LTranslit=dʰãːhaî
 12	เป็น	เป็น	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 13	เมือง	เมือง	NOUN	NN	_	11	xcomp	_	SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
@@ -13569,8 +13569,8 @@
 38	ชื่อ	ชื่อ	NOUN	NN	_	36	xcomp	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 39	ทั่วไป	ทั่วไป	ADJ	JJ	_	38	amod	_	SpaceAfter=No|Translit=dʰuàːpại|LTranslit=dʰuàːpại
 40	อีก	อีก	DET	DT	PronType=Ind	41	det	_	Gloss=more,other|SpaceAfter=No|Translit='iːk|LTranslit='iːk
-41	ชื่อ	ชื่อ	NOUN	NNB	_	38	clf	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
-42	หนึ่ง	หนึ่ง	NUM	CD	_	41	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+41	ชื่อ	ชื่อ	NOUN	NNB	_	42	clf	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
+42	หนึ่ง	หนึ่ง	NUM	CD	_	38	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 43	ของ	ของ	ADP	IN	_	45	case	_	Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 44	"	"	PUNCT	``	_	45	punct	_	SpaceAfter=No|Translit="|LTranslit="
 45	ทะเล	ทะเล	NOUN	NN	_	38	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=dʰaleː|LTranslit=dʰaleː
@@ -14340,8 +14340,8 @@
 6	ใช้	ใช้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 7	เวลา	เวลา	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=weːlaː|LTranslit=weːlaː
 8	สิบ	สิบ	NUM	CD	_	9	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
-9	แปด	แปด	NUM	CD	_	10	nummod	_	SpaceAfter=No|Translit=pæːd|LTranslit=pæːd
-10	เดือน	เดือน	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=düaːn|LTranslit=düaːn
+9	แปด	แปด	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=pæːd|LTranslit=pæːd
+10	เดือน	เดือน	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=düaːn|LTranslit=düaːn
 11	ใน	ใน	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 12	โครินธ์	โครินธ์	PROPN	NNP	_	6	obl	_	SpaceAfter=No|Translit=gʰoːrinḏʰ|LTranslit=gʰoːrinḏʰ
 13	ประมาณ	ประมาณ	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=pramaːṇ|LTranslit=pramaːṇ
@@ -14914,8 +14914,8 @@
 10	ของ	ของ	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 11	หิน	หิน	NOUN	NN	_	9	nmod:poss	_	SpaceAfter=No|Translit=hin|LTranslit=hin
 12	ตั้ง	ตั้ง	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
-13	สิบ	สิบ	NUM	CD	_	14	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
-14	ต้น	ต้น	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=tə̂n|LTranslit=tə̂n
+13	สิบ	สิบ	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
+14	ต้น	ต้น	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=tə̂n|LTranslit=tə̂n
 15	ที่	ที่	DET	WDT	PronType=Rel	16	obj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 16	เรียก	เรียก	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|Translit=riaːk|LTranslit=riaːk
 17	ว่า	ว่า	VERB	VV	_	16	acl	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -14930,8 +14930,8 @@
 26	สูง	สูง	ADJ	JJ	_	24	acl:relcl	_	SpaceAfter=No|Translit=suːŋ|LTranslit=suːŋ
 27	ที่สุด	ที่สุด	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
 28	สูง	สูง	ADJ	JJ	_	27	amod	_	Translit=suːŋ|LTranslit=suːŋ
-29	3	3	NUM	CD	_	30	nummod	_	Translit=3|LTranslit=3
-30	เมตร	เมตร	NOUN	NNB	_	28	clf	_	Translit=meːtr|LTranslit=meːtr
+29	3	3	NUM	CD	_	28	nummod	_	Translit=3|LTranslit=3
+30	เมตร	เมตร	NOUN	NNB	_	29	clf	_	Translit=meːtr|LTranslit=meːtr
 31	ด้วย	ด้วย	ADP	IN	_	32	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 32	โครงสร้าง	โครงสร้าง	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=gʰoːrŋsrâːŋ|LTranslit=gʰoːrŋsrâːŋ
 33	แบบ	แบบ	NOUN	NN	_	32	compound	_	SpaceAfter=No|Translit=bæːb|LTranslit=bæːb
@@ -15063,8 +15063,8 @@
 9	ประกอบ	ประกอบ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=prakɔːb|LTranslit=prakɔːb
 10	ด้วย	ด้วย	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 11	จดหมาย	จดหมาย	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=čdhmaːy|LTranslit=čdhmaːy
-12	สิบ	สิบ	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
-13	ฉบับ	ฉบับ	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=čʰbạb|LTranslit=čʰbạb
+12	สิบ	สิบ	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
+13	ฉบับ	ฉบับ	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=čʰbạb|LTranslit=čʰbạb
 14	จาก	จาก	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 15	เหล่า	เหล่า	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=heːlàː|LTranslit=heːlàː
 16	กษัตริย์	กษัตริย์	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=kšạtriy|LTranslit=kšạtriy
@@ -15237,8 +15237,8 @@
 4	ราชย์	ราชย์	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=raːćʰy|LTranslit=raːćʰy
 5	เพียง	เพียง	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
 6	สิบ	สิบ	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
-7	ห้า	ห้า	NUM	CD	_	8	nummod	_	SpaceAfter=No|Translit=hâː|LTranslit=hâː
-8	ปี	ปี	NOUN	NNB	_	3	clf	_	Translit=piː|LTranslit=piː
+7	ห้า	ห้า	NUM	CD	_	3	nummod	_	SpaceAfter=No|Translit=hâː|LTranslit=hâː
+8	ปี	ปี	NOUN	NNB	_	7	clf	_	Translit=piː|LTranslit=piː
 9	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=which,that|SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
 10	พบ	พบ	VERB	VV	_	2	advcl	_	SpaceAfter=No|Translit=bʰb|LTranslit=bʰb
 11	หลักฐาน	หลักฐาน	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=hlạkṭʰaːn|LTranslit=hlạkṭʰaːn
@@ -15391,8 +15391,8 @@
 4	คณะ	คณะ	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=gʰṇa|LTranslit=gʰṇa
 5	ขุนนาง	ขุนนาง	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=kʰunnaːŋ|LTranslit=kʰunnaːŋ
 6	ประมาณ	ประมาณ	ADV	RB	_	7	advmod	_	Translit=pramaːṇ|LTranslit=pramaːṇ
-7	400	400	NUM	CD	_	8	nummod	_	Translit=400|LTranslit=400
-8	คน	คน	NOUN	NNB	_	4	clf	_	Translit=gʰn|LTranslit=gʰn
+7	400	400	NUM	CD	_	4	nummod	_	Translit=400|LTranslit=400
+8	คน	คน	NOUN	NNB	_	7	clf	_	Translit=gʰn|LTranslit=gʰn
 9	ถวาย	ถวาย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tʰwaːy|LTranslit=tʰwaːy
 10	คำ	คำ	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=gʰãː|LTranslit=gʰãː
 11	ร้อง	ร้อง	VERB	VV	_	10	acl	_	SpaceAfter=No|Translit=rɔ̂ːŋ|LTranslit=rɔ̂ːŋ
@@ -15505,8 +15505,8 @@
 # text_en = Three markings locate sunrise at the summer and winter solstices and at the two equinoxes.
 1	จุด	จุด	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=čud|LTranslit=čud
 2	กำหนด	กำหนด	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=kãːhnd|LTranslit=kãːhnd
-3	สาม	สาม	NUM	CD	_	4	nummod	_	SpaceAfter=No|Translit=saːm|LTranslit=saːm
-4	จุด	จุด	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=čud|LTranslit=čud
+3	สาม	สาม	NUM	CD	_	1	nummod	_	SpaceAfter=No|Translit=saːm|LTranslit=saːm
+4	จุด	จุด	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=čud|LTranslit=čud
 5	ระบุ	ระบุ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rabu|LTranslit=rabu
 6	ตำแหน่ง	ตำแหน่ง	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=tãːhæːnə̀ŋ|LTranslit=tãːhæːnə̀ŋ
 7	ที่	ที่	DET	WDT	PronType=Rel	9	advmod	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -15574,8 +15574,8 @@
 3	ใน	ใน	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 4	ข้อ	ข้อ	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=kʰɔ̂ː|LTranslit=kʰɔ̂ː
 5	เท็จจริง	เท็จจริง	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=dʰeččriŋ|LTranslit=dʰeččriŋ
-6	สอง	สอง	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-7	ประการ	ประการ	NOUN	NNB	_	4	clf	_	Translit=prakaːr|LTranslit=prakaːr
+6	สอง	สอง	NUM	CD	_	4	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+7	ประการ	ประการ	NOUN	NNB	_	6	clf	_	Translit=prakaːr|LTranslit=prakaːr
 
 # sent_id = w01071043
 # parallel_id = pud/w01071043
@@ -15979,8 +15979,8 @@
 3	ตี	ตี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tiː|LTranslit=tiː
 4	ความ	ความ	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=gʰwaːm|LTranslit=gʰwaːm
 5	ปัจจัย	ปัจจัย	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=pạččạy|LTranslit=pạččạy
-6	สาม	สาม	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=saːm|LTranslit=saːm
-7	อย่าง	อย่าง	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+6	สาม	สาม	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=saːm|LTranslit=saːm
+7	อย่าง	อย่าง	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 8	นี้	นี้	DET	DT	PronType=Dem	7	det	_	Gloss=this|SpaceAfter=No|Translit=nîː|LTranslit=nîː
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 10	ฐานะ	ฐานะ	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=ṭʰaːna|LTranslit=ṭʰaːna
@@ -17213,12 +17213,12 @@
 11	ใช้	ใช้	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 12	ชื่อ	ชื่อ	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 13	ยุคสมัย	ยุคสมัย	NOUN	NN	_	12	compound	_	SpaceAfter=No|Translit=yugʰsmạy|LTranslit=yugʰsmạy
-14	หนึ่ง	หนึ่ง	NUM	CD	_	15	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
-15	ชื่อ	ชื่อ	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
+14	หนึ่ง	หนึ่ง	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+15	ชื่อ	ชื่อ	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 16	ต่อ	ต่อ	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 17	จักรพรรดิ	จักรพรรดิ	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=čạkrbʰrrdi|LTranslit=čạkrbʰrrdi
-18	หนึ่ง	หนึ่ง	NUM	CD	_	19	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
-19	พระองค์	พระองค์	NOUN	NNB	_	17	clf	_	Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
+18	หนึ่ง	หนึ่ง	NUM	CD	_	17	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+19	พระองค์	พระองค์	NOUN	NNB	_	18	clf	_	Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
 20	และ	และ	CCONJ	CC	_	22	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 21	ต้อง	ต้อง	AUX	MD	_	22	aux	_	SpaceAfter=No|Translit=tɔ̂ːŋ|LTranslit=tɔ̂ːŋ
 22	เปลี่ยน	เปลี่ยน	VERB	VV	_	11	conj	_	SpaceAfter=No|Translit=peːlìːyn|LTranslit=peːlìːyn
@@ -17325,13 +17325,13 @@
 4	แปซิฟิก	แปซิฟิก	PROPN	NNP	_	2	conj	_	ToDo=ex-adp-child|Translit=pæːcifik|LTranslit=pæːcifik
 5	พลเรือน	พลเรือน	NOUN	NN	_	27	nsubj:pass	_	Translit=bʰlrüaːn|LTranslit=bʰlrüaːn
 6	3	3	NUM	CD	_	7	nummod	_	Translit=3|LTranslit=3
-7	ล้าน	ล้าน	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
+7	ล้าน	ล้าน	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
 8	ถึง	ถึง	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 9	มาก	มาก	ADV	RB	_	7	xcomp	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
 10	กว่า	กว่า	ADP	IN	_	12	case	_	Translit=kwàː|LTranslit=kwàː
 11	10	10	NUM	CD	_	12	nummod	_	Translit=10|LTranslit=10
 12	ล้าน	ล้าน	NUM	CD	_	9	obl	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
-13	คน	คน	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+13	คน	คน	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 14	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	18	advmod	_	Gloss=which,that|SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
 15	ส่วน	ส่วน	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 16	ใหญ่	ใหญ่	ADJ	JJ	_	15	amod	_	SpaceAfter=No|Translit=haiŷə̀|LTranslit=haiŷə̀
@@ -17341,8 +17341,8 @@
 20	(	(	PUNCT	(	_	24	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 21	ประมาณ	ประมาณ	ADV	RB	_	23	advmod	_	Translit=pramaːṇ|LTranslit=pramaːṇ
 22	7.5	7.5	NUM	CD	_	23	nummod	_	Translit=7.5|LTranslit=7.5
-23	ล้าน	ล้าน	NUM	CD	_	24	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
-24	คน	คน	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+23	ล้าน	ล้าน	NUM	CD	_	18	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
+24	คน	คน	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 25	)	)	PUNCT	)	_	24	punct	_	Translit=)|LTranslit=)
 26	ถูก	ถูก	AUX	MD	Voice=Pass	27	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 27	สังหาร	สังหาร	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=sạŋhaːr|LTranslit=sạŋhaːr
@@ -18349,8 +18349,8 @@
 13	กีตาร์	กีตาร์	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=kiːtaːr|LTranslit=kiːtaːr
 14	ที่	ที่	DET	WDT	PronType=Rel	15	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 15	เชี่ยวชาญ	เชี่ยวชาญ	ADJ	JJ	_	11	acl:relcl	_	SpaceAfter=No|Translit=ćʰiàːwćʰaːŷ|LTranslit=ćʰiàːwćʰaːŷ
-16	คน	คน	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-17	หนึ่ง	หนึ่ง	NUM	CD	_	16	nummod	_	Translit=hnǜŋ|LTranslit=hnǜŋ
+16	คน	คน	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+17	หนึ่ง	หนึ่ง	NUM	CD	_	11	nummod	_	Translit=hnǜŋ|LTranslit=hnǜŋ
 
 # sent_id = w01109036
 # parallel_id = pud/w01109036
@@ -18506,8 +18506,8 @@
 11	ออสการ์	ออสการ์	PROPN	NNP	_	10	compound	_	SpaceAfter=No|Translit='ɔːskaːr|LTranslit='ɔːskaːr
 12	ขนาด	ขนาด	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=kʰnaːd|LTranslit=kʰnaːd
 13	จริง	จริง	ADJ	JJ	_	12	amod	_	Translit=čriŋ|LTranslit=čriŋ
-14	1	1	NUM	CD	_	15	nummod	_	Translit=1|LTranslit=1
-15	ตัว	ตัว	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
+14	1	1	NUM	CD	_	10	nummod	_	Translit=1|LTranslit=1
+15	ตัว	ตัว	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
 16	และ	และ	CCONJ	CC	_	17	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 17	ขนาด	ขนาด	NOUN	NN	_	10	conj	_	SpaceAfter=No|Translit=kʰnaːd|LTranslit=kʰnaːd
 18	ย่อ	ย่อ	VERB	VV	_	17	acl	_	Translit=yɔ̀ː|LTranslit=yɔ̀ː
@@ -18556,8 +18556,8 @@
 5	ปรับปรุง	ปรับปรุง	VERB	VV	_	3	conj	_	SpaceAfter=No|Translit=prạbpruŋ|LTranslit=prạbpruŋ
 6	ตลาด	ตลาด	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=tlaːd|LTranslit=tlaːd
 7	ดั้งเดิม	ดั้งเดิม	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=dậŋdeim|LTranslit=dậŋdeim
-8	ห้า	ห้า	NUM	CD	_	9	nummod	_	SpaceAfter=No|Translit=hâː|LTranslit=hâː
-9	แห่ง	แห่ง	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
+8	ห้า	ห้า	NUM	CD	_	6	nummod	_	SpaceAfter=No|Translit=hâː|LTranslit=hâː
+9	แห่ง	แห่ง	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
 10	ใน	ใน	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 11	ปี	ปี	NOUN	NN	_	3	obl	_	Translit=piː|LTranslit=piː
 12	2013	2013	NUM	CD	_	11	appos	_	Translit=2013|LTranslit=2013
@@ -18565,8 +18565,8 @@
 14	ตลาด	ตลาด	NOUN	NN	_	6	conj	_	SpaceAfter=No|Translit=tlaːd|LTranslit=tlaːd
 15	ดั้งเดิม	ดั้งเดิม	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=dậŋdeim|LTranslit=dậŋdeim
 16	อีก	อีก	DET	DT	PronType=Ind	18	det	_	Gloss=more,other|SpaceAfter=No|Translit='iːk|LTranslit='iːk
-17	สี่	สี่	NUM	CD	_	18	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
-18	แห่ง	แห่ง	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
+17	สี่	สี่	NUM	CD	_	14	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
+18	แห่ง	แห่ง	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
 19	ใน	ใน	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 20	ปี	ปี	NOUN	NN	_	14	nmod	_	Translit=piː|LTranslit=piː
 21	2014	2014	NUM	CD	_	20	appos	_	Translit=2014|LTranslit=2014
@@ -18649,8 +18649,8 @@
 8	ได้	ได้	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 9	ประพันธ์	ประพันธ์	VERB	VV	_	5	ccomp	_	SpaceAfter=No|Translit=prabʰạnḏʰ|LTranslit=prabʰạnḏʰ
 10	อุปรากร	อุปรากร	NOUN	NN	_	9	obj	_	Translit='upraːkr|LTranslit='upraːkr
-11	6	6	NUM	CD	_	12	nummod	_	Translit=6|LTranslit=6
-12	เรื่อง	เรื่อง	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
+11	6	6	NUM	CD	_	10	nummod	_	Translit=6|LTranslit=6
+12	เรื่อง	เรื่อง	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
 13	และ	และ	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 14	ชื่นชอบ	ชื่นชอบ	VERB	VV	_	9	conj	_	SpaceAfter=No|Translit=ćʰǜːnćʰɔːb|LTranslit=ćʰǜːnćʰɔːb
 15	การจัด	การจัด	VERB	VV	_	14	obj	_	SpaceAfter=No|Translit=kaːrčạd|LTranslit=kaːrčạd
@@ -18755,8 +18755,8 @@
 19	หนังสือพิมพ์	หนังสือพิมพ์	NOUN	NN	_	18	compound	_	SpaceAfter=No|Translit=hnạŋsüː'bʰimbʰ|LTranslit=hnạŋsüː'bʰimbʰ
 20	เป็น	เป็น	AUX	VC	_	21	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 21	เวลา	เวลา	NOUN	NN	_	15	acl	_	SpaceAfter=No|Translit=weːlaː|LTranslit=weːlaː
-22	หนึ่ง	หนึ่ง	NUM	CD	_	23	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
-23	ปี	ปี	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
+22	หนึ่ง	หนึ่ง	NUM	CD	_	21	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+23	ปี	ปี	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 24	ครึ่ง	ครึ่ง	ADJ	JJ	_	23	amod	_	SpaceAfter=No|Translit=gʰrǜŋ|LTranslit=gʰrǜŋ
 25	ที่	ที่	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 26	น็อตติงแฮม	น็อตติงแฮม	PROPN	NNP	_	15	obl	_	SpaceAfter=No|Translit=nɔttiŋḥæːm|LTranslit=nɔttiŋḥæːm
@@ -19510,8 +19510,8 @@
 10	และ	และ	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 11	นำ	นำ	VERB	VV	_	6	conj	_	SpaceAfter=No|Translit=nãː|LTranslit=nãː
 12	การแข่งขัน	การแข่งขัน	VERB	VV	_	11	obj	_	Translit=kaːrkʰæ̀ːŋkʰạn|LTranslit=kaːrkʰæ̀ːŋkʰạn
-13	33	33	NUM	CD	_	14	nummod	_	Translit=33|LTranslit=33
-14	ครั้ง	ครั้ง	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
+13	33	33	NUM	CD	_	12	nummod	_	Translit=33|LTranslit=33
+14	ครั้ง	ครั้ง	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
 15	สุดท้าย	สุดท้าย	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=suddʰâːy|LTranslit=suddʰâːy
 16	จาก	จาก	ADP	IN	_	18	case	_	Translit=čaːk|LTranslit=čaːk
 17	36	36	NUM	CD	_	18	nummod	_	Translit=36|LTranslit=36
@@ -19709,8 +19709,8 @@
 5	ช่าง	ช่าง	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=ćʰàːŋ|LTranslit=ćʰàːŋ
 6	เทคนิค	เทคนิค	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=dʰeːgʰnigʰ|LTranslit=dʰeːgʰnigʰ
 7	อีก	อีก	DET	DT	PronType=Ind	9	det	_	Gloss=more,other|Translit='iːk|LTranslit='iːk
-8	10,000	10,000	NUM	CD	_	9	nummod	_	Translit=10,000|LTranslit=10,000
-9	คน	คน	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+8	10,000	10,000	NUM	CD	_	5	nummod	_	Translit=10,000|LTranslit=10,000
+9	คน	คน	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 10	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 11	ส่วน	ส่วน	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 12	เกี่ยวข้อง	เกี่ยวข้อง	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=kiàːwkʰɔ̂ːŋ|LTranslit=kiàːwkʰɔ̂ːŋ
@@ -19957,8 +19957,8 @@
 10	การออก	การออก	VERB	VV	_	9	compound	_	SpaceAfter=No|Translit=kaːrɔː'k|LTranslit=kaːrɔː'k
 11	กำลัง	กำลัง	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
 12	กาย	กาย	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=kaːy|LTranslit=kaːy
-13	สาม	สาม	NUM	CD	_	14	nummod	_	SpaceAfter=No|Translit=saːm|LTranslit=saːm
-14	ครั้ง	ครั้ง	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
+13	สาม	สาม	NUM	CD	_	10	nummod	_	SpaceAfter=No|Translit=saːm|LTranslit=saːm
+14	ครั้ง	ครั้ง	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
 15	ต่อ	ต่อ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 16	สัปดาห์	สัปดาห์	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=sạpdaːh|LTranslit=sạpdaːh
 17	ไม่	ไม่	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
@@ -20276,8 +20276,8 @@
 10	นา	นา	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=naː|LTranslit=naː
 11	เยอรมัน	เยอรมัน	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=yœːrmạn|LTranslit=yœːrmạn
 12	ซูเดเทิน	ซูเดเทิน	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=cuːdeːdʰein|LTranslit=cuːdeːdʰein
-13	สอง	สอง	NUM	CD	_	14	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-14	คน	คน	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+13	สอง	สอง	NUM	CD	_	9	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+14	คน	คน	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 15	ที่	ที่	DET	WDT	PronType=Rel	16	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 16	พยายาม	พยายาม	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|Translit=bʰyaːyaːm|LTranslit=bʰyaːyaːm
 17	จะ	จะ	AUX	MD	_	18	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -20838,8 +20838,8 @@
 18	นั่ง	นั่ง	VERB	VV	_	17	acl	_	SpaceAfter=No|Translit=nạ̀ŋ|LTranslit=nạ̀ŋ
 19	ใน	ใน	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 20	ทำเนียบ	ทำเนียบ	NOUN	NN	_	17	nmod	_	Translit=dʰãːniaːb|LTranslit=dʰãːniaːb
-21	34	34	NUM	CD	_	22	nummod	_	Translit=34|LTranslit=34
-22	ตำแหน่ง	ตำแหน่ง	NOUN	NNB	_	17	clf	_	Translit=tãːhæːnə̀ŋ|LTranslit=tãːhæːnə̀ŋ
+21	34	34	NUM	CD	_	17	nummod	_	Translit=34|LTranslit=34
+22	ตำแหน่ง	ตำแหน่ง	NOUN	NNB	_	21	clf	_	Translit=tãːhæːnə̀ŋ|LTranslit=tãːhæːnə̀ŋ
 23	แต่	แต่	CCONJ	CC	_	26	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 24	พรรค	พรรค	NOUN	NN	_	26	nsubj	_	SpaceAfter=No|Translit=bʰrrgʰ|LTranslit=bʰrrgʰ
 25	เดโมแครต	เดโมแครต	PROPN	NNP	_	24	appos	_	SpaceAfter=No|Translit=deːmoːgʰæːrt|LTranslit=deːmoːgʰæːrt
@@ -21135,8 +21135,8 @@
 2	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 3	น้อง	น้อง	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=nɔ̂ːŋ|LTranslit=nɔ̂ːŋ
 4	ชาย	ชาย	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=ćʰaːy|LTranslit=ćʰaːy
-5	คน	คน	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-6	หนึ่ง	หนึ่ง	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+5	คน	คน	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+6	หนึ่ง	หนึ่ง	NUM	CD	_	3	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 7	ชื่อ	ชื่อ	NOUN	NN	_	2	xcomp	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 8	ออสการ์	ออสการ์	PROPN	NNP	_	7	compound	_	SpaceAfter=No|Translit='ɔːskaːr|LTranslit='ɔːskaːr
 9	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	11	nsubj	_	Gloss=which,that|SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
@@ -21235,8 +21235,8 @@
 14	ชาติ	ชาติ	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=ćʰaːti|LTranslit=ćʰaːti
 15	มหาอำนาจ	มหาอำนาจ	PROPN	NNP	_	14	compound	_	SpaceAfter=No|Translit=mhaː'ãːnaːč|LTranslit=mhaː'ãːnaːč
 16	ทั้ง	ทั้ง	DET	DT	PronType=Tot	18	det	_	Gloss=both|SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
-17	หก	หก	NUM	CD	_	18	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
-18	ชาติ	ชาติ	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=ćʰaːti|LTranslit=ćʰaːti
+17	หก	หก	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
+18	ชาติ	ชาติ	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=ćʰaːti|LTranslit=ćʰaːti
 19	ต่าง	ต่าง	PRON	PRP	PronType=Ind	12	det	_	Gloss=other|SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
 20	ปฏิเสธ	ปฏิเสธ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pṭiseːḏʰ|LTranslit=pṭiseːḏʰ
 21	แผน	แผน	NOUN	NN	_	20	obj	_	SpaceAfter=No|Translit=pʰæːn|LTranslit=pʰæːn
@@ -21372,8 +21372,8 @@
 5	ก่อ	ก่อ	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=kɔ̀ː|LTranslit=kɔ̀ː
 6	เหตุ	เหตุ	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=heːtu|LTranslit=heːtu
 7	อายุ	อายุ	NOUN	NN	_	4	compound	_	Translit='aːyu|LTranslit='aːyu
-8	53	53	NUM	CD	_	9	nummod	_	Translit=53|LTranslit=53
-9	ปี	ปี	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
+8	53	53	NUM	CD	_	7	nummod	_	Translit=53|LTranslit=53
+9	ปี	ปี	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 10	ได้	ได้	AUX	MD	_	2	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 11	ใน	ใน	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 12	เหตุการณ์	เหตุการณ์	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=heːtukaːrṇ|LTranslit=heːtukaːrṇ
@@ -21442,15 +21442,15 @@
 1	ด้วย	ด้วย	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 2	การยิง	การยิง	VERB	VV	_	15	xcomp	_	SpaceAfter=No|Translit=kaːryiŋ|LTranslit=kaːryiŋ
 3	ประตู	ประตู	NOUN	NN	_	2	obj	_	Translit=pratuː|LTranslit=pratuː
-4	71	71	NUM	CD	_	5	nummod	_	Translit=71|LTranslit=71
-5	ครั้ง	ครั้ง	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
+4	71	71	NUM	CD	_	2	nummod	_	Translit=71|LTranslit=71
+5	ครั้ง	ครั้ง	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
 6	ใน	ใน	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 7	นัด	นัด	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=nạd|LTranslit=nạd
 8	ระดับ	ระดับ	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=radạb|LTranslit=radạb
 9	นานา	นานา	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=naːnaː|LTranslit=naːnaː
 10	ชาติ	ชาติ	NOUN	NN	_	8	compound	_	Translit=ćʰaːti|LTranslit=ćʰaːti
-11	137	137	NUM	CD	_	12	nummod	_	Translit=137|LTranslit=137
-12	นัด	นัด	NOUN	NNB	_	7	clf	_	Translit=nạd|LTranslit=nạd
+11	137	137	NUM	CD	_	7	nummod	_	Translit=137|LTranslit=137
+12	นัด	นัด	NOUN	NNB	_	11	clf	_	Translit=nạd|LTranslit=nạd
 13	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	15	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 14	ได้	ได้	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 15	ทำลาย	ทำลาย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dʰãːlaːy|LTranslit=dʰãːlaːy
@@ -21476,8 +21476,8 @@
 9	กำลัง	กำลัง	AUX	AS	Aspect=Prog	10	aux	_	SpaceAfter=No|Translit=kãːlạŋ|LTranslit=kãːlạŋ
 10	สอบสวน	สอบสวน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=sɔːbswn|LTranslit=sɔːbswn
 11	คน	คน	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-12	สี่	สี่	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
-13	คน	คน	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+12	สี่	สี่	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
+13	คน	คน	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 14	ที่	ที่	DET	WDT	PronType=Rel	15	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 15	ยืน	ยืน	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=yüːn|LTranslit=yüːn
 16	ดู	ดู	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=duː|LTranslit=duː
@@ -22014,8 +22014,8 @@
 8	ศิลปะ	ศิลปะ	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=śilpa|LTranslit=śilpa
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 10	เวลา	เวลา	NOUN	NN	_	8	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=weːlaː|LTranslit=weːlaː
-11	หก	หก	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
-12	วินาที	วินาที	NOUN	NNB	_	10	clf	_	Translit=winaːdʰiː|LTranslit=winaːdʰiː
+11	หก	หก	NUM	CD	_	10	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
+12	วินาที	วินาที	NOUN	NNB	_	11	clf	_	Translit=winaːdʰiː|LTranslit=winaːdʰiː
 
 # sent_id = n02043008
 # parallel_id = pud/n02043008
@@ -22068,8 +22068,8 @@
 7	นัก	นัก	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 8	กีฬา	กีฬา	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=kiːḷaː|LTranslit=kiːḷaː
 9	วัย	วัย	NOUN	NN	_	7	compound	_	Translit=wạy|LTranslit=wạy
-10	28	28	NUM	CD	_	11	nummod	_	Translit=28|LTranslit=28
-11	ปี	ปี	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
+10	28	28	NUM	CD	_	9	nummod	_	Translit=28|LTranslit=28
+11	ปี	ปี	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 12	ก็	ก็	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 13	ได้	ได้	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 14	พ่ายแพ้	พ่ายแพ้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰàːybʰæ̂ː|LTranslit=bʰàːybʰæ̂ː
@@ -22354,8 +22354,8 @@
 12	กลุ่ม	กลุ่ม	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=klùm|LTranslit=klùm
 13	แยก	แยก	VERB	VV	_	12	acl	_	SpaceAfter=No|Translit=yæːk|LTranslit=yæːk
 14	ทั้ง	ทั้ง	DET	DT	PronType=Tot	16	det	_	Gloss=both|SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
-15	สอง	สอง	NUM	CD	_	16	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-16	ฝ่าย	ฝ่าย	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=fʰàːy|LTranslit=fʰàːy
+15	สอง	สอง	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+16	ฝ่าย	ฝ่าย	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=fʰàːy|LTranslit=fʰàːy
 17	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	19	nsubj	_	Gloss=which,that|SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
 18	เป็น	เป็น	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 19	ศัตรู	ศัตรู	NOUN	NN	_	12	acl:relcl	_	SpaceAfter=No|Translit=śạtruː|LTranslit=śạtruː
@@ -22521,8 +22521,8 @@
 # text_en = The two paintings by Lucas Cranach the Elder on display are especially eye-catching.
 1	ภาพ	ภาพ	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=ḇʰaːbʰ|LTranslit=ḇʰaːbʰ
 2	เขียน	เขียน	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=kʰiaːn|LTranslit=kʰiaːn
-3	สอง	สอง	NUM	CD	_	4	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
-4	ชิ้น	ชิ้น	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=ćʰîn|LTranslit=ćʰîn
+3	สอง	สอง	NUM	CD	_	1	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+4	ชิ้น	ชิ้น	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=ćʰîn|LTranslit=ćʰîn
 5	ของ	ของ	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 6	ลูคัส	ลูคัส	PROPN	NNP	_	1	nmod:poss	_	Translit=luːgʰạs|LTranslit=luːgʰạs
 7	ครานัค	ครานัค	PROPN	NNP	_	6	flat:name	_	Translit=gʰraːnạgʰ|LTranslit=gʰraːnạgʰ
@@ -22760,8 +22760,8 @@
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 5	พูด	พูด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰuːd|LTranslit=bʰuːd
 6	เวลา	เวลา	NOUN	NN	_	5	obl:tmod	_	Translit=weːlaː|LTranslit=weːlaː
-7	23.45	23.45	NUM	CD	_	8	nummod	_	Translit=23.45|LTranslit=23.45
-8	น.	น.	NOUN	NNB	_	6	clf	_	Translit=n.|LTranslit=n.
+7	23.45	23.45	NUM	CD	_	6	nummod	_	Translit=23.45|LTranslit=23.45
+8	น.	น.	NOUN	NNB	_	7	clf	_	Translit=n.|LTranslit=n.
 
 # sent_id = n03002003
 # parallel_id = pud/n03002003
@@ -22859,8 +22859,8 @@
 15	เสียง	เสียง	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=siaːŋ|LTranslit=siaːŋ
 16	จาก	จาก	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 17	รัฐมนตรี	รัฐมนตรี	NOUN	NN	_	14	nmod	_	Translit=rạṭʰmntriː|LTranslit=rạṭʰmntriː
-18	367	367	NUM	CD	_	19	nummod	_	Translit=367|LTranslit=367
-19	คะแนน	คะแนน	NOUN	NNB	_	14	clf	_	Translit=gʰanæːn|LTranslit=gʰanæːn
+18	367	367	NUM	CD	_	14	nummod	_	Translit=367|LTranslit=367
+19	คะแนน	คะแนน	NOUN	NNB	_	18	clf	_	Translit=gʰanæːn|LTranslit=gʰanæːn
 20	(	(	PUNCT	(	_	22	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 21	จาก	จาก	ADP	IN	_	22	case	_	Translit=čaːk|LTranslit=čaːk
 22	550	550	NUM	CD	_	19	nmod	_	SpaceAfter=No|Translit=550|LTranslit=550
@@ -22876,8 +22876,8 @@
 32	ใช้	ใช้	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 33	คะแนน	คะแนน	NOUN	NN	_	32	obj	_	SpaceAfter=No|Translit=gʰanæːn|LTranslit=gʰanæːn
 34	เสียง	เสียง	NOUN	NN	_	33	compound	_	Translit=siaːŋ|LTranslit=siaːŋ
-35	330	330	NUM	CD	_	36	nummod	_	Translit=330|LTranslit=330
-36	คะแนน	คะแนน	NOUN	NNB	_	33	clf	_	Translit=gʰanæːn|LTranslit=gʰanæːn
+35	330	330	NUM	CD	_	33	nummod	_	Translit=330|LTranslit=330
+36	คะแนน	คะแนน	NOUN	NNB	_	35	clf	_	Translit=gʰanæːn|LTranslit=gʰanæːn
 
 # sent_id = n03004003
 # parallel_id = pud/n03004003
@@ -23623,8 +23623,8 @@
 20	เรา	เรา	PRON	PRP	Person=1|PronType=Prs	17	nmod:poss	_	Gloss=we|SpaceAfter=No|Translit=raoː|LTranslit=raoː
 21	มี	มี	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 22	ราคา	ราคา	NOUN	NN	_	21	obj	_	Translit=raːgʰaː|LTranslit=raːgʰaː
-23	1.335	1.335	NUM	CD	_	24	nummod	_	Translit=1.335|LTranslit=1.335
-24	ยูโร	ยูโร	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=yuːroː|LTranslit=yuːroː
+23	1.335	1.335	NUM	CD	_	22	nummod	_	Translit=1.335|LTranslit=1.335
+24	ยูโร	ยูโร	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=yuːroː|LTranslit=yuːroː
 25	ต่อ	ต่อ	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 26	ลิตร	ลิตร	NOUN	NN	_	24	nmod	_	Translit=litr|LTranslit=litr
 27	เทียบ	เทียบ	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=dʰiaːb|LTranslit=dʰiaːb
@@ -23835,8 +23835,8 @@
 # text_en = Four students at Roma Tre University have developed a motorcycle helmet that can 'read thoughts' by helping to anticipate drivers' actions.
 1	นัก	นัก	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 2	ศึกษา	ศึกษา	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=śükšaː|LTranslit=śükšaː
-3	สี่	สี่	NUM	CD	_	4	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
-4	คน	คน	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+3	สี่	สี่	NUM	CD	_	1	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
+4	คน	คน	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 5	จาก	จาก	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 6	มหาวิทยาลัย	มหาวิทยาลัย	NOUN	NN	_	1	nmod	_	Proper=True|SpaceAfter=No|Translit=mhaːwidʰyaːlạy|LTranslit=mhaːwidʰyaːlạy
 7	โรม่า	โรม่า	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|Translit=roːmàː|LTranslit=roːmàː
@@ -23909,8 +23909,8 @@
 7	ทุน	ทุน	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=dʰun|LTranslit=dʰun
 8	หนึ่ง	หนึ่ง	NUM	CD	_	9	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 9	พัน	พัน	NUM	CD	_	10	nummod	_	SpaceAfter=No|Translit=bʰạn|LTranslit=bʰạn
-10	ล้าน	ล้าน	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
-11	ดอลลาร์	ดอลลาร์	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=dɔːllaːr|LTranslit=dɔːllaːr
+10	ล้าน	ล้าน	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
+11	ดอลลาร์	ดอลลาร์	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=dɔːllaːr|LTranslit=dɔːllaːr
 12	และ	และ	CCONJ	CC	_	13	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 13	ตำแหน่ง	ตำแหน่ง	NOUN	NN	_	5	conj	_	SpaceAfter=No|Translit=tãːhæːnə̀ŋ|LTranslit=tãːhæːnə̀ŋ
 14	ใน	ใน	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -23966,8 +23966,8 @@
 4	เป็น	เป็น	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 5	บริษัท	บริษัท	NOUN	NN	_	3	xcomp	_	SpaceAfter=No|Translit=brišạdʰ|LTranslit=brišạdʰ
 6	อเมริกัน	อเมริกัน	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit='meːrikạn|LTranslit='meːrikạn
-7	อันดับ	อันดับ	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit='ạndạb|LTranslit='ạndạb
-8	สี่	สี่	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
+7	อันดับ	อันดับ	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit='ạndạb|LTranslit='ạndạb
+8	สี่	สี่	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=sìː|LTranslit=sìː
 9	ที่	ที่	DET	WDT	PronType=Rel	10	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 10	มี	มี	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 11	มูลค่า	มูลค่า	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=muːlgʰàː|LTranslit=muːlgʰàː
@@ -24070,8 +24070,8 @@
 3	แรก	แรก	ADJ	JJ	_	2	amod	_	SpaceAfter=No|Translit=ræːk|LTranslit=ræːk
 4	ใน	ใน	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 5	รอบ	รอบ	NOUN	NN	_	2	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=rɔːb|LTranslit=rɔːb
-6	หก	หก	NUM	CD	_	7	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
-7	ปี	ปี	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
+6	หก	หก	NUM	CD	_	5	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
+7	ปี	ปี	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 8	ที่	ที่	DET	WDT	PronType=Rel	9	obl:tmod	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 9	ผ่าน	ผ่าน	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=pʰàːn|LTranslit=pʰàːn
 10	มา	มา	PART	RP	_	9	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
@@ -24097,8 +24097,8 @@
 30	กว่า	กว่า	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 31	ปี	ปี	NOUN	NN	_	29	obl	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 32	ที่แล้ว	ที่แล้ว	ADJ	JJ	_	31	acl:relcl	_	Translit=dʰìːlæ̂ːw|LTranslit=dʰìːlæ̂ːw
-33	600,000	600,000	NUM	CD	_	34	nummod	_	Translit=600,000|LTranslit=600,000
-34	คน	คน	NOUN	NNB	_	24	clf	_	Translit=gʰn|LTranslit=gʰn
+33	600,000	600,000	NUM	CD	_	24	nummod	_	Translit=600,000|LTranslit=600,000
+34	คน	คน	NOUN	NNB	_	33	clf	_	Translit=gʰn|LTranslit=gʰn
 
 # sent_id = n05002015
 # parallel_id = pud/n05002015
@@ -24221,8 +24221,8 @@
 11	คือ	คือ	VERB	VC	_	8	ccomp	_	Translit=gʰüː'|LTranslit=gʰüː'
 12	"	"	PUNCT	``	_	11	punct	_	SpaceAfter=No|Translit="|LTranslit="
 13	คอสพีดัล	คอสพีดัล	PROPN	NNP	_	11	xcomp	_	Translit=gʰɔːsbʰiːdạl|LTranslit=gʰɔːsbʰiːdạl
-14	100	100	NUM	CD	_	15	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
-15	%	%	SYM	SYM	_	13	clf	_	SpaceAfter=No|Translit=%|LTranslit=%
+14	100	100	NUM	CD	_	13	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
+15	%	%	SYM	SYM	_	14	clf	_	SpaceAfter=No|Translit=%|LTranslit=%
 16	"	"	PUNCT	''	_	11	punct	_	Translit="|LTranslit="
 
 # sent_id = n05003019
@@ -24759,8 +24759,8 @@
 10	เตือน	เตือน	VERB	VV	_	9	acl	_	SpaceAfter=No|Translit=tüaːn|LTranslit=tüaːn
 11	ไฟ	ไฟ	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=fại|LTranslit=fại
 12	ไหม้	ไหม้	VERB	VV	_	11	acl	_	Translit=hạimə̂|LTranslit=hạimə̂
-13	34	34	NUM	CD	_	14	nummod	_	Translit=34|LTranslit=34
-14	ตัว	ตัว	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
+13	34	34	NUM	CD	_	9	nummod	_	Translit=34|LTranslit=34
+14	ตัว	ตัว	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
 15	มา	มา	PART	RP	_	5	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 16	ใช้	ใช้	VERB	VV	_	5	acl	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 17	งาน	งาน	NOUN	NN	_	16	obj	_	Translit=ŋaːn|LTranslit=ŋaːn
@@ -25992,13 +25992,13 @@
 7	อัตรา	อัตรา	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit='ạtraː|LTranslit='ạtraː
 8	ส่วน	ส่วน	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=sə̀wn|LTranslit=sə̀wn
 9	แพทย์	แพทย์	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=bʰæːdʰy|LTranslit=bʰæːdʰy
-10	ห้า	ห้า	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=hâː|LTranslit=hâː
-11	คน	คน	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+10	ห้า	ห้า	NUM	CD	_	9	nummod	_	SpaceAfter=No|Translit=hâː|LTranslit=hâː
+11	คน	คน	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 12	ต่อ	ต่อ	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 13	ผู้	ผู้	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
 14	อาศัย	อาศัย	VERB	VV	_	13	acl	_	Translit='aːśạy|LTranslit='aːśạy
-15	100,000	100,000	NUM	CD	_	16	nummod	_	Translit=100,000|LTranslit=100,000
-16	คน	คน	NOUN	NNB	_	13	clf	_	Translit=gʰn|LTranslit=gʰn
+15	100,000	100,000	NUM	CD	_	13	nummod	_	Translit=100,000|LTranslit=100,000
+16	คน	คน	NOUN	NNB	_	15	clf	_	Translit=gʰn|LTranslit=gʰn
 
 # sent_id = w03002055
 # parallel_id = pud/w03002055
@@ -26018,8 +26018,8 @@
 11	การฆาตกรรม	การฆาตกรรม	VERB	VV	_	10	obj	_	SpaceAfter=No|Translit=kaːrqʰaːtkrrm|LTranslit=kaːrqʰaːtkrrm
 12	กว่า	กว่า	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 13	ห้า	ห้า	NUM	CD	_	14	nummod	_	SpaceAfter=No|Translit=hâː|LTranslit=hâː
-14	สิบ	สิบ	NUM	CD	_	15	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
-15	คน	คน	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+14	สิบ	สิบ	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
+15	คน	คน	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 16	จาก	จาก	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 17	การถูก	การถูก	VERB	MD	Voice=Pass	11	xcomp	_	SpaceAfter=No|Translit=kaːrtʰuːk|LTranslit=kaːrtʰuːk
 18	กล่าวหา	กล่าวหา	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=klàːwhaː|LTranslit=klàːwhaː
@@ -26096,8 +26096,8 @@
 18	พร้อม	พร้อม	VERB	VV	_	16	acl	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
 19	ด้วย	ด้วย	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 20	ชาย	ชาย	NOUN	NN	_	18	obl	_	Translit=ćʰaːy|LTranslit=ćʰaːy
-21	28	28	NUM	CD	_	22	nummod	_	Translit=28|LTranslit=28
-22	คน	คน	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+21	28	28	NUM	CD	_	20	nummod	_	Translit=28|LTranslit=28
+22	คน	คน	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 23	เพื่อ	เพื่อ	ADP	IN	_	24	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
 24	ข้าม	ข้าม	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=kʰâːm|LTranslit=kʰâːm
 25	เขต	เขต	NOUN	NN	_	24	obj	_	SpaceAfter=No|Translit=kʰeːt|LTranslit=kʰeːt
@@ -26643,16 +26643,16 @@
 17	เด็ก	เด็ก	NOUN	NN	_	16	appos	_	SpaceAfter=No|Translit=dek|LTranslit=dek
 18	หญิง	หญิง	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=hŷiŋ|LTranslit=hŷiŋ
 19	อายุ	อายุ	NOUN	NN	_	17	compound	_	Translit='aːyu|LTranslit='aːyu
-20	18	18	NUM	CD	_	21	nummod	_	Translit=18|LTranslit=18
-21	ปี	ปี	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
+20	18	18	NUM	CD	_	19	nummod	_	Translit=18|LTranslit=18
+21	ปี	ปี	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=piː|LTranslit=piː
 22	ผู้	ผู้	DET	WDT	PronType=Rel	24	nsubj	_	Gloss=that|SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
 23	เป็น	เป็น	AUX	VC	_	24	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 24	ลูก	ลูก	NOUN	NN	_	17	acl:relcl	_	SpaceAfter=No|Translit=luːk|LTranslit=luːk
 25	สาว	สาว	NOUN	NN	_	24	compound	_	SpaceAfter=No|Translit=saːw|LTranslit=saːw
 26	ของ	ของ	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 27	เพื่อน	เพื่อน	NOUN	NN	_	24	nmod:poss	_	SpaceAfter=No|Translit=bʰüàːn|LTranslit=bʰüàːn
-28	คน	คน	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-29	หนึ่ง	หนึ่ง	NUM	CD	_	28	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
+28	คน	คน	NOUN	NNB	_	29	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
+29	หนึ่ง	หนึ่ง	NUM	CD	_	27	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
 30	ของ	ของ	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 31	เจอร์แมน	เจอร์แมน	PROPN	NNP	_	27	nmod:poss	_	Translit=čœːrmæːn|LTranslit=čœːrmæːn
 
@@ -26697,8 +26697,8 @@
 5	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 6	ต้น	ต้น	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=tə̂n|LTranslit=tə̂n
 7	ปาล์ม	ปาล์ม	NOUN	NN	_	6	compound	_	Translit=paːlm|LTranslit=paːlm
-8	3	3	NUM	CD	_	9	nummod	_	Translit=3|LTranslit=3
-9	ต้น	ต้น	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=tə̂n|LTranslit=tə̂n
+8	3	3	NUM	CD	_	6	nummod	_	Translit=3|LTranslit=3
+9	ต้น	ต้น	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=tə̂n|LTranslit=tə̂n
 10	ที่	ที่	DET	WDT	PronType=Rel	11	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 11	หัน	หัน	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=hạn|LTranslit=hạn
 12	หน้า	หน้า	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=hnâː|LTranslit=hnâː
@@ -27540,8 +27540,8 @@
 4	มนต์	มนต์	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=mnt|LTranslit=mnt
 5	ขนาน	ขนาน	VERB	VV	_	1	xcomp	_	SpaceAfter=No|Translit=kʰnaːn|LTranslit=kʰnaːn
 6	กัน	กัน	PRON	PRP	PronType=Prs	5	obl	_	Gloss=it|SpaceAfter=No|Translit=kạn|LTranslit=kạn
-7	สาม	สาม	NUM	CD	_	8	nummod	_	SpaceAfter=No|Translit=saːm|LTranslit=saːm
-8	ห้อง	ห้อง	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=hɔ̂ːŋ|LTranslit=hɔ̂ːŋ
+7	สาม	สาม	NUM	CD	_	2	nummod	_	SpaceAfter=No|Translit=saːm|LTranslit=saːm
+8	ห้อง	ห้อง	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=hɔ̂ːŋ|LTranslit=hɔ̂ːŋ
 9	ที่	ที่	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 10	มุข	มุข	NOUN	NN	_	1	obl	_	Translit=mukʰ|LTranslit=mukʰ
 11	และ	และ	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -28153,8 +28153,8 @@
 3	บัญชาการ	บัญชาการ	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=bạŷćʰaːkaːr|LTranslit=bạŷćʰaːkaːr
 4	กอง	กอง	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=kɔːŋ|LTranslit=kɔːŋ
 5	ทหาร	ทหาร	NOUN	NN	_	4	compound	_	Translit=dʰhaːr|LTranslit=dʰhaːr
-6	2	2	NUM	CD	_	7	nummod	_	Translit=2|LTranslit=2
-7	กอง	กอง	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=kɔːŋ|LTranslit=kɔːŋ
+6	2	2	NUM	CD	_	4	nummod	_	Translit=2|LTranslit=2
+7	กอง	กอง	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=kɔːŋ|LTranslit=kɔːŋ
 8	ใน	ใน	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 9	กาปัว	กาปัว	PROPN	NNP	_	2	obl	_	SpaceAfter=No|Translit=kaːpuaː|LTranslit=kaːpuaː
 10	และ	และ	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ

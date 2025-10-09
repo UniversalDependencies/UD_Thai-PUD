@@ -62,7 +62,7 @@
     <dep name="acl:relcl">614</dep>
     <dep name="advcl">341</dep>
     <dep name="advmod">1191</dep>
-    <dep name="amod">654</dep>
+    <dep name="amod">655</dep>
     <dep name="appos">362</dep>
     <dep name="aux">716</dep>
     <dep name="aux:pass">85</dep>
@@ -80,7 +80,7 @@
     <dep name="det">414</dep>
     <dep name="discourse">29</dep>
     <dep name="dislocated">2</dep>
-    <dep name="fixed">332</dep>
+    <dep name="fixed">331</dep>
     <dep name="flat:name">507</dep>
     <dep name="goeswith">4</dep>
     <dep name="iobj">2</dep>
