@@ -17243,7 +17243,7 @@
 41	ใช้	ใช้	VERB	VV	_	33	acl:relcl	_	SpaceAfter=No|Gloss=use|Translit=ćʰaî|LTranslit=ćʰaî
 42	ชื่อ	ชื่อ	NOUN	NN	_	41	obj	_	SpaceAfter=No|Gloss=name|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 43	ยุค	ยุค	NOUN	NN	_	42	nmod	_	SpaceAfter=No|Gloss=era|Translit=yugʰ|LTranslit=yugʰ
-44	ที่	ที่	DET	WDT	_	48	obl	_	SpaceAfter=No|Gloss=that|Translit=dʰìː|LTranslit=dʰìː
+44	ที่	ที่	DET	WDT	PronType=Rel	48	obl	_	SpaceAfter=No|Gloss=that|Translit=dʰìː|LTranslit=dʰìː
 45	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	48	nsubj	_	Gloss=he|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
 46	ทรง	ทรง	VERB	VV	_	48	xcomp	_	Gloss=shape|Translit=dʰrŋ|LTranslit=dʰrŋ
 47	พระชนม์	พระชนม์	NOUN	NN	_	46	obj	_	Gloss=life|Translit=bʰraćʰnm|LTranslit=bʰraćʰnm
@@ -18802,14 +18802,14 @@
 5	ขาย	ขาย	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=kʰaːy|LTranslit=kʰaːy
 6	รวม	รวม	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 7	ของ	ของ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-8	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	9	det	_	Gloss=the|Proper=True|SpaceAfter=No|Translit=dœ|LTranslit=dœ
-9	พาวเวอร์	พาวเวอร์	NOUN	NN	_	4	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=bʰaːwwœːr|LTranslit=bʰaːwwœːr
-10	ออฟ	ออฟ	ADP	IN	_	11	case	_	Proper=True|SpaceAfter=No|Translit='ɔːf|LTranslit='ɔːf
-11	นาว	นาว	NOUN	NN	_	9	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=naːw|LTranslit=naːw
+8	เดอะ	เดอะ	DET	DT	Foreign=Yes|PronType=Art	9	det	_	Lang=en|Gloss=the|Proper=True|SpaceAfter=No|Translit=dœ|LTranslit=dœ
+9	พาวเวอร์	พาวเวอร์	NOUN	NN	Foreign=Yes	4	nmod:poss	_	Lang=en|Proper=True|SpaceAfter=No|Translit=bʰaːwwœːr|LTranslit=bʰaːwwœːr
+10	ออฟ	ออฟ	ADP	IN	Foreign=Yes	11	case	_	Lang=en|Proper=True|SpaceAfter=No|Translit='ɔːf|LTranslit='ɔːf
+11	นาว	นาว	NOUN	NN	Foreign=Yes	9	nmod:poss	_	Lang=en|Proper=True|SpaceAfter=No|Translit=naːw|LTranslit=naːw
 12	และ	และ	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-13	อะ	อะ	DET	DT	_	15	det	_	Proper=True|SpaceAfter=No|Translit='a|LTranslit='a
-14	นิว	นิว	ADJ	JJ	_	15	amod	_	Proper=True|SpaceAfter=No|Translit=niw|LTranslit=niw
-15	เอิร์ธ	เอิร์ธ	NOUN	NN	_	9	conj	_	Proper=True|SpaceAfter=No|Translit='eirḏʰ|LTranslit='eirḏʰ
+13	อะ	อะ	DET	DT	Foreign=Yes|PronType=Art	15	det	_	Lang=en|Proper=True|SpaceAfter=No|Translit='a|LTranslit='a
+14	นิว	นิว	ADJ	JJ	Foreign=Yes	15	amod	_	Lang=en|Proper=True|SpaceAfter=No|Translit=niw|LTranslit=niw
+15	เอิร์ธ	เอิร์ธ	NOUN	NN	Foreign=Yes	9	conj	_	Lang=en|Proper=True|SpaceAfter=No|Translit='eirḏʰ|LTranslit='eirḏʰ
 16	ใน	ใน	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 17	ทวีป	ทวีป	NOUN	NN	_	4	nmod	_	Proper=True|SpaceAfter=No|Translit=dʰwiːp|LTranslit=dʰwiːp
 18	อเมริกาเหนือ	อเมริกาเหนือ	PROPN	NNP	_	17	flat:name	_	SpaceAfter=No|Translit='meːrikaːheːnüː'|LTranslit='meːrikaːheːnüː'
@@ -19579,12 +19579,12 @@
 # text = ออน อะ วิง แอนด์ อะ เพรเยอร์ (1992) ทำให้เขากับอีแกน เพื่อนร่วมวงสตีลเลอร์สวีลกลับมาร่วมงานกันอีกหลายเพลง
 # translit = 'ɔːn 'a wiŋ 'æːnd 'a bʰeːryœːr (1992) dʰãːhaîkʰaoːkạb'iːkæːn bʰüàːnrə̀wmwŋstiːllœːrswiːlklạbmaːrə̀wmŋaːnkạn'iːkhlaːybʰeːlŋ
 # text_en = On a Wing and a Prayer (1992) reunited him with his Stealers Wheel partner Egan on several tracks.
-1	ออน	ออน	ADP	IN	_	10	csubj	_	Proper=True|Translit='ɔːn|LTranslit='ɔːn
-2	อะ	อะ	DET	DT	_	3	det	_	Proper=True|Translit='a|LTranslit='a
-3	วิง	วิง	NOUN	NN	_	1	obj	_	Proper=True|ToDo=pobj|Translit=wiŋ|LTranslit=wiŋ
-4	แอนด์	แอนด์	CCONJ	CC	_	6	cc	_	Proper=True|Translit='æːnd|LTranslit='æːnd
-5	อะ	อะ	DET	DT	_	6	det	_	Proper=True|Translit='a|LTranslit='a
-6	เพรเยอร์	เพรเยอร์	NOUN	NN	_	3	conj	_	Proper=True|Translit=bʰeːryœːr|LTranslit=bʰeːryœːr
+1	ออน	ออน	ADP	IN	Foreign=Yes	10	csubj	_	Lang=en|Proper=True|Translit='ɔːn|LTranslit='ɔːn
+2	อะ	อะ	DET	DT	Foreign=Yes|PronType=Art	3	det	_	Lang=en|Proper=True|Translit='a|LTranslit='a
+3	วิง	วิง	NOUN	NN	Foreign=Yes	1	obj	_	Lang=en|Proper=True|ToDo=pobj|Translit=wiŋ|LTranslit=wiŋ
+4	แอนด์	แอนด์	CCONJ	CC	Foreign=Yes	6	cc	_	Lang=en|Proper=True|Translit='æːnd|LTranslit='æːnd
+5	อะ	อะ	DET	DT	Foreign=Yes|PronType=Art	6	det	_	Lang=en|Proper=True|Translit='a|LTranslit='a
+6	เพรเยอร์	เพรเยอร์	NOUN	NN	Foreign=Yes	3	conj	_	Lang=en|Proper=True|Translit=bʰeːryœːr|LTranslit=bʰeːryœːr
 7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 8	1992	1992	NUM	CD	_	1	obl:tmod	_	SpaceAfter=No|Translit=1992|LTranslit=1992
 9	)	)	PUNCT	)	_	8	punct	_	Translit=)|LTranslit=)
