@@ -576,7 +576,7 @@
 14	สายพันธุ์	สายพันธุ์	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=saːybʰạnḏʰu|LTranslit=saːybʰạnḏʰu
 15	ต่าง	ต่าง	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
 16	ๆ	ๆ	SYM	SYM	_	15	dep	_	Translit=.|LTranslit=.
-17	รวม	รวม	VERB	VV	_	19	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+17	รวม	รวม	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 18	ถึง	ถึง	ADP	IN	_	17	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 19	สุกร	สุกร	NOUN	NN	_	13	conj	_	SpaceAfter=No|Translit=sukr|LTranslit=sukr
 20	มา	มา	PART	RP	_	12	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
@@ -1169,7 +1169,7 @@
 15	ของ	ของ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 16	หลักสูตร	หลักสูตร	NOUN	NN	_	14	obl:poss	_	SpaceAfter=No|Translit=hlạksuːtr|LTranslit=hlạksuːtr
 17	นี้	นี้	DET	DT	PronType=Dem	16	det	_	Gloss=this|Translit=nîː|LTranslit=nîː
-18	รวม	รวม	VERB	VV	_	20	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+18	รวม	รวม	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 19	ถึง	ถึง	ADP	IN	_	18	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 20	วัตถุประสงค์	วัตถุประสงค์	NOUN	NN	_	14	conj	_	SpaceAfter=No|Translit=wạttʰuprasŋgʰ|LTranslit=wạttʰuprasŋgʰ
 21	เบื้อง	เบื้อง	NOUN	NN	_	20	compound	_	SpaceAfter=No|Translit=büâːŋ|LTranslit=büâːŋ
@@ -1340,7 +1340,7 @@
 24	ทวิตเตอร์	ทวิตเตอร์	PROPN	NNP	_	23	conj	_	Translit=dʰwittœːr|LTranslit=dʰwittœːr
 25	และ	และ	CCONJ	CC	_	26	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 26	สปอตติฟาย	สปอตติฟาย	PROPN	NNP	_	23	conj	_	Translit=spɔːttifaːy|LTranslit=spɔːttifaːy
-27	รวม	รวม	VERB	VV	_	31	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+27	รวม	รวม	CCONJ	CC	_	31	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 28	ถึง	ถึง	ADP	IN	_	27	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 29	อีก	อีก	DET	DT	PronType=Ind	31	det	_	Gloss=more,other|SpaceAfter=No|Translit='iːk|LTranslit='iːk
 30	หลาย	หลาย	DET	DT	PronType=Ind	31	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
@@ -3981,7 +3981,7 @@
 # text_en = Many people, including Indigenous groups, argue they trivialize First Nations culture.
 1	ผู้คน	ผู้คน	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=pʰûːgʰn|LTranslit=pʰûːgʰn
 2	มากมาย	มากมาย	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=maːkmaːy|LTranslit=maːkmaːy
-3	รวม	รวม	VERB	VV	_	5	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+3	รวม	รวม	CCONJ	CC	_	5	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 4	ถึง	ถึง	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 5	กลุ่ม	กลุ่ม	NOUN	NN	_	1	conj	_	SpaceAfter=No|Translit=klùm|LTranslit=klùm
 6	ชน	ชน	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=ćʰn|LTranslit=ćʰn
@@ -11728,7 +11728,7 @@
 8	อาณานิคม	อาณานิคม	NOUN	NN	_	7	obj	_	Translit='aːṇaːnigʰm|LTranslit='aːṇaːnigʰm
 9	และ	และ	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 10	สงคราม	สงคราม	NOUN	NN	_	4	conj	_	Translit=sŋgʰraːm|LTranslit=sŋgʰraːm
-11	รวม	รวม	VERB	VV	_	13	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+11	รวม	รวม	CCONJ	CC	_	13	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 12	ถึง	ถึง	ADP	IN	_	11	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 13	อาหาร	อาหาร	NOUN	NN	_	4	conj	_	Translit='aːhaːr|LTranslit='aːhaːr
 14	(	(	PUNCT	(	_	16	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -13848,7 +13848,7 @@
 10	เคมี	เคมี	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=gʰeːmiː|LTranslit=gʰeːmiː
 11	และ	และ	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 12	ล็อบบี้ยิสต์	ล็อบบี้ยิสต์	NOUN	NN	_	9	conj	_	Proper=True|SpaceAfter=No|Translit=lɔbbîːyist|LTranslit=lɔbbîːyist
-13	รวม	รวม	VERB	VV	_	15	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+13	รวม	รวม	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 14	ถึง	ถึง	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 15	ประชาชน	ประชาชน	NOUN	NN	_	9	conj	_	SpaceAfter=No|Translit=praćʰaːćʰn|LTranslit=praćʰaːćʰn
 16	ชาว	ชาว	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
@@ -17645,7 +17645,7 @@
 10	เรือ	เรือ	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rüaː|LTranslit=rüaː
 11	บาง	บาง	DET	DT	PronType=Ind	12	det	_	Gloss=some,a_few|SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
 12	แห่ง	แห่ง	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
-13	รวม	รวม	VERB	VV	_	15	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+13	รวม	รวม	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 14	ถึง	ถึง	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 15	เซี่ยงไฮ้	เซี่ยงไฮ้	PROPN	NNP	_	9	conj	_	SpaceAfter=No|Translit=ciàːŋḥạî|LTranslit=ciàːŋḥạî
 16	และ	และ	CCONJ	CC	_	17	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -17903,7 +17903,7 @@
 13	จาก	จาก	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 14	การติด	การติด	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=kaːrtid|LTranslit=kaːrtid
 15	เฮโรอีน	เฮโรอีน	NOUN	NN	_	14	obj	_	Translit=ḥeːroː'iːn|LTranslit=ḥeːroː'iːn
-16	รวม	รวม	VERB	VV	_	18	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+16	รวม	รวม	CCONJ	CC	_	18	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 17	ถึง	ถึง	ADP	IN	_	16	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 18	ความตกต่ำ	ความตกต่ำ	VERB	VV	_	3	conj	_	SpaceAfter=No|Translit=gʰwaːmtktã̀ː|LTranslit=gʰwaːmtktã̀ː
 19	และ	และ	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -19005,7 +19005,7 @@
 14	ชนชั้น	ชนชั้น	NOUN	NN	_	9	conj	_	SpaceAfter=No|Translit=ćʰnćʰận|LTranslit=ćʰnćʰận
 15	ทาง	ทาง	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 16	สังคม	สังคม	NOUN	NN	_	14	nmod	_	Translit=sạŋgʰm|LTranslit=sạŋgʰm
-17	รวม	รวม	VERB	VV	_	19	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+17	รวม	รวม	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 18	ถึง	ถึง	ADP	IN	_	17	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 19	ชีวิต	ชีวิต	NOUN	NN	_	9	conj	_	Translit=ćʰiːwit|LTranslit=ćʰiːwit
 20	เสรีภาพ	เสรีภาพ	NOUN	NN	_	19	conj	_	Translit=seːriːḇʰaːbʰ|LTranslit=seːriːḇʰaːbʰ
@@ -19894,7 +19894,7 @@
 # text = พร้อมกันนั้นในช่วงกลางทศวรรษที่ 1970 สตาร์ลินเขียนนิยายหลายเรื่องให้ทำหนังสือรวมเล่มนิยายแนววิทยาศาสตร์ที่ตีพิมพ์อิสระชื่อสตาร์รีช
 # translit = bʰrɔ̂ːmkạnnậnnaićʰə̀wŋklaːŋdʰśwrršdʰìː 1970 staːrlinkʰiaːnniyaːyhlaːyrüàːŋhaîdʰãːhnạŋsüː'rwmlèːmniyaːynæːwwidʰyaːśaːstrdʰìːtiːbʰimbʰ'israćʰǜː'staːrriːćʰ
 # text_en = Concurrently in the mid-1970s, Starlin contributed a cache of stories to the independently published science-fiction anthology Star Reach.
-1	พร้อม	พร้อม	VERB	VV	_	11	cc	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
+1	พร้อม	พร้อม	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
 2	กัน	กัน	PRON	PRP	PronType=Prs	1	fixed	_	Gloss=it|SpaceAfter=No|Translit=kạn|LTranslit=kạn
 3	นั้น	นั้น	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
 4	ใน	ใน	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -20628,7 +20628,7 @@
 20	สกุล	สกุล	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=skul|LTranslit=skul
 21	หลาย	หลาย	DET	DT	PronType=Ind	22	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
 22	คน	คน	NOUN	NNB	_	18	clf	_	Translit=gʰn|LTranslit=gʰn
-23	รวม	รวม	VERB	VV	_	25	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+23	รวม	รวม	CCONJ	CC	_	25	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 24	ถึง	ถึง	ADP	IN	_	23	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 25	เอ็ดเวิร์ด	เอ็ดเวิร์ด	PROPN	NNP	_	18	conj	_	SpaceAfter=No|Translit='edweird|LTranslit='edweird
 26	ที่	ที่	NOUN	NN	_	25	flat:name	_	Proper=True|Translit=dʰìː|LTranslit=dʰìː
@@ -21710,7 +21710,7 @@
 40	มี	มี	VERB	VV	_	37	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 41	ต่อ	ต่อ	ADP	IN	_	42	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 42	รัสเซีย	รัสเซีย	PROPN	NNP	_	40	obl	_	Translit=rạsciaː|LTranslit=rạsciaː
-43	รวม	รวม	VERB	VV	_	45	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+43	รวม	รวม	CCONJ	CC	_	45	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 44	ทั้ง	ทั้ง	ADV	RB	_	43	fixed	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 45	ชดใช้	ชดใช้	VERB	VV	_	36	conj	_	SpaceAfter=No|Translit=ćʰdćʰaî|LTranslit=ćʰdćʰaî
 46	ค่า	ค่า	NOUN	NN	_	45	obj	_	SpaceAfter=No|Translit=gʰàː|LTranslit=gʰàː
@@ -22389,7 +22389,7 @@
 15	คน	คน	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 16	จำนวน	จำนวน	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=čãːnwn|LTranslit=čãːnwn
 17	หนึ่ง	หนึ่ง	NUM	CD	_	16	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
-18	รวม	รวม	VERB	VV	_	20	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+18	รวม	รวม	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 19	ถึง	ถึง	ADP	IN	_	18	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 20	ริช	ริช	PROPN	NNP	_	15	conj	_	Translit=rićʰ|LTranslit=rićʰ
 21	ใน	ใน	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -26972,7 +26972,7 @@
 6	ประวัติศาสตร์	ประวัติศาสตร์	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=prawạtiśaːstr|LTranslit=prawạtiśaːstr
 7	จำนวน	จำนวน	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=čãːnwn|LTranslit=čãːnwn
 8	มาก	มาก	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
-9	รวม	รวม	VERB	VV	_	11	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+9	รวม	รวม	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 10	ทั้ง	ทั้ง	ADV	RB	_	9	fixed	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 11	หิน	หิน	NOUN	NN	_	2	conj	_	SpaceAfter=No|Translit=hin|LTranslit=hin
 12	ตั้ง	ตั้ง	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
