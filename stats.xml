@@ -5,31 +5,31 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>1000</sentences><tokens>22320</tokens><words>22320</words><fused>0</fused></total>
+    <total><sentences>1000</sentences><tokens>22330</tokens><words>22330</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>1000</sentences><tokens>22320</tokens><words>22320</words><fused>0</fused></test>
+    <test><sentences>1000</sentences><tokens>22330</tokens><words>22330</words><fused>0</fused></test>
   </size>
-  <lemmas unique="4039" /><!-- ที่, ใน, ของ, และ, เป็น, ได้, มี, ว่า, จะ, จาก, กับ, ไม่, เขา, ก็, ไป -->
-  <forms unique="4046" /><!-- ที่, ใน, ของ, และ, เป็น, ได้, มี, ว่า, จะ, จาก, กับ, ไม่, เขา, ก็, ไป -->
+  <lemmas unique="4038" /><!-- ที่, ใน, ของ, และ, เป็น, ได้, มี, ว่า, จะ, จาก, กับ, ไม่, เขา, ก็, ไป -->
+  <forms unique="4045" /><!-- ที่, ใน, ของ, และ, เป็น, ได้, มี, ว่า, จะ, จาก, กับ, ไม่, เขา, ก็, ไป -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
     <tag name="ADJ">968</tag><!-- ใหม่, สูง, ต่าง, เดียว, แรก, ใหญ่, ดี, มาก, สำคัญ, อื่น -->
-    <tag name="ADP">3133</tag><!-- ใน, ของ, ว่า, จาก, กับ, ที่, โดย, ถึง, เมื่อ, ทาง -->
+    <tag name="ADP">3135</tag><!-- ใน, ของ, ว่า, จาก, กับ, ที่, โดย, ถึง, เมื่อ, ทาง -->
     <tag name="ADV">952</tag><!-- ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, อีก, เลย -->
     <tag name="AUX">1159</tag><!-- เป็น, ได้, จะ, ถูก, ต้อง, แล้ว, กำลัง, มา, เคย, ได้รับ -->
     <tag name="CCONJ">606</tag><!-- และ, แต่, หรือ, กับ, ทั้ง, อย่าง, จาก, นอก, พร้อม, แล้ว -->
-    <tag name="DET">1026</tag><!-- ที่, นี้, ซึ่ง, นั้น, หลาย, อีก, ทุก, ทั้ง, บาง, ทั้งหมด -->
-    <tag name="NOUN">6051</tag><!-- ปี, ผู้, คน, ที่, ตัว, งาน, ช่วง, นัก, เรื่อง, พวก -->
+    <tag name="DET">1027</tag><!-- ที่, นี้, ซึ่ง, นั้น, หลาย, อีก, ทุก, ทั้ง, บาง, ทั้งหมด -->
+    <tag name="NOUN">6054</tag><!-- ปี, ผู้, คน, ที่, ตัว, งาน, ช่วง, นัก, เรื่อง, พวก -->
     <tag name="NUM">581</tag><!-- หนึ่ง, สอง, ล้าน, สาม, 1, 3, สิบ, 10, 2, สี่ -->
     <tag name="PART">608</tag><!-- ไม่, ไป, มา, ขึ้น, ออก, ลง, เข้า, หรือไม่, หรอก, หรือเปล่า -->
-    <tag name="PRON">683</tag><!-- เขา, กัน, เธอ, เรา, ฉัน, มัน, ที่, นี้, นี่, นั้น -->
+    <tag name="PRON">684</tag><!-- เขา, กัน, เธอ, เรา, ฉัน, มัน, ที่, นี้, นี่, นั้น -->
     <tag name="PROPN">1490</tag><!-- จีน, ยุโรป, อังกฤษ, อเมริกา, ฝรั่งเศส, สเปน, ทรัมป์, รัสเซีย, ออสเตรเลีย, อเมริกัน -->
     <tag name="PUNCT">274</tag><!-- ”, “, (, ), ", -, :, ฯ, ‘, ’ -->
     <tag name="SCONJ">2</tag><!-- หาก, เฉกเช่นเดียวกับ -->
     <tag name="SYM">132</tag><!-- ๆ, %, / -->
-    <tag name="VERB">4651</tag><!-- มี, ให้, อยู่, ใช้, ทำ, รับ, กล่าว, ทำให้, เกิด, คือ -->
+    <tag name="VERB">4654</tag><!-- มี, ให้, อยู่, ใช้, ทำ, รับ, กล่าว, ทำให้, เกิด, คือ -->
     <tag name="X">4</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -40,13 +40,13 @@
     <feat name="Foreign" value="Yes" upos="DET,PRON">12</feat><!-- เดอะ, 'Ya, You, มี, ยู -->
     <feat name="Person" value="1" upos="PRON">103</feat><!-- เรา, ฉัน, ผม, ข้าพเจ้า, มี -->
     <feat name="Person" value="2" upos="PRON">19</feat><!-- คุณ, 'Ya, You, นาย, ยู -->
-    <feat name="Person" value="3" upos="PRON">324</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์ -->
+    <feat name="Person" value="3" upos="PRON">325</feat><!-- เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง -->
     <feat name="Polarity" value="Neg" upos="PART">205</feat><!-- ไม่, ความไม่, มิ, อย่างไม่, การไม่ -->
     <feat name="PronType" value="Art" upos="DET">8</feat><!-- เดอะ -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">290</feat><!-- นี้, นั้น, นี่, นั่น, นั้นเอง -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">294</feat><!-- นี้, นั้น, นี่, นั่น, ดังกล่าว, นั้นเอง, อื่น -->
     <feat name="PronType" value="Ind" upos="DET,PRON">120</feat><!-- หลาย, อีก, บาง, ใด, ต่าง, เกือบ -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">25</feat><!-- อะไร, หรือเปล่า, หรือไม่, เหรอ, ใคร, ทำไม, หรือ, อย่างไร, ไหน, ไหม -->
-    <feat name="PronType" value="Prs" upos="PRON">541</feat><!-- เขา, กัน, เธอ, เรา, ฉัน, มัน, ผม, พระองค์, คุณ, เอง -->
+    <feat name="PronType" value="Prs" upos="PRON">543</feat><!-- เขา, กัน, เธอ, เรา, ฉัน, มัน, พระองค์, ผม, คุณ, เอง -->
     <feat name="PronType" value="Rel" upos="DET,PRON">653</feat><!-- ที่, ซึ่ง, อัน, ผู้, ใคร, ไหน -->
     <feat name="PronType" value="Tot" upos="DET,PRON">70</feat><!-- ทุก, ทั้ง, ทั้งหมด, แต่ละ, คนละ, ละ -->
     <feat name="Reflex" value="Yes" upos="PRON">26</feat><!-- เอง, ตนเอง, ตัวเอง -->
@@ -55,8 +55,8 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="42">
-    <dep name="acl">976</dep>
-    <dep name="acl:relcl">613</dep>
+    <dep name="acl">977</dep>
+    <dep name="acl:relcl">614</dep>
     <dep name="advcl">341</dep>
     <dep name="advmod">1191</dep>
     <dep name="amod">654</dep>
@@ -68,7 +68,7 @@
     <dep name="cc:preconj">20</dep>
     <dep name="ccomp">275</dep>
     <dep name="clf">247</dep>
-    <dep name="compound">1564</dep>
+    <dep name="compound">1565</dep>
     <dep name="compound:prt">364</dep>
     <dep name="conj">662</dep>
     <dep name="cop">357</dep>
@@ -81,14 +81,14 @@
     <dep name="flat:name">507</dep>
     <dep name="goeswith">4</dep>
     <dep name="iobj">2</dep>
-    <dep name="mark">560</dep>
-    <dep name="nmod">505</dep>
+    <dep name="mark">562</dep>
+    <dep name="nmod">506</dep>
     <dep name="nmod:poss">438</dep>
-    <dep name="nsubj">1619</dep>
+    <dep name="nsubj">1620</dep>
     <dep name="nsubj:pass">70</dep>
     <dep name="nummod">372</dep>
-    <dep name="obj">1731</dep>
-    <dep name="obl">1418</dep>
+    <dep name="obj">1732</dep>
+    <dep name="obl">1420</dep>
     <dep name="obl:poss">91</dep>
     <dep name="obl:tmod">252</dep>
     <dep name="parataxis">5</dep>
