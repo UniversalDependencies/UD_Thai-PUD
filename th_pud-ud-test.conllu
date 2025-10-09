@@ -312,7 +312,7 @@
 # text = อย่างเช่นให้นักเรียนเรียนเนื้อหาวิทยาศาสตร์โดยประยุกต์ใช้จริง แทนที่จะสอนวิธีการทางวิทยาศาสตร์เป็นหน่วยแยก
 # translit = 'yàːŋćʰèːnhaînạkriaːnriaːnnüâːhaːwidʰyaːśaːstrdoːyprayuktćʰaîčriŋ dʰæːndʰìːčasɔːnwiḏʰiːkaːrdʰaːŋwidʰyaːśaːstrpenhnə̀wyyæːk
 # text_en = Rather than teaching the scientific method as a separate unit, for example, students learn science content by applying it.
-1	อย่าง	อย่าง	ADP	IN	_	3	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=CCONJ	3	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	เช่น	เช่น	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=ćʰèːn|LTranslit=ćʰèːn
 3	ให้	ให้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=haî|LTranslit=haî
 4	นัก	นัก	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
@@ -576,7 +576,7 @@
 14	สายพันธุ์	สายพันธุ์	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=saːybʰạnḏʰu|LTranslit=saːybʰạnḏʰu
 15	ต่าง	ต่าง	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
 16	ๆ	ๆ	SYM	SYM	_	15	dep	_	Translit=.|LTranslit=.
-17	รวม	รวม	VERB	VV	_	19	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+17	รวม	รวม	VERB	VV	ExtPos=CCONJ	19	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 18	ถึง	ถึง	ADP	IN	_	17	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 19	สุกร	สุกร	NOUN	NN	_	13	conj	_	SpaceAfter=No|Translit=sukr|LTranslit=sukr
 20	มา	มา	PART	RP	_	12	compound:prt	_	SpaceAfter=No|Translit=maː|LTranslit=maː
@@ -1169,7 +1169,7 @@
 15	ของ	ของ	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 16	หลักสูตร	หลักสูตร	NOUN	NN	_	14	obl:poss	_	SpaceAfter=No|Translit=hlạksuːtr|LTranslit=hlạksuːtr
 17	นี้	นี้	DET	DT	PronType=Dem	16	det	_	Gloss=this|Translit=nîː|LTranslit=nîː
-18	รวม	รวม	VERB	VV	_	20	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+18	รวม	รวม	VERB	VV	ExtPos=CCONJ	20	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 19	ถึง	ถึง	ADP	IN	_	18	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 20	วัตถุประสงค์	วัตถุประสงค์	NOUN	NN	_	14	conj	_	SpaceAfter=No|Translit=wạttʰuprasŋgʰ|LTranslit=wạttʰuprasŋgʰ
 21	เบื้อง	เบื้อง	NOUN	NN	_	20	compound	_	SpaceAfter=No|Translit=büâːŋ|LTranslit=büâːŋ
@@ -1340,7 +1340,7 @@
 24	ทวิตเตอร์	ทวิตเตอร์	PROPN	NNP	_	23	conj	_	Translit=dʰwittœːr|LTranslit=dʰwittœːr
 25	และ	และ	CCONJ	CC	_	26	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 26	สปอตติฟาย	สปอตติฟาย	PROPN	NNP	_	23	conj	_	Translit=spɔːttifaːy|LTranslit=spɔːttifaːy
-27	รวม	รวม	VERB	VV	_	31	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+27	รวม	รวม	VERB	VV	ExtPos=CCONJ	31	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 28	ถึง	ถึง	ADP	IN	_	27	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 29	อีก	อีก	DET	DT	PronType=Ind	31	det	_	Gloss=more,other|SpaceAfter=No|Translit='iːk|LTranslit='iːk
 30	หลาย	หลาย	DET	DT	PronType=Ind	31	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
@@ -2265,7 +2265,7 @@
 # text = อย่างไรก็ตาม มีสมาชิกสภานิติบัญญัติที่มีความเชื่อทางศาสนาอย่างแรงกล้าจำนวนมากที่คัดค้านการออกกฎหมายใหม่ๆ
 # translit = 'yàːŋrạikɔʔtaːm miːsmaːćʰiksḇʰaːnitibạŷŷạtidʰìːmiːgʰwaːmćʰüàːdʰaːŋśaːsnaː'yàːŋræːŋklâːčãːnwnmaːkdʰìːgʰạdgʰâːnkaːrɔː'kkḍhmaːyhaimə̀.
 # text_en = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
-1	อย่าง	อย่าง	ADP	IN	_	5	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=CCONJ	5	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -3981,7 +3981,7 @@
 # text_en = Many people, including Indigenous groups, argue they trivialize First Nations culture.
 1	ผู้คน	ผู้คน	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=pʰûːgʰn|LTranslit=pʰûːgʰn
 2	มากมาย	มากมาย	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=maːkmaːy|LTranslit=maːkmaːy
-3	รวม	รวม	VERB	VV	_	5	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+3	รวม	รวม	VERB	VV	ExtPos=CCONJ	5	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 4	ถึง	ถึง	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 5	กลุ่ม	กลุ่ม	NOUN	NN	_	1	conj	_	SpaceAfter=No|Translit=klùm|LTranslit=klùm
 6	ชน	ชน	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=ćʰn|LTranslit=ćʰn
@@ -4071,7 +4071,7 @@
 # text = ท้ายที่สุดแล้ว อินเทอร์เน็ตไม่ใช่สิ่งฟุ่มเฟือย แต่เป็นเครื่องมือที่จำเป็น
 # translit = dʰâːydʰìːsudlæ̂ːw 'indʰœːrnetmạìćʰaìsìŋfùmfüaːy tæ̀ːpengʰeːrǜː'ŋmüː'dʰìːčãːpen
 # text_en = After all, the internet is not a luxury; it is an essential tool.
-1	ท้าย	ท้าย	NOUN	NN	_	6	cc	_	SpaceAfter=No|Translit=dʰâːy|LTranslit=dʰâːy
+1	ท้าย	ท้าย	NOUN	NN	ExtPos=CCONJ	6	cc	_	SpaceAfter=No|Translit=dʰâːy|LTranslit=dʰâːy
 2	ที่สุด	ที่สุด	ADJ	JJ	_	1	fixed	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
 3	แล้ว	แล้ว	ADV	RB	_	1	fixed	_	Translit=læ̂ːw|LTranslit=læ̂ːw
 4	อินเทอร์เน็ต	อินเทอร์เน็ต	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit='indʰœːrnet|LTranslit='indʰœːrnet
@@ -4669,7 +4669,7 @@
 11	ๆ	ๆ	SYM	SYM	_	10	dep	_	Translit=.|LTranslit=.
 12	ความเป็น	เป็น	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=gʰwaːmpen|LTranslit=pen
 13	ศิลปะ	ศิลปะ	NOUN	NN	_	7	conj	_	Translit=śilpa|LTranslit=śilpa
-14	หรือ	หรือ	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
+14	หรือ	หรือ	CCONJ	CC	ExtPos=CCONJ	20	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
 15	ไม่	ไม่	PART	NEG	_	14	fixed	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 16	อย่าง	อย่าง	ADP	IN	_	14	fixed	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 17	นั้น	นั้น	PRON	PRD	PronType=Dem	14	fixed	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
@@ -5186,7 +5186,7 @@
 # text = จากนั้น เขาใช้เวลาสี่ปีกับสถานีวิทยุบีบีซีเวิลด์เซอร์วิสที่บุชเฮาส์
 # translit = čaːknận kʰaoːćʰaîweːlaːsìːpiːkạbstʰaːniːwidʰyubiːbiːciːweildcœːrwisdʰìːbućʰḥaoːs
 # text_en = He then spent four years with BBC World Service radio at Bush House.
-1	จาก	จาก	CCONJ	CC	_	4	cc	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
+1	จาก	จาก	CCONJ	CC	ExtPos=CCONJ	4	cc	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 2	นั้น	นั้น	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=that|Translit=nận|LTranslit=nận
 3	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	4	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 4	ใช้	ใช้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
@@ -5541,7 +5541,7 @@
 # text = จากนั้นก็มีสิ่งที่เรียกกันว่าเรื่องจริงที่โพสต์ขึ้นมาเป็นชุดรูปภาพสื่อความหมายพร้อมคำบรรยายใต้รูป
 # translit = čaːknậnkɔʔmiːsìŋdʰìːriaːkkạnwàːrüàːŋčriŋdʰìːbʰoːstkʰü̂nmaːpenćʰudruːpḇʰaːbʰsǜː'gʰwaːmhmaːybʰrɔ̂ːmgʰãːbrryaːytaîruːp
 # text_en = Then there are the so-called true stories that get posted in a series of meaningful pictures with text running underneath.
-1	จาก	จาก	CCONJ	CC	_	4	cc	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
+1	จาก	จาก	CCONJ	CC	ExtPos=CCONJ	4	cc	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 2	นั้น	นั้น	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
 3	ก็	ก็	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	มี	มี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -5776,7 +5776,7 @@
 8	มาก	มาก	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
 9	ขึ้น	ขึ้น	ADV	RB	_	8	advmod	_	Translit=kʰü̂n|LTranslit=kʰü̂n
 10	...	...	PUNCT	...	_	16	punct	_	Translit=...|LTranslit=...
-11	ถึง	ถึง	ADP	IN	_	16	cc:preconj	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
+11	ถึง	ถึง	ADP	IN	ExtPos=CCONJ	16	cc:preconj	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 12	แม้	แม้	ADP	IN	_	11	fixed	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 13	การกู้ยืม	การกู้ยืม	VERB	VV	_	16	nsubj	_	SpaceAfter=No|Translit=kaːrkûːyüːm|LTranslit=kaːrkûːyüːm
 14	นี้	นี้	DET	DT	PronType=Dem	13	det	_	Gloss=this|SpaceAfter=No|Translit=nîː|LTranslit=nîː
@@ -6028,7 +6028,7 @@
 # text = แม้ว่ามันจะดูน่าประหลาดใจ แต่จริงๆ แล้วแม้แต่เมฆฝนกรดก็ยังมีสิ่งดีๆ ซ่อนอยู่
 # translit = mæ̂ːwàːmạnčaduːnàːprahlaːdčai tæ̀ːčriŋ. læ̂ːwmæ̂ːtæ̀ːmeːqʰfʰnkrdkɔʔyạŋmiːsìŋdiː. cɔ̀ːnɔːyùː
 # text_en = Surprising as it may seem, even acid rain clouds can have a silver lining.
-1	แม้	แม้	ADP	IN	_	5	cc:preconj	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
+1	แม้	แม้	ADP	IN	ExtPos=CCONJ	5	cc:preconj	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 2	ว่า	ว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 3	มัน	มัน	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=it|SpaceAfter=No|Translit=mạn|LTranslit=mạn
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -6188,7 +6188,7 @@
 10	อาศัย	อาศัย	VERB	VV	_	2	advcl	_	SpaceAfter=No|Translit='aːśạy|LTranslit='aːśạy
 11	ใน	ใน	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 12	ลอนดอน	ลอนดอน	PROPN	NNP	_	10	obl	_	SpaceAfter=No|Translit=lɔːndɔːn|LTranslit=lɔːndɔːn
-13	แล้ว	แล้ว	ADP	IN	_	15	cc	_	SpaceAfter=No|Translit=læ̂ːw|LTranslit=læ̂ːw
+13	แล้ว	แล้ว	ADP	IN	ExtPos=CCONJ	15	cc	_	SpaceAfter=No|Translit=læ̂ːw|LTranslit=læ̂ːw
 14	ก็	ก็	ADV	RB	_	13	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 15	กลาสโกว์	กลาสโกว์	NOUN	NN	_	12	conj	_	Translit=klaːskoːw|LTranslit=klaːskoːw
 16	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	18	nsubj	_	Gloss=which,that|SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
@@ -7008,7 +7008,7 @@
 # text = หลังจากนั้น ไปเดินตลาดเช้า (6.30-10.00 น.): ข้าวพอง, รังดักแด้ตัวต่อ (ดักแด้ถือว่าเป็นของเด็ด), ปอดควาย, หมากพลู, คางคกเป็นๆ และปลาดุก
 # translit = hlạŋčaːknận pạideintlaːdćʰaôː (6.30-10.00 n.): kʰâːwbʰɔːŋ, rạŋdạkdæ̂ːtuaːtɔ̀ː (dạkdæ̂ːtʰüː'wàːpenkʰɔːŋded), pɔːdgʰwaːy, hmaːkbʰluː, gʰaːŋgʰkpen. læplaːduk
 # text_en = Afterwards, browse at the morning market (6.30-10am): rice lollipops, wasp cocoons (the pupae are considered a delicacy), buffalo lung, betel-nut bark and leaves, live toads and catfish.
-1	หลัง	หลัง	CCONJ	CC	_	4	cc	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+1	หลัง	หลัง	CCONJ	CC	ExtPos=CCONJ	4	cc	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	นั้น	นั้น	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=that|Translit=nận|LTranslit=nận
 4	ไป	ไป	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pại|LTranslit=pại
@@ -10801,7 +10801,7 @@
 # text = ยิ่งไปกว่านั้น ชนชั้นสูงของมาซิโดเนียและเปอร์เซียได้สมรสข้ามชนชาติ
 # translit = yìŋpạikwàːnận ćʰnćʰậnsuːŋkʰɔːŋmaːcidoːniaːlæpœːrciaːdạîsmrskʰâːmćʰnćʰaːti
 # text_en = Moreover, many of the Macedonian and Persian elite intermarried.
-1	ยิ่ง	ยิ่ง	ADV	RB	_	13	cc	_	SpaceAfter=No|Translit=yìŋ|LTranslit=yìŋ
+1	ยิ่ง	ยิ่ง	ADV	RB	ExtPos=CCONJ	13	cc	_	SpaceAfter=No|Translit=yìŋ|LTranslit=yìŋ
 2	ไป	ไป	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 3	กว่า	กว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 4	นั้น	นั้น	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=that|Translit=nận|LTranslit=nận
@@ -10958,7 +10958,7 @@
 # text = อย่างไรก็ตาม มีข้อแตกต่างสำคัญทางกฎหมายและกระบวนการระหว่างไอร์แลนด์เหนือกับอังกฤษและเวลส์
 # translit = 'yàːŋrạikɔʔtaːm miːkʰɔ̂ːtæːktàːŋsãːgʰạŷdʰaːŋkḍhmaːylækrabwnkaːrrahwàːŋ'ạirlæːndheːnüː'kạb'ạŋkṟšlæweːls
 # text_en = However, there are important differences in law and procedure between Northern Ireland and England and Wales.
-1	อย่าง	อย่าง	CCONJ	CC	_	5	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	CCONJ	CC	ExtPos=CCONJ	5	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -11223,7 +11223,7 @@
 # text = นอกจากนี้ บทกฎหมายได้กำหนดการเลือกตั้งสภาภูมิภาคและเขตมหานคร
 # translit = nɔːkčaːknîː bdʰkḍhmaːydạîkãːhndkaːrlüaːktậŋsḇʰaːḇʰuːmiḇʰaːgʰlækʰeːtmhaːngʰr
 # text_en = In addition, statute determines the election of assembly of regions, and metropolitan districts.
-1	นอก	นอก	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
+1	นอก	นอก	CCONJ	CC	ExtPos=CCONJ	7	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|Translit=nîː|LTranslit=nîː
 4	บท	บท	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=bdʰ|LTranslit=bdʰ
@@ -11728,7 +11728,7 @@
 8	อาณานิคม	อาณานิคม	NOUN	NN	_	7	obj	_	Translit='aːṇaːnigʰm|LTranslit='aːṇaːnigʰm
 9	และ	และ	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 10	สงคราม	สงคราม	NOUN	NN	_	4	conj	_	Translit=sŋgʰraːm|LTranslit=sŋgʰraːm
-11	รวม	รวม	VERB	VV	_	13	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+11	รวม	รวม	VERB	VV	ExtPos=CCONJ	13	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 12	ถึง	ถึง	ADP	IN	_	11	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 13	อาหาร	อาหาร	NOUN	NN	_	4	conj	_	Translit='aːhaːr|LTranslit='aːhaːr
 14	(	(	PUNCT	(	_	16	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -12050,7 +12050,7 @@
 # text = อย่างไรก็ตาม ผลก็คือการทิ้งปืนใหญ่หนักที่สำคัญ และยังมีการถกเถียงทางประวัติศาสตร์อยู่ว่าเหตุใดจึงไม่ใช้ทางรถไฟไปเฟลนส์บวร์กเพื่อถอยหนีอย่างเหมาะสม
 # translit = 'yàːŋrạikɔʔtaːm pʰlkɔʔgʰüː'kaːrdʰîŋpüːnhaiŷə̀hnạkdʰìːsãːgʰạŷ læyạŋmiːkaːrtʰktʰiaːŋdʰaːŋprawạtiśaːstr'yùːwàːheːtudaičüŋmạìćʰaîdʰaːŋrtʰfạipạifeːlnsbwrkbʰüàːtʰɔːyhniː'yàːŋheːmaːasm
 # text_en = It resulted, however, in the abandonment of important pieces of heavy artillery, and it remains a matter of historical debate why the railway to Flensburg was never properly used for the evacuation.
-1	อย่าง	อย่าง	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	CCONJ	CC	ExtPos=CCONJ	7	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -12812,7 +12812,7 @@
 # text = ในทางกลับกัน ระบบนิเวศที่สมบูรณ์ด้วยแนวปฏิบัติด้านการจัดการที่ดีจะลดโอกาสของเหตุการณ์เหล่านั้นที่จะเกิดขึ้น หรืออย่างน้อยก็บรรเทาผลข้างเคียง
 # translit = naidʰaːŋklạbkạn rabbniweːśdʰìːsmbuːrṇdə̂wynæːwpṭibạtidâːnkaːrčạdkaːrdʰìːdiːčald'oːkaːskʰɔːŋheːtukaːrṇheːlàːnậndʰìːčakeidkʰü̂n hrüː'ɔːyàːŋnɔ̂ːykɔʔbrrdʰaoːpʰlkʰâːŋgʰiaːŋ
 # text_en = On the other hand, a healthy ecosystem with good management practices will reduce the chance of these events happening, or will at least mitigate adverse impacts.
-1	ใน	ใน	CCONJ	CC	_	17	cc	_	SpaceAfter=No|Translit=nai|LTranslit=nai
+1	ใน	ใน	CCONJ	CC	ExtPos=CCONJ	17	cc	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	ทาง	ทาง	NOUN	NN	_	1	fixed	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 3	กลับ	กลับ	VERB	VV	_	1	fixed	_	SpaceAfter=No|Translit=klạb|LTranslit=klạb
 4	กัน	กัน	PRON	PRP	PronType=Prs	1	fixed	_	Gloss=it|Translit=kạn|LTranslit=kạn
@@ -13848,7 +13848,7 @@
 10	เคมี	เคมี	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=gʰeːmiː|LTranslit=gʰeːmiː
 11	และ	และ	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
 12	ล็อบบี้ยิสต์	ล็อบบี้ยิสต์	NOUN	NN	_	9	conj	_	Proper=True|SpaceAfter=No|Translit=lɔbbîːyist|LTranslit=lɔbbîːyist
-13	รวม	รวม	VERB	VV	_	15	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+13	รวม	รวม	VERB	VV	ExtPos=CCONJ	15	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 14	ถึง	ถึง	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 15	ประชาชน	ประชาชน	NOUN	NN	_	9	conj	_	SpaceAfter=No|Translit=praćʰaːćʰn|LTranslit=praćʰaːćʰn
 16	ชาว	ชาว	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
@@ -14562,7 +14562,7 @@
 # text = อย่างไรก็ตาม เรื่องกลับตาลปัตรเมื่อจูเลียนถูกสังหารในการรบเมื่อปี 363
 # translit = 'yàːŋrạikɔʔtaːm rüàːŋklạbtaːlpạtrmüàːčuːliaːntʰuːksạŋhaːrnaikaːrrbmüàːpiː 363
 # text_en = However this was reversed when Julian was killed in battle in 363.
-1	อย่าง	อย่าง	ADP	IN	_	6	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=CCONJ	6	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -15197,7 +15197,7 @@
 # text = นอกจากนี้ พระองค์ทรงเสริมการป้องกันระหว่างอียิปต์กับเอเชีย โดยสร้างกำแพงแห่งผู้ปกครองในเขตดินดอนสามเหลี่ยมปากแม่น้ำฝั่งตะวันออก
 # translit = nɔːkčaːknîː bʰra'ŋgʰdʰrŋseːrimkaːrpɔ̂ːŋkạnrahwàːŋ'iːyiptkạb'eːćʰiaː doːysrâːŋkãːbʰæːŋhæ̀ːŋpʰûːpkgʰrɔːŋnaikʰeːtdindɔːnsaːmheːlìːympaːkmæ̀ːnã̂ːfʰạ̀ŋtawạnɔː'k
 # text_en = In addition, he strengthened defenses between Egypt and Asia, building the Walls of the Ruler in the East Delta region.
-1	นอก	นอก	ADP	IN	_	5	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
+1	นอก	นอก	ADP	IN	ExtPos=CCONJ	5	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|Translit=nîː|LTranslit=nîː
 4	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=bʰra'ŋgʰ|LTranslit=bʰra'ŋgʰ
@@ -15920,7 +15920,7 @@
 # text = โดยเฉพาะอย่างยิ่ง การเข้าเรียนมัธยมปลายของผู้ชายที่สูงกว่าค่าเฉลี่ย 10% ลดโอกาสความขัดแย้งไปประมาณ 3% ในขณะที่อัตราการเติบโตที่สูงกว่าค่าเฉลี่ยของการศึกษา 1% ทำให้ลดโอกาสเกิดสงครามกลางเมืองประมาณ 1%
 # translit = doːyčʰeːbʰaːa'yàːŋyìŋ kaːrkʰaôːriaːnmạḏʰymplaːykʰɔːŋpʰûːćʰaːydʰìːsuːŋkwàːgʰàːčʰeːlìːy 10% ld'oːkaːsgʰwaːmkʰạdyæ̂ːŋpạipramaːṇ 3% naikʰṇadʰìː'ạtraːkaːrteibtoːdʰìːsuːŋkwàːgʰàːčʰeːlìːykʰɔːŋkaːrśükšaː 1% dʰãːhaîld'oːkaːskeidsŋgʰraːmklaːŋmüaːŋpramaːṇ 1%
 # text_en = Specifically, a male secondary school enrollment 10% above the average reduced the chance of a conflict by about 3%, while a growth rate 1% higher than the study average resulted in a decline in the chance of a civil war of about 1%.
-1	โดย	โดย	ADP	IN	_	18	cc	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
+1	โดย	โดย	ADP	IN	ExtPos=CCONJ	18	cc	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
 2	เฉพาะ	เฉพาะ	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=čʰeːbʰaːa|LTranslit=čʰeːbʰaːa
 3	อย่าง	อย่าง	PART	PFR	_	1	fixed	_	SpaceAfter=No|ToDo=affix|Translit='yàːŋ|LTranslit='yàːŋ
 4	ยิ่ง	ยิ่ง	ADV	RB	_	1	fixed	_	Translit=yìŋ|LTranslit=yìŋ
@@ -16629,7 +16629,7 @@
 # text = อย่างไรก็ตาม มันมุ่งเน้นไปยังตำแหน่งเล็กๆ ทางตะวันตกมากเกินไป และไม่ได้เตรียมพร้อมรับมือกับความขัดแย้งโพ้นทะเล
 # translit = 'yàːŋrạikɔʔtaːm mạnmùŋnêːnpạiyạŋtãːhæːnə̀ŋlek. dʰaːŋtawạntkmaːkkeinpại læmạìdạîteːriːymbʰrɔ̂ːmrạbmüː'kạbgʰwaːmkʰạdyæ̂ːŋbʰôːndʰaleː
 # text_en = However, it was too oriented to small posts in the West and not as well-prepared for an overseas conflict.
-1	อย่าง	อย่าง	ADP	IN	_	6	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=CCONJ	6	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -16815,7 +16815,7 @@
 # text = อย่างไรก็ตาม มีการวิเคราะห์ทางสถิติเพิ่มเติมถึงข้อมูลทางประชากรและประชากรศาสตร์ที่รวมผู้หญิงเข้าไปด้วย โดยเฉพาะด้านบทบาทการให้กำเนิดบุตรของพวกเธอ
 # translit = 'yàːŋrạikɔʔtaːm miːkaːrwigʰeːraːahdʰaːŋstʰitibʰeìmteimtʰüŋkʰɔ̂ːmuːldʰaːŋpraćʰaːkrlæpraćʰaːkrśaːstrdʰìːrwmpʰûːhŷiŋkʰaôːpạidə̂wy doːyčʰeːbʰaːadâːnbdʰbaːdʰkaːrhaîkãːneidbutrkʰɔːŋbʰwkḏʰœː
 # text_en = There has, however, been extensive statistical analysis of demographic and population data which includes women, especially in their childbearing roles.
-1	อย่าง	อย่าง	ADP	IN	_	5	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=CCONJ	5	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -17302,7 +17302,7 @@
 16	ด้วย	ด้วย	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 17	ชื่อ	ชื่อ	NOUN	NN	_	14	obl	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 18	ตัว	ตัว	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=tuaː|LTranslit=tuaː
-19	ทั้ง	ทั้ง	DET	DT	PronType=Tot	21	cc:preconj	_	Gloss=both|SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
+19	ทั้ง	ทั้ง	DET	DT	ExtPos=CCONJ|PronType=Tot	21	cc:preconj	_	Gloss=both|SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 20	ที่	ที่	ADP	IN	_	19	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 21	ยัง	ยัง	VERB	AS	Aspect=Prog	13	advcl	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 22	ทรง	ทรง	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
@@ -17645,7 +17645,7 @@
 10	เรือ	เรือ	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rüaː|LTranslit=rüaː
 11	บาง	บาง	DET	DT	PronType=Ind	12	det	_	Gloss=some,a_few|SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
 12	แห่ง	แห่ง	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=hæ̀ːŋ|LTranslit=hæ̀ːŋ
-13	รวม	รวม	VERB	VV	_	15	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+13	รวม	รวม	VERB	VV	ExtPos=CCONJ	15	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 14	ถึง	ถึง	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 15	เซี่ยงไฮ้	เซี่ยงไฮ้	PROPN	NNP	_	9	conj	_	SpaceAfter=No|Translit=ciàːŋḥạî|LTranslit=ciàːŋḥạî
 16	และ	และ	CCONJ	CC	_	17	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -17903,7 +17903,7 @@
 13	จาก	จาก	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 14	การติด	การติด	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=kaːrtid|LTranslit=kaːrtid
 15	เฮโรอีน	เฮโรอีน	NOUN	NN	_	14	obj	_	Translit=ḥeːroː'iːn|LTranslit=ḥeːroː'iːn
-16	รวม	รวม	VERB	VV	_	18	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+16	รวม	รวม	VERB	VV	ExtPos=CCONJ	18	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 17	ถึง	ถึง	ADP	IN	_	16	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 18	ความตกต่ำ	ความตกต่ำ	VERB	VV	_	3	conj	_	SpaceAfter=No|Translit=gʰwaːmtktã̀ː|LTranslit=gʰwaːmtktã̀ː
 19	และ	และ	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -18576,7 +18576,7 @@
 # text = อย่างไรก็ตาม ปราโบโว ซูบีอันโต คู่แข่งของเขา ก็ได้ประกาศชัยชนะ ซึ่งทำให้ประชาชนชาวอินโดนีเซียสับสน
 # translit = 'yàːŋrạikɔʔtaːm praːboːwoː cuːbiː'ạntoː gʰùːkʰæ̀ːŋkʰɔːŋkʰaoː kɔʔdạîprakaːśćʰạyćʰna cǜŋdʰãːhaîpraćʰaːćʰnćʰaːw'indoːniːciaːsạbsn
 # text_en = However, his rival Prabowo Subianto also declared victory, leaving Indonesian citizens confused.
-1	อย่าง	อย่าง	CCONJ	CC	_	13	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	CCONJ	CC	ExtPos=CCONJ	13	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -18767,7 +18767,7 @@
 # text = จากนั้นเขาก็กลับไปยังคีร์รีมูร์
 # translit = čaːknậnkʰaoːkɔʔklạbpạiyạŋgʰiːrriːmuːr
 # text_en = He then returned to Kirriemuir.
-1	จาก	จาก	CCONJ	CC	_	5	cc	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
+1	จาก	จาก	CCONJ	CC	ExtPos=CCONJ	5	cc	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 2	นั้น	นั้น	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
 3	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	5	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 4	ก็	ก็	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
@@ -19005,7 +19005,7 @@
 14	ชนชั้น	ชนชั้น	NOUN	NN	_	9	conj	_	SpaceAfter=No|Translit=ćʰnćʰận|LTranslit=ćʰnćʰận
 15	ทาง	ทาง	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 16	สังคม	สังคม	NOUN	NN	_	14	nmod	_	Translit=sạŋgʰm|LTranslit=sạŋgʰm
-17	รวม	รวม	VERB	VV	_	19	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+17	รวม	รวม	VERB	VV	ExtPos=CCONJ	19	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 18	ถึง	ถึง	ADP	IN	_	17	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 19	ชีวิต	ชีวิต	NOUN	NN	_	9	conj	_	Translit=ćʰiːwit|LTranslit=ćʰiːwit
 20	เสรีภาพ	เสรีภาพ	NOUN	NN	_	19	conj	_	Translit=seːriːḇʰaːbʰ|LTranslit=seːriːḇʰaːbʰ
@@ -19020,7 +19020,7 @@
 # text = อย่างไรก็ตาม ไม่มีการรับรู้ของประชาชนเพิ่มเติมเกี่ยวกับการต่อต้านสงครามและงานด้านมนุษยธรรมของเธอจนเมื่อการปกครองแบบคอมมิวนิสต์ในโปแลนด์สิ้นสุดลง
 # translit = 'yàːŋrạikɔʔtaːm mạìmiːkaːrrạbrûːkʰɔːŋpraćʰaːćʰnbʰeìmteimkiàːwkạbkaːrtɔ̀ːtâːnsŋgʰraːmlæŋaːndâːnmnušyḏʰrrmkʰɔːŋḏʰœːčnmüàːkaːrpkgʰrɔːŋbæːbgʰɔːmmiwnistnaipoːlæːndsînsudlŋ
 # text_en = However, there was no further public recognition of her wartime resistance and humanitarian work until after the end of communist rule in Poland.
-1	อย่าง	อย่าง	CCONJ	CC	_	6	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	CCONJ	CC	ExtPos=CCONJ	6	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -19894,7 +19894,7 @@
 # text = พร้อมกันนั้นในช่วงกลางทศวรรษที่ 1970 สตาร์ลินเขียนนิยายหลายเรื่องให้ทำหนังสือรวมเล่มนิยายแนววิทยาศาสตร์ที่ตีพิมพ์อิสระชื่อสตาร์รีช
 # translit = bʰrɔ̂ːmkạnnậnnaićʰə̀wŋklaːŋdʰśwrršdʰìː 1970 staːrlinkʰiaːnniyaːyhlaːyrüàːŋhaîdʰãːhnạŋsüː'rwmlèːmniyaːynæːwwidʰyaːśaːstrdʰìːtiːbʰimbʰ'israćʰǜː'staːrriːćʰ
 # text_en = Concurrently in the mid-1970s, Starlin contributed a cache of stories to the independently published science-fiction anthology Star Reach.
-1	พร้อม	พร้อม	VERB	VV	_	11	cc	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
+1	พร้อม	พร้อม	VERB	VV	ExtPos=CCONJ	11	cc	_	SpaceAfter=No|Translit=bʰrɔ̂ːm|LTranslit=bʰrɔ̂ːm
 2	กัน	กัน	PRON	PRP	PronType=Prs	1	fixed	_	Gloss=it|SpaceAfter=No|Translit=kạn|LTranslit=kạn
 3	นั้น	นั้น	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
 4	ใน	ใน	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -20628,7 +20628,7 @@
 20	สกุล	สกุล	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=skul|LTranslit=skul
 21	หลาย	หลาย	DET	DT	PronType=Ind	22	det	_	Gloss=many,several,much|SpaceAfter=No|Translit=hlaːy|LTranslit=hlaːy
 22	คน	คน	NOUN	NNB	_	18	clf	_	Translit=gʰn|LTranslit=gʰn
-23	รวม	รวม	VERB	VV	_	25	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+23	รวม	รวม	VERB	VV	ExtPos=CCONJ	25	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 24	ถึง	ถึง	ADP	IN	_	23	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 25	เอ็ดเวิร์ด	เอ็ดเวิร์ด	PROPN	NNP	_	18	conj	_	SpaceAfter=No|Translit='edweird|LTranslit='edweird
 26	ที่	ที่	NOUN	NN	_	25	flat:name	_	Proper=True|Translit=dʰìː|LTranslit=dʰìː
@@ -20956,7 +20956,7 @@
 # text = ดังนั้นแล้วเทววิทยาที่เหมาะสมจะต้องสร้างขึ้นเมื่อพิจารณาถึงเป้าหมายในอนาคต
 # translit = dạŋnậnlæ̂ːwdʰeːwwidʰyaːdʰìːheːmaːasmčatɔ̂ːŋsrâːŋkʰü̂nmüàːbʰičaːrṇaːtʰüŋpaôːhmaːyn'ainaːgʰt
 # text_en = A proper theology would therefore have to be constructed in the light of its future goal.
-1	ดัง	ดัง	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=dạŋ|LTranslit=dạŋ
+1	ดัง	ดัง	CCONJ	CC	ExtPos=CCONJ	9	cc	_	SpaceAfter=No|Translit=dạŋ|LTranslit=dạŋ
 2	นั้น	นั้น	DET	DT	PronType=Dem	1	fixed	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
 3	แล้ว	แล้ว	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=læ̂ːw|LTranslit=læ̂ːw
 4	เทววิทยา	เทววิทยา	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=dʰeːwwidʰyaː|LTranslit=dʰeːwwidʰyaː
@@ -21710,7 +21710,7 @@
 40	มี	มี	VERB	VV	_	37	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 41	ต่อ	ต่อ	ADP	IN	_	42	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 42	รัสเซีย	รัสเซีย	PROPN	NNP	_	40	obl	_	Translit=rạsciaː|LTranslit=rạsciaː
-43	รวม	รวม	VERB	VV	_	45	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+43	รวม	รวม	VERB	VV	ExtPos=CCONJ	45	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 44	ทั้ง	ทั้ง	ADV	RB	_	43	fixed	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 45	ชดใช้	ชดใช้	VERB	VV	_	36	conj	_	SpaceAfter=No|Translit=ćʰdćʰaî|LTranslit=ćʰdćʰaî
 46	ค่า	ค่า	NOUN	NN	_	45	obj	_	SpaceAfter=No|Translit=gʰàː|LTranslit=gʰàː
@@ -21729,7 +21729,7 @@
 # text = อย่างที่เขาว่ากันว่าเป็นกระบวนการทางการเมืองและข้าพเจ้าก็ตัดสินใจไม่ปรากฏตัว
 # translit = 'yàːŋdʰìːkʰaoːwàːkạnwàːpenkrabwnkaːrdʰaːŋkaːrmüaːŋlækʰâːbʰčaôːkɔʔtạdsinčaimạìpraːkṭtuaː
 # text_en = It is a political process and I have decided not to be present, so it was said.
-1	อย่าง	อย่าง	CCONJ	CC	_	4	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	CCONJ	CC	ExtPos=CCONJ	4	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ที่	ที่	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 3	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	4	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 4	ว่า	ว่า	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
@@ -22004,7 +22004,7 @@
 # text = ในทางกลับกัน Vine ก็เป็นศิลปะในเวลาหกวินาที
 # translit = naidʰaːŋklạbkạn Vine kɔʔpenśilpanaiweːlaːhkwinaːdʰiː
 # text_en = On the other hand, Vine was art in six seconds.
-1	ใน	ใน	CCONJ	CC	_	8	cc	_	SpaceAfter=No|Translit=nai|LTranslit=nai
+1	ใน	ใน	CCONJ	CC	ExtPos=CCONJ	8	cc	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	ทาง	ทาง	NOUN	NN	_	1	fixed	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 3	กลับ	กลับ	VERB	VV	_	1	fixed	_	SpaceAfter=No|Translit=klạb|LTranslit=klạb
 4	กัน	กัน	PRON	PRP	PronType=Prs	1	fixed	_	Gloss=it|Translit=kạn|LTranslit=kạn
@@ -22037,7 +22037,7 @@
 # text = ถึงกระนั้น ตอนสุดท้ายของซีซั่นนี้ก็ยังเป็นการส่งท้ายปีอันน่าทึ่งสำหรับเคอร์เบอร์
 # translit = tʰüŋkranận tɔːnsuddʰâːykʰɔːŋciːcạ̀nnîːkɔʔyạŋpenkaːrsə̀ŋdʰâːypiː'ạnnàːdʰǜŋsãːhrạbgʰœːrbœːr
 # text_en = For Kerber, the season finale nevertheless marks the end of an unbelievable year.
-1	ถึง	ถึง	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
+1	ถึง	ถึง	CCONJ	CC	ExtPos=CCONJ	11	cc	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 2	กระนั้น	กระนั้น	ADP	IN	_	1	fixed	_	Translit=kranận|LTranslit=kranận
 3	ตอน	ตอน	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
 4	สุดท้าย	สุดท้าย	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=suddʰâːy|LTranslit=suddʰâːy
@@ -22389,7 +22389,7 @@
 15	คน	คน	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 16	จำนวน	จำนวน	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=čãːnwn|LTranslit=čãːnwn
 17	หนึ่ง	หนึ่ง	NUM	CD	_	16	nummod	_	SpaceAfter=No|Translit=hnǜŋ|LTranslit=hnǜŋ
-18	รวม	รวม	VERB	VV	_	20	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+18	รวม	รวม	VERB	VV	ExtPos=CCONJ	20	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 19	ถึง	ถึง	ADP	IN	_	18	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 20	ริช	ริช	PROPN	NNP	_	15	conj	_	Translit=rićʰ|LTranslit=rićʰ
 21	ใน	ใน	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
@@ -22541,7 +22541,7 @@
 # text = ดังนั้น สัญญาณที่น่ารำคาญเหล่านี้จะไม่หายไปหมด: ตามข้อมูลของสำนักข่าว DPA ระบุว่าจะเปิดใช้งานเฉพาะในกรณี เช่น ศิลปินหรือค่ายเพลงไม่ได้เป็นสมาชิกของ GEMA และไม่ได้ทำข้อตกลงกับ YouTube
 # translit = dạŋnận sạŷŷaːṇdʰìːnàːrãːgʰaːŷheːlàːnîːčamạìhaːypạihmd: taːmkʰɔ̂ːmuːlkʰɔːŋsãːnạkkʰàːw DPA rabuwàːčapeidćʰaîŋaːnčʰeːbʰaːanaikrṇiː ćʰèːn śilpinhrüː'gʰàːybʰeːlŋmạìdạîpensmaːćʰikkʰɔːŋ GEMA læmạìdạîdʰãːkʰɔ̂ːtklŋkạb YouTube
 # text_en = Therefore the irksome signs will not completely disappear: According to information from the news agency dpa, they will only be activated if, for instance, the artist or record label is not a member of GEMA and does not have an agreement with YouTube.
-1	ดัง	ดัง	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=dạŋ|LTranslit=dạŋ
+1	ดัง	ดัง	CCONJ	CC	ExtPos=CCONJ	10	cc	_	SpaceAfter=No|Translit=dạŋ|LTranslit=dạŋ
 2	นั้น	นั้น	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=that|Translit=nận|LTranslit=nận
 3	สัญญาณ	สัญญาณ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=sạŷŷaːṇ|LTranslit=sạŷŷaːṇ
 4	ที่	ที่	DET	WDT	PronType=Rel	5	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -22596,7 +22596,7 @@
 # text_en = The contaminants not only attack the undeveloped lungs of the little ones; they can also lead to long-term impairment in the development of the adolescent brain.
 1	สิ่ง	สิ่ง	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
 2	ปนเปื้อน	ปนเปื้อน	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=pnpüâːn|LTranslit=pnpüâːn
-3	ไม่	ไม่	PART	NEG	_	7	cc:preconj	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
+3	ไม่	ไม่	PART	NEG	ExtPos=CCONJ	7	cc:preconj	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 4	เพียง	เพียง	ADV	RB	_	3	fixed	_	SpaceAfter=No|Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
 5	แต่	แต่	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 6	จะ	จะ	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -22788,7 +22788,7 @@
 # text = ในทางกลับกัน ความสัมพันธ์ของนางคลินตันกับภาคพื้นทวีปในช่วงยี่สิบปีให้หลังนั้นไม่ค่อยเป็นที่น่าพอใจ
 # translit = naidʰaːŋklạbkạn gʰwaːmsạmbʰạnḏʰkʰɔːŋnaːŋgʰlintạnkạbḇʰaːgʰbʰü̂ːndʰwiːpnaićʰə̀wŋyìːsibpiːhaîhlạŋnậnmạìgʰɔ̀ːypendʰìːnàːbʰɔːčai
 # text_en = On the other hand, Ms. Clinton's relations with the continent over the past twenty years leave much to be desired.
-1	ใน	ใน	CCONJ	CC	_	24	cc	_	SpaceAfter=No|Translit=nai|LTranslit=nai
+1	ใน	ใน	CCONJ	CC	ExtPos=CCONJ	24	cc	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	ทาง	ทาง	NOUN	NN	_	1	fixed	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 3	กลับ	กลับ	VERB	VV	_	1	fixed	_	SpaceAfter=No|Translit=klạb|LTranslit=klạb
 4	กัน	กัน	PRON	PRP	PronType=Prs	1	fixed	_	Gloss=it|Translit=kạn|LTranslit=kạn
@@ -23001,7 +23001,7 @@
 # text = ถึงแม้ว่าสถานการณ์ส่วนใหญ่ที่เกิดขึ้นในที่ทำงานจะแก้ไขได้โดยไม่มีความขัดแย้ง
 # translit = tʰüŋmæ̂ːwàːstʰaːnkaːrṇsə̀wnhaiŷə̀dʰìːkeidkʰü̂nnaidʰìːdʰãːŋaːnčakæ̂ːkʰạidạîdoːymạìmiːgʰwaːmkʰạdyæ̂ːŋ
 # text_en = Even if the majority of situations that arise in the workplace can be resolved without conflict.
-1	ถึง	ถึง	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
+1	ถึง	ถึง	CCONJ	CC	ExtPos=CCONJ	15	cc	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 2	แม้	แม้	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 3	ว่า	ว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 4	สถานการณ์	สถานการณ์	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=stʰaːnkaːrṇ|LTranslit=stʰaːnkaːrṇ
@@ -24105,7 +24105,7 @@
 # text = อย่างไรก็ตาม การจัดการของมันก็ไม่ได้ปราศจากคำวิจารณ์
 # translit = 'yàːŋrạikɔʔtaːm kaːrčạdkaːrkʰɔːŋmạnkɔʔmạìdạîpraːśčaːkgʰãːwičaːrṇ
 # text_en = Its management, however, hasn't been devoid of criticism.
-1	อย่าง	อย่าง	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	CCONJ	CC	ExtPos=CCONJ	11	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	WRB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -24164,7 +24164,7 @@
 # text = นอกจากนี้ รัฐบาลจะต้องจัดการกับ "เรื่องร้อนๆ" อื่นๆ อีก
 # translit = nɔːkčaːknîː rạṭʰbaːlčatɔ̂ːŋčạdkaːrkạb "rüàːŋrɔ̂ːn." 'ǜːn. 'iːk
 # text_en = Furthermore, the Government will have to deal with another "hot potato".
-1	นอก	นอก	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
+1	นอก	นอก	CCONJ	CC	ExtPos=CCONJ	7	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|Translit=nîː|LTranslit=nîː
 4	รัฐบาล	รัฐบาล	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=rạṭʰbaːl|LTranslit=rạṭʰbaːl
@@ -25283,7 +25283,7 @@
 # text = นอกจากนี้ กระบวนการในการชุบทองแดงก็เป็นที่น่าสังเกตในทางเทคโนโลยี
 # translit = nɔːkčaːknîː krabwnkaːrnaikaːrćʰubdʰɔːŋdæːŋkɔʔpendʰìːnàːsạŋkeːtnaidʰaːŋdʰeːgʰnoːloːyiː
 # text_en = In addition, its process of gilding copper is technologically noteworthy.
-1	นอก	นอก	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
+1	นอก	นอก	CCONJ	CC	ExtPos=CCONJ	10	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|Translit=nîː|LTranslit=nîː
 4	กระบวนการ	กระบวนการ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=krabwnkaːr|LTranslit=krabwnkaːr
@@ -26131,7 +26131,7 @@
 # text = อย่างไรก็ตาม พิรัสถูกบังคับให้ออกจากซิซิลีเพื่อไปร่วมธุรกิจในอิตาลีตอนใต้
 # translit = 'yàːŋrạikɔʔtaːm bʰirạstʰuːkbạŋgʰạbhaî'ɔːkčaːkciciliːbʰüàːpạirə̀wmḏʰurkičnai'itaːliːtɔːntaî
 # text_en = However, Pyrrhus was forced to leave Sicily in order to attend to business in southern Italy.
-1	อย่าง	อย่าง	ADP	IN	_	7	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=CCONJ	7	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -26494,7 +26494,7 @@
 # text = ถึงแม้จะเป็นหมายเลขหนึ่งด้านผู้จัดจำหน่ายอุปกรณ์และสิ่งทอทั่วโลก แต่บริษัทเยอรมันรายนี้กลับก็ประสบปัญหาด้านการเงิน
 # translit = tʰüŋmæ̂ːčapenhmaːyleːkʰhnǜŋdâːnpʰûːčạdčãːhnàːy'upkrṇlæsìŋdʰɔːdʰuàːloːk tæ̀ːbrišạdʰyœːrmạnraːynîːklạbkɔʔprasbpạŷhaːdâːnkaːrŋein
 # text_en = Despite being the number one distributor of equipment and textiles worldwide, the German company was in financial trouble.
-1	ถึง	ถึง	ADP	IN	_	5	cc:preconj	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
+1	ถึง	ถึง	ADP	IN	ExtPos=CCONJ	5	cc:preconj	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 2	แม้	แม้	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 3	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 4	เป็น	เป็น	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -26728,7 +26728,7 @@
 # text = นอกจากนี้ พายุเฮอริเคนบนเกาะสามารถเกิดขึ้นได้ในช่วงฤดูร้อน
 # translit = nɔːkčaːknîː bʰaːyuḥœːrigʰeːnbnkɔsaːmaːrtʰkeidkʰü̂ndạînaićʰə̀wŋṟduːrɔ̂ːn
 # text_en = Furthermore, the occurrence of hurricanes on the island is possible during the summer.
-1	นอก	นอก	CCONJ	CC	_	8	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
+1	นอก	นอก	CCONJ	CC	ExtPos=CCONJ	8	cc	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	นี้	นี้	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=this|Translit=nîː|LTranslit=nîː
 4	พายุ	พายุ	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=bʰaːyu|LTranslit=bʰaːyu
@@ -26972,7 +26972,7 @@
 6	ประวัติศาสตร์	ประวัติศาสตร์	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=prawạtiśaːstr|LTranslit=prawạtiśaːstr
 7	จำนวน	จำนวน	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=čãːnwn|LTranslit=čãːnwn
 8	มาก	มาก	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
-9	รวม	รวม	VERB	VV	_	11	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
+9	รวม	รวม	VERB	VV	ExtPos=CCONJ	11	cc	_	SpaceAfter=No|Translit=rwm|LTranslit=rwm
 10	ทั้ง	ทั้ง	ADV	RB	_	9	fixed	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 11	หิน	หิน	NOUN	NN	_	2	conj	_	SpaceAfter=No|Translit=hin|LTranslit=hin
 12	ตั้ง	ตั้ง	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
@@ -26987,7 +26987,7 @@
 # text = จากนั้นเขตพระราชฐานอะปูเลียและกาลาเบรียแห่งที่สองก็ได้ก่อตั้งขึ้น รวมถึงซัมเนียม หลายส่วนของโมลีเซ และบาซิลิกาตาตะวันออก
 # translit = čaːknậnkʰeːtbʰraraːćʰṭʰaːn'apuːliaːlækaːlaːbeːriːyhæ̀ːŋdʰìːsɔːŋkɔʔdạîkɔ̀ːtậŋkʰü̂n rwmtʰüŋcạmniaːm hlaːysə̀wnkʰɔːŋmoːliːceː læbaːcilikaːtaːtawạnɔː'k
 # text_en = The second Apulian and Calabrian Royal Region was then established, also including Samnium, parts of Molise and the oriental Basilicata.
-1	จาก	จาก	CCONJ	CC	_	13	cc	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
+1	จาก	จาก	CCONJ	CC	ExtPos=CCONJ	13	cc	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 2	นั้น	นั้น	PRON	PRD	PronType=Dem	1	fixed	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
 3	เขต	เขต	NOUN	NN	_	13	nsubj	_	Proper=True|SpaceAfter=No|Translit=kʰeːt|LTranslit=kʰeːt
 4	พระราชฐาน	พระราชฐาน	NOUN	NN	_	3	flat:name	_	Proper=True|SpaceAfter=No|Translit=bʰraraːćʰṭʰaːn|LTranslit=bʰraraːćʰṭʰaːn
@@ -27439,7 +27439,7 @@
 # text = อย่างไรก็ตาม มิตรภาพก็ต้องจบลงเนื่องจากการร่วมมือกันอย่างไม่เป็นทางการระหว่างทั้งสองซึ่งนำไปสู่ข้อขัดแย้งทางกฎหมาย
 # translit = 'yàːŋrạikɔʔtaːm mitrḇʰaːbʰkɔʔtɔ̂ːŋčblŋnüàːŋčaːkkaːrrə̀wmmüː'kạnɔːyàːŋmạìpendʰaːŋkaːrrahwàːŋdʰậŋsɔːŋcǜŋnãːpạisùːkʰɔ̂ːkʰạdyæ̂ːŋdʰaːŋkḍhmaːy
 # text_en = However, the friendship has fallen apart due to unofficial collaborations between the two, which has given rise to legal disputes.
-1	อย่าง	อย่าง	CCONJ	CC	_	8	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	CCONJ	CC	ExtPos=CCONJ	8	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -27645,7 +27645,7 @@
 # text = อย่างไรก็ตาม ความแตกแยกระหว่างเขาและลินาเรสและการที่ไม่สามารถดำเนินการตามแผนความก้าวหน้าได้ส่งผลให้เกิดการปฏิวัติแห่งการปลดปล่อย ซึ่งโค่นล้มเขาในปี 1879
 # translit = 'yàːŋrạikɔʔtaːm gʰwaːmtæːkyæːkrahwàːŋkʰaoːlælinaːreːslækaːrdʰìːmạìsaːmaːrtʰdãːneinkaːrtaːmpʰæːngʰwaːmkâːwhnâːdạîsə̀ŋpʰlhaîkeidkaːrpṭiwạtihæ̀ːŋkaːrpldplɔ̀ːy cǜŋgʰòːnlə̂mkʰaoːnaipiː 1879
 # text_en = However, the breakdown between him and Linares and the discontinuation of the progressive line provoked the Revolution of Vindication which overthrew him in 1879.
-1	อย่าง	อย่าง	ADP	IN	_	20	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=CCONJ	20	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -27902,7 +27902,7 @@
 # text = อย่างไรก็ตาม พวกเขาถูกสกัดไว้และต้องทำการสู้รบที่ฟรีแมน ติดกับแม่น้ำฮัดสัน
 # translit = 'yàːŋrạikɔʔtaːm bʰwkkʰaoːtʰuːkskạdwạîlætɔ̂ːŋdʰãːkaːrsûːrbdʰìːfriːmæːn tidkạbmæ̀ːnã̂ːḥạdsạn
 # text_en = However, they were intercepted and had to do battle in Freeman, close to the Hudson River.
-1	อย่าง	อย่าง	ADP	IN	_	8	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=CCONJ	8	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -27965,7 +27965,7 @@
 # text = ในทางตรงกันข้าม ประวัติศาสตร์ภายนอกมีการอ้างอิงถึงประวัติศาสตร์ของผู้พูดภาษาสเปน การเปลี่ยนแปลงเชิงประวัติที่ไม่คาดคิด และการใช้ภาษาเชิงสังคม
 # translit = naidʰaːŋtrŋkạnkʰâːm prawạtiśaːstrḇʰaːynɔːkmiːkaːr'âːŋ'iŋtʰüŋprawạtiśaːstrkʰɔːŋpʰûːbʰuːdḇʰaːšaːspeːn kaːrpeːlìːynpæːlŋćʰeiŋprawạtidʰìːmạìgʰaːdgʰid lækaːrćʰaîḇʰaːšaːćʰeiŋsạŋgʰm
 # text_en = On the other hand, external history contains references to the history of Spanish speakers, their historical vicissitudes and the social use of the language.
-1	ใน	ใน	ADP	IN	_	7	cc	_	SpaceAfter=No|Translit=nai|LTranslit=nai
+1	ใน	ใน	ADP	IN	ExtPos=CCONJ	7	cc	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	ทาง	ทาง	NOUN	NN	_	1	fixed	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 3	ตรงกันข้าม	ตรงกันข้าม	ADJ	JJ	_	1	fixed	_	Translit=trŋkạnkʰâːm|LTranslit=trŋkạnkʰâːm
 4	ประวัติศาสตร์	ประวัติศาสตร์	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=prawạtiśaːstr|LTranslit=prawạtiśaːstr
@@ -27997,7 +27997,7 @@
 # text = อย่างไรก็ดี หากกฎหมายอังกฤษประกาศใช้ พระราชธิดาของพระเจ้าหลุยส์ที่ 10 พระเจ้าเฟลิเปที่ 5 และพระเจ้าคาร์ลอสที่ 4 จะมีสิทธิ์ในการสืบราชบัลลังก์มากกว่าพระปิตุจฉาอิซาเบลลาแห่งฝรั่งเศส
 # translit = 'yàːŋrạikɔʔdiː haːkkḍhmaːy'ạŋkṟšprakaːśćʰaî bʰraraːćʰḏʰidaːkʰɔːŋbʰračaôːhluysdʰìː 10 bʰračaôːfeːlipeːdʰìː 5 læbʰračaôːgʰaːrlɔːsdʰìː 4 čamiːsidʰḏʰinaikaːrsüːbraːćʰbạllạŋkmaːkkwàːbʰrapituččʰaː'icaːbeːllaːhæ̀ːŋfʰrạ̀ŋśeːs
 # text_en = Nonetheless, if the English law had been accepted, the daughters of Luis X, Felipe V and Carlos IV would have had more of a claim to the throne, above their aunt Isabella of France.
-1	อย่าง	อย่าง	ADP	IN	_	8	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=CCONJ	8	cc	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ดี	ดี	ADJ	JJ	_	1	fixed	_	Translit=diː|LTranslit=diː
