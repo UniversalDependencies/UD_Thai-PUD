@@ -164,8 +164,8 @@
 # translit = kaːrćʰaîčàːygʰrậŋhaimə̀nîːdạîrạbkaːrsnạbsnundoːybạŷćʰiːḏʰnaːgʰaːr'ạnrã̀ːrwykʰɔːŋgʰlintạn
 # text_en = The new spending is fueled by Clinton’s large bank account.
 1	การใช้จ่าย	การใช้จ่าย	VERB	VV	_	6	nsubj	_	SpaceAfter=No|Translit=kaːrćʰaîčàːy|LTranslit=kaːrćʰaîčàːy
-2	ครั้ง	ครั้ง	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
-3	ใหม่	ใหม่	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=haimə̀|LTranslit=haimə̀
+2	ครั้ง	ครั้ง	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
+3	ใหม่	ใหม่	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=haimə̀|LTranslit=haimə̀
 4	นี้	นี้	DET	DT	PronType=Dem	1	det	_	Gloss=this|SpaceAfter=No|Translit=nîː|LTranslit=nîː
 5	ได้	ได้	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 6	รับ	รับ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rạb|LTranslit=rạb
@@ -17338,12 +17338,12 @@
 17	เป็น	เป็น	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 18	ชาว	ชาว	NOUN	NN	_	5	acl:relcl	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
 19	จีน	จีน	PROPN	NNP	_	18	compound	_	Translit=čiːn|LTranslit=čiːn
-20	(	(	PUNCT	(	_	24	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
+20	(	(	PUNCT	(	_	23	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 21	ประมาณ	ประมาณ	ADV	RB	_	23	advmod	_	Translit=pramaːṇ|LTranslit=pramaːṇ
 22	7.5	7.5	NUM	CD	_	23	nummod	_	Translit=7.5|LTranslit=7.5
 23	ล้าน	ล้าน	NUM	CD	_	18	nummod	_	SpaceAfter=No|Translit=lâːn|LTranslit=lâːn
 24	คน	คน	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
-25	)	)	PUNCT	)	_	24	punct	_	Translit=)|LTranslit=)
+25	)	)	PUNCT	)	_	23	punct	_	Translit=)|LTranslit=)
 26	ถูก	ถูก	AUX	MD	Voice=Pass	27	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 27	สังหาร	สังหาร	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=sạŋhaːr|LTranslit=sạŋhaːr
 28	โดย	โดย	ADP	IN	_	29	case	_	SpaceAfter=No|Translit=doːy|LTranslit=doːy
