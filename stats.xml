@@ -33,9 +33,10 @@
     <tag name="X">4</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="20">
+  <feats unique="21">
     <feat name="Aspect" value="Perf" upos="AUX,VERB">289</feat><!-- ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว -->
     <feat name="Aspect" value="Prog" upos="AUX,VERB">112</feat><!-- อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง -->
+    <feat name="ExtPos" value="ADP" upos="ADP,NOUN,VERB">120</feat><!-- เกี่ยว, ตั้ง, ภาย, หลัง, จน, เนื่อง, โดย, นอก, แม้, ได้ -->
     <feat name="ExtPos" value="ADV" upos="ADP">1</feat><!-- อย่าง -->
     <feat name="ExtPos" value="CCONJ" upos="ADP,ADV,CCONJ,DET,NOUN,PART,VERB">58</feat><!-- อย่าง, รวม, นอก, จาก, ถึง, ใน, ดัง, ทั้ง, ท้าย, พร้อม -->
     <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,PART,VERB">70</feat><!-- หลัง, เนื่อง, ก่อน, จน, ไม่, ตาม, แม้, ถึง, ทั้ง, อย่าง -->
