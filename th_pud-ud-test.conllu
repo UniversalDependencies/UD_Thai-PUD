@@ -13967,7 +13967,7 @@
 # translit = kɔ̀ːn'ǜːnkɔʔgʰüː'kaːrčạdhaːbʰü̂ːndʰìːpeidbʰüàːhaîćʰaːwmüaːŋlæpʰûː'aːśạydʰɔ̂ːŋtʰìndạîćʰaîprayoːćʰnnaibʰü̂ːndʰìːdʰìːkɔ̀ːsrâːŋɔːyàːŋrwdrew
 # text_en = First and foremost was the provision of open space for the benefit of townspeople and local residents within an area that was being rapidly built up.
 1	ก่อน	ก่อน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
-2	อื่น	อื่น	PRON	PRD	_	4	obl	_	SpaceAfter=No|Translit='ǜːn|LTranslit='ǜːn
+2	อื่น	อื่น	PRON	PRD	PronType=Dem	4	obl	_	SpaceAfter=No|Translit='ǜːn|LTranslit='ǜːn
 3	ก็	ก็	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰüː'|LTranslit=gʰüː'
 5	การจัด	การจัด	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=kaːrčạd|LTranslit=kaːrčạd
@@ -17233,11 +17233,21 @@
 31	ใช้	ใช้	VERB	VV	_	22	advcl	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 32	ชื่อ	ชื่อ	NOUN	NN	_	31	obj	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 33	ยุค	ยุค	NOUN	NN	_	32	obl:tmod	_	SpaceAfter=No|Translit=yugʰ|LTranslit=yugʰ
-34	ที่	ที่	DET	WDT	PronType=Rel	38	obl:tmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
-35	พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์	พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์	PRON	PRP	Person=3	38	nsubj	_	Translit=bʰra'ŋgʰḇʰaːyhlạŋkaːrswrrgʰtdoːyćʰaîćʰǜː'yugʰdʰìːbʰra'ŋgʰ|LTranslit=bʰra'ŋgʰḇʰaːyhlạŋkaːrswrrgʰtdoːyćʰaîćʰǜː'yugʰdʰìːbʰra'ŋgʰ
-36	ทรง	ทรง	VERB	VV	_	38	xcomp	_	Translit=dʰrŋ|LTranslit=dʰrŋ
-37	พระชนม์	พระชนม์	NOUN	NN	_	38	obj	_	Translit=bʰraćʰnm|LTranslit=bʰraćʰnm
-38	อยู่	อยู่	VERB	AS	Aspect=Prog	33	acl:relcl	_	Translit='yùː|LTranslit='yùː
+34	ที่	ที่	DET	WDT	PronType=Rel	41	obl:tmod	_	Gloss=that,which|LTranslit=dʰìː|SpaceAfter=No|Translit=dʰìː
+35	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	41	nsubj	_	SpaceAfter=No|Gloss=he
+36	ภาย	ภาย	NOUN	NN	_	41	obl	_	SpaceAfter=No|Gloss=time
+37	หลัง	หลัง	ADP	IN	_	38	mark	_	SpaceAfter=No|Gloss=after
+38	การ	การ	VERB	VV	_	36	acl	_	SpaceAfter=No|Gloss=defecation
+39	สวรรคต	สวรรคต	VERB	VV	_	38	compound	_	SpaceAfter=No|Gloss=die
+40	โดย	โดย	ADP	IN	_	41	mark	_	SpaceAfter=No|Gloss=by
+41	ใช้	ใช้	VERB	VV	_	33	acl:relcl	_	SpaceAfter=No|Gloss=use
+42	ชื่อ	ชื่อ	NOUN	NN	_	41	obj	_	SpaceAfter=No|Gloss=name
+43	ยุค	ยุค	NOUN	NN	_	42	nmod	_	SpaceAfter=No|Gloss=era
+44	ที่	ที่	DET	WDT	_	48	obl	_	SpaceAfter=No|Gloss=that
+45	พระองค์	พระองค์	PRON	PRP	Person=3|PronType=Prs	48	nsubj	_	Gloss=he
+46	ทรง	ทรง	VERB	VV	_	48	xcomp	_	Gloss=shape|Translit=dʰrŋ|LTranslit=dʰrŋ
+47	พระชนม์	พระชนม์	NOUN	NN	_	46	obj	_	Gloss=life|Translit=bʰraćʰnm|LTranslit=bʰraćʰnm
+48	อยู่	อยู่	VERB	AS	Aspect=Prog	42	acl:relcl	_	Gloss=live|Translit='yùː|LTranslit='yùː
 
 # sent_id = w01095092
 # parallel_id = pud/w01095092
