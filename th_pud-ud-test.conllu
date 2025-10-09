@@ -19563,7 +19563,7 @@
 16	ได้	ได้	AUX	AS	Aspect=Perf	17	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 17	กล่าว	กล่าว	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=klàːw|LTranslit=klàːw
 18	ภาย	ภาย	NOUN	NN	_	17	obl	_	SpaceAfter=No|Translit=ḇʰaːy|LTranslit=ḇʰaːy
-19	หลัง	หลัง	ADJ	JJ	_	18	fixed	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+19	หลัง	หลัง	ADJ	JJ	_	18	amod	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 20	ว่า	ว่า	ADP	IN	_	21	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 21	เป็น	เป็น	VERB	VC	_	17	ccomp	_	Translit=pen|LTranslit=pen
 22	“	“	PUNCT	``	_	23	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
