@@ -7506,7 +7506,7 @@
 26	บริษัท	บริษัท	NOUN	NN	_	24	obl	_	SpaceAfter=No|Translit=brišạdʰ|LTranslit=brišạdʰ
 27	ผลิต	ผลิต	VERB	VV	_	26	acl	_	SpaceAfter=No|Translit=pʰlit|LTranslit=pʰlit
 28	รถยนต์	รถยนต์	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=rtʰynt|LTranslit=rtʰynt
-29	ดังกล่าว	ดังกล่าว	DET	DT	_	26	det	_	Translit=dạŋklàːw|LTranslit=dạŋklàːw
+29	ดังกล่าว	ดังกล่าว	DET	DT	PronType=Dem	28	det	_	Translit=dạŋklàːw|LTranslit=dạŋklàːw
 
 # sent_id = n01107010
 # parallel_id = pud/n01107010
@@ -21646,7 +21646,7 @@
 2	ประกาศ	ประกาศ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=prakaːś|LTranslit=prakaːś
 3	ระงับ	ระงับ	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=raŋạb|LTranslit=raŋạb
 4	สัญญา	สัญญา	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=sạŷŷaː|LTranslit=sạŷŷaː
-5	ดังกล่าว	ดังกล่าว	DET	DT	_	4	det	_	SpaceAfter=No|Translit=dạŋklàːw|LTranslit=dạŋklàːw
+5	ดังกล่าว	ดังกล่าว	DET	DT	PronType=Dem	4	det	_	SpaceAfter=No|Translit=dạŋklàːw|LTranslit=dạŋklàːw
 6	ใน	ใน	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 7	ช่วง	ช่วง	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=ćʰə̀wŋ|LTranslit=ćʰə̀wŋ
 8	ต้น	ต้น	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=tə̂n|LTranslit=tə̂n
@@ -23304,7 +23304,7 @@
 17	ซึ่ง	ซึ่ง	ADP	IN	_	22	mark	_	SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
 18	จาก	จาก	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 19	จำนวน	จำนวน	NOUN	NN	_	22	obl	_	SpaceAfter=No|Translit=čãːnwn|LTranslit=čãːnwn
-20	ดังกล่าว	ดังกล่าว	DET	DT	_	19	det	_	SpaceAfter=No|Translit=dạŋklàːw|LTranslit=dạŋklàːw
+20	ดังกล่าว	ดังกล่าว	DET	DT	PronType=Dem	19	det	_	SpaceAfter=No|Translit=dạŋklàːw|LTranslit=dạŋklàːw
 21	จะ	จะ	AUX	MD	_	22	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 22	ใช้	ใช้	VERB	VV	_	10	advcl	_	Translit=ćʰaî|LTranslit=ćʰaî
 23	15.5	15.5	NUM	CD	_	24	nummod	_	Translit=15.5|LTranslit=15.5
