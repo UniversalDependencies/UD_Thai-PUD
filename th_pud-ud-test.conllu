@@ -4,7 +4,7 @@
 # translit = “mæ̂ːwàːkaːrpeːlìːynpạićʰaîrabbdičitạlpensìŋdʰìːmạìgʰeːymiːmaːkɔ̀ːnnaishrạṭʰ. kaːrpeːlìːynpʰàːn'ãːnaːčɔːyàːŋsạntinậnkɔʔmạìćʰaìrüàːŋhaimə̀” gʰoːri ćʰuːlmæːn pʰûːćʰə̀wybʰiśeːškʰɔːŋ'oːbaːmaː kʰiaːnlŋblɔkmüàːwạnčạndʰr
 # text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
 1	“	“	PUNCT	``	_	26	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-2	แม้	แม้	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
+2	แม้	แม้	ADP	IN	ExtPos=SCONJ	10	mark	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 3	ว่า	ว่า	ADP	IN	_	2	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 4	การเปลี่ยน	การเปลี่ยน	VERB	VV	_	10	csubj	_	SpaceAfter=No|Translit=kaːrpeːlìːyn|LTranslit=kaːrpeːlìːyn
 5	ไป	ไป	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
@@ -324,7 +324,7 @@
 10	ประยุกต์	ประยุกต์	VERB	VV	_	6	advcl	_	SpaceAfter=No|Translit=prayukt|LTranslit=prayukt
 11	ใช้	ใช้	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=ćʰaî|LTranslit=ćʰaî
 12	จริง	จริง	ADV	RB	_	11	advmod	_	Translit=čriŋ|LTranslit=čriŋ
-13	แทน	แทน	VERB	VV	_	16	mark	_	SpaceAfter=No|Translit=dʰæːn|LTranslit=dʰæːn
+13	แทน	แทน	VERB	VV	ExtPos=SCONJ	16	mark	_	SpaceAfter=No|Translit=dʰæːn|LTranslit=dʰæːn
 14	ที่	ที่	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 15	จะ	จะ	VERB	MD	_	13	fixed	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 16	สอน	สอน	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=sɔːn|LTranslit=sɔːn
@@ -659,7 +659,7 @@
 21	เล่น	เล่น	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=lèːn|LTranslit=lèːn
 22	ของ	ของ	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 23	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	19	nmod:poss	_	Gloss=you,she|Translit=ḏʰœː|LTranslit=ḏʰœː
-24	ก่อน	ก่อน	ADP	IN	_	27	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
+24	ก่อน	ก่อน	ADP	IN	ExtPos=SCONJ	27	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
 25	ที่	ที่	ADP	IN	_	24	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 26	จะ	จะ	AUX	MD	_	27	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 27	พยายาม	พยายาม	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=bʰyaːyaːm|LTranslit=bʰyaːyaːm
@@ -682,7 +682,7 @@
 # text = ไม่ว่าอย่างไรฉันก็ต้องถูกส่งไปเข้าคุกอยู่ดี หวังว่าจะคุ้มนะ
 # translit = mạìwàː'yàːŋrạičʰạnkɔʔtɔ̂ːŋtʰuːksə̀ŋpạikʰaôːgʰukɔːyùːdiː hwạŋwàːčagʰûmna
 # text_en = "I'm going to jail either way, hope it was worth it."
-1	ไม่	ไม่	PART	NEG	_	9	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
+1	ไม่	ไม่	PART	NEG	ExtPos=SCONJ	9	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 2	ว่า	ว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 3	อย่าง	อย่าง	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 4	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
@@ -741,7 +741,7 @@
 11	โฆษก	โฆษก	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=qʰoːšk|LTranslit=qʰoːšk
 12	สหรัฐ	สหรัฐ	NOUN	NN	_	9	compound	_	Proper=True|SpaceAfter=No|Translit=shrạṭʰ|LTranslit=shrạṭʰ
 13	อเมริกา	อเมริกา	PROPN	NNP	_	9	compound	_	Translit='meːrikaː|LTranslit='meːrikaː
-14	หลัง	หลัง	ADP	IN	_	17	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+14	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	17	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 15	จาก	จาก	ADP	IN	_	14	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 16	ถูก	ถูก	AUX	MD	Voice=Pass	17	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 17	ไล่ออก	ไล่ออก	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=lạì'ɔːk|LTranslit=lạì'ɔːk
@@ -2083,7 +2083,7 @@
 5	ได้	ได้	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 6	สัญชาติ	สัญชาติ	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=sạŷćʰaːti|LTranslit=sạŷćʰaːti
 7	เซอร์เบีย	เซอร์เบีย	PROPN	NNP	_	6	compound	_	SpaceAfter=No|Translit=cœːrbiaː|LTranslit=cœːrbiaː
-8	หลัง	หลัง	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+8	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	10	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 9	จาก	จาก	ADP	IN	_	8	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 10	เสนอ	เสนอ	VERB	VV	_	5	advcl	_	SpaceAfter=No|Translit=seːnɔː|LTranslit=seːnɔː
 11	ที่	ที่	ADP	IN	_	13	mark	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -2350,7 +2350,7 @@
 # text = อย่างไรก็ตาม พวกเขาไม่พบรูปแบบเดียวกันนี้ในเนื้อเยื่ออย่างกระเพาะปัสสาวะซึ่งไม่ได้สัมผัสโดยตรง
 # translit = 'yàːŋrạikɔʔtaːm bʰwkkʰaoːmạìbʰbruːpbæːbdiaːwkạnnîːnainüâːyüàː'yàːŋkrabʰɔpạssaːwacǜŋmạìdạîsạmpʰạsdoːytrŋ
 # text_en = However, they could not find this same pattern in tissues such as the bladder, which are not directly exposed.
-1	อย่าง	อย่าง	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=SCONJ	8	mark	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -2484,7 +2484,7 @@
 12	ของ	ของ	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 13	สหรัฐ	สหรัฐ	NOUN	NN	_	8	nmod:poss	_	Proper=True|SpaceAfter=No|Translit=shrạṭʰ|LTranslit=shrạṭʰ
 14	อเมริกา	อเมริกา	PROPN	NNP	_	13	flat:name	_	Translit='meːrikaː|LTranslit='meːrikaː
-15	ไม่	ไม่	PART	NEG	_	22	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
+15	ไม่	ไม่	PART	NEG	ExtPos=SCONJ	22	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 16	ว่า	ว่า	ADP	IN	_	15	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 17	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	22	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 18	หรือ	หรือ	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=hrüː'|LTranslit=hrüː'
@@ -2498,7 +2498,7 @@
 # text = ถึงแม้จะมีการปล่อยภาพเมื่อเช้านี้ ตำรวจในบริติชโคลัมเบียก็แถลงว่ามีคำถามมากกว่าคำตอบเกี่ยวกับชายที่เห็นชัดว่าเป็นคนไร้บ้านซึ่งถูกตั้งข้อหาว่าแทงสาววัยรุ่นที่โรงเรียนมัธยมปลายแอบบอทส์ฟอร์ดจนถึงแก่ชีวิต
 # translit = tʰüŋmæ̂ːčamiːkaːrplɔ̀ːyḇʰaːbʰmüàːćʰaôːnîː tãːrwčnaibritićʰgʰoːlạmbiaːkɔʔtʰæːlŋwàːmiːgʰãːtʰaːmmaːkkwàːgʰãːtɔːbkiàːwkạbćʰaːydʰìːhenćʰạdwàːpengʰnrạîbâːncǜŋtʰuːktậŋkʰɔ̂ːhaːwàːdʰæːŋsaːwwạyrùndʰìːroːŋriaːnmạḏʰymplaːy'æːbbɔːdʰsfɔːrdčntʰüŋkæ̀ːćʰiːwit
 # text_en = Despite the release of a photo this morning, police in B.C. say they have more questions than answers about an apparently homeless man charged in the fatal stabbing of a teen girl at her Abbotsford high school.
-1	ถึง	ถึง	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
+1	ถึง	ถึง	ADP	IN	ExtPos=SCONJ	4	mark	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 2	แม้	แม้	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 3	จะ	จะ	AUX	MD	_	4	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 4	มี	มี	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
@@ -3066,7 +3066,7 @@
 17	ใน	ใน	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 18	สัปดาห์	สัปดาห์	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=sạpdaːh|LTranslit=sạpdaːh
 19	นี้	นี้	DET	DT	PronType=Dem	18	det	_	Gloss=this|Translit=nîː|LTranslit=nîː
-20	หลัง	หลัง	ADP	IN	_	22	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+20	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	22	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 21	จาก	จาก	ADP	IN	_	20	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 22	มี	มี	NOUN	NN	_	13	advcl	_	Translit=miː|LTranslit=miː
 23	“	“	PUNCT	``	_	24	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
@@ -3948,7 +3948,7 @@
 # text = ทันทีที่ภาพงานฉลองอย่างเป็นทางการถูกเผยแพร่ออกไป โซเชียลมีเดียก็มีความเห็นมากมาย และไม่ใช่ความเห็นทางบวกเสียด้วย
 # translit = dʰạndʰiːdʰìːḇʰaːbʰŋaːnčʰlɔːŋɔːyàːŋpendʰaːŋkaːrtʰuːkpʰeːybʰæːrɔ̀ː'kpại coːćʰiaːlmiːdiaːkɔʔmiːgʰwaːmhenmaːkmaːy læmạìćʰaìgʰwaːmhendʰaːŋbwksiaːdə̂wy
 # text_en = As soon as the official party photos were released, social media lit up with comments — and they were less than favourable.
-1	ทันที	ทันที	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=dʰạndʰiː|LTranslit=dʰạndʰiː
+1	ทันที	ทันที	ADV	RB	ExtPos=SCONJ	9	mark	_	SpaceAfter=No|Translit=dʰạndʰiː|LTranslit=dʰạndʰiː
 2	ที่	ที่	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 3	ภาพ	ภาพ	NOUN	NN	_	9	nsubj:pass	_	SpaceAfter=No|Translit=ḇʰaːbʰ|LTranslit=ḇʰaːbʰ
 4	งาน	งาน	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=ŋaːn|LTranslit=ŋaːn
@@ -4177,7 +4177,7 @@
 # text = หลังจากที่รัฐนอร์ธแคโรไลนาได้ผ่านร่างกฎหมายที่จำกัดสิทธิในการลงคะแนนเสียงในปี 2013 แคมป์เบลล์ก็ได้ไปตามโบสถ์เพื่อให้ความรู้ประชาชนเกี่ยวกับการแก้ปัญหาในการลงทะเบียน
 # translit = hlạŋčaːkdʰìːrạṭʰnɔːrḏʰgʰæːroːlạinaːdạîpʰàːnràːŋkḍhmaːydʰìːčãːkạdsidʰḏʰinaikaːrlŋgʰanæːnsiaːŋnaipiː 2013 gʰæːmpbeːllkɔʔdạîpạitaːmboːstʰbʰüàːhaîgʰwaːmrûːpraćʰaːćʰnkiàːwkạbkaːrkæ̂ːpạŷhaːnaikaːrlŋdʰabiaːn
 # text_en = After North Carolina passed its restrictive voting-rights bill in 2013, Campbell went around to churches teaching people how to deal with challenges to their registration.
-1	หลัง	หลัง	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+1	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	7	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	ที่	ที่	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 4	รัฐ	รัฐ	NOUN	NN	_	7	nsubj	_	Proper=True|SpaceAfter=No|Translit=rạṭʰ|LTranslit=rạṭʰ
@@ -6182,7 +6182,7 @@
 4	ไป	ไป	PART	RP	_	3	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 5	แถว	แถว	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=tʰæːw|LTranslit=tʰæːw
 6	นั้น	นั้น	DET	DT	PronType=Dem	5	det	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
-7	หลัง	หลัง	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+7	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	10	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 8	จาก	จาก	ADP	IN	_	7	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 9	ที่	ที่	ADP	IN	_	7	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 10	อาศัย	อาศัย	VERB	VV	_	2	advcl	_	SpaceAfter=No|Translit='aːśạy|LTranslit='aːśạy
@@ -6875,7 +6875,7 @@
 # text = หลังจากที่ฉันพบว่ามีแหล่งบนอินเทอร์เน็ตที่คุยกันในประเด็นนี้ รายชื่อของฉันก็ขยายตัวใหญ่โตและครอบคลุมเกือบทุกรัฐในสหภาพ
 # translit = hlạŋčaːkdʰìːčʰạnbʰbwàːmiːhæːlə̀ŋbn'indʰœːrnetdʰìːgʰuykạnnaipradennîː raːyćʰǜː'kʰɔːŋčʰạnkɔʔkʰyaːytuaːhaiŷə̀toːlægʰrɔːbgʰlumküaːbdʰukrạṭʰnaishḇʰaːbʰ
 # text_en = After I discovered a rich seam of internet discussion on the subject, my list had grown inordinately long and covered almost every state in the union.
-1	หลัง	หลัง	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+1	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	5	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	ที่	ที่	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 4	ฉัน	ฉัน	PRON	PRP	Person=1|PronType=Prs	5	nsubj	_	Gloss=I|SpaceAfter=No|Translit=čʰạn|LTranslit=čʰạn
@@ -7528,7 +7528,7 @@
 13	เป็น	เป็น	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 14	เดือน	เดือน	NOUN	NN	_	9	acl:relcl	_	SpaceAfter=No|Translit=düaːn|LTranslit=düaːn
 15	ถัดมา	ถัดมา	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=tʰạdmaː|LTranslit=tʰạdmaː
-16	หลัง	หลัง	ADP	IN	_	21	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+16	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	21	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 17	จาก	จาก	ADP	IN	_	16	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 18	ที่	ที่	ADP	IN	_	16	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 19	เรื่อง	เรื่อง	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
@@ -7996,7 +7996,7 @@
 18	ใน	ใน	ADP	IN	_	17	fixed	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 19	ปี	ปี	NOUN	NN	_	9	obl	_	Translit=piː|LTranslit=piː
 20	2050	2050	NUM	CD	_	19	appos	_	Translit=2050|LTranslit=2050
-21	เว้น	เว้น	VERB	VV	_	27	mark	_	SpaceAfter=No|Translit=wêːn|LTranslit=wêːn
+21	เว้น	เว้น	VERB	VV	ExtPos=SCONJ	27	mark	_	SpaceAfter=No|Translit=wêːn|LTranslit=wêːn
 22	แต่	แต่	CCONJ	CC	_	21	fixed	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 23	ว่า	ว่า	ADP	IN	_	21	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 24	สังคม	สังคม	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=sạŋgʰm|LTranslit=sạŋgʰm
@@ -8075,7 +8075,7 @@
 4	10	10	NUM	CD	_	5	nummod	_	Translit=10|LTranslit=10
 5	คน	คน	NOUN	NNB	_	2	nmod	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 6	ได้รับบาดเจ็บ	ได้รับบาดเจ็บ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dạîrạbbaːdčeb|LTranslit=dạîrạbbaːdčeb
-7	เนื่อง	เนื่อง	ADP	IN	_	12	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+7	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	12	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 8	จาก	จาก	ADP	IN	_	7	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 9	สภาพ	สภาพ	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=sḇʰaːbʰ|LTranslit=sḇʰaːbʰ
 10	อากาศ	อากาศ	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit='aːkaːś|LTranslit='aːkaːś
@@ -8308,7 +8308,7 @@
 # text = ตามที่ผู้กำกับนับเอง จนถึงปัจจุบันเขาทำหนังมาแล้ว 8 เรื่อง
 # translit = taːmdʰìːpʰûːkãːkạbnạb'eːŋ čntʰüŋpạččubạnkʰaoːdʰãːhnạŋmaːlæ̂ːw 8 rüàːŋ
 # text_en = According to the director's own count, to date he has made eight feature films.
-1	ตาม	ตาม	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
+1	ตาม	ตาม	ADP	IN	ExtPos=SCONJ	5	mark	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
 2	ที่	ที่	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 3	ผู้	ผู้	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=pʰûː|LTranslit=pʰûː
 4	กำกับ	กำกับ	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=kãːkạb|LTranslit=kãːkạb
@@ -8871,7 +8871,7 @@
 12	กับ	กับ	CCONJ	CC	_	13	cc	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 13	ไฟล์	ไฟล์	NOUN	NN	_	11	conj	_	SpaceAfter=No|Translit=fạil|LTranslit=fạil
 14	แนบ	แนบ	VERB	VV	_	13	acl	_	SpaceAfter=No|Translit=næːb|LTranslit=næːb
-15	ทั้ง	ทั้ง	ADP	IN	_	18	mark	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
+15	ทั้ง	ทั้ง	ADP	IN	ExtPos=SCONJ	18	mark	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 16	ที่	ที่	ADP	IN	_	15	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 17	ไม่	ไม่	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 18	ตั้งใจ	ตั้งใจ	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=tậŋčai|LTranslit=tậŋčai
@@ -9344,7 +9344,7 @@
 2	นี่	นี่	PRON	PRD	PronType=Dem	4	nsubj	_	Gloss=this|SpaceAfter=No|Translit=nìː|LTranslit=nìː
 3	แค่	แค่	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=gʰæ̀ː|LTranslit=gʰæ̀ː
 4	มา	มา	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=maː|LTranslit=maː
-5	หลัง	หลัง	ADP	IN	_	15	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+5	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	15	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 6	จาก	จาก	ADP	IN	_	5	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 7	ที่	ที่	ADP	IN	_	5	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 8	สํานัก	สํานัก	NOUN	NN	_	15	nsubj	_	Proper=True|SpaceAfter=No|Translit=sํaːnạk|LTranslit=sํaːnạk
@@ -9430,7 +9430,7 @@
 # text = ตามที่หนังบอกไว้ชัดเจน คู่สามีภรรยาเลิฟวิง โดยเฉพาะริชาร์ด เป็นผู้เข้าร่วมที่ลังเลในประวัติศาสตร์
 # translit = taːmdʰìːhnạŋbɔːkwạîćʰạdčeːn gʰùːsaːmiːḇʰrryaːleifwiŋ doːyčʰeːbʰaːarićʰaːrd penpʰûːkʰaôːrə̀wmdʰìːlạŋleːnaiprawạtiśaːstr
 # text_en = As the movie makes clear, the Lovings -- and Richard in particular -- were reluctant participants in history.
-1	ตาม	ตาม	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
+1	ตาม	ตาม	ADP	IN	ExtPos=SCONJ	4	mark	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
 2	ที่	ที่	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 3	หนัง	หนัง	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=hnạŋ|LTranslit=hnạŋ
 4	บอก	บอก	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=bɔːk|LTranslit=bɔːk
@@ -11085,7 +11085,7 @@
 16	ใน	ใน	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 17	ช่วง	ช่วง	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=ćʰə̀wŋ|LTranslit=ćʰə̀wŋ
 18	อพยพ	อพยพ	VERB	VV	_	17	acl	_	SpaceAfter=No|Translit='bʰybʰ|LTranslit='bʰybʰ
-19	ก่อน	ก่อน	ADP	IN	_	24	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
+19	ก่อน	ก่อน	ADP	IN	ExtPos=SCONJ	24	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
 20	ที่	ที่	ADP	IN	_	19	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 21	พวก	พวก	NOUN	NN	_	24	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 22	สลาฟ	สลาฟ	PROPN	NNP	_	21	compound	_	SpaceAfter=No|Translit=slaːf|LTranslit=slaːf
@@ -11242,7 +11242,7 @@
 # text = แม้ว่าไอซ์แลนด์จะอยู่ภายใต้การควบคุมทางการเมืองของเดนมาร์กจนกระทั่งผ่านไปเป็นเวลานาน (1918) อิทธิพลและคำยืมจากภาษาเดนมาร์กก็ปรากฏน้อยมากในภาษาไอซ์แลนด์
 # translit = mæ̂ːwàː'ạiclæːndča'yùːḇʰaːytaîkaːrgʰwbgʰumdʰaːŋkaːrmüaːŋkʰɔːŋdeːnmaːrkčnkradʰạ̀ŋpʰàːnpạipenweːlaːnaːn (1918) 'idʰḏʰibʰllægʰãːyüːmčaːkḇʰaːšaːdeːnmaːrkkɔʔpraːkṭnɔ̂ːymaːknaiḇʰaːšaː'ạiclæːnd
 # text_en = Although Iceland was under the political control of Denmark until a much later date (1918), very little influence and borrowing from Danish has occurred in the Icelandic language.
-1	แม้	แม้	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
+1	แม้	แม้	ADP	IN	ExtPos=SCONJ	5	mark	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 2	ว่า	ว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 3	ไอซ์แลนด์	ไอซ์แลนด์	PROPN	NNP	_	5	nsubj	_	SpaceAfter=No|Translit='ạiclæːnd|LTranslit='ạiclæːnd
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -11255,7 +11255,7 @@
 11	เมือง	เมือง	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
 12	ของ	ของ	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 13	เดนมาร์ก	เดนมาร์ก	PROPN	NNP	_	8	obl:poss	_	SpaceAfter=No|Translit=deːnmaːrk|LTranslit=deːnmaːrk
-14	จน	จน	ADP	IN	_	16	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
+14	จน	จน	ADP	IN	ExtPos=SCONJ	16	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 15	กระทั่ง	กระทั่ง	ADP	IN	_	14	fixed	_	SpaceAfter=No|Translit=kradʰạ̀ŋ|LTranslit=kradʰạ̀ŋ
 16	ผ่าน	ผ่าน	VERB	VV	_	5	advcl	_	SpaceAfter=No|Translit=pʰàːn|LTranslit=pʰàːn
 17	ไป	ไป	PART	RP	_	16	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
@@ -11955,7 +11955,7 @@
 # text = ไม่ว่ากฎจะเป็นเช่นไร การต่อสู้มักจะได้ผลออกมาเป็นความตายของหนึ่งในอาชาหนุ่ม
 # translit = mạìwàːkḍčapenćʰèːnrại kaːrtɔ̀ːsûːmạkčadạîpʰlɔː'kmaːpengʰwaːmtaːykʰɔːŋhnǜŋnai'aːćʰaːhnùm
 # text_en = Whatever the rules were, the fights often resulted in the death of one of the stallions.
-1	ไม่	ไม่	PART	NEG	_	5	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
+1	ไม่	ไม่	PART	NEG	ExtPos=SCONJ	5	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 2	ว่า	ว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 3	กฎ	กฎ	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=kḍ|LTranslit=kḍ
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -12353,7 +12353,7 @@
 13	ออก	ออก	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit='ɔːk|LTranslit='ɔːk
 14	เหลือง	เหลือง	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=heːlüː'ŋ|LTranslit=heːlüː'ŋ
 15	ไป	ไป	VERB	VV	_	13	acl	_	SpaceAfter=No|Translit=pại|LTranslit=pại
-16	จน	จน	ADP	IN	_	18	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
+16	จน	จน	ADP	IN	ExtPos=SCONJ	18	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 17	ถึง	ถึง	ADP	IN	_	16	fixed	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 18	อม	อม	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit='m|LTranslit='m
 19	น้ำเงิน	น้ำเงิน	NOUN	NN	_	18	obl	_	Translit=nã̂ːŋein|LTranslit=nã̂ːŋein
@@ -12439,7 +12439,7 @@
 # text = แม้ว่าพื้นที่จะมีเพียงร้อยละ 11 ของพื้นผิวดินในยุโรป เทือกเขาแอลป์ให้น้ำสูงถึงร้อยละ 90 แก่ที่ลุ่มยุโรป โดยเฉพาะอย่างยิ่งพื้นที่แห้งแล้งและระหว่างเดือนในฤดูร้อน
 # translit = mæ̂ːwàːbʰü̂ːndʰìːčamiːbʰiaːŋrɔ̂ːyla 11 kʰɔːŋbʰü̂ːnpʰiwdinnaiyuroːp dʰüaːkkʰaoː'æːlphaînã̂ːsuːŋtʰüŋrɔ̂ːyla 90 kæ̀ːdʰìːlùmyuroːp doːyčʰeːbʰaːa'yàːŋyìŋbʰü̂ːndʰìːhæ̂ːŋlæ̂ːŋlærahwàːŋdüaːnnaiṟduːrɔ̂ːn
 # text_en = Although the area is only about 11 percent of the surface area of Europe, the Alps provide up to 90 percent of water to lowland Europe, particularly to arid areas and during the summer months.
-1	แม้	แม้	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
+1	แม้	แม้	ADP	IN	ExtPos=SCONJ	5	mark	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 2	ว่า	ว่า	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 3	พื้นที่	พื้นที่	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=bʰü̂ːndʰìː|LTranslit=bʰü̂ːndʰìː
 4	จะ	จะ	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -12634,7 +12634,7 @@
 24	แต่	แต่	CCONJ	CC	_	25	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 25	เย็นตัว	เย็นตัว	VERB	VV	_	19	conj	_	SpaceAfter=No|Translit=yentuaː|LTranslit=yentuaː
 26	ลง	ลง	PART	RP	_	25	compound:prt	_	SpaceAfter=No|Translit=lŋ|LTranslit=lŋ
-27	ตั้ง	ตั้ง	VERB	VV	_	29	mark	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
+27	ตั้ง	ตั้ง	VERB	VV	ExtPos=SCONJ	29	mark	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
 28	แต่	แต่	ADP	IN	_	27	fixed	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 29	ยัง	ยัง	VERB	AS	Aspect=Prog	25	advcl	_	SpaceAfter=No|Translit=yạŋ|LTranslit=yạŋ
 30	อยู่	อยู่	VERB	VV	_	29	xcomp	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
@@ -13045,7 +13045,7 @@
 6	ที่	ที่	PRON	PRP	PronType=Rel	0	root	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 7	นิยม	นิยม	VERB	VV	_	6	acl	_	SpaceAfter=No|Translit=niym|LTranslit=niym
 8	นัก	นัก	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
-9	เนื่อง	เนื่อง	ADP	IN	_	13	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+9	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	13	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 10	จาก	จาก	ADP	IN	_	9	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 11	มัก	มัก	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=mạk|LTranslit=mạk
 12	เป็น	เป็น	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
@@ -13358,7 +13358,7 @@
 # text = อย่างไรก็ตาม ในประเทศไทยการกลายเป็นเมืองก็ทำให้ปัญหาเพิ่มขึ้นอย่างมากด้วย เช่น ภาวะอ้วน
 # translit = 'yàːŋrạikɔʔtaːm naipradʰeːśdʰạiykaːrklaːypenmüaːŋkɔʔdʰãːhaîpạŷhaːbʰeìmkʰü̂nɔːyàːŋmaːkdə̂wy ćʰèːn ḇʰaːwa'ə̂wn
 # text_en = However, in Thailand, urbanization has also resulted in massive increases in problems such as obesity.
-1	อย่าง	อย่าง	ADP	IN	_	12	mark	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
+1	อย่าง	อย่าง	ADP	IN	ExtPos=SCONJ	12	mark	_	SpaceAfter=No|Translit='yàːŋ|LTranslit='yàːŋ
 2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rại|LTranslit=rại
 3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=taːm|LTranslit=taːm
@@ -14082,7 +14082,7 @@
 15	ราชวงศ์	ราชวงศ์	NOUN	NN	_	14	compound	_	Proper=True|SpaceAfter=No|Translit=raːćʰwŋś|LTranslit=raːćʰwŋś
 16	ชิง	ชิง	PROPN	NNP	_	14	compound	_	Translit=ćʰiŋ|LTranslit=ćʰiŋ
 17	และ	และ	CCONJ	CC	_	37	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-18	หลัง	หลัง	ADP	IN	_	23	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+18	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	23	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 19	จาก	จาก	ADP	IN	_	18	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 20	ที่	ที่	ADP	IN	_	18	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 21	ราชวงศ์	ราชวงศ์	NOUN	NN	_	23	nsubj	_	Proper=True|SpaceAfter=No|Translit=raːćʰwŋś|LTranslit=raːćʰwŋś
@@ -14309,7 +14309,7 @@
 # text = เนื่องจากเฮโรดอยู่ในกรุงเยรูซาเลมขณะนั้น ปีลาตุสจึงตัดสินใจส่งพระเยซูให้เฮโรดพิพากษา
 # translit = nüàːŋčaːkḥeːroːdɔːyùːnaikruŋyeːruːcaːleːmkʰṇanận piːlaːtusčüŋtạdsinčaisə̀ŋbʰrayeːcuːhaîḥeːroːdbʰibʰaːkšaː
 # text_en = Given that Herod was in Jerusalem at that time, Pilate decided to send Jesus to Herod to be tried.
-1	เนื่อง	เนื่อง	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+1	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	4	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	เฮโรด	เฮโรด	PROPN	NNP	_	4	nsubj	_	SpaceAfter=No|Translit=ḥeːroːd|LTranslit=ḥeːroːd
 4	อยู่	อยู่	VERB	VV	_	12	advcl	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
@@ -15146,7 +15146,7 @@
 10	ตาราง	ตาราง	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=taːraːŋ|LTranslit=taːraːŋ
 11	ของ	ของ	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 12	สัปดาห์	สัปดาห์	NOUN	NN	_	10	nmod:poss	_	Translit=sạpdaːh|LTranslit=sạpdaːh
-13	ตาม	ตาม	ADV	RB	_	18	mark	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
+13	ตาม	ตาม	ADV	RB	ExtPos=SCONJ	18	mark	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
 14	ด้วย	ด้วย	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
 15	ด้าน	ด้าน	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=dâːn|LTranslit=dâːn
 16	ล่าง	ล่าง	ADJ	JJ	_	15	amod	_	SpaceAfter=No|Translit=làːŋ|LTranslit=làːŋ
@@ -15405,7 +15405,7 @@
 18	ยับยั้ง	ยับยั้ง	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=yạbyậŋ|LTranslit=yạbyậŋ
 19	การลง	การลง	VERB	VV	_	18	obj	_	SpaceAfter=No|Translit=kaːrlŋ|LTranslit=kaːrlŋ
 20	ทัณฑ์	ทัณฑ์	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=dʰạṇḍʰ|LTranslit=dʰạṇḍʰ
-21	จน	จน	ADP	IN	_	27	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
+21	จน	จน	ADP	IN	ExtPos=SCONJ	27	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 22	กว่า	กว่า	ADP	IN	_	21	fixed	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 23	คน	คน	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=gʰn|LTranslit=gʰn
 24	ที่	ที่	DET	WDT	PronType=Rel	25	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -15726,7 +15726,7 @@
 10	ทะเลสาบ	ทะเลสาบ	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=dʰaleːsaːb|LTranslit=dʰaleːsaːb
 11	รัดยาร์ด	รัดยาร์ด	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=rạdyaːrd|LTranslit=rạdyaːrd
 12	มาก	มาก	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=maːk|LTranslit=maːk
-13	เสีย	เสีย	VERB	VV	_	23	mark	_	SpaceAfter=No|Translit=siaː|LTranslit=siaː
+13	เสีย	เสีย	VERB	VV	ExtPos=SCONJ	23	mark	_	SpaceAfter=No|Translit=siaː|LTranslit=siaː
 14	จน	จน	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 15	เมื่อ	เมื่อ	ADP	IN	_	19	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 16	ลูก	ลูก	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=luːk|LTranslit=luːk
@@ -15944,7 +15944,7 @@
 22	ประมาณ	ประมาณ	ADV	RB	_	23	advmod	_	Translit=pramaːṇ|LTranslit=pramaːṇ
 23	3	3	NUM	CD	_	24	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
 24	%	%	SYM	SYM	_	18	advmod	_	Translit=%|LTranslit=%
-25	ใน	ใน	ADP	IN	_	39	mark	_	SpaceAfter=No|Translit=nai|LTranslit=nai
+25	ใน	ใน	ADP	IN	ExtPos=SCONJ	39	mark	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 26	ขณะ	ขณะ	NOUN	NN	_	25	fixed	_	SpaceAfter=No|Translit=kʰṇa|LTranslit=kʰṇa
 27	ที่	ที่	DET	WDT	PronType=Rel	25	fixed	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 28	อัตรา	อัตรา	NOUN	NN	_	39	nsubj	_	SpaceAfter=No|Translit='ạtraː|LTranslit='ạtraː
@@ -16412,7 +16412,7 @@
 25	ยึดครอง	ยึดครอง	VERB	VV	_	24	xcomp	_	SpaceAfter=No|Translit=yüdgʰrɔːŋ|LTranslit=yüdgʰrɔːŋ
 26	แต่	แต่	ADV	RB	_	27	advmod	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
 27	อย่างใด	อย่างใด	ADV	WRB	_	24	advmod	_	SpaceAfter=No|Translit='yàːŋdai|LTranslit='yàːŋdai
-28	เนื่อง	เนื่อง	ADP	IN	_	31	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+28	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	31	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 29	จาก	จาก	ADP	IN	_	28	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 30	ได้	ได้	AUX	AS	Aspect=Perf	31	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 31	รับ	รับ	VERB	VV	_	24	advcl	_	SpaceAfter=No|Translit=rạb|LTranslit=rạb
@@ -16594,7 +16594,7 @@
 15	ช่วง	ช่วง	NOUN	NN	_	12	obl	_	SpaceAfter=No|Translit=ćʰə̀wŋ|LTranslit=ćʰə̀wŋ
 16	เศรษฐกิจ	เศรษฐกิจ	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=śeːršṭʰkič|LTranslit=śeːršṭʰkič
 17	เฟื่องฟู	เฟื่องฟู	ADJ	JJ	_	16	amod	_	SpaceAfter=No|Translit=füàːŋfuː|LTranslit=füàːŋfuː
-18	เนื่อง	เนื่อง	ADP	IN	_	20	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+18	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	20	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 19	จาก	จาก	ADP	IN	_	18	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 20	มี	มี	VERB	VV	_	12	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 21	การเปิด	การเปิด	VERB	VV	_	20	obj	_	SpaceAfter=No|Translit=kaːrpeid|LTranslit=kaːrpeid
@@ -16697,7 +16697,7 @@
 6	เป็น	เป็น	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 7	อิสระ	อิสระ	ADJ	JJ	_	5	xcomp	_	Translit='isra|LTranslit='isra
 8	(	(	PUNCT	(	_	12	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-9	หลัง	หลัง	ADP	IN	_	12	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+9	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	12	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 10	จาก	จาก	ADP	IN	_	9	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 11	ถูก	ถูก	AUX	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 12	ยึดครอง	ยึดครอง	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=yüdgʰrɔːŋ|LTranslit=yüdgʰrɔːŋ
@@ -16989,7 +16989,7 @@
 # text = นอกจากเป็นแหล่งอาหารโดยตรงแล้ว สัตว์บางชนิดสามารถให้หนัง ขน หนังและปุ๋ยอีกด้วย
 # translit = nɔːkčaːkpenhæːlə̀ŋ'aːhaːrdoːytrŋlæ̂ːw sạtwbaːŋćʰnidsaːmaːrtʰhaîhnạŋ kʰn hnạŋlæpǔy'iːkdə̂wy
 # text_en = Besides being a direct source of food, certain animals could provide leather, wool, hides, and fertilizer.
-1	นอก	นอก	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
+1	นอก	นอก	ADP	IN	ExtPos=SCONJ	4	mark	_	SpaceAfter=No|Translit=nɔːk|LTranslit=nɔːk
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	เป็น	เป็น	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 4	แหล่ง	แหล่ง	NOUN	NN	_	11	advcl	_	SpaceAfter=No|Translit=hæːlə̀ŋ|LTranslit=hæːlə̀ŋ
@@ -17308,7 +17308,7 @@
 22	ทรง	ทรง	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 23	พระชนม์ชีพ	พระชนม์ชีพ	NOUN	NN	_	21	obj	_	SpaceAfter=No|Translit=bʰraćʰnmćʰiːbʰ|LTranslit=bʰraćʰnmćʰiːbʰ
 24	และ	และ	CCONJ	CC	_	27	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-25	หลัง	หลัง	ADP	IN	_	27	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+25	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	27	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 26	จาก	จาก	ADP	IN	_	25	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 27	สวรรคต	สวรรคต	VERB	VV	_	22	conj	_	SpaceAfter=No|Translit=swrrgʰt|LTranslit=swrrgʰt
 28	ไป	ไป	PART	RP	_	27	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
@@ -17361,7 +17361,7 @@
 # text_en = In Europe, before the outbreak of the war, the Allies had significant advantages in both population and economics.
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 2	ยุโรป	ยุโรป	PROPN	NNP	_	7	obl	_	SpaceAfter=No|Translit=yuroːp|LTranslit=yuroːp
-3	ก่อน	ก่อน	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
+3	ก่อน	ก่อน	ADP	IN	ExtPos=SCONJ	7	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
 4	ที่	ที่	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 5	สงคราม	สงคราม	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=sŋgʰraːm|LTranslit=sŋgʰraːm
 6	จะ	จะ	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -17587,7 +17587,7 @@
 10	แรก	แรก	ADJ	JJ	_	9	amod	_	Proper=True|SpaceAfter=No|Translit=ræːk|LTranslit=ræːk
 11	กับ	กับ	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
 12	บริเตนใหญ่	บริเตนใหญ่	PROPN	NNP	_	5	obl	_	SpaceAfter=No|Translit=briteːnhaiŷə̀|LTranslit=briteːnhaiŷə̀
-13	หลัง	หลัง	ADP	IN	_	24	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+13	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	24	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 14	จาก	จาก	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 15	ที่	ที่	ADP	IN	_	13	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 16	หลิน	หลิน	PROPN	NNP	_	24	nsubj	_	SpaceAfter=No|Translit=hlin|LTranslit=hlin
@@ -17931,7 +17931,7 @@
 7	ช่วง	ช่วง	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=ćʰə̀wŋ|LTranslit=ćʰə̀wŋ
 8	สงคราม	สงคราม	NOUN	NN	_	7	compound	_	Translit=sŋgʰraːm|LTranslit=sŋgʰraːm
 9	และ	และ	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-10	ถึง	ถึง	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
+10	ถึง	ถึง	ADP	IN	ExtPos=SCONJ	14	mark	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
 11	แม้	แม้	ADP	IN	_	10	fixed	_	SpaceAfter=No|Translit=mæ̂ː|LTranslit=mæ̂ː
 12	ว่า	ว่า	ADP	IN	_	10	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 13	จะ	จะ	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -17956,7 +17956,7 @@
 32	ช้า	ช้า	ADV	RB	_	31	advmod	_	SpaceAfter=No|Translit=ćʰâː|LTranslit=ćʰâː
 33	เกิน	เกิน	ADV	RB	_	32	advmod	_	SpaceAfter=No|Translit=kein|LTranslit=kein
 34	ไป	ไป	ADV	RB	_	33	advmod	_	SpaceAfter=No|Translit=pại|LTranslit=pại
-35	กว่า	กว่า	ADP	IN	_	38	mark	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
+35	กว่า	กว่า	ADP	IN	ExtPos=SCONJ	38	mark	_	SpaceAfter=No|Translit=kwàː|LTranslit=kwàː
 36	ที่	ที่	ADP	IN	_	35	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 37	จะ	จะ	AUX	MD	_	38	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 38	ทำให้	ทำให้	VERB	VV	_	31	advcl	_	SpaceAfter=No|Translit=dʰãːhaî|LTranslit=dʰãːhaî
@@ -18182,7 +18182,7 @@
 9	อากาศ	อากาศ	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit='aːkaːś|LTranslit='aːkaːś
 10	เย็น	เย็น	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit=yen|LTranslit=yen
 11	ลง	ลง	ADV	RB	_	10	advmod	_	Translit=lŋ|LTranslit=lŋ
-12	ไม่	ไม่	PART	NEG	_	16	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
+12	ไม่	ไม่	PART	NEG	ExtPos=SCONJ	16	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 13	เช่น	เช่น	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=ćʰèːn|LTranslit=ćʰèːn
 14	นั้น	นั้น	PRON	PRD	PronType=Dem	12	fixed	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
 15	จะ	จะ	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -19040,7 +19040,7 @@
 18	มนุษยธรรม	มนุษยธรรม	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=mnušyḏʰrrm|LTranslit=mnušyḏʰrrm
 19	ของ	ของ	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 20	เธอ	เธอ	PRON	PRP	Person=3|PronType=Prs	13	obl:poss	_	Gloss=you,she|SpaceAfter=No|Translit=ḏʰœː|LTranslit=ḏʰœː
-21	จน	จน	ADP	IN	_	28	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
+21	จน	จน	ADP	IN	ExtPos=SCONJ	28	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 22	เมื่อ	เมื่อ	ADP	IN	_	21	fixed	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
 23	การปกครอง	การปกครอง	VERB	VV	_	28	nsubj	_	SpaceAfter=No|Translit=kaːrpkgʰrɔːŋ|LTranslit=kaːrpkgʰrɔːŋ
 24	แบบ	แบบ	NOUN	NN	_	23	compound	_	SpaceAfter=No|Translit=bæːb|LTranslit=bæːb
@@ -19181,7 +19181,7 @@
 # text = หลังจากถูกไล่ออก เพนิสตันรับเล่นเป็นกลินดา แม่มดฝ่ายดีในการผลิตละครเวทีของละครเพลงเรื่องเดอะวิซ
 # translit = hlạŋčaːktʰuːklạì'ɔːk bʰeːnistạnrạblèːnpenklindaː mæ̀ːmdfʰàːydiːnaikaːrpʰlitlagʰrweːdʰiːkʰɔːŋlagʰrbʰeːlŋrüàːŋdœwic
 # text_en = Following her dismissal, Peniston took playing as Glinda the Good Witch in a theatrical production of musical play The Wiz.
-1	หลัง	หลัง	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+1	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	4	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	ถูก	ถูก	AUX	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 4	ไล่	ไล่	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=lạì|LTranslit=lạì
@@ -19221,7 +19221,7 @@
 9	อีก	อีก	DET	DT	PronType=Ind	11	det	_	Gloss=more,other|SpaceAfter=No|Translit='iːk|LTranslit='iːk
 10	สอง	สอง	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
 11	ครั้ง	ครั้ง	NOUN	NNB	_	8	obl	_	Translit=gʰrậŋ|LTranslit=gʰrậŋ
-12	ก่อน	ก่อน	ADP	IN	_	17	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
+12	ก่อน	ก่อน	ADP	IN	ExtPos=SCONJ	17	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
 13	ที่	ที่	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 14	สภา	สภา	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=sḇʰaː|LTranslit=sḇʰaː
 15	สามัญชน	สามัญชน	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=saːmạŷćʰn|LTranslit=saːmạŷćʰn
@@ -19799,7 +19799,7 @@
 12	สงบ	สงบ	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=sŋb|LTranslit=sŋb
 13	”	”	PUNCT	''	_	11	punct	_	Translit=”|LTranslit=”
 14	อย่างมาก	อย่างมาก	ADJ	JJ	_	11	advmod	_	SpaceAfter=No|Translit='yàːŋmaːk|LTranslit='yàːŋmaːk
-15	เนื่อง	เนื่อง	ADP	IN	_	19	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+15	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	19	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 16	จาก	จาก	ADP	IN	_	15	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 17	พวก	พวก	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 18	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	17	compound	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
@@ -20240,7 +20240,7 @@
 5	ต่อ	ต่อ	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 6	คณะ	คณะ	NOUN	NN	_	2	obl	_	SpaceAfter=No|Translit=gʰṇa|LTranslit=gʰṇa
 7	รัฐมนตรี	รัฐมนตรี	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=rạṭʰmntriː|LTranslit=rạṭʰmntriː
-8	หลัง	หลัง	ADP	IN	_	15	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+8	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	15	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 9	จาก	จาก	ADP	IN	_	8	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 10	ที่	ที่	ADP	IN	_	8	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 11	กอง	กอง	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=kɔːŋ|LTranslit=kɔːŋ
@@ -20477,7 +20477,7 @@
 # text = หลังจากได้การยอมรับในฐานะผู้เชี่ยวชาญในสาขานี้ เธอนำทักษะเหล่านั้นกลับไปยังสถาบันเรเดียมพร้อมกับพอโลเนียมแผ่นเล็กๆด้วย
 # translit = hlạŋčaːkdạîkaːryɔːmrạbnaiṭʰaːnapʰûːćʰiàːwćʰaːŷnaisaːkʰaːnîː ḏʰœːnãːdʰạkšaheːlàːnậnklạbpạiyạŋstʰaːbạnreːdiaːmbʰrɔ̂ːmkạbbʰɔːloːniaːmpʰæ̀ːnlek.də̂wy
 # text_en = Gaining recognition as an expert in the field, she took those skills back to the Radium Institute along with a small disc of polonium.
-1	หลัง	หลัง	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+1	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	3	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	ได้	ได้	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 4	การยอมรับ	การยอมรับ	VERB	VV	_	3	obj	_	SpaceAfter=No|Translit=kaːryɔːmrạb|LTranslit=kaːryɔːmrạb
@@ -20902,7 +20902,7 @@
 5	ไว้	ไว้	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=wạî|LTranslit=wạî
 6	ชีวิต	ชีวิต	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=ćʰiːwit|LTranslit=ćʰiːwit
 7	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	6	compound	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
-8	เพื่อ	เพื่อ	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
+8	เพื่อ	เพื่อ	ADP	IN	ExtPos=SCONJ	14	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
 9	ที่	ที่	ADP	IN	_	8	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 10	ว่า	ว่า	ADP	IN	_	8	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 11	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	14	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
@@ -20989,7 +20989,7 @@
 9	ใน	ใน	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
 10	ปี	ปี	NOUN	NN	_	2	obl	_	Translit=piː|LTranslit=piː
 11	1991	1991	NUM	CD	_	10	appos	_	Translit=1991|LTranslit=1991
-12	หลัง	หลัง	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+12	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	14	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 13	จาก	จาก	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 14	ทำ	ทำ	VERB	VV	_	2	advcl	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
 15	ประกัน	ประกัน	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=prakạn|LTranslit=prakạn
@@ -21024,7 +21024,7 @@
 15	อายุ	อายุ	NOUN	NN	_	12	acl:relcl	_	Translit='aːyu|LTranslit='aːyu
 16	16	16	NUM	CD	_	17	nummod	_	Translit=16|LTranslit=16
 17	ปี	ปี	NOUN	NNB	_	15	obl	_	Translit=piː|LTranslit=piː
-18	จาก	จาก	ADP	IN	_	22	mark	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
+18	จาก	จาก	ADP	IN	ExtPos=SCONJ	22	mark	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 19	นั้น	นั้น	PRON	PRD	PronType=Dem	18	fixed	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
 20	เคชา	เคชา	PROPN	NNP	_	22	nsubj	_	SpaceAfter=No|Translit=gʰeːćʰaː|LTranslit=gʰeːćʰaː
 21	ก็	ก็	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
@@ -21274,7 +21274,7 @@
 # text = หลังจากเป็นที่ชัดเจนแล้วว่าจักรวรรดิออตโตมันต้องเสียมาซิโดเนียไปทั้งหมดพร้อมดินแดนที่อยู่ติดกับแอลเบเนีย ชาติมหาอำนาจต่างคิดได้ว่าพวกเขาต้องเปลี่ยนการตัดสินใจเสียแล้ว
 # translit = hlạŋčaːkpendʰìːćʰạdčeːnlæ̂ːwwàːčạkrwrrdi'ɔːttoːmạntɔ̂ːŋsiaːmaːcidoːniaːpạidʰậŋhmdbʰrɔ̂ːmdindæːndʰìː'yùːtidkạb'æːlbeːniaː ćʰaːtimhaː'ãːnaːčtàːŋgʰiddạîwàːbʰwkkʰaoːtɔ̂ːŋpeːlìːynkaːrtạdsinčaisiaːlæ̂ːw
 # text_en = After it became obvious that Ottoman Empire would lose all of Macedonia and its territorial connection with Albania, the Great Powers realized they had to change their decision.
-1	หลัง	หลัง	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+1	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	4	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	เป็น	เป็น	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 4	ที่	ที่	PRON	PRP	PronType=Rel	25	advcl	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
@@ -21517,7 +21517,7 @@
 # text = เนื่องจากซีรีส์ 1 ไม่ใช่ของเก่าอีกต่อไป ผู้ใช้หลายรายจึงประหยัดได้ 100 ยูโร
 # translit = nüàːŋčaːkciːriːs 1 mạìćʰaìkʰɔːŋkaòː'iːktɔ̀ːpại pʰûːćʰaîhlaːyraːyčüŋprahyạddạî 100 yuːroː
 # text_en = Because series 1 is no longer the old one, many users can save 100 euros.
-1	เนื่อง	เนื่อง	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+1	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	6	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 2	จาก	จาก	ADP	IN	_	1	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 3	ซีรีส์	ซีรีส์	NOUN	NN	_	6	nsubj	_	Translit=ciːriːs|LTranslit=ciːriːs
 4	1	1	NUM	CD	_	3	nummod	_	Translit=1|LTranslit=1
@@ -21921,7 +21921,7 @@
 # text_en = That is because each and every miracle and each specialized district occupies an entire field.
 1	นั่น	นั่น	PRON	PRD	PronType=Dem	0	root	_	Gloss=that|SpaceAfter=No|Translit=nạ̀n|LTranslit=nạ̀n
 2	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
-3	เพราะ	เพราะ	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
+3	เพราะ	เพราะ	ADP	IN	ExtPos=SCONJ	11	mark	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
 4	ว่า	ว่า	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 5	ทุก	ทุก	DET	DT	PronType=Tot	6	det	_	Gloss=each|SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
 6	ปาฏิหาริย์	ปาฏิหาริย์	NOUN	NNB	_	11	nsubj	_	SpaceAfter=No|Translit=paːṭihaːriy|LTranslit=paːṭihaːriy
@@ -23168,7 +23168,7 @@
 8	เข้า	เข้า	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=kʰaôː|LTranslit=kʰaôː
 9	ไป	ไป	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
 10	ด้วย	ด้วย	ADV	RB	_	4	advmod	_	Translit=də̂wy|LTranslit=də̂wy
-11	หลัง	หลัง	ADP	IN	_	13	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+11	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	13	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 12	จาก	จาก	ADP	IN	_	11	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 13	หัก	หัก	VERB	VV	_	1	advcl	_	SpaceAfter=No|Translit=hạk|LTranslit=hạk
 14	ออก	ออก	PART	RP	_	13	compound:prt	_	SpaceAfter=No|Translit='ɔːk|LTranslit='ɔːk
@@ -23362,7 +23362,7 @@
 20	ที่	ที่	DET	WDT	PronType=Rel	22	nsubj:pass	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 21	ถูก	ถูก	AUX	MD	Voice=Pass	22	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 22	หมายหัว	หมายหัว	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=hmaːyhuaː|LTranslit=hmaːyhuaː
-23	เนื่อง	เนื่อง	ADP	IN	_	29	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+23	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	29	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 24	จาก	จาก	ADP	IN	_	23	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 25	พ่อ	พ่อ	NOUN	NN	_	29	nsubj	_	SpaceAfter=No|Translit=bʰɔ̀ː|LTranslit=bʰɔ̀ː
 26	ของ	ของ	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
@@ -24374,7 +24374,7 @@
 21	ที่	ที่	DET	WDT	PronType=Rel	23	obj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 22	ตัวเอง	ตัวเอง	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	23	nsubj	_	Gloss=oneself|SpaceAfter=No|Translit=tuaː'eːŋ|LTranslit=tuaː'eːŋ
 23	มี	มี	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
-24	เพื่อ	เพื่อ	ADP	IN	_	27	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
+24	เพื่อ	เพื่อ	ADP	IN	ExtPos=SCONJ	27	mark	_	SpaceAfter=No|Translit=bʰüàː|LTranslit=bʰüàː
 25	ที่	ที่	ADP	IN	_	24	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 26	จะ	จะ	AUX	MD	_	27	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 27	ทำให้	ทำให้	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=dʰãːhaî|LTranslit=dʰãːhaî
@@ -24681,7 +24681,7 @@
 13	อย่างเปิดเผย	อย่างเปิดเผย	VERB	VV	_	12	advcl	_	SpaceAfter=No|Translit='yàːŋpeidpʰeːy|LTranslit='yàːŋpeidpʰeːy
 14	ต่อ	ต่อ	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=tɔ̀ː|LTranslit=tɔ̀ː
 15	สื่อ	สื่อ	NOUN	NN	_	12	obl	_	SpaceAfter=No|Translit=sǜː'|LTranslit=sǜː'
-16	หลัง	หลัง	ADP	IN	_	18	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
+16	หลัง	หลัง	ADP	IN	ExtPos=SCONJ	18	mark	_	SpaceAfter=No|Translit=hlạŋ|LTranslit=hlạŋ
 17	จาก	จาก	ADP	IN	_	16	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 18	มี	มี	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 19	คำ	คำ	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=gʰãː|LTranslit=gʰãː
@@ -26048,7 +26048,7 @@
 14	เพียง	เพียง	ADV	RB	_	16	advmod	_	Translit=bʰiaːŋ|LTranslit=bʰiaːŋ
 15	3	3	NUM	CD	_	16	nummod	_	Translit=3|LTranslit=3
 16	วัน	วัน	NOUN	NNB	_	21	obl:tmod	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
-17	ก่อน	ก่อน	ADP	IN	_	21	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
+17	ก่อน	ก่อน	ADP	IN	ExtPos=SCONJ	21	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
 18	ที่	ที่	ADP	IN	_	17	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 19	แบรนส์ฟิลด์	แบรนส์ฟิลด์	PROPN	NNP	_	21	nsubj	_	SpaceAfter=No|Translit=bæːrnsfild|LTranslit=bæːrnsfild
 20	จะ	จะ	AUX	MD	_	21	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -26059,7 +26059,7 @@
 25	และ	และ	CCONJ	CC	_	32	cc	_	Translit=læ|LTranslit=læ
 26	10	10	NUM	CD	_	27	nummod	_	Translit=10|LTranslit=10
 27	เดือน	เดือน	NOUN	NNB	_	32	obl:tmod	_	SpaceAfter=No|Translit=düaːn|LTranslit=düaːn
-28	ก่อน	ก่อน	ADP	IN	_	32	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
+28	ก่อน	ก่อน	ADP	IN	ExtPos=SCONJ	32	mark	_	SpaceAfter=No|Translit=kɔ̀ːn|LTranslit=kɔ̀ːn
 29	ที่	ที่	ADP	IN	_	28	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 30	พาลเมอร์	พาลเมอร์	PROPN	NNP	_	32	nsubj	_	SpaceAfter=No|Translit=bʰaːlmœːr|LTranslit=bʰaːlmœːr
 31	จะ	จะ	AUX	MD	_	32	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
@@ -26346,7 +26346,7 @@
 8	ไม่	ไม่	PART	NEG	Polarity=Neg	9	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 9	ได้	ได้	AUX	AS	Aspect=Perf	10	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 10	ขยาย	ขยาย	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kʰyaːy|LTranslit=kʰyaːy
-11	จน	จน	ADP	IN	_	23	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
+11	จน	จน	ADP	IN	ExtPos=SCONJ	23	mark	_	SpaceAfter=No|Translit=čn|LTranslit=čn
 12	กระทั่ง	กระทั่ง	ADP	IN	_	11	fixed	_	SpaceAfter=No|Translit=kradʰạ̀ŋ|LTranslit=kradʰạ̀ŋ
 13	เรือ	เรือ	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=rüaː|LTranslit=rüaː
 14	ใหญ่	ใหญ่	ADJ	JJ	_	13	amod	_	SpaceAfter=No|Translit=haiŷə̀|LTranslit=haiŷə̀
@@ -27203,7 +27203,7 @@
 18	เกาะ	เกาะ	NOUN	NN	_	17	obj	_	Proper=True|SpaceAfter=No|Translit=kɔ|LTranslit=kɔ
 19	อังกฤษ	อังกฤษ	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No|Translit='ạŋkṟš|LTranslit='ạŋkṟš
 20	ไป	ไป	PART	RP	_	14	compound:prt	_	Translit=pại|LTranslit=pại
-21	ทั้ง	ทั้ง	ADP	IN	_	27	mark	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
+21	ทั้ง	ทั้ง	ADP	IN	ExtPos=SCONJ	27	mark	_	SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
 22	นี้	นี้	PRON	PRD	PronType=Dem	21	fixed	_	Gloss=this|SpaceAfter=No|Translit=nîː|LTranslit=nîː
 23	เพราะ	เพราะ	ADP	IN	_	21	fixed	_	SpaceAfter=No|Translit=bʰeːraːa|LTranslit=bʰeːraːa
 24	การพัฒนา	การพัฒนา	VERB	VV	_	27	nsubj	_	SpaceAfter=No|Translit=kaːrbʰạḑʰnaː|LTranslit=kaːrbʰạḑʰnaː
@@ -27320,7 +27320,7 @@
 13	จะ	จะ	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 14	มา	มา	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=maː|LTranslit=maː
 15	ถึง	ถึง	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=tʰüŋ|LTranslit=tʰüŋ
-16	ตาม	ตาม	ADP	IN	_	22	mark	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
+16	ตาม	ตาม	ADP	IN	ExtPos=SCONJ	22	mark	_	SpaceAfter=No|Translit=taːm|LTranslit=taːm
 17	ที่	ที่	ADP	IN	_	16	fixed	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 18	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	22	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 19	และ	และ	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
@@ -27568,7 +27568,7 @@
 6	ถูก	ถูก	AUX	MD	Voice=Pass	7	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 7	กำหนด	กำหนด	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=kãːhnd|LTranslit=kãːhnd
 8	อย่างตั้งใจ	อย่างตั้งใจ	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit='yàːŋtậŋčai|LTranslit='yàːŋtậŋčai
-9	เนื่อง	เนื่อง	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+9	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	11	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 10	จาก	จาก	ADP	IN	_	9	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 11	มี	มี	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=miː|LTranslit=miː
 12	ชาว	ชาว	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
@@ -27860,7 +27860,7 @@
 12	สนับสนุน	สนับสนุน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=snạbsnun|LTranslit=snạbsnun
 13	ฝ่าย	ฝ่าย	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=fʰàːy|LTranslit=fʰàːy
 14	อังกฤษ	อังกฤษ	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit='ạŋkṟš|LTranslit='ạŋkṟš
-15	เนื่อง	เนื่อง	ADP	IN	_	21	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
+15	เนื่อง	เนื่อง	ADP	IN	ExtPos=SCONJ	21	mark	_	SpaceAfter=No|Translit=nüàːŋ|LTranslit=nüàːŋ
 16	จาก	จาก	ADP	IN	_	15	fixed	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
 17	พวก	พวก	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
 18	ชาว	ชาว	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=ćʰaːw|LTranslit=ćʰaːw
@@ -28271,7 +28271,7 @@
 35	ก็	ก็	ADV	RB	_	36	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 36	เข้าใจ	เข้าใจ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kʰaôːčai|LTranslit=kʰaôːčai
 37	ว่า	ว่า	ADP	IN	_	47	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-38	ไม่	ไม่	PART	NEG	_	41	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
+38	ไม่	ไม่	PART	NEG	ExtPos=SCONJ	41	mark	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
 39	ว่า	ว่า	ADP	IN	_	38	fixed	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
 40	จะ	จะ	AUX	MD	_	41	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 41	เลือก	เลือก	VERB	VV	_	47	advcl	_	SpaceAfter=No|Translit=lüaːk|LTranslit=lüaːk
