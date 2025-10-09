@@ -21741,7 +21741,7 @@
 10	การ	การ	NOUN	NN	_	8	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=kaːr|LTranslit=kaːr
 11	เมือง	เมือง	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
 12	และ	และ	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-13	ข้าพเจ้า	ข้าพเจ้า	PRON	PRP	Person=1	15	nsubj	_	SpaceAfter=No|Translit=kʰâːbʰčaôː|LTranslit=kʰâːbʰčaôː
+13	ข้าพเจ้า	ข้าพเจ้า	PRON	PRP	Person=1|PronType=Prs	15	nsubj	_	SpaceAfter=No|Translit=kʰâːbʰčaôː|LTranslit=kʰâːbʰčaôː
 14	ก็	ก็	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
 15	ตัดสินใจ	ตัดสินใจ	VERB	VV	_	8	conj	_	SpaceAfter=No|Translit=tạdsinčai|LTranslit=tạdsinčai
 16	ไม่	ไม่	PART	NEG	Polarity=Neg	17	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
@@ -22185,7 +22185,7 @@
 # text = ข้าพเจ้าถูกเจ้าหน้าที่ถามด้วยท่าทีที่โง่เง่าแบบไม่สามารถลอกเลียนแบบได้ว่าข้าพเจ้ารู้จักนักเขียนชื่อกุนเธอร์ เดอ บรอยน์หรือไม่ และเราเกี่ยวข้องกันทางความคิดหรือเปล่า
 # translit = kʰâːbʰčaôːtʰuːkčaôːhnâːdʰìːtʰaːmdə̂wydʰàːdʰiːdʰìːŋòːŋaòːbæːbmạìsaːmaːrtʰlɔːkliaːnbæːbdạîwàːkʰâːbʰčaôːrûːčạknạkkʰiaːnćʰǜː'kunḏʰœːr dœː brɔːynhrüː'mạì læraoːkiàːwkʰɔ̂ːŋkạndʰaːŋgʰwaːmgʰidhrüː'peːlàː
 # text_en = I was asked by the officers, in their inimitably dumb way, whether I knew the writer Günter de Bruyn and whether we are intellectual relatives.
-1	ข้าพเจ้า	ข้าพเจ้า	PRON	PRP	Person=1	4	nsubj:pass	_	SpaceAfter=No|Translit=kʰâːbʰčaôː|LTranslit=kʰâːbʰčaôː
+1	ข้าพเจ้า	ข้าพเจ้า	PRON	PRP	Person=1|PronType=Prs	4	nsubj:pass	_	SpaceAfter=No|Translit=kʰâːbʰčaôː|LTranslit=kʰâːbʰčaôː
 2	ถูก	ถูก	AUX	MD	Voice=Pass	4	aux:pass	_	SpaceAfter=No|Translit=tʰuːk|LTranslit=tʰuːk
 3	เจ้าหน้าที่	เจ้าหน้าที่	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=čaôːhnâːdʰìː|LTranslit=čaôːhnâːdʰìː
 4	ถาม	ถาม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tʰaːm|LTranslit=tʰaːm
@@ -22200,7 +22200,7 @@
 13	แบบ	แบบ	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=bæːb|LTranslit=bæːb
 14	ได้	ได้	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
 15	ว่า	ว่า	ADP	IN	_	17	mark	_	SpaceAfter=No|Translit=wàː|LTranslit=wàː
-16	ข้าพเจ้า	ข้าพเจ้า	PRON	PRP	Person=1	17	nsubj	_	SpaceAfter=No|Translit=kʰâːbʰčaôː|LTranslit=kʰâːbʰčaôː
+16	ข้าพเจ้า	ข้าพเจ้า	PRON	PRP	Person=1|PronType=Prs	17	nsubj	_	SpaceAfter=No|Translit=kʰâːbʰčaôː|LTranslit=kʰâːbʰčaôː
 17	รู้จัก	รู้จัก	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=rûːčạk|LTranslit=rûːčạk
 18	นัก	นัก	NOUN	NN	_	17	obj	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
 19	เขียน	เขียน	VERB	VV	_	18	acl	_	SpaceAfter=No|Translit=kʰiaːn|LTranslit=kʰiaːn
@@ -25413,7 +25413,7 @@
 # text = ข้าพเจ้าขอประกาศปิดการแข่งขันกีฬาโอลิมปิกนานาชาติครั้งที่ 1
 # translit = kʰâːbʰčaôːkʰɔːprakaːśpidkaːrkʰæ̀ːŋkʰạnkiːḷaː'oːlimpiknaːnaːćʰaːtigʰrậŋdʰìː 1
 # text_en = I declare the first international Olympic games over.
-1	ข้าพเจ้า	ข้าพเจ้า	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=kʰâːbʰčaôː|LTranslit=kʰâːbʰčaôː
+1	ข้าพเจ้า	ข้าพเจ้า	PRON	PRP	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No|Translit=kʰâːbʰčaôː|LTranslit=kʰâːbʰčaôː
 2	ขอ	ขอ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kʰɔː|LTranslit=kʰɔː
 3	ประกาศ	ประกาศ	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=prakaːś|LTranslit=prakaːś
 4	ปิด	ปิด	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=pid|LTranslit=pid
