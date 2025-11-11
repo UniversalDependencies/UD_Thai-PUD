@@ -1,13 +1,17 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Thai-PUD:
-commit 5155f83dcd690ccddf85599bd8ee3227ed0ca07b
-Merge: 7dbf411 fd3b55f
+commit 2cdf68efa189c2889cd5309141630ab960f939e5
+Merge: 0412b52 4e0e10f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 22322 of 22322 words (nodes).
-Size: min(0, log((N/1000)**2)) = 6.21114547846705.
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'th_pud'
+Language code (from CoNLL-U file name) = 'th'
+Found the following data files: th_pud-ud-test.conllu
+Size: counted 22330 of 22330 words (nodes).
+Size: min(0, log((N/1000)**2)) = 6.21186213170413.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,51 +19,21 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 1162 out of 22322 total words have one or more features.
+Features: 2678 out of 22330 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi:
-               TOTAL       7335
-Udapi: found 7335 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 22322 words.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang th --max-err=10 UD_Thai-PUD/th_pud-ud-test.conllu
-[Line 6 Sent n01001011 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'แม้ ว่า' does not have the 'ExtPos' feature
-[Line 79 Sent n01002017 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'เกี่ยว กับ' does not have the 'ExtPos' feature
-[Line 163 Sent n01002042 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:ครั้ง:clf --> 3:ใหม่:amod)
-[Line 164 Sent n01002042 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:ครั้ง:clf --> 4:นี้:det)
-[Line 304 Sent n01004009 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'อย่าง เช่น' does not have the 'ExtPos' feature
-[Line 316 Sent n01004009 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'แทน ที่ จะ' does not have the 'ExtPos' feature
-[Line 373 Sent n01005023 Node 18]: [L3 Syntax leaf-clf] 'clf' not expected to have children (18:ดอลลาร์:clf --> 17:ล้าน:nummod)
-[Line 420 Sent n01005031 Node 14]: [L3 Syntax leaf-clf] 'clf' not expected to have children (14:นาที:clf --> 13:4:nummod)
-[Line 559 Sent n01009054 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'รวม ถึง' does not have the 'ExtPos' feature
-[Line 559 Sent n01009054 Node 17]: [L3 Syntax rel-upos-cc] 'cc' should not be 'VERB' word 'รวม'
-[Line 606 Sent n01011004 Node 12]: [L3 Syntax leaf-clf] 'clf' not expected to have children (12:ขวบ:clf --> 11:2:nummod)
-[Line 639 Sent n01011011 Node 24]: [L3 Warning fixed-without-extpos] Fixed expression 'ก่อน ที่' does not have the 'ExtPos' feature
-[Line 661 Sent n01011017 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'ไม่ ว่า อย่าง ไร' does not have the 'ExtPos' feature
-[Line 689 Sent n01012003 Node 5]: [L3 Syntax leaf-clf] 'clf' not expected to have children (5:คน:clf --> 6:หนึ่ง:nummod)
-[Line 697 Sent n01012003 Node 13]: [L3 Syntax leaf-clf] 'clf' not expected to have children (13:คน:clf --> 14:หนึ่ง:nummod)
-[Line 718 Sent n01013005 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'หลัง จาก' does not have the 'ExtPos' feature
-[Line 755 Sent n01014003 Node 28]: [L3 Syntax leaf-clf] 'clf' not expected to have children (28:ตำแหน่ง:clf --> 26:หลาย:det)
-[Line 756 Sent n01014003 Node 28]: [L3 Syntax leaf-clf] 'clf' not expected to have children (28:ตำแหน่ง:clf --> 27:ร้อย:nummod)
-[Line 758 Sent n01014003 Node 29]: [L3 Warning fixed-without-extpos] Fixed expression 'จน ถึง' does not have the 'ExtPos' feature
-[Line 816 Sent n01015033 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'ตั้ง แต่' does not have the 'ExtPos' feature
-...suppressing further errors regarding Syntax
-...suppressing further errors regarding Warning
-Syntax errors: 291
-Warnings: 251
-*** FAILED *** with 291 errors
-Exit code: 1
-Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
-(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
-(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
-(weight=0.256410256410256) * (score{size}=0.449577701266095) = 0.115276333657973
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.735135135135135) = 0.0565488565488566
-(TOTAL score=0.308034340533627) * (availability=1) * (validity=0.01) = 0.00308034340533627
-STARS = 0
-UD_Thai-PUD	0.00308034340533627	0
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.24) = 0.0266666666666667
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=0.4) = 0.0444444444444444
+(weight=0.37037037037037) * (score{size}=0.449629574357146) = 0.166529471984128
+(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
+(weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
+(weight=0.111111111111111) * (score{udeprels}=0.735135135135135) = 0.0816816816816817
+(TOTAL score=0.440513259693406) * (availability=1) * (validity=1) = 0.440513259693406
+STARS = 2
+UD_Thai-PUD	0.440513259693406	2
